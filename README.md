@@ -126,7 +126,6 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 # Good Websites
 
 ### News, Blogs and Feeds
- * [AppCoda](http://www.appcoda.com)
  * [BGR](http://bgr.com/ios-7/)
  * [iMore](http://www.imore.com/)
  * [Lifehacker](http://lifehacker.com/tag/ios)
@@ -141,6 +140,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * ["iOS" on Stackoverflow](http://stackoverflow.com/questions/tagged/ios)
 
 ### Tutorials and Keynotes
+ * [AppCoda](http://www.appcoda.com)
  * [Ray Wenderlich](http://www.raywenderlich.com)
  * [Tutorials Point](http://www.tutorialspoint.com/ios/)
  * [Code with Cris](http://codewithchris.com/)
