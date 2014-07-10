@@ -5,6 +5,11 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins an
 ## Frameworks
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
  * [CWCoreData](https://github.com/jayway/CWCoreData)
+ * [RestKit](http://restkit.org/)
+
+## Libraries
+ * [JSONKit](https://github.com/johnezang/JSONKit)
+ * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 
 ## Components
  * [Cocoa Controls](http://www.cocoacontrols.com)
