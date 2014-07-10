@@ -46,6 +46,15 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins an
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
 
+## Good Websites
+ * [AppCoda](http://www.appcoda.com)
+ * [Ray Wenderlich](http://www.raywenderlich.com)
+
+
+
+
+
+
 # Contributing
 
 Your contributions are always welcome!
