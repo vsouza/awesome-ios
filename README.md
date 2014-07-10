@@ -72,6 +72,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 
 ### Push
  * [Orbiter](https://github.com/mattt/Orbiter)
+ * [Parse](https://parse.com/apps/quickstart#parse_push/ios)
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc)
