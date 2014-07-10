@@ -1,36 +1,67 @@
 # Awesome iOS
 
-A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins and components.
+A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, components and much more.
 
-## Frameworks
- * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+# Libraries And Frameworks
+
+### Cache
+ * [SDURLCache](https://github.com/steipete/SDURLCache)
+
+### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData)
- * [RestKit](http://restkit.org/)
+ * [Objective-Record](https://github.com/mneorr/Objective-Record)
  * [Magical Record](https://github.com/magicalpanda/MagicalRecord)
+ * [SSDataKit](https://github.com/soffes/SSDataKit)
+ * [ios-queryable](https://github.com/martydill/ios-queryable)
+ * [ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData)
+ * [Ensembles](https://github.com/drewmccormack/ensembles)
+ * [SLRESTfulCoreData](https://github.com/OliverLetterer/SLRESTfulCoreData)
+
+### HUD
+ * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+ * [SVProgressHUD](https://github.com/samvermette/SVProgressHUD)
+ * [ProgressHUD](https://github.com/relatedcode/ProgressHUD)
+
+### Images
  * [GPU Image](https://github.com/BradLarson/GPUImage)
+ * [UIImage DSP](https://github.com/gdawg/uiimage-dsp)
+
+### JSON
+ * [JSONKit](https://github.com/johnezang/JSONKit)
+ * [TouchJSON](https://github.com/TouchCode/TouchJSON)
+ * [JSON-Framework](https://github.com/stig/json-framework)
+
+### Maps
+ * [Route-me](https://github.com/route-me/route-me)
+ * [MapBox](https://github.com/mapbox/mapbox-ios-sdk)
+
+### Networking
+ * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+ * [RestKit](http://restkit.org/)
+ * [FSNetworking](https://github.com/foursquare/FSNetworking)
+ * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request)
+ * [Overcoat](https://github.com/gonzalezreal/Overcoat)
+
+### Push
+ * [Orbiter](https://github.com/mattt/Orbiter)
+
+### Text
+ * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc)
  * [Nimbus](http://nimbuskit.info/)
 
-## Libraries
- * [JSONKit](https://github.com/johnezang/JSONKit)
- * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket)
- * [SDURLCache](https://github.com/steipete/SDURLCache)
- * [Parse](https://parse.com/apps/quickstart#parse_data/mobile/ios/native)
 
-## Components
- * [Cocoa Controls](http://www.cocoacontrols.com)
 
-## Toolchains
- * [RubyMotion](http://www.rubymotion.com/)
-
-## Dependency Manager
+# Dependency Manager
 
  * [Cocoa Pods](http://cocoapods.org/)
  * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/)
  * [Vendor Kit](http://vendorkit.com/)
  * [Gradle](http://openbakery.org/gradle.php)
 
-## Test
+# Test
+
  * [TestFlight](https://testflightapp.com/)
  * [appium](http://appium.io/)
  * [Cucumber](http://cukes.info/)
@@ -40,21 +71,60 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins an
  * [ios-driver](http://ios-driver.github.io/ios-driver/index.html)
  * [Zucchini](http://www.zucchiniframework.org/)
 
-## Twitter
+# Toolchains
+ * [RubyMotion](http://www.rubymotion.com/)
+
+# Xcode
+
+### Plugins
+ * [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)
+ * [Show in Github](https://github.com/larsxschneider/ShowInGitHub)
+ * [BBUFullIssueNavigator](https://github.com/neonichu/BBUFullIssueNavigator)
+ * [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway)
+ * [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
+ * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
+ * [XAlign](https://github.com/qfish/XAlign)
+
+### Package Manager
+ * [Alcatraz](http://alcatraz.io/)
+
+### Themes
+ * [Dracula Theme](https://github.com/zenorocha/dracula-theme)
+ * [Xcode themes list](https://github.com/hdoria/xcode-themes)
+ * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/)
+
+
+# Good Websites
+
+### News, Blogs and Feeds
+ * [AppCoda](http://www.appcoda.com)
+ * [BGR](http://bgr.com/ios-7/)
+ * [iMore](http://www.imore.com/)
+ * [Lifehacker](http://lifehacker.com/tag/ios)
+ * [iCode Blog](http://www.icodeblog.com/)
+
+### Components and Packages
+ * [Cocoa Controls](http://www.cocoacontrols.com)
+ * [Cocoa Pods](http://cocoapods.org/)
+
+### Forums and discuss lists
+ * [iPhone Dev SDK Forum](http://iphonedevsdk.com/)
+ * ["iOS" on Stackoverflow](http://stackoverflow.com/questions/tagged/ios)
+
+### Tutorials and Keynotes
+ * [Ray Wenderlich](http://www.raywenderlich.com)
+ * [Tutorials Point](http://www.tutorialspoint.com/ios/)
+ * [Code with Cris](http://codewithchris.com/)
+ * [Cocoa with Love](http://www.cocoawithlove.com/)
+ * [Cocoa is my Girlfriend](http://www.cimgf.com/)
+
+# Twitter
  * [@objcio](https://twitter.com/objcio)
  * [@CocoaPods](https://twitter.com/CocoaPods)
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
 
-## Good Websites
- * [AppCoda](http://www.appcoda.com)
- * [Ray Wenderlich](http://www.raywenderlich.com)
-
-
-
-
-
 
 # Contributing
 
-Your contributions are always welcome!
+Your contributions are always welcome! Fork and send your pull request ;)
