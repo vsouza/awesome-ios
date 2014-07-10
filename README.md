@@ -6,10 +6,15 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins an
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
  * [CWCoreData](https://github.com/jayway/CWCoreData)
  * [RestKit](http://restkit.org/)
+ * [Magical Record](https://github.com/magicalpanda/MagicalRecord)
+ * [GPU Image](https://github.com/BradLarson/GPUImage)
+ * [Nimbus](http://nimbuskit.info/)
 
 ## Libraries
  * [JSONKit](https://github.com/johnezang/JSONKit)
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+ * [Socket Rocket](https://github.com/square/SocketRocket)
+ * [SDURLCache](https://github.com/steipete/SDURLCache)
 
 ## Components
  * [Cocoa Controls](http://www.cocoacontrols.com)
