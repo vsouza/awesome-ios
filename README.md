@@ -23,6 +23,16 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins an
  * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/)
  * [Vendor Kit](http://vendorkit.com/)
  * [Gradle](http://openbakery.org/gradle.php)
+ 
+## Test
+ * [TestFlight](https://testflightapp.com/)
+ * [appium](http://appium.io/)
+ * [Cucumber](http://cukes.info/)
+ * [Kif](https://github.com/kif-framework/KIF)
+ * [Subliminal](https://github.com/inkling/Subliminal)
+ * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/Introduction/Introduction.html)
+ * [ios-driver](http://ios-driver.github.io/ios-driver/index.html)
+ * [Zucchini](http://www.zucchiniframework.org/)
 
 ## Twitter
  * [@objcio](https://twitter.com/objcio)
