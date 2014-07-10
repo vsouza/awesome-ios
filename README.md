@@ -10,7 +10,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins an
 ## Libraries
  * [JSONKit](https://github.com/johnezang/JSONKit)
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-
+ * [Parse](https://parse.com/apps/quickstart#parse_data/mobile/ios/native)
 ## Components
  * [Cocoa Controls](http://www.cocoacontrols.com)
 
