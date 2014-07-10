@@ -15,20 +15,21 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins an
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
  * [Socket Rocket](https://github.com/square/SocketRocket)
  * [SDURLCache](https://github.com/steipete/SDURLCache)
+ * [Parse](https://parse.com/apps/quickstart#parse_data/mobile/ios/native)
 
 ## Components
  * [Cocoa Controls](http://www.cocoacontrols.com)
 
 ## Toolchains
  * [RubyMotion](http://www.rubymotion.com/)
- 
+
 ## Dependency Manager
- 
+
  * [Cocoa Pods](http://cocoapods.org/)
  * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/)
  * [Vendor Kit](http://vendorkit.com/)
  * [Gradle](http://openbakery.org/gradle.php)
- 
+
 ## Test
  * [TestFlight](https://testflightapp.com/)
  * [appium](http://appium.io/)
