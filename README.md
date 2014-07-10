@@ -12,6 +12,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
      - [Maps](https://github.com/vsouza/awesome-ios/tree/master#Maps)
      - [Networking](https://github.com/vsouza/awesome-ios/tree/master#Networking)
      - [Push](https://github.com/vsouza/awesome-ios/tree/master#Push)
+     - [Passbook](https://github.com/vsouza/awesome-ios/tree/master#Passbook)
      - [Text](https://github.com/vsouza/awesome-ios/tree/master#Text)
      - [Websocket](https://github.com/vsouza/awesome-ios/tree/master#Websocket)
 
@@ -53,6 +54,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 ### Images
  * [GPU Image](https://github.com/BradLarson/GPUImage)
  * [UIImage DSP](https://github.com/gdawg/uiimage-dsp)
+ * [QR Code Scanner](http://www.appcoda.com/qr-code-ios-programming-tutorial/)
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit)
@@ -73,6 +75,9 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 ### Push
  * [Orbiter](https://github.com/mattt/Orbiter)
  * [Parse](https://parse.com/apps/quickstart#parse_push/ios)
+
+### Passbook
+ * [PassSlot](https://www.passslot.com)
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc)
