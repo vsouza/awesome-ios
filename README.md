@@ -8,7 +8,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
      - [Core Data](https://github.com/vsouza/awesome-ios/tree/master#core-data)
      - [HUD](https://github.com/vsouza/awesome-ios/tree/master#hud)
      - [Image](https://github.com/vsouza/awesome-ios/tree/master#images)
-     - [JSON](https://github.com/vsouza/awesome-ios/tree/master#JSON)
+     - [JSON](https://github.com/vsouza/awesome-ios/tree/master#json)
      - [Maps](https://github.com/vsouza/awesome-ios/tree/master#Maps)
      - [Networking](https://github.com/vsouza/awesome-ios/tree/master#Networking)
      - [Push](https://github.com/vsouza/awesome-ios/tree/master#Push)
