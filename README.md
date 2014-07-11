@@ -7,7 +7,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
      - [Cache](https://github.com/vsouza/awesome-ios/tree/master#cache)
      - [Core Data](https://github.com/vsouza/awesome-ios/tree/master#core-data)
      - [HUD](https://github.com/vsouza/awesome-ios/tree/master#hud)
-     - [Image](https://github.com/vsouza/awesome-ios/tree/master#images)
+     - [Images](https://github.com/vsouza/awesome-ios/tree/master#images)
      - [JSON](https://github.com/vsouza/awesome-ios/tree/master#json)
      - [Maps](https://github.com/vsouza/awesome-ios/tree/master#Maps)
      - [Networking](https://github.com/vsouza/awesome-ios/tree/master#networking)
@@ -23,6 +23,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
     - [Plugins](https://github.com/vsouza/awesome-ios/tree/master#plugins)
     - [Package Manager](https://github.com/vsouza/awesome-ios/tree/master#package-manager)
     - [Themes](https://github.com/vsouza/awesome-ios/tree/master#themes)
+   
 - [Good Websites](https://github.com/vsouza/awesome-ios/tree/master#good-websites)
     - [News, Blogs and Feeds](https://github.com/vsouza/awesome-ios/tree/master#news-blogs-and-feeds)
     - [Components and Packages](https://github.com/vsouza/awesome-ios/tree/master#components-and-packages)
@@ -58,6 +59,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [GPU Image](https://github.com/BradLarson/GPUImage)
  * [UIImage DSP](https://github.com/gdawg/uiimage-dsp)
  * [QR Code Scanner](http://www.appcoda.com/qr-code-ios-programming-tutorial/)
+ * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView)
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit)
