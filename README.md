@@ -33,6 +33,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 
 
 - [Twitter](https://github.com/vsouza/awesome-ios/tree/master#twitter)
+- [Other Awesome Lists](https://github.com/vsouza/awesome-ios/tree/master#other-awesome-lists)
 - [Contributing](https://github.com/vsouza/awesome-ios/tree/master#contributing)
 
 # Libraries And Frameworks
@@ -169,6 +170,9 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [@RubyMotion](https://twitter.com/RubyMotion)
 
 
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+ 
 # Contributing
 
 Your contributions are always welcome! Fork and send your pull request ;)
