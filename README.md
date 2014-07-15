@@ -66,6 +66,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [JSONKit](https://github.com/johnezang/JSONKit)
  * [TouchJSON](https://github.com/TouchCode/TouchJSON)
  * [JSON-Framework](https://github.com/stig/json-framework)
+ * [Mantle](https://github.com/Mantle/Mantle)
 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me)
@@ -103,6 +104,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 # Test
 
  * [TestFlight](https://testflightapp.com/)
+ * [Crashlytics](https://www.crashlytics.com/)
  * [appium](http://appium.io/)
  * [Cucumber](http://cukes.info/)
  * [Kif](https://github.com/kif-framework/KIF)
@@ -124,6 +126,9 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
  * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
  * [XAlign](https://github.com/qfish/XAlign)
+ * [Cocoapods Xcode Plugin](https://github.com/kattrali/cocoapods-xcode-plugin)
+ * [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode)
+ * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode)
 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/)
@@ -141,6 +146,8 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [iMore](http://www.imore.com/)
  * [Lifehacker](http://lifehacker.com/tag/ios)
  * [iCode Blog](http://www.icodeblog.com/)
+ * [NSHipster](http://nshipster.com)
+ * [Objc.io](http://www.objc.io)
 
 ### Components and Packages
  * [Cocoa Controls](http://www.cocoacontrols.com)
@@ -165,6 +172,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
+ * [@nshipster](https://twitter.com/NSHipster)
  * [@CocoaPods](https://twitter.com/CocoaPods)
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
