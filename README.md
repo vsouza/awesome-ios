@@ -23,7 +23,13 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
     - [Plugins](https://github.com/vsouza/awesome-ios/tree/master#plugins)
     - [Package Manager](https://github.com/vsouza/awesome-ios/tree/master#package-manager)
     - [Themes](https://github.com/vsouza/awesome-ios/tree/master#themes)
-    - [Swift](https://github.com/vsouza/awesome-ios/tree/master#swift)
+- [Swift](https://github.com/vsouza/awesome-ios/tree/master#swift)
+    - [Websites](https://github.com/vsouza/awesome-ios/tree/master#websites)
+    - [Videos](https://github.com/vsouza/awesome-ios/tree/master#videos)
+
+
+
+
 
 
    
@@ -141,10 +147,14 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [Xcode themes list](https://github.com/hdoria/xcode-themes)
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/)
 
-### Swift
+# Swift
+
+### Websites
 * [Apple's Swift Blog](https://developer.apple.com/swift/blog/)
 * [Awesome-swift](https://github.com/Wolg/awesome-swift)
 
+### Videos
+* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos)
 
 # Good Websites
 
