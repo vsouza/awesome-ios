@@ -23,6 +23,9 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
     - [Plugins](https://github.com/vsouza/awesome-ios/tree/master#plugins)
     - [Package Manager](https://github.com/vsouza/awesome-ios/tree/master#package-manager)
     - [Themes](https://github.com/vsouza/awesome-ios/tree/master#themes)
+    - [Swift](https://github.com/vsouza/awesome-ios/tree/master#swift)
+
+
    
 - [Good Websites](https://github.com/vsouza/awesome-ios/tree/master#good-websites)
     - [News, Blogs and Feeds](https://github.com/vsouza/awesome-ios/tree/master#news-blogs-and-feeds)
@@ -138,6 +141,10 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [Xcode themes list](https://github.com/hdoria/xcode-themes)
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/)
 
+### Swift
+* [Apple's Swift Blog](https://developer.apple.com/swift/blog/)
+* [Awesome-swift](https://github.com/Wolg/awesome-swift)
+
 
 # Good Websites
 
@@ -164,7 +171,6 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [Code with Cris](http://codewithchris.com/)
  * [Cocoa with Love](http://www.cocoawithlove.com/)
  * [Cocoa is my Girlfriend](http://www.cimgf.com/)
- 
 
 ### Prototyping
  * [FluidUI](https://www.fluidui.com)
