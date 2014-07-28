@@ -189,5 +189,4 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
-
-Your contributions are always welcome! Fork and send your pull request ;)
+[See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
