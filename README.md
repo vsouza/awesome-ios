@@ -103,49 +103,49 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 
 # Test
 
- * [TestFlight](https://testflightapp.com/)
- * [Crashlytics](https://www.crashlytics.com/)
- * [appium](http://appium.io/)
- * [Cucumber](http://cukes.info/)
- * [Kif](https://github.com/kif-framework/KIF)
- * [Subliminal](https://github.com/inkling/Subliminal)
- * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/Introduction/Introduction.html)
- * [ios-driver](http://ios-driver.github.io/ios-driver/index.html)
- * [Zucchini](http://www.zucchiniframework.org/)
+ * [TestFlight](https://testflightapp.com/) - A free mobile platform for developers, managers ans testers.
+ * [Crashlytics](https://www.crashlytics.com/) - Crash Reporting
+ * [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
+ * [Cucumber](http://cukes.info/) - Behavior driver development for iOS.
+ * [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
+ * [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
+ * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/Introduction/Introduction.html) - JavaScript library to write test scripts that exercise your app’s user interface elements while the app runs on a connected device.
+ * [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
+ * [Zucchini](http://www.zucchiniframework.org/) - A visual iOS testing framework that loves your apps.
 
 # Toolchains
- * [RubyMotion](http://www.rubymotion.com/)
+ * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
 
 # Xcode
 
 ### Plugins
- * [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap)
- * [Show in Github](https://github.com/larsxschneider/ShowInGitHub)
- * [BBUFullIssueNavigator](https://github.com/neonichu/BBUFullIssueNavigator)
- * [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway)
- * [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
- * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
- * [XAlign](https://github.com/qfish/XAlign)
- * [Cocoapods Xcode Plugin](https://github.com/kattrali/cocoapods-xcode-plugin)
- * [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode)
- * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode)
+ * [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) - SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode.
+ * [Show in Github](https://github.com/larsxschneider/ShowInGitHub) - Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
+ * [BBUFullIssueNavigator](https://github.com/neonichu/BBUFullIssueNavigator) - Xcode plugin for showing all issue content in the issue navigator.
+ * [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway) - Xcode plugin for auto-hiding the debugger once you start typing in the source code editor.
+ * [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander) - SCXcodeSwitchExpander is a small Xcode plugin that expands switch statements by inserting missing cases.
+ * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier.
+ * [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
+ * [Cocoapods Xcode Plugin](https://github.com/kattrali/cocoapods-xcode-plugin) - Dependency management helper for your CocoaPods, right in Xcode.
+ * [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) - Xcode plug-in that provides autocomplete for imageNamed: calls.
+ * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - Plugin for Xcode to make working with colors more visual.
 
 ### Package Manager
- * [Alcatraz](http://alcatraz.io/)
+ * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
 
 ### Themes
- * [Dracula Theme](https://github.com/zenorocha/dracula-theme)
- * [Xcode themes list](https://github.com/hdoria/xcode-themes)
- * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/)
+ * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode
+ * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
+ * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 
 # Swift
 
 ### Websites
-* [Apple's Swift Blog](https://developer.apple.com/swift/blog/)
-* [Awesome-swift](https://github.com/Wolg/awesome-swift)
+* [Apple's Swift Blog](https://developer.apple.com/swift/blog/) - Offical Swift blog from Apple.
+* [Awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
 
 ### Videos
-* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos)
+* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 
 # Good Websites
 
