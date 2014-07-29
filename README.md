@@ -69,7 +69,8 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [TouchJSON](https://github.com/TouchCode/TouchJSON) - A humane JSON Objective-C un-framework.
  * [JSON-Framework](https://github.com/stig/json-framework) -  This framework implements a strict JSON parser and generator in Objective-C.
  * [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch.
-
+ * [Groot](https://github.com/gonzalezreal/Groot) - Convert JSON dictionaries and arrays to and from Core Data managed objects.
+ 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
  * [MapBox](https://github.com/mapbox/mapbox-ios-sdk) - Mapbox iOS SDK, an open source alternative to MapKit.
