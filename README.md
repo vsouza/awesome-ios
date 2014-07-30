@@ -107,6 +107,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [TestFlight](https://testflightapp.com/) - A free mobile platform for developers, managers ans testers.
  * [Crashlytics](https://www.crashlytics.com/) - Crash Reporting
  * [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
+ * [robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary) - AppiumLibrary is an appium testing library for RobotFramework.
  * [Cucumber](http://cukes.info/) - Behavior driver development for iOS.
  * [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
  * [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
