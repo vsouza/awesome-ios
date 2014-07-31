@@ -104,6 +104,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
 
 # Test
 
+ * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
  * [TestFlight](https://testflightapp.com/) - A free mobile platform for developers, managers ans testers.
  * [Crashlytics](https://www.crashlytics.com/) - Crash Reporting
  * [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
