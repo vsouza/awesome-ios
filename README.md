@@ -115,7 +115,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, xcode plugins, c
  * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/Introduction/Introduction.html) - JavaScript library to write test scripts that exercise your app’s user interface elements while the app runs on a connected device.
  * [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
  * [Zucchini](http://www.zucchiniframework.org/) - A visual iOS testing framework that loves your apps.
- * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions on iOS, Android, Windows Phone, and Mac OS, collect live crash reports, get feedback from users, recruit new testers, and analyze test coverage.
+ * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
 
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
