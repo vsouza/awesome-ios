@@ -16,7 +16,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Passbook](https://github.com/vsouza/awesome-ios/tree/master#passbook)
      - [Text](https://github.com/vsouza/awesome-ios/tree/master#text)
      - [Websocket](https://github.com/vsouza/awesome-ios/tree/master#websocket)
-
 - [Dependency Manager](https://github.com/vsouza/awesome-ios/tree/master#dependency-manager)
 - [Test](https://github.com/vsouza/awesome-ios/tree/master#test)
 - [Toolchains](https://github.com/vsouza/awesome-ios/tree/master#toolchains)
@@ -27,14 +26,13 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Swift](https://github.com/vsouza/awesome-ios/tree/master#swift)
     - [Websites](https://github.com/vsouza/awesome-ios/tree/master#websites)
     - [Videos](https://github.com/vsouza/awesome-ios/tree/master#videos)
-
+- [Style Guide](http://github.com/vsouza/awesome-ios/tree/master#style-guide)
 - [Good Websites](https://github.com/vsouza/awesome-ios/tree/master#good-websites)
     - [News, Blogs and Feeds](https://github.com/vsouza/awesome-ios/tree/master#news-blogs-and-feeds)
     - [Components and Packages](https://github.com/vsouza/awesome-ios/tree/master#components-and-packages)
     - [Forums and discuss lists](https://github.com/vsouza/awesome-ios/tree/master#forums-and-discuss-lists)
     - [Tutorials and Keynotes](https://github.com/vsouza/awesome-ios/tree/master#tutorials-and-keynotes)
     - [Prototyping](https://github.com/vsouza/awesome-ios/tree/master#prototyping)
-
 - [Twitter](https://github.com/vsouza/awesome-ios/tree/master#twitter)
 - [Other Awesome Lists](https://github.com/vsouza/awesome-ios/tree/master#other-awesome-lists)
 - [Contributing](https://github.com/vsouza/awesome-ios/tree/master#contributing)
@@ -151,6 +149,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Videos
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
+
+# Style Guide
+* [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
+* [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
+
 
 # Good Websites
 
