@@ -16,6 +16,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Passbook](https://github.com/vsouza/awesome-ios/tree/master#passbook)
      - [Text](https://github.com/vsouza/awesome-ios/tree/master#text)
      - [Websocket](https://github.com/vsouza/awesome-ios/tree/master#websocket)
+
 - [Dependency Manager](https://github.com/vsouza/awesome-ios/tree/master#dependency-manager)
 - [Test](https://github.com/vsouza/awesome-ios/tree/master#test)
 - [Toolchains](https://github.com/vsouza/awesome-ios/tree/master#toolchains)
@@ -23,9 +24,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     - [Plugins](https://github.com/vsouza/awesome-ios/tree/master#plugins)
     - [Package Manager](https://github.com/vsouza/awesome-ios/tree/master#package-manager)
     - [Themes](https://github.com/vsouza/awesome-ios/tree/master#themes)
+
 - [Swift](https://github.com/vsouza/awesome-ios/tree/master#swift)
     - [Websites](https://github.com/vsouza/awesome-ios/tree/master#websites)
     - [Videos](https://github.com/vsouza/awesome-ios/tree/master#videos)
+
 - [Style Guide](http://github.com/vsouza/awesome-ios/tree/master#style-guide)
 - [Good Websites](https://github.com/vsouza/awesome-ios/tree/master#good-websites)
     - [News, Blogs and Feeds](https://github.com/vsouza/awesome-ios/tree/master#news-blogs-and-feeds)
@@ -33,6 +36,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     - [Forums and discuss lists](https://github.com/vsouza/awesome-ios/tree/master#forums-and-discuss-lists)
     - [Tutorials and Keynotes](https://github.com/vsouza/awesome-ios/tree/master#tutorials-and-keynotes)
     - [Prototyping](https://github.com/vsouza/awesome-ios/tree/master#prototyping)
+
 - [Twitter](https://github.com/vsouza/awesome-ios/tree/master#twitter)
 - [Other Awesome Lists](https://github.com/vsouza/awesome-ios/tree/master#other-awesome-lists)
 - [Contributing](https://github.com/vsouza/awesome-ios/tree/master#contributing)
