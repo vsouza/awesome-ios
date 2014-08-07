@@ -29,7 +29,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     - [Websites](https://github.com/vsouza/awesome-ios/tree/master#websites)
     - [Videos](https://github.com/vsouza/awesome-ios/tree/master#videos)
 
-- [Style Guide](http://github.com/vsouza/awesome-ios/tree/master#style-guide)
+- [Style Guides](http://github.com/vsouza/awesome-ios/tree/master#style-guides)
 - [Good Websites](https://github.com/vsouza/awesome-ios/tree/master#good-websites)
     - [News, Blogs and Feeds](https://github.com/vsouza/awesome-ios/tree/master#news-blogs-and-feeds)
     - [Components and Packages](https://github.com/vsouza/awesome-ios/tree/master#components-and-packages)
@@ -154,7 +154,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### Videos
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 
-# Style Guide
+# Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
 * [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects
