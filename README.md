@@ -157,7 +157,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 # Style Guide
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
-* [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - https://github.com/github/objective-c-style-guide
+* [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions
 
 # Good Websites
