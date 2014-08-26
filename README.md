@@ -10,6 +10,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [HUD](https://github.com/vsouza/awesome-ios/tree/master#hud)
      - [Images](https://github.com/vsouza/awesome-ios/tree/master#images)
      - [JSON](https://github.com/vsouza/awesome-ios/tree/master#json)
+     - [Logging](https://github.com/vsouza/awesome-ios/tree/master#logging)
      - [Maps](https://github.com/vsouza/awesome-ios/tree/master#Maps)
      - [Networking](https://github.com/vsouza/awesome-ios/tree/master#networking)
      - [Push](https://github.com/vsouza/awesome-ios/tree/master#push)
@@ -66,6 +67,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [UIImage DSP](https://github.com/gdawg/uiimage-dsp) - IOS UIImage processing functions using the vDSP/Accellerate framework for speed.
  * [QR Code Scanner](http://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation
  * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
+ * [SDWebImage](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON
@@ -73,7 +75,10 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [JSON-Framework](https://github.com/stig/json-framework) -  This framework implements a strict JSON parser and generator in Objective-C.
  * [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch.
  * [Groot](https://github.com/gonzalezreal/Groot) - Convert JSON dictionaries and arrays to and from Core Data managed objects.
- 
+
+### Logging
+ * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
  * [MapBox](https://github.com/mapbox/mapbox-ios-sdk) - Mapbox iOS SDK, an open source alternative to MapKit.
