@@ -103,7 +103,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
 
-
 # Dependency Manager
 
  * [Cocoa Pods](http://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
@@ -202,7 +201,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [@CocoaPods](https://twitter.com/CocoaPods)
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
-
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
