@@ -16,6 +16,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Push](https://github.com/vsouza/awesome-ios/tree/master#push)
      - [Passbook](https://github.com/vsouza/awesome-ios/tree/master#passbook)
      - [Text](https://github.com/vsouza/awesome-ios/tree/master#text)
+     - [UI](https://github.com/vsouza/awesome-ios/tree/master#UI)
      - [Websocket](https://github.com/vsouza/awesome-ios/tree/master#websocket)
 
 - [Dependency Manager](https://github.com/vsouza/awesome-ios/tree/master#dependency-manager)
