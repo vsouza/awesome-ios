@@ -30,6 +30,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Swift](https://github.com/vsouza/awesome-ios/tree/master#swift)
     - [Websites](https://github.com/vsouza/awesome-ios/tree/master#websites)
     - [Videos](https://github.com/vsouza/awesome-ios/tree/master#videos)
+    - [UI](https://github.com/vsouza/awesome-ios/tree/master#UI)
 
 - [Style Guides](http://github.com/vsouza/awesome-ios/tree/master#style-guides)
 - [Good Websites](https://github.com/vsouza/awesome-ios/tree/master#good-websites)
@@ -166,6 +167,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Videos
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
+
+### UI
+* [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. Written in Swift.
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
