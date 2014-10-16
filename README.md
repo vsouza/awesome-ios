@@ -30,7 +30,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Swift](https://github.com/vsouza/awesome-ios/tree/master#swift)
     - [Websites](https://github.com/vsouza/awesome-ios/tree/master#websites)
     - [Videos](https://github.com/vsouza/awesome-ios/tree/master#videos)
-    - [UI](https://github.com/vsouza/awesome-ios/tree/master#UI)
+    - [UI](https://github.com/vsouza/awesome-ios/tree/master#ui)
 
 - [Style Guides](http://github.com/vsouza/awesome-ios/tree/master#style-guides)
 - [Good Websites](https://github.com/vsouza/awesome-ios/tree/master#good-websites)
