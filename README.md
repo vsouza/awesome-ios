@@ -18,7 +18,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Text](https://github.com/vsouza/awesome-ios/tree/master#text)
      - [UI](https://github.com/vsouza/awesome-ios/tree/master#UI)
      - [Websocket](https://github.com/vsouza/awesome-ios/tree/master#websocket)
+     - [Code Quality](https://github.com/vsouza/awesome-ios/tree/master#code-quality)
 
+- [Project setup](https://github.com/vsouza/awesome-ios/tree/master#project-setup)
 - [Dependency Manager](https://github.com/vsouza/awesome-ios/tree/master#dependency-manager)
 - [Test](https://github.com/vsouza/awesome-ios/tree/master#test)
 - [Toolchains](https://github.com/vsouza/awesome-ios/tree/master#toolchains)
@@ -79,9 +81,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [JSON-Framework](https://github.com/stig/json-framework) -  This framework implements a strict JSON parser and generator in Objective-C.
  * [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch.
  * [Groot](https://github.com/gonzalezreal/Groot) - Convert JSON dictionaries and arrays to and from Core Data managed objects.
-
+ * [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - Data mapping and validation with minimal amount of code.
+ 
 ### Logging
  * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+ * [NSLogger](https://github.com/fpillet/NSLogger) - a high perfomance logging utility which displays traces emitted by client applications running on Mac OS X, iOS and Android.
 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
@@ -112,6 +116,17 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
+
+### Code Quality
+ * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - Set of scripts and annotations that generate extra compile time errors and warnings on bad code quality.
+ * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beatiful DSL.
+ * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
+
+# Project setup
+ * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
+ * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
+ * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
+ * [amaro](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
 
 # Dependency Manager
 
