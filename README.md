@@ -24,6 +24,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Dependency Manager](https://github.com/vsouza/awesome-ios/tree/master#dependency-manager)
 - [Test](https://github.com/vsouza/awesome-ios/tree/master#test)
 - [Toolchains](https://github.com/vsouza/awesome-ios/tree/master#toolchains)
+- [Rapid Development](https://github.com/vsouza/awesome-ios/tree/master#rapid-development)
 - [Xcode](https://github.com/vsouza/awesome-ios/tree/master#xcode)
     - [Plugins](https://github.com/vsouza/awesome-ios/tree/master#plugins)
     - [Package Manager](https://github.com/vsouza/awesome-ios/tree/master#package-manager)
@@ -152,6 +153,10 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
+
+# Rapid Development
+ * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
+ * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool
 
 # Xcode
 
