@@ -4,10 +4,10 @@ A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, c
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
 ### Content
- - [Library and Frameworks](https://github.com/vsouza/awesome-ios/tree/master#libraries-and-frameworks)
-     - [Cache](https://github.com/vsouza/awesome-ios/tree/master#cache)
-     - [Core Data](https://github.com/vsouza/awesome-ios/tree/master#core-data)
-     - [Database](https://github.com/vsouza/awesome-ios/tree/master#database)
+ - [Library and Frameworks](#libraries-and-frameworks)
+     - [Cache](#cache)
+     - [Core Data](#core-data)
+     - [Database](#database)
      - [HUD](https://github.com/vsouza/awesome-ios/tree/master#hud)
      - [Images](https://github.com/vsouza/awesome-ios/tree/master#images)
      - [JSON](https://github.com/vsouza/awesome-ios/tree/master#json)
