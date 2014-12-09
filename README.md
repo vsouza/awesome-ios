@@ -119,7 +119,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
  * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
  * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
- * [TSMessages](https://github.com/toursprung/TSMessages) - Show notification views on the top of the screen such as Success, Error, Warning, Message for iOS.
+ * [TSMessages](https://github.com/toursprung/TSMessages) - Show notification views on top of screen such as success, rrror, warning or messages for iOS.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
