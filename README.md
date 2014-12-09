@@ -232,6 +232,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
+ * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone)
 
 ### Prototyping
  * [FluidUI](https://www.fluidui.com)
