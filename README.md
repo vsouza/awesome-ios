@@ -230,6 +230,10 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Cocoa with Love](http://www.cocoawithlove.com/)
  * [Cocoa is my Girlfriend](http://www.cimgf.com/)
 
+### iOS UI Template
+ * [App Icon Template](http://appicontemplate.com/ios8)
+ * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone)
+
 ### Prototyping
  * [FluidUI](https://www.fluidui.com)
  * [Proto.io](http://proto.io)
