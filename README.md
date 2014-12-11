@@ -105,6 +105,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Push
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
+ * [PEM](https://github.com/KrauseFx/PEM) - Tired of manually creating and maintaining your push certification profiles?
 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
