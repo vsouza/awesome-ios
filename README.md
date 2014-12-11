@@ -109,6 +109,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
+ * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc) - An Objective-C implementation of Twitter's text processing library.
