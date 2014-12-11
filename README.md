@@ -142,6 +142,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Cocoa Pods](http://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
  * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
  * [Gradle](http://openbakery.org/gradle.php) - The gradle xcode plugin can be used to build iOS or Mac OS X Projects using gradle.
+ * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
 
 # Test
 
