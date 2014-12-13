@@ -258,3 +258,7 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness](https://
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vsouza/awesome-ios/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
