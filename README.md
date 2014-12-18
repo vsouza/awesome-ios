@@ -70,7 +70,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
  * [SVProgressHUD](https://github.com/samvermette/SVProgressHUD) - A clean and lightweight progress HUD for your iOS app.
- * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD is a lightweight and easy-to-use HUD for iOS 7.
+ * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD is a lightweight and easy-to-use HUD.
 
 ### Images
  * [GPU Image](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
@@ -105,9 +105,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Push
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
+ * [PEM](https://github.com/KrauseFx/PEM) - Tired of manually creating and maintaining your push certification profiles?
 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
+ * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc) - An Objective-C implementation of Twitter's text processing library.
@@ -145,6 +147,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Cocoa Pods](http://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
  * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
  * [Gradle](http://openbakery.org/gradle.php) - The gradle xcode plugin can be used to build iOS or Mac OS X Projects using gradle.
+ * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
 
 # Test
 
