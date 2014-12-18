@@ -26,6 +26,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Test](#test)
 - [Toolchains](#toolchains)
 - [Rapid Development](#rapid-development)
+- [Deployment](#deployment)
 - [Xcode](#xcode)
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
@@ -170,6 +171,10 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
  * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool
+
+# Deployment
+ * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command
+ * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices
 
 # Xcode
 
