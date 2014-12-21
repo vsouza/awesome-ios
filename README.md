@@ -116,11 +116,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc) - An Objective-C implementation of Twitter's text processing library.
  * [Nimbus](http://nimbuskit.info/) - Nimbus is a toolkit for experienced iOS software designers.
 
-### TDD / BDD
- * [Kiwi](https://github.com/kiwi-bdd/Kiwi) - A behavior-driven development library for iOS development.
- * [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa.
- * [Quick](https://github.com/Quick/Quick) - A behavior-driven development framework for Swift and Objective-C.
-
 ### UI
  * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
  * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
@@ -155,11 +150,15 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Gradle](http://openbakery.org/gradle.php) - The gradle xcode plugin can be used to build iOS or Mac OS X Projects using gradle.
  * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
 
-# Test
+# Testing
 
+### TDD / BDD
+ * [Kiwi](https://github.com/kiwi-bdd/Kiwi) - A behavior-driven development library for iOS development.
+ * [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa.
+ * [Quick](https://github.com/Quick/Quick) - A behavior-driven development framework for Swift and Objective-C.
+
+### UI Testing
  * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
- * [TestFlight](https://testflightapp.com/) - A free mobile platform for developers, managers ans testers.
- * [Crashlytics](https://www.crashlytics.com/) - Crash Reporting
  * [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
  * [robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary) - AppiumLibrary is an appium testing library for RobotFramework.
  * [Cucumber](http://cukes.info/) - Behavior driver development for iOS.
@@ -168,6 +167,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/Introduction/Introduction.html) - JavaScript library to write test scripts that exercise your app’s user interface elements while the app runs on a connected device.
  * [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
  * [Zucchini](http://www.zucchiniframework.org/) - A visual iOS testing framework that loves your apps.
+
+### Beta Distribution
+ * [Crashlytics](https://www.crashlytics.com/) - A crash reporting and beta testing service.
+ * [TestFlight](https://testflightapp.com/) - A free mobile platform for developers, managers and testers.
+ * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
 
 # Toolchains
