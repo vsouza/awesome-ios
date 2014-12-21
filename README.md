@@ -3,7 +3,7 @@
 A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. 
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
-### Content
+### Contents
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Cache](#cache)
      - [Core Data](#core-data)
@@ -23,7 +23,10 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 - [Project setup](#project-setup)
 - [Dependency Manager](#dependency-manager)
-- [Test](#test)
+- [Testing](#testing)
+    - [TDD / BDD](#tdd--bdd)
+    - [UI Testing](#ui-testing)
+    - [Beta Distribution](#beta-distribution)
 - [Toolchains](#toolchains)
 - [Rapid Development](#rapid-development)
 - [Deployment](#deployment)
