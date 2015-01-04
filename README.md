@@ -241,8 +241,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Objc.io](http://www.objc.io)
  * [AsciiWWDC](http://asciiwwdc.com)
 
-### UIKit-references
+### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
+ * [UIAppearance list](https://gist.github.com/mattt/5135521)
 
 ### Components and Packages
  * [Cocoa Controls](http://www.cocoacontrols.com)
