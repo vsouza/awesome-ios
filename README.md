@@ -190,8 +190,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool
 
 # Deployment
- * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command
- * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices
+ * [fastlane](http://fastlane.tools/) fastlane lets you define and run your deployment pipelines for different environments.
+   * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command
+   * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices
 
 # Xcode
 
