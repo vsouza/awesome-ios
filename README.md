@@ -51,6 +51,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     - [Prototyping](#prototyping)
 
 - [Twitter](#twitter)
+- [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -290,6 +291,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [@CocoaPods](https://twitter.com/CocoaPods)
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
+
+# Books
+ * [iOS Programming: The Big Nerd Ranch Guide](http://www.bignerdranch.com/we-write/ios-programming.html)
+ * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
+ * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
