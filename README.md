@@ -38,7 +38,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Swift](#swift)
     - [Websites](#websites)
     - [Videos](#videos)
-    - [UI](#ui)
+    - [UI](#ui-1)
 
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
