@@ -4,6 +4,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, c
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
 ### Contents
+ - [Getting Started](#getting-started)
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Cache](#cache)
      - [Core Data](#core-data)
@@ -52,6 +53,13 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Twitter](#twitter)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+# Getting Started
+ * [Road Map iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/) - Start Developing iOS Apps Today, Apple Guide
+ * [Lifehacker](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
+ * [Codeproject](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development) - Getting Started with iPhone and iOS Development
+ * [Ray Wenderlich](http://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps
+ * [Stanford - Developing Apps to iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774?mt=10) - Stanford's iTunes U App Development Course (Audio and Video)
 
 # Libraries And Frameworks
 
