@@ -293,7 +293,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [@RubyMotion](https://twitter.com/RubyMotion)
 
 # Books
- * [iOS Programming: The Big Nerd Ranch Guide](http://www.bignerdranch.com/we-write/ios-programming.html)
+ * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](http://www.bignerdranch.com/we-write/ios-programming.html)
  * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
  * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
 
