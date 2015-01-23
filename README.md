@@ -274,6 +274,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Code with Cris](http://codewithchris.com/)
  * [Cocoa with Love](http://www.cocoawithlove.com/)
  * [Cocoa is my Girlfriend](http://www.cimgf.com/)
+ * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
