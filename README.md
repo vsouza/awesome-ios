@@ -230,7 +230,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Websites
 * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) - Offical Swift blog from Apple.
-* [Awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
+* Awesome-swift
+  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. 
+  * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
 
 ### Videos
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
