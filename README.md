@@ -300,6 +300,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+[Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
