@@ -22,6 +22,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Websocket](#websocket)
      - [Code Quality](#code-quality)
      - [Analytics](#analytics)
+     - [Payments](#payments)
 
 - [Project setup](#project-setup)
 - [Dependency Manager](#dependency-manager)
@@ -158,6 +159,10 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
  * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more
+ 
+### Payments
+ * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
+ * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
