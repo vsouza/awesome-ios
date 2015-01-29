@@ -21,6 +21,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [UI](#ui)
      - [Websocket](#websocket)
      - [Code Quality](#code-quality)
+     - [Analytics](#analytics)
 
 - [Project setup](#project-setup)
 - [Dependency Manager](#dependency-manager)
@@ -153,6 +154,10 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - Set of scripts and annotations that generate extra compile time errors and warnings on bad code quality.
  * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beatiful DSL.
  * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
+ 
+### Analytics
+ * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
+ * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
