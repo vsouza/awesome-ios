@@ -297,6 +297,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### Prototyping
  * [FluidUI](https://www.fluidui.com)
  * [Proto.io](http://proto.io)
+ * [Framer](http://framerjs.com/)
+ * [Pixate](http://www.pixate.com/)
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
