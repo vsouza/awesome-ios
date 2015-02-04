@@ -199,7 +199,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Beta Distribution
  * [Crashlytics](https://www.crashlytics.com/) - A crash reporting and beta testing service.
- * [TestFlight](https://testflightapp.com/) - A free mobile platform for developers, managers and testers.
  * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
 
