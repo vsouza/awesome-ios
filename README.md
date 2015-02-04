@@ -135,6 +135,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - Class that helps you create Walkthroughs pages
  * [ENSwiftSideMenu] (https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift.
  * [MDCSwipeToChoose] (https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
+ * [UIColor-Hex-Swift] (https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 
 
 ### WebSocket
