@@ -33,6 +33,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Toolchains](#toolchains)
 - [Rapid Development](#rapid-development)
 - [Deployment](#deployment)
+- [SDK](#sdk)
 - [Xcode](#xcode)
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
@@ -213,6 +214,12 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [fastlane](http://fastlane.tools/) fastlane lets you define and run your deployment pipelines for different environments.
    * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command
    * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices
+
+# SDK
+ * [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK
+ * [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK
+ * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
+ * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
 
 # Xcode
 
