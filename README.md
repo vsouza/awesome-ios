@@ -222,6 +222,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
  * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket
  * [Tumblr](https://github.com/tumblr/TMTumblrSDK) Library for easily integrating Tumblr data into your iOS or OS X application.
+ * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS
 
 # Xcode
 
