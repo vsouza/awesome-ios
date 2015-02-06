@@ -227,6 +227,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [OneDrive](https://github.com/liveservices/LiveSDK-for-iOS) Live SDK for iOS
  * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X 
  * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo
+ * [AWS](https://github.com/aws/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS
 
 # Xcode
 
