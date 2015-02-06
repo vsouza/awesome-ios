@@ -225,6 +225,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS
  * [Box](https://github.com/box/box-ios-sdk-v2) iOS + OS X SDK for the Box API
  * [OneDrive](https://github.com/liveservices/LiveSDK-for-iOS) Live SDK for iOS
+ * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X 
 
 # Xcode
 
