@@ -220,6 +220,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK
  * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
  * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
+ * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket
 
 # Xcode
 
