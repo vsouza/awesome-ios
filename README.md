@@ -226,6 +226,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Box](https://github.com/box/box-ios-sdk-v2) iOS + OS X SDK for the Box API
  * [OneDrive](https://github.com/liveservices/LiveSDK-for-iOS) Live SDK for iOS
  * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X 
+ * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo
 
 # Xcode
 
