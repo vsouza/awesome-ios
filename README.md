@@ -220,6 +220,15 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK
  * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
  * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
+ * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket
+ * [Tumblr](https://github.com/tumblr/TMTumblrSDK) Library for easily integrating Tumblr data into your iOS or OS X application.
+ * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS
+ * [Box](https://github.com/box/box-ios-sdk-v2) iOS + OS X SDK for the Box API
+ * [OneDrive](https://github.com/liveservices/LiveSDK-for-iOS) Live SDK for iOS
+ * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X 
+ * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo
+ * [AWS](https://github.com/aws/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS
+ * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS
 
 # Xcode
 
