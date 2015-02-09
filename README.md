@@ -18,6 +18,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Push](#push)
      - [Passbook](#passbook)
      - [Text](#text)
+     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
      - [UI](#ui)
      - [Websocket](#websocket)
      - [Code Quality](#code-quality)
@@ -134,6 +135,13 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc) - An Objective-C implementation of Twitter's text processing library.
  * [Nimbus](http://nimbuskit.info/) - Nimbus is a toolkit for experienced iOS software designers.
 
+### Walkthrough / Intro / Tutorial
+ * [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
+ * [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
+ * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
+ * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough) - A UICollectionView backed drop-in component for introduction views.
+ * [ICETutorial](https://github.com/icepat/ICETutorial) - A nice tutorial like the one introduced in the Path 3.X App.
+
 ### UI
  * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
  * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
@@ -145,7 +153,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
  * [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews
  * [TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
- * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - Class that helps you create Walkthroughs pages
  * [ENSwiftSideMenu] (https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift.
  * [MDCSwipeToChoose] (https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
  * [UIColor-Hex-Swift] (https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
