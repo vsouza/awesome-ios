@@ -245,6 +245,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [NSHipster](http://nshipster.com)
  * [Objc.io](http://www.objc.io)
  * [AsciiWWDC](http://asciiwwdc.com)
+ * [Revivalx Project](http://blog.revivalx.com/?s=swift)
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
