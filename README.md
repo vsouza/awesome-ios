@@ -169,6 +169,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
  * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more
+ * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform
+ * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together
  
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
