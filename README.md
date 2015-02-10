@@ -11,6 +11,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Database](#database)
      - [HUD](#hud)
      - [Images](#images)
+     - [EventBus](#eventbus)
      - [JSON](#json)
      - [Logging](#logging)
      - [Maps](#maps)
@@ -97,6 +98,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [QR Code Scanner](http://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation
  * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
  * [SDWebImage](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category
+
+### EventBus
+ * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8 
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON
