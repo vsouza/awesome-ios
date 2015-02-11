@@ -4,12 +4,14 @@ A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, c
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
 ### Contents
+ - [Getting Started](#getting-started)
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Cache](#cache)
      - [Core Data](#core-data)
      - [Database](#database)
      - [HUD](#hud)
      - [Images](#images)
+     - [EventBus](#eventbus)
      - [JSON](#json)
      - [Logging](#logging)
      - [Maps](#maps)
@@ -17,9 +19,12 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Push](#push)
      - [Passbook](#passbook)
      - [Text](#text)
+     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
      - [UI](#ui)
      - [Websocket](#websocket)
      - [Code Quality](#code-quality)
+     - [Analytics](#analytics)
+     - [Payments](#payments)
 
 - [Project setup](#project-setup)
 - [Dependency Manager](#dependency-manager)
@@ -30,6 +35,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Toolchains](#toolchains)
 - [Rapid Development](#rapid-development)
 - [Deployment](#deployment)
+- [SDK](#sdk)
 - [Xcode](#xcode)
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
@@ -38,7 +44,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Swift](#swift)
     - [Websites](#websites)
     - [Videos](#videos)
-    - [UI](#ui)
+    - [UI](#ui-1)
 
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
@@ -50,8 +56,17 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     - [Prototyping](#prototyping)
 
 - [Twitter](#twitter)
+- [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+# Getting Started
+ * [Road Map iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/) - Start Developing iOS Apps Today, Apple Guide
+ * [Lifehacker](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
+ * [Codeproject](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development) - Getting Started with iPhone and iOS Development
+ * [Ray Wenderlich](http://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps
+ * [Stanford - Developing Apps to iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774?mt=10) - Stanford's iTunes U App Development Course (Audio and Video)
+ * [Stanford - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford's 2015 iTunes U App Development Course.
 
 # Libraries And Frameworks
 
@@ -74,7 +89,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
- * [SVProgressHUD](https://github.com/samvermette/SVProgressHUD) - A clean and lightweight progress HUD for your iOS app.
+ * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - A clean and lightweight progress HUD for your iOS app.
  * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD is a lightweight and easy-to-use HUD.
 
 ### Images
@@ -83,6 +98,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [QR Code Scanner](http://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation
  * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
  * [SDWebImage](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category
+
+### EventBus
+ * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8 
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON
@@ -121,6 +139,13 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc) - An Objective-C implementation of Twitter's text processing library.
  * [Nimbus](http://nimbuskit.info/) - Nimbus is a toolkit for experienced iOS software designers.
 
+### Walkthrough / Intro / Tutorial
+ * [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
+ * [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
+ * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
+ * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough) - A UICollectionView backed drop-in component for introduction views.
+ * [ICETutorial](https://github.com/icepat/ICETutorial) - A nice tutorial like the one introduced in the Path 3.X App.
+
 ### UI
  * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
  * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
@@ -132,7 +157,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
  * [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews
  * [TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
- * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - Class that helps you create Walkthroughs pages
  * [ENSwiftSideMenu] (https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift.
  * [MDCSwipeToChoose] (https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
  * [UIColor-Hex-Swift] (https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
@@ -145,6 +169,16 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - Set of scripts and annotations that generate extra compile time errors and warnings on bad code quality.
  * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beatiful DSL.
  * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
+ 
+### Analytics
+ * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
+ * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more
+ * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform
+ * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together
+ 
+### Payments
+ * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
+ * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -179,7 +213,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Beta Distribution
  * [Crashlytics](https://www.crashlytics.com/) - A crash reporting and beta testing service.
- * [TestFlight](https://testflightapp.com/) - A free mobile platform for developers, managers and testers.
  * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
 
@@ -191,8 +224,24 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool
 
 # Deployment
- * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command
- * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices
+ * [fastlane](http://fastlane.tools/) fastlane lets you define and run your deployment pipelines for different environments.
+   * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command
+   * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices
+
+# SDK
+ * [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK
+ * [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK
+ * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
+ * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
+ * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket
+ * [Tumblr](https://github.com/tumblr/TMTumblrSDK) Library for easily integrating Tumblr data into your iOS or OS X application.
+ * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS
+ * [Box](https://github.com/box/box-ios-sdk-v2) iOS + OS X SDK for the Box API
+ * [OneDrive](https://github.com/liveservices/LiveSDK-for-iOS) Live SDK for iOS
+ * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X 
+ * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo
+ * [AWS](https://github.com/aws/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS
+ * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS
 
 # Xcode
 
@@ -221,13 +270,13 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Websites
 * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) - Offical Swift blog from Apple.
-* [Awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
 
 ### Videos
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 
 ### UI
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. Written in Swift.
+* [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift.
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
@@ -245,7 +294,11 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [NSHipster](http://nshipster.com)
  * [Objc.io](http://www.objc.io)
  * [AsciiWWDC](http://asciiwwdc.com)
+<<<<<<< HEAD
  * [Revivalx Project](http://blog.revivalx.com/?s=swift)
+=======
+ * [Natasha The Robot](http://natashatherobot.com)
+>>>>>>> FETCH_HEAD
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
@@ -266,6 +319,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Code with Cris](http://codewithchris.com/)
  * [Cocoa with Love](http://www.cocoawithlove.com/)
  * [Cocoa is my Girlfriend](http://www.cimgf.com/)
+ * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
@@ -276,6 +330,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### Prototyping
  * [FluidUI](https://www.fluidui.com)
  * [Proto.io](http://proto.io)
+ * [Framer](http://framerjs.com/)
+ * [Pixate](http://www.pixate.com/)
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
@@ -284,8 +340,22 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
 
+# Books
+ * [Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
+ * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf)
+ * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+ * [Using Swift with Cocoa and Objective C by Apple](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
+ * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](http://www.bignerdranch.com/we-write/ios-programming.html)
+ * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
+ * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
+
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the     
+ * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+ * [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
+ * Awesome-swift
+   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. 
+   * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
