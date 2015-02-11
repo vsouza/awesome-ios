@@ -244,6 +244,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [AWS](https://github.com/aws/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS
  * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK
+ * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API
 
 # Xcode
 
