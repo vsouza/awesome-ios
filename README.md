@@ -175,7 +175,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform
  * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together
- * [Answers by Fabric] - Answers gives you real-time insight into people’s experience in your app.
+ * [Answers by Fabric](https://get.fabric.io/answers) - Answers gives you real-time insight into people’s experience in your app.
  
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
