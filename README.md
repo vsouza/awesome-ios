@@ -16,7 +16,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
      - [Logging](#logging)
      - [Maps](#maps)
      - [Networking](#networking)
-     - [Push](#push)
+     - [Push Notifications](#push-notifications)
      - [Passbook](#passbook)
      - [Text](#text)
      - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
@@ -127,13 +127,16 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone.
  * [Overcoat](https://github.com/gonzalezreal/Overcoat) - Overcoat is a small but powerful library that makes creating REST clients simple and fun.
 
-### Push
+### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
  * [PEM](https://github.com/KrauseFx/PEM) - Tired of manually creating and maintaining your push certification profiles?
+ * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing
+  * [Urban Airship](http://urbanairship.com/products/mobile-app-engagement#push-messages) - Paid Push Notifications backend.
 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
  * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
+ * [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc) - An Objective-C implementation of Twitter's text processing library.
