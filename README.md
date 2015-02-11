@@ -178,6 +178,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
  * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
+ * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
