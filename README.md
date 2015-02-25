@@ -45,6 +45,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Swift](#swift)
     - [Websites](#websites)
     - [Videos](#videos)
+    - [Package Manager](#package-manager-1)
     - [UI](#ui-1)
 
 - [Style Guides](#style-guides)
@@ -285,6 +286,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Videos
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
+
+### Package Manager
+* [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of XCode.
 
 ### UI
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. Written in Swift.
