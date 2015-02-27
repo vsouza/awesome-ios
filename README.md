@@ -129,7 +129,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [FSNetworking](https://github.com/foursquare/FSNetworking) - Foursquare iOS networking library
  * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone.
  * [Overcoat](https://github.com/gonzalezreal/Overcoat) - Overcoat is a small but powerful library that makes creating REST clients simple and fun.
- * [MBNetworkMonitor](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkMonitor.html) - A modern replacement for Apple's `Reachability` class that uses CoreTelephony to report more information about the user's network connection. Part of the [Mockingbird Toolbox](https://github.com/emaloney/MBToolbox) open-source project.
+ * [MBNetworkMonitor](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkMonitor.h) - A modern replacement for Apple's `Reachability` class that uses CoreTelephony to report more information about the user's network connection. Documentation [here](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkMonitor.html). Part of the [Mockingbird Toolbox](https://github.com/emaloney/MBToolbox) open-source project.
+ * [MBNetworkIndicator](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkIndicator.h) - Provides a simple way to coordinate the device's network activity indicator across multiple requests. Documentation [here](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkIndicator.html). Part of the [Mockingbird Toolbox](https://github.com/emaloney/MBToolbox) open-source project.
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
