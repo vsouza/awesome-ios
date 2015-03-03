@@ -159,6 +159,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
  * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
  * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
+ * [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - A cool AlertView
  * [TSMessages](https://github.com/toursprung/TSMessages) - Show notification views on top of screen such as success, error, warning or messages for iOS.
  * [NZAlertView](https://github.com/NZN/NZAlertView) - Simple and intuitive alert view. Similar to push notification effect.
  * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
