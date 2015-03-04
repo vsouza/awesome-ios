@@ -61,6 +61,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+- [Complete Applications](#complete-applications)
 
 # Getting Started
  * [Road Map iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/) - Start Developing iOS Apps Today, Apple Guide
@@ -374,6 +375,10 @@ Other amazingly awesome lists can be found in the
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
+
+# Complete Applications
+ * [iBeaconTasks](https://github.com/TomekB/iBeaconTasks) - iBeacon TODO reminder app based on Parse
+ * [Parse-Challenge-App](https://github.com/TomekB/Parse-Challenge-App) - demo iPhone app built using Parse (likes, comments, posting images/video)
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vsouza/awesome-ios/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
