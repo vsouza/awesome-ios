@@ -302,7 +302,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [Objc.io](http://www.objc.io)
  * [AsciiWWDC](http://asciiwwdc.com)
  * [Natasha The Robot](http://natashatherobot.com)
- * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) - Offical Swift blog from Apple. :large_orange_diamond:
+ * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) :large_orange_diamond:
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
