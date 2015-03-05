@@ -29,7 +29,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
      - [Payments](#payments)
 
 - [Project setup](#project-setup)
-- [Dependency Manager](#dependency-/-package-manager)
+- [Dependency Manager](#dependency--package-manager)
 - [Testing](#testing)
     - [TDD / BDD](#tdd--bdd)
     - [UI Testing](#ui-testing)
