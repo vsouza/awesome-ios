@@ -44,12 +44,6 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
     - [Package Manager](#package-manager)
     - [Themes](#themes)
 
-- [Swift](#swift)
-    - [Websites](#websites)
-    - [Videos](#videos)
-    - [Package Manager](#package-manager-1)
-    - [UI](#ui-1)
-
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
     - [News, Blogs and Feeds](#news-blogs-and-feeds)
