@@ -3,6 +3,8 @@
 A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. 
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
+Projects in Swift language will be marked with :large_orange_diamond: feel free to add your project.
+
 ### Contents
  - [Getting Started](#getting-started)
  - [Library and Frameworks](#libraries-and-frameworks)
@@ -56,7 +58,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
     - [Prototyping](#prototyping)
-
+- [Tutorials](#tutorials)
 - [Twitter](#twitter)
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -170,7 +172,9 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift.
  * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
  * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled
-
+ * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. Written in Swift. :large_orange_diamond:
+ * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift. :large_orange_diamond:
+ 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
 
@@ -203,7 +207,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
  * [Gradle](http://openbakery.org/gradle.php) - The gradle xcode plugin can be used to build iOS or Mac OS X Projects using gradle.
  * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
-
+ * [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of XCode. :large_orange_diamond:
+  
 # Testing
 
 ### TDD / BDD
@@ -275,7 +280,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) - Xcode plug-in that provides autocomplete for imageNamed: calls.
  * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - Plugin for Xcode to make working with colors more visual.
  * [Backlight-for-XCode](https://github.com/limejelly/Backlight-for-XCode) - Highlights the current editing line in Xcode
- * [UIColor-Hex-Swift] (https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
+ * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string. :large_orange_diamond:
 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
@@ -285,26 +290,12 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 
-# Swift
-
-### Websites
-* [Apple's Swift Blog](https://developer.apple.com/swift/blog/) - Offical Swift blog from Apple.
-
-### Videos
-* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
-
-### Package Manager
-* [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of XCode.
-
-### UI
-* [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. Written in Swift.
-* [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift.
-
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
 * [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions
+* [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com. :large_orange_diamond:
 
 # Good Websites
 
@@ -317,6 +308,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Objc.io](http://www.objc.io)
  * [AsciiWWDC](http://asciiwwdc.com)
  * [Natasha The Robot](http://natashatherobot.com)
+ * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) - Offical Swift blog from Apple. :large_orange_diamond:
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
@@ -332,12 +324,13 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Tutorials and Keynotes
  * [AppCoda](http://www.appcoda.com)
- * [Ray Wenderlich](http://www.raywenderlich.com)
  * [Tutorials Point](http://www.tutorialspoint.com/ios/)
  * [Code with Cris](http://codewithchris.com/)
  * [Cocoa with Love](http://www.cocoawithlove.com/)
  * [Cocoa is my Girlfriend](http://www.cimgf.com/)
  * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
+ * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
+ * [RAYWENDERLICH](http://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
@@ -351,6 +344,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [Framer](http://framerjs.com/)
  * [Pixate](http://www.pixate.com/)
 
+ 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
  * [@nshipster](https://twitter.com/NSHipster)
@@ -379,5 +373,4 @@ Other amazingly awesome lists can be found in the
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vsouza/awesome-ios/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
