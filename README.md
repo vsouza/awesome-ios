@@ -58,6 +58,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+- [Complete Applications](#complete-applications)
 
 # Getting Started
  * [Road Map iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/) - Start Developing iOS Apps Today, Apple Guide
@@ -369,6 +370,10 @@ Other amazingly awesome lists can be found in the
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
+
+# Complete Applications
+ * [iBeaconTasks](https://github.com/TomekB/iBeaconTasks) - iBeacon TODO reminder app based on Parse
+ * [Parse-Challenge-App](https://github.com/TomekB/Parse-Challenge-App) - demo iPhone app built using Parse (likes, comments, posting images/video)
 
 
 
