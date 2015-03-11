@@ -17,6 +17,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
      - [JSON](#json)
      - [Logging](#logging)
      - [Maps](#maps)
+     - [Location](#location)
      - [Networking](#networking)
      - [Push Notifications](#push-notifications)
      - [Passbook](#passbook)
@@ -119,6 +120,9 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
  * [MapBox](https://github.com/mapbox/mapbox-ios-sdk) - Mapbox iOS SDK, an open source alternative to MapKit.
+
+### Location
+ * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
