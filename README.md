@@ -201,6 +201,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
  * [amaro](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
+ * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents 
 
 # Dependency / Package Manager
  * [Cocoa Pods](http://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
