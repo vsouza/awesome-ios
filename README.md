@@ -182,6 +182,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - Set of scripts and annotations that generate extra compile time errors and warnings on bad code quality.
  * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beatiful DSL.
  * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
+ * [Flex](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
  
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
