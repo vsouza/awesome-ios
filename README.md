@@ -148,6 +148,8 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [Twitter Text Obj](https://github.com/twitter/twitter-text-objc) - An Objective-C implementation of Twitter's text processing library.
  * [Nimbus](http://nimbuskit.info/) - Nimbus is a toolkit for experienced iOS software designers.
  * [NSStringEmojize](https://github.com/diy/nsstringemojize) - A category on NSString to convert Emoji Cheat Sheet codes to their equivalent Unicode characters.
+ * [MMMarkdown](https://github.com/mdiep/MMMarkdown) - An Objective-C static library for converting Markdown to HTML.
+ * [DTCoreText](https://github.com/Cocoanetics/DTCoreText) - Methods to allow using HTML code with CoreText
 
 ### Walkthrough / Intro / Tutorial
  * [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
@@ -174,6 +176,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled
  * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. :large_orange_diamond:
  * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift. :large_orange_diamond:
+ * [Form](https://github.com/hyperoslo/Form) - JSON driven form
  
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -182,6 +185,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - Set of scripts and annotations that generate extra compile time errors and warnings on bad code quality.
  * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beatiful DSL.
  * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
+ * [Flex](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
  
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
@@ -200,6 +204,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
  * [amaro](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
+ * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents 
 
 # Dependency / Package Manager
  * [Cocoa Pods](http://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
@@ -281,6 +286,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - Plugin for Xcode to make working with colors more visual.
  * [Backlight-for-XCode](https://github.com/limejelly/Backlight-for-XCode) - Highlights the current editing line in Xcode
  * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string. :large_orange_diamond:
+ * [KPRunEverywhereXcodePlugin](https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin) - An Xcode plugin to build and run an app across multiple iOS devices with one click.
 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
@@ -296,6 +302,8 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
 * [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com. :large_orange_diamond:
+* [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) - Guidelines for iOS development in use at Spotify
+* [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0) - 
 
 # Good Websites
 
