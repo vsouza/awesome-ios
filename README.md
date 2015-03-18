@@ -289,6 +289,11 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [Backlight-for-XCode](https://github.com/limejelly/Backlight-for-XCode) - Highlights the current editing line in Xcode
  * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string. :large_orange_diamond:
  * [KPRunEverywhereXcodePlugin](https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin) - An Xcode plugin to build and run an app across multiple iOS devices with one click.
+ * [RevealPlugin](https://github.com/shjborage/Reveal-Plugin-for-Xcode) - Plugin for Xcode to integrate the Reveal App to your project automatic
+ * [RealmPlugin](http://realm.io/docs/cocoa/0.81.0/)- Xcode plugin to generate new Realm models
+ * [AdjustFontSize](https://github.com/zats/AdjustFontSize-Xcode-Plugin) - Instant font size adjustment with `⌘ +` / `⌘ -`
+ * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString
+ * [Rephrase](https://www.rephrase.io) - Localise from Xcode
 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
