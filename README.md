@@ -294,7 +294,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [AdjustFontSize](https://github.com/zats/AdjustFontSize-Xcode-Plugin) - Instant font size adjustment with `⌘ +` / `⌘ -`
  * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode
- * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - Alfred for Xcode" plugin
+ * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin
 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
