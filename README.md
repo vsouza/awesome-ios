@@ -320,6 +320,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [Natasha The Robot](http://natashatherobot.com)
  * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) :large_orange_diamond:
  * [iOS Programming Subreddit](http://www.reddit.com/r/iosprogramming)
+ * [iOS Dev Weekly](https://iosdevweekly.com/)
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
