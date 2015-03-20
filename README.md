@@ -28,6 +28,8 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
      - [Code Quality](#code-quality)
      - [Analytics](#analytics)
      - [Payments](#payments)
+     - [Products](#products)
+
 
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
@@ -200,6 +202,9 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
  * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
  * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo
+
+### Products
+ * [Import.io](https://import.io) - Instantly Turn Web Pages into Data
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
