@@ -57,6 +57,7 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
     - [Prototyping](#prototyping)
 - [Tutorials](#tutorials)
 - [Twitter](#twitter)
+- [Facebook Groups](#facebook-groups)
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -371,6 +372,9 @@ Projects in Swift language will be marked with :large_orange_diamond: feel free 
  * [@CocoaPods](https://twitter.com/CocoaPods)
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
+ 
+# Facebook Groups
+ * [HH iOS](https://www.facebook.com/groups/hhios/)
 
 # Books
  * [Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
