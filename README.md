@@ -236,6 +236,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Kiwi](https://github.com/kiwi-bdd/Kiwi) - A behavior-driven development library for iOS development.
  * [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa.
  * [Quick](https://github.com/Quick/Quick) - A behavior-driven development framework for Swift and Objective-C.
+ * [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) - Code coverage for Xcode projects
 
 ### UI Testing
  * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
