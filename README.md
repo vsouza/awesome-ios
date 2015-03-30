@@ -295,6 +295,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 # Xcode
 
+* [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
+
 ### Plugins
  * [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) - SCXcodeMiniMap is a plugin that adds a source editor MiniMap to Xcode.
  * [Show in Github](https://github.com/larsxschneider/ShowInGitHub) - Xcode plugin to open the GitHub page of the commit of the currently selected line in the editor window.
@@ -315,8 +317,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode
  * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin
- * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
-
+ 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
 
