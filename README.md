@@ -108,6 +108,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [DFImageManager](https://github.com/kean/DFImageManager) - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
  * [MapleBacon](https://github.com/zalando/MapleBacon) - An image download and caching library for iOS written in Swift. 🔶
  * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - Slideshow and image viewer.
+ * [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser) - Photo Browser / Viewer.
  
 
 
