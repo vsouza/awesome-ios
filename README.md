@@ -30,6 +30,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Analytics](#analytics)
      - [Payments](#payments)
      - [Products](#products)
+     - [Utility](#utility)
 
 
 - [Project setup](#project-setup)
@@ -226,6 +227,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Products
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data
+
+### Utility
+  * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
