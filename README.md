@@ -299,6 +299,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API
  * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine))
+ * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C
 
 # Xcode
 
