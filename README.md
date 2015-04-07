@@ -404,7 +404,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [HH iOS](https://www.facebook.com/groups/hhios/)
 
 # Podcasts
- * [The Reywenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
+ * [The Ray Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
 
 # Books
  * [Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
