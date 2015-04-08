@@ -200,6 +200,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift 🔶
  * [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
  * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - Simple UITableView that manage keyboard events avoiding keyboard overlaps view (useful in forms).
+ * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
