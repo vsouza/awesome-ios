@@ -403,9 +403,16 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  
 # Facebook Groups
  * [HH iOS](https://www.facebook.com/groups/hhios/)
-
+ * [Sketch - Official group](https://www.facebook.com/groups/sketchformac/)
+ * [Design-Code](https://www.facebook.com/groups/designcode/)
+ * [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio)
+ * [Origami Community](https://www.facebook.com/groups/origami.community/)
+ * [Framer JS](https://www.facebook.com/groups/framerjs/)
+ 
 # Podcasts
  * [The Reywenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
+ * [Debug] (http://www.imore.com/debug)
+ * [iDeveloper] (http://ideveloper.co/)
 
 # Books
  * [Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
