@@ -30,6 +30,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Analytics](#analytics)
      - [Payments](#payments)
      - [Products](#products)
+     - [Security](#security)
 
 
 - [Project setup](#project-setup)
@@ -47,6 +48,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
     - [Themes](#themes)
+    - [Misc](#misc)
+
 
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
@@ -126,6 +129,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - Data mapping and validation with minimal amount of code.
  * [JSONModel](https://github.com/icanzilb/JSONModel) - Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
  * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
+ * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast
  
 ### Logging
  * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
@@ -134,6 +138,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
  * [MapBox](https://github.com/mapbox/mapbox-ios-sdk) - Mapbox iOS SDK, an open source alternative to MapKit.
+ * [NAMapKit](https://github.com/neilang/NAMapKit) - Allows you to use custom maps in iphone applications and attempts to mimics some of the behaviour of the MapKit framework
 
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
@@ -200,6 +205,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift 🔶
  * [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
  * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - Simple UITableView that manage keyboard events avoiding keyboard overlaps view (useful in forms).
+ * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -226,6 +232,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Products
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data
+
+### Security
+ * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -299,6 +308,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API
  * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine))
+ * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C
 
 # Xcode
 
@@ -322,7 +332,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode
  * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin
- * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
  * [CATweaker](https://github.com/keefo/CATweaker) - Plugin for creating beautiful CAMediaTimingFunction curve
 
 ### Package Manager
@@ -332,6 +341,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode
  * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
+
+### Misc
+ * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
+
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
@@ -409,7 +422,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Framer JS](https://www.facebook.com/groups/framerjs/)
  
 # Podcasts
- * [The Reywenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
+ * [The Rey Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
  * [Debug] (http://www.imore.com/debug)
  * [iDeveloper] (http://ideveloper.co/)
 
