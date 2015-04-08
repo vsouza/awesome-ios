@@ -412,7 +412,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Framer JS](https://www.facebook.com/groups/framerjs/)
  
 # Podcasts
- * [The Reywenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
+ * [The Rey Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
  * [Debug] (http://www.imore.com/debug)
  * [iDeveloper] (http://ideveloper.co/)
 
