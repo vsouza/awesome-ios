@@ -135,6 +135,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
  * [MapBox](https://github.com/mapbox/mapbox-ios-sdk) - Mapbox iOS SDK, an open source alternative to MapKit.
+ * [NAMapKit](https://github.com/neilang/NAMapKit) - Allows you to use custom maps in iphone applications and attempts to mimics some of the behaviour of the MapKit framework
 
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
