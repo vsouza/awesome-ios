@@ -48,6 +48,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
     - [Themes](#themes)
+    - [Misc](#misc)
+
 
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
@@ -330,7 +332,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode
  * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin
- * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
  * [CATweaker](https://github.com/keefo/CATweaker) - Plugin for creating beautiful CAMediaTimingFunction curve
 
 ### Package Manager
@@ -340,6 +341,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode
  * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
+
+### Misc
+ * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
+
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
