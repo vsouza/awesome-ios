@@ -421,6 +421,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](http://www.bignerdranch.com/we-write/ios-programming.html)
  * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
  * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
+ * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
+ * [3D Graphics with Scenekit](http://ronnqvi.st/book/)
+ * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch] (http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426/)
+ * [Cocoa Design Patterns] (http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the     
