@@ -30,6 +30,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Analytics](#analytics)
      - [Payments](#payments)
      - [Products](#products)
+     - [Security](#security)
 
 
 - [Project setup](#project-setup)
@@ -229,6 +230,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Products
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data
+
+### Security
+ * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
