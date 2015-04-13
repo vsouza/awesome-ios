@@ -239,6 +239,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Continuous Integration
 * [Jenkins](https://jenkins-ci.org/)
+* [Travis](https://travis-ci.org/)
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
