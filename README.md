@@ -31,6 +31,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Payments](#payments)
      - [Products](#products)
      - [Security](#security)
+     - [Continuous Integration](#continuous-integration)
 
 
 - [Project setup](#project-setup)
@@ -235,6 +236,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
+
+### Continuous Integration
+* [Jenkins](https://jenkins-ci.org/)
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
