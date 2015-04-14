@@ -59,7 +59,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
     - [Prototyping](#prototyping)
-- [Tutorials](#tutorials)
 - [Twitter](#twitter)
 - [Facebook Groups](#facebook-groups)
 - [Podcasts](#podcasts)
