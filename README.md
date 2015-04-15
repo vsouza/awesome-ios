@@ -153,6 +153,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [MBNetworkIndicator](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkIndicator.h) - Provides a simple way to [coordinate the device's network activity indicator across multiple requests](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkIndicator.html).
  * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift, from the creator of AFNetworking. 🔶
  * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier. 🔶
+ * [CDZPinger](https://github.com/cdzombak/CDZPinger) - Easy-to-use ICMP Ping 
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
