@@ -337,6 +337,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode
  * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin
  * [CATweaker](https://github.com/keefo/CATweaker) - Plugin for creating beautiful CAMediaTimingFunction curve
+ * [XcodeWay](https://github.com/onmyway133/XcodeWay) - An Xcode plugin that makes navigating to many places easier (available via Alcatraz)
 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
