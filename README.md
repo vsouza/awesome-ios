@@ -30,6 +30,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Analytics](#analytics)
      - [Payments](#payments)
      - [Products](#products)
+     - [Utility](#utility)
      - [Security](#security)
 
 
@@ -230,6 +231,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Products
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data
+
+### Utility
+  * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation
 
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
