@@ -312,7 +312,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API
  * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine))
  * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C
- * (UberKit)[https://github.com/sachinkesiraju/UberKit] - A simple, easy-to-use Objective-C wrapper for the Uber API
+ * [UberKit](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API
 
 # Xcode
 
