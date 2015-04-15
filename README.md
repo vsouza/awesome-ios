@@ -216,6 +216,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Flex](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS
  * [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps
  * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects
+ * [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker
  
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
