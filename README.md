@@ -113,9 +113,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - Slideshow and image viewer.
  * [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser) - Photo Browser / Viewer.
  * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - Interactive iOS image viewer.
+ * [Concorde](https://github.com/contentful-labs/Concorde/) - Download and decode progressive JPEGs.
  
-
-
 ### EventBus
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8 🔶
 
