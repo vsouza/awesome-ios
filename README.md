@@ -31,6 +31,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Payments](#payments)
      - [Products](#products)
      - [Utility](#utility)
+     - [Security](#security)
 
 
 - [Project setup](#project-setup)
@@ -48,6 +49,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
     - [Themes](#themes)
+    - [Misc](#misc)
+
 
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
@@ -57,7 +60,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
     - [Prototyping](#prototyping)
-- [Tutorials](#tutorials)
 - [Twitter](#twitter)
 - [Facebook Groups](#facebook-groups)
 - [Podcasts](#podcasts)
@@ -112,9 +114,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - Slideshow and image viewer.
  * [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser) - Photo Browser / Viewer.
  * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - Interactive iOS image viewer.
+ * [Concorde](https://github.com/contentful-labs/Concorde/) - Download and decode progressive JPEGs.
  
-
-
 ### EventBus
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8 🔶
 
@@ -127,6 +128,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - Data mapping and validation with minimal amount of code.
  * [JSONModel](https://github.com/icanzilb/JSONModel) - Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
  * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
+ * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast
  
 ### Logging
  * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
@@ -135,6 +137,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
  * [MapBox](https://github.com/mapbox/mapbox-ios-sdk) - Mapbox iOS SDK, an open source alternative to MapKit.
+ * [NAMapKit](https://github.com/neilang/NAMapKit) - Allows you to use custom maps in iphone applications and attempts to mimics some of the behaviour of the MapKit framework
 
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
@@ -153,7 +156,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
- * [PEM](https://github.com/KrauseFx/PEM) - Tired of manually creating and maintaining your push certification profiles?
+ * [PEM](https://github.com/KrauseFx/PEM) - Automatically generate push notification profiles for your server
  * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing
  * [Urban Airship](http://urbanairship.com/products/mobile-app-engagement#push-messages) - Paid Push Notifications backend.
 
@@ -201,6 +204,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift 🔶
  * [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
  * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - Simple UITableView that manage keyboard events avoiding keyboard overlaps view (useful in forms).
+ * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -230,6 +234,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation
+
+### Security
+ * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
+ * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -303,6 +311,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API
  * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine))
+ * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C
+ * (UberKit)[https://github.com/sachinkesiraju/UberKit] - A simple, easy-to-use Objective-C wrapper for the Uber API
 
 # Xcode
 
@@ -326,7 +336,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode
  * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin
- * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
  * [CATweaker](https://github.com/keefo/CATweaker) - Plugin for creating beautiful CAMediaTimingFunction curve
 
 ### Package Manager
@@ -336,6 +345,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode
  * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
+
+### Misc
+ * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
+
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times
@@ -406,9 +419,17 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  
 # Facebook Groups
  * [HH iOS](https://www.facebook.com/groups/hhios/)
-
+ * [Sketch - Official group](https://www.facebook.com/groups/sketchformac/)
+ * [Design-Code](https://www.facebook.com/groups/designcode/)
+ * [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio)
+ * [Origami Community](https://www.facebook.com/groups/origami.community/)
+ * [Framer JS](https://www.facebook.com/groups/framerjs/)
+ 
 # Podcasts
- * [The Reywenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
+ * [The Rey Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
+ * [Debug] (http://www.imore.com/debug)
+ * [iDeveloper] (http://ideveloper.co/)
+ * [App Story] (http://www.appstorypodcast.com)
 
 # Books
  * [Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
@@ -418,6 +439,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](http://www.bignerdranch.com/we-write/ios-programming.html)
  * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
  * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
+ * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
+ * [3D Graphics with Scenekit](http://ronnqvi.st/book/)
+ * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch] (http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426/)
+ * [Cocoa Design Patterns] (http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the     
@@ -426,6 +451,7 @@ Other amazingly awesome lists can be found in the
  * Awesome-swift
    * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. 
    * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
+ * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
