@@ -400,6 +400,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
  * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. 🔶
  * [RAYWENDERLICH](http://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
+ * [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/)
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
