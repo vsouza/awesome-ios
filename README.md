@@ -207,6 +207,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
  * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - Simple UITableView that manage keyboard events avoiding keyboard overlaps view (useful in forms).
  * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView
+ * [WCFastCell](https://github.com/wczekalski/WCFastCell) - Fast cells for Tables/Collections scrolling (without animations).
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
