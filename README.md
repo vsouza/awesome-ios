@@ -213,6 +213,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Motif](https://github.com/erichoracek/Motif) - A lightweight and customizable JSON stylesheet framework for iOS
  * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states animated using Facebook POP
  * [HTPressableButton](https://github.com/herinkc/HTPressableButton) - Flat design pressable button
+ * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
