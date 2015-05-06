@@ -11,4 +11,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - If project has been made in Swift, add :large_orange_diamond: in the end of description.
+- If project has been made for Apple Watch, add :watch: in the end of description.
+ 
 Your contributions are always welcome!  Thank you for your suggestions!
