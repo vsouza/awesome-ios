@@ -414,10 +414,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [RAYWENDERLICH](http://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
  * [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/)
  * [Mike Ash](https://www.mikeash.com/pyblog/)
- * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/)
- * [Tuts+](http://code.tutsplus.com/categories/ios-sdk)
- * [iOS-Blog](http://ios-blog.co.uk/)
- * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift/)
+ * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) 🔶
+ * [Tuts+](http://code.tutsplus.com/categories/ios-sdk) 🔶
+ * [iOS-Blog](http://ios-blog.co.uk/) 🔶
+ * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift/) 🔶
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
