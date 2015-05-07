@@ -214,6 +214,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states animated using Facebook POP
  * [HTPressableButton](https://github.com/herinkc/HTPressableButton) - Flat design pressable button
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS
+ * [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - A fully customisable and modern camera implementation for iOS made with AVFoundation
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
