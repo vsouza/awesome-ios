@@ -233,7 +233,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform
  * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together
  * [Answers by Fabric](https://get.fabric.io/answers) - Answers gives you real-time insight into people’s experience in your app.
- 
+ * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
+
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
  * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
@@ -324,6 +325,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine))
  * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C
  * [UberKit](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API
+ * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization
 
 # Xcode
 
