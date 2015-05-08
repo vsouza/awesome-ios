@@ -327,7 +327,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C
  * [UberKit](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API
  * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization
- * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK
+ * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Unofficial Instagram iOS SDK
 
 # Xcode
 
