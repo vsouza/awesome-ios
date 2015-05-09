@@ -253,6 +253,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation
   * [SBConstants](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project
+  * [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
 
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
