@@ -98,6 +98,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Realm](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
  * [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDatabase is an extensible database for iOS & Mac.
 
+### Encryption
+* [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
+
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
  * [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - A clean and lightweight progress HUD for your iOS app.
@@ -129,7 +132,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Groot](https://github.com/gonzalezreal/Groot) - Convert JSON dictionaries and arrays to and from Core Data managed objects.
  * [KZPropertyMapper](https://github.com/krzysztofzablocki/KZPropertyMapper) - Data mapping and validation with minimal amount of code.
  * [JSONModel](https://github.com/icanzilb/JSONModel) - Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
- * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
+ * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. 🔶
  * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast
  * [OCMapper](https://github.com/aryaxt/OCMapper) - Objective-C & Swift library to easily map NSDictionary to model objects. 🔶
 	 
@@ -214,6 +217,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states animated using Facebook POP
  * [HTPressableButton](https://github.com/herinkc/HTPressableButton) - Flat design pressable button
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS
+ * [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - A fully customisable and modern camera implementation for iOS made with AVFoundation
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -233,7 +237,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform
  * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together
  * [Answers by Fabric](https://get.fabric.io/answers) - Answers gives you real-time insight into people’s experience in your app.
- 
+ * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
+
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
  * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
@@ -324,6 +329,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine))
  * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C
  * [UberKit](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API
+ * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization
 
 # Xcode
 
@@ -411,10 +417,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [RAYWENDERLICH](http://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
  * [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/)
  * [Mike Ash](https://www.mikeash.com/pyblog/)
- * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/)
- * [Tuts+](http://code.tutsplus.com/categories/ios-sdk)
- * [iOS-Blog](http://ios-blog.co.uk/)
- * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift/)
+ * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) 🔶
+ * [Tuts+](http://code.tutsplus.com/categories/ios-sdk) 🔶
+ * [iOS-Blog](http://ios-blog.co.uk/) 🔶
+ * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift/) 🔶
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
