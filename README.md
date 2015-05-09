@@ -247,6 +247,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Products
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data
 
+### Productivity
+ * [androidtool-mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, APK installations for Android phones and smartwatches connected to your Mac
+
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation
   * [SBConstants](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project
