@@ -120,6 +120,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser) - Photo Browser / Viewer.
  * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - Interactive iOS image viewer.
  * [Concorde](https://github.com/contentful-labs/Concorde/) - Download and decode progressive JPEGs.
+ * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
  
 ### EventBus
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8 🔶
