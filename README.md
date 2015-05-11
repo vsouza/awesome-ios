@@ -356,6 +356,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [CATweaker](https://github.com/keefo/CATweaker) - Plugin for creating beautiful CAMediaTimingFunction curve
  * [XcodeWay](https://github.com/onmyway133/XcodeWay) - An Xcode plugin that makes navigating to many places easier (available via Alcatraz)
  * [GitDiff](https://github.com/johnno1962/GitDiff) - Highlights deltas against git repo in Xcode
+ * [MCLog](https://github.com/yuhua-chen/MCLog) - Xcode plugin for filtering the console area
 
 ### Package Manager
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
