@@ -1,6 +1,6 @@
 <img src="awesome_logo.png" width="400">
 
-A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. 
+A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
 Projects in Swift language will be marked with :🔶: feel free to add your project.
@@ -121,7 +121,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController) - Interactive iOS image viewer.
  * [Concorde](https://github.com/contentful-labs/Concorde/) - Download and decode progressive JPEGs.
  * [SCRecorder](https://github.com/rFlex/SCRecorder) - Camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing.
- 
+
 ### EventBus
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8 🔶
 
@@ -136,7 +136,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift. 🔶
  * [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) - Serialize & deserialize JSON fast
  * [OCMapper](https://github.com/aryaxt/OCMapper) - Objective-C & Swift library to easily map NSDictionary to model objects. 🔶
-	 
+
 ### Logging
  * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
  * [NSLogger](https://github.com/fpillet/NSLogger) - a high perfomance logging utility which displays traces emitted by client applications running on Mac OS X, iOS and Android.
@@ -160,7 +160,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [MBNetworkIndicator](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkIndicator.h) - Provides a simple way to [coordinate the device's network activity indicator across multiple requests](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkIndicator.html).
  * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift, from the creator of AFNetworking. 🔶
  * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier. 🔶
- * [CDZPinger](https://github.com/cdzombak/CDZPinger) - Easy-to-use ICMP Ping 
+ * [CDZPinger](https://github.com/cdzombak/CDZPinger) - Easy-to-use ICMP Ping
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
@@ -210,6 +210,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [NMPopUpView](https://github.com/psy2k/NMPopUpView) - Simple iOS class for showing nice popup windows. Swift and Objective-C versions available. 🔶
  * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift. 🔶
  * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift 🔶
+ * [SDevFlatColors](https://github.com/0x73/SDevFlatColors) - Flat Colors on Swift 🔶
  * [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
  * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView
  * [WCFastCell](https://github.com/wczekalski/WCFastCell) - Fast cells for Tables/Collections scrolling (without animations).
@@ -230,7 +231,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps
  * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects
  * [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker
- 
+
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API
  * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more
@@ -253,7 +254,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
   * [SBConstants](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project
 
 ### Security
- * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
+ * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS
  * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
 
 # Project setup
@@ -261,7 +262,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
  * [amaro](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
- * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents 
+ * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 
 # Dependency / Package Manager
  * [Cocoa Pods](http://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
@@ -270,7 +271,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. 🔶
  * [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of XCode. 🔶
 
-  
+
 # Testing
 
 ### TDD / BDD
@@ -321,7 +322,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS
  * [Box](https://github.com/box/box-ios-sdk-v2) iOS + OS X SDK for the Box API
  * [OneDrive](https://github.com/liveservices/LiveSDK-for-iOS) Live SDK for iOS
- * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X 
+ * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X
  * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo
  * [AWS](https://github.com/aws/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS
  * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS
@@ -379,7 +380,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com. 🔶
 * [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) - Guidelines for iOS development in use at Spotify
-* [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0) - 
+* [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0) -
 * [Github - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) - A guide to our Swift style and conventions by @github. 🔶
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 
@@ -438,14 +439,14 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Framer](http://framerjs.com/)
  * [Pixate](http://www.pixate.com/)
 
- 
+
 # Twitter
  * [@objcio](https://twitter.com/objcio)
  * [@nshipster](https://twitter.com/NSHipster)
  * [@CocoaPods](https://twitter.com/CocoaPods)
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
- 
+
 # Facebook Groups
  * [HH iOS](https://www.facebook.com/groups/hhios/)
  * [Sketch - Official group](https://www.facebook.com/groups/sketchformac/)
@@ -453,7 +454,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio)
  * [Origami Community](https://www.facebook.com/groups/origami.community/)
  * [Framer JS](https://www.facebook.com/groups/framerjs/)
- 
+
 # Podcasts
  * [The Rey Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
  * [Debug] (http://www.imore.com/debug)
@@ -476,17 +477,14 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Cocoa Design Patterns] (http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the     
+Other amazingly awesome lists can be found in the
  * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
  * [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
  * Awesome-swift
-   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. 
+   * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
    * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
  * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
  * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
-
-
-
