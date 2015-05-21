@@ -256,6 +256,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation
   * [SBConstants](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project
+  * [XExtensionItem](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions
 
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS 
