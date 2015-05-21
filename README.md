@@ -239,6 +239,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Answers by Fabric](https://get.fabric.io/answers) - Answers gives you real-time insight into people’s experience in your app.
  * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
  * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
+ * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
 
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
