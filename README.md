@@ -467,9 +467,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 # Podcasts
  * [The Rey Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
- * [Debug] (http://www.imore.com/debug)
- * [iDeveloper] (http://ideveloper.co/)
- * [App Story] (http://www.appstorypodcast.com)
+ * [Debug](http://www.imore.com/debug)
+ * [iDeveloper](http://ideveloper.co/)
+ * [App Story](http://www.appstorypodcast.com)
  * [Mobile Couch](http://mobilecouch.co/)
  * [iOS Bytes](https://iosbytes.codeschool.com/)
 
@@ -483,8 +483,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
  * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
  * [3D Graphics with Scenekit](http://ronnqvi.st/book/)
- * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch] (http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426/)
- * [Cocoa Design Patterns] (http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+ * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426/)
+ * [Cocoa Design Patterns](http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
