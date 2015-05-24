@@ -5,7 +5,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift language will be marked with :🔶: feel free to add your project.
 
-### Contentsprom
+### Contents
  - [Getting Started](#getting-started)
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Cache](#cache)
