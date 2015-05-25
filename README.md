@@ -217,6 +217,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [NMPopUpView](https://github.com/psy2k/NMPopUpView) - Simple iOS class for showing nice popup windows. Swift and Objective-C versions available. 🔶
  * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift. 🔶
  * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift 🔶
+ * [SDevCircleButton](https://github.com/0x73/SDevCircleButton) - Circle Button for Swift 🔶
  * [SDevFlatColors](https://github.com/0x73/SDevFlatColors) - Flat Colors on Swift 🔶
  * [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
  * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
