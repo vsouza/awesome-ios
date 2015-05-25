@@ -87,7 +87,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
  * [Objective-Record](https://github.com/mneorr/Objective-Record) - Objective Record is a lightweight ActiveRecord way of managing Core Data objects.
  * [Magical Record](https://github.com/magicalpanda/MagicalRecord) -  Super Awesome Easy Fetching for Core Data.
- * [SSDataKit](https://github.com/soffes/SSDataKit) - Eliminate your Core Data boilerplate code
+ * [SSDataKit](https://github.com/soffes/SSDataKit) - Eliminate your Core Data boilerplate code.
  * [ios-queryable](https://github.com/martydill/ios-queryable) - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data.
  * [ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - ReactiveCoreData (RCD) is an attempt to bring Core Data into the ReactiveCocoa (RAC) world.
  * [Ensembles](https://github.com/drewmccormack/ensembles) - A synchronization framework for Core Data.
@@ -229,6 +229,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit/) - AsyncDisplayKit is an iOS framework that keeps even the most complex user interfaces smooth and responsive.
  * [AMTagListView](https://github.com/andreamazz/AMTagListView) - UIScrollView subclass that allows to add a list of highly customizable tags.
  * [MotionBlur](https://github.com/fastred/MotionBlur) - MotionBlur allows you to add motion blur effect to iOS animations.
+ * [PBJVision](https://github.com/piemonte/PBJVision) - iOS camera engine, features touch-to-record video, slow motion video, and photo capture.
 
 
 ### WebSocket
