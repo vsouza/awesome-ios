@@ -320,6 +320,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
  * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
+ * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 
 # Deployment
  * [fastlane](http://fastlane.tools/) fastlane lets you define and run your deployment pipelines for different environments.
