@@ -244,6 +244,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
  * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
  * [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker.
+ * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions. 🔶
 
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
@@ -315,7 +316,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
- * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions. 🔶
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
