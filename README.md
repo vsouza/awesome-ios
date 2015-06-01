@@ -77,6 +77,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 # Libraries And Frameworks
 
+### Audio
+ * [AudioKit](https://github.com/audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
+
 ### Cache
  * [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache subclass with on-disk cache support on iPhone/iPad.
 
