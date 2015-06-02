@@ -426,6 +426,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [iOS Programming Subreddit](http://www.reddit.com/r/iosprogramming)
  * [iOS Dev Weekly](https://iosdevweekly.com/)
  * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) 🔶
+ * [IOSCREATOR](http://www.ioscreator.com/) 🔶
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
