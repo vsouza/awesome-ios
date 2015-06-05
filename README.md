@@ -392,6 +392,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode.
  * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin.
+ * [QuickJump](https://github.com/wiruzx/QuickJump) - Quick code navigation for Xcode.
  * [CATweaker](https://github.com/keefo/CATweaker) - Plugin for creating beautiful CAMediaTimingFunction curve.
  * [XcodeWay](https://github.com/onmyway133/XcodeWay) - An Xcode plugin that makes navigating to many places easier (available via Alcatraz).
  * [GitDiff](https://github.com/johnno1962/GitDiff) - Highlights deltas against git repo in Xcode.
