@@ -438,14 +438,14 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [iCode Blog](http://www.icodeblog.com/)
  * [NSHipster](http://nshipster.com)
  * [Objc.io](http://www.objc.io)
- * [AsciiWWDC](http://asciiwwdc.com)
+ * [ASCIIwwdc](http://asciiwwdc.com)
  * [Natasha The Robot](http://natashatherobot.com)
  * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) 🔶
  * [iOS Programming Subreddit](http://www.reddit.com/r/iosprogramming)
  * [iOS Dev Weekly](https://iosdevweekly.com/)
  * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) 🔶
- * [IOSCREATOR](http://www.ioscreator.com/) 🔶
- * [MATHEW SANDERS](http://mathewsanders.com/) 🔶
+ * [iOScreator](http://www.ioscreator.com/) 🔶
+ * [Mathew Sanders](http://mathewsanders.com/) 🔶
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
