@@ -134,6 +134,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS 🔶
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. 🔶
+ * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X. 
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON.
