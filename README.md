@@ -34,6 +34,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Products](#products)
      - [Utility](#utility)
      - [Security](#security)
+     - [Video](#video)
 
 
 - [Project setup](#project-setup)
@@ -297,6 +298,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
  * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
  * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
+
+### Video
+ * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
+
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
