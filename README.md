@@ -351,7 +351,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
  * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
  * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
- * [https://github.com/mutualmobile/MMBarricade](https://github.com/mutualmobile/https://github.com/mutualmobile/MMBarricade) - Runtime configurable local server for iOS apps.
+ * [MMBarricade](https://github.com/mutualmobile/MMBarricade) - Runtime configurable local server for iOS apps.
+ * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - Generate RESTful server from your Core Data Model.
 
 # Deployment
  * [fastlane](http://fastlane.tools/) fastlane lets you define and run your deployment pipelines for different environments.
