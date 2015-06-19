@@ -35,7 +35,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Utility](#utility)
      - [Security](#security)
      - [Video](#video)
-
+     - [iBeacon](#ibeacon)
 
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
@@ -171,6 +171,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
+ * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
@@ -303,6 +304,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Video
  * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
 
+### iBeacon
+ * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
