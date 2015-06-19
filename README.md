@@ -14,6 +14,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Charts](#charts)
      - [Database](#database)
      - [HUD](#hud)
+     - [iBeacon](#ibeacon)
      - [Images](#images)
      - [EventBus](#eventbus)
      - [JSON](#json)
@@ -35,7 +36,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Utility](#utility)
      - [Security](#security)
      - [Video](#video)
-     - [iBeacon](#ibeacon)
 
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
