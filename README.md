@@ -288,6 +288,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Products
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data.
+ * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
 
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
