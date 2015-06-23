@@ -32,7 +32,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Analytics](#analytics)
      - [Payments](#payments)
      - [Products](#products)
-     - [Social](#social)
      - [Utility](#utility)
      - [Security](#security)
      - [Video](#video)
@@ -288,10 +287,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Products
  * [Import.io](https://import.io) - Instantly Turn Web Pages into Data.
- 
-### Social
-* [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
-* 
+ * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
+
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
   * [SBConstants](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project.
