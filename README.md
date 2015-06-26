@@ -14,6 +14,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Charts](#charts)
      - [Database](#database)
      - [HUD](#hud)
+     - [iBeacon](#ibeacon)
      - [Images](#images)
      - [EventBus](#eventbus)
      - [JSON](#json)
@@ -35,7 +36,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
      - [Utility](#utility)
      - [Security](#security)
      - [Video](#video)
-
 
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
@@ -117,6 +117,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - A suite containing many tools to display progress information on iOS.
  * [JHProgressHUD](https://github.com/harikrishnant1991/JHProgressHUD) - An easy and lightweight Swift library to show HUD in IOS applications. 🔶
 
+### iBeacon
+ * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
+
 ### Images
  * [GPU Image](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
  * [UIImage DSP](https://github.com/gdawg/uiimage-dsp) - IOS UIImage processing functions using the vDSP/Accelerate framework for speed.
@@ -172,6 +175,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
+ * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
@@ -307,7 +311,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Video
  * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
-
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
