@@ -334,6 +334,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa.
  * [Quick](https://github.com/Quick/Quick) - A behavior-driven development framework for Swift and Objective-C.
  * [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) - Code coverage for Xcode projects.
+ * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 
 ### UI Testing
  * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
