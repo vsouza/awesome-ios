@@ -566,4 +566,5 @@ Other amazingly awesome lists can be found in the
 <img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
+
 To the extent possible under law, [Vinicius Souza](http://github.com/vsouza) has waived all copyright and related or neighboring rights to this work.
