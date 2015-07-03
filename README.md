@@ -440,6 +440,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Misc
  * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
+  * [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...) 
+ 
 
 
 # Style Guides
