@@ -89,6 +89,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Charts
  * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). 🔶
+ * [JTChartView](https://github.com/kubatru/JTChartView)
 
 ### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
