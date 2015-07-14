@@ -275,6 +275,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Atlas](https://github.com/layerhq/Atlas-iOS) - A library of native iOS messaging user interface components for Layer.
  * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from. 🔶
  * [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView
+ * [CZPicker](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
