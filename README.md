@@ -277,6 +277,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView
  * [PJAlertView](https://github.com/PrajeetShrestha/PJAlertView) - Apple has deprecated beloved alert view but this library will add revamped alert view with far more customization possibility. 
  * [CZPicker](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS.
+ * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI. 🔶
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -291,7 +292,6 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker.
  * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions. 🔶
  * [spacecommander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
- * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI. 🔶
 
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
