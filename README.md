@@ -394,6 +394,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Free App Store Optimization Tool](https://www.mobileaction.co) Lets you track your App Store visibility in terms of keywords and competitors.
 
 # SDK
+
+## Official
+
  * [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
  * [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK.
  * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
@@ -409,13 +412,18 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK.
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API.
- * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine)).
+ * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS.
+ * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
+ 
+## Unofficial
+
+ * [STTwitter](https://github.com/nst/STTwitter) A stable, mature and comprehensive Objective-C library for Twitter REST API 1.1
+ * [FHSTwitterEngine](https://github.com/fhsjaagshs/FHSTwitterEngine) Twitter API for Cocoa developers. 
  * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C.
  * [UberKit](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API.
- * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
- * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Unofficial Instagram iOS SDK.
- * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Unofficial Dribbble iOS SDK.
- * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - Unofficial Flickr iOS SDK.
+ * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
+ * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
+ * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
 
 # Xcode
 
