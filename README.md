@@ -128,6 +128,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Concorde](https://github.com/contentful-labs/Concorde/) - Download and decode progressive JPEGs.
  * [SCRecorder](https://github.com/rFlex/SCRecorder) - Camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing.
  * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images. 🔶
+ * [YXTMotionView](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS 🔶
