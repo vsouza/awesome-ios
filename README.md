@@ -415,6 +415,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
  * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Unofficial Instagram iOS SDK.
  * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Unofficial Dribbble iOS SDK.
+ * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - Unofficial Flickr iOS SDK.
 
 # Xcode
 
