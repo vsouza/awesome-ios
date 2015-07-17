@@ -140,6 +140,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [SCRecorder](https://github.com/rFlex/SCRecorder) - Camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing.
  * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images. 🔶
  * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
+ * [YXTMotionView](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS 🔶
@@ -278,6 +279,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [PJAlertView](https://github.com/PrajeetShrestha/PJAlertView) - Apple has deprecated beloved alert view but this library will add revamped alert view with far more customization possibility. 
  * [CZPicker](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS.
  * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI. 🔶
+ * [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
