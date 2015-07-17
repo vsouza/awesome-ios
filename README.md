@@ -140,6 +140,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [SCRecorder](https://github.com/rFlex/SCRecorder) - Camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing.
  * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images. 🔶
  * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
+ * [YXTMotionView](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS 🔶
@@ -275,6 +276,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Atlas](https://github.com/layerhq/Atlas-iOS) - A library of native iOS messaging user interface components for Layer.
  * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from. 🔶
  * [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView
+ * [PJAlertView](https://github.com/PrajeetShrestha/PJAlertView) - Apple has deprecated beloved alert view but this library will add revamped alert view with far more customization possibility. 
+ * [CZPicker](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS.
+ * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI. 🔶
+ * [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
  * [DatePickerDialog](https://github.com/squimer/DatePickerDialog-iOS-Swift) - A Swift library that displays an UIDatePicker within an UIAlertView 🔶
 
 ### WebSocket
@@ -392,6 +397,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Free App Store Optimization Tool](https://www.mobileaction.co) Lets you track your App Store visibility in terms of keywords and competitors.
 
 # SDK
+
+## Official
+
  * [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
  * [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK.
  * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
@@ -407,12 +415,18 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK.
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API.
- * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS (official SDK, there are also a [couple](https://github.com/nst/STTwitter) of [libraries](https://github.com/fhsjaagshs/FHSTwitterEngine)).
+ * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS.
+ * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
+ 
+## Unofficial
+
+ * [STTwitter](https://github.com/nst/STTwitter) A stable, mature and comprehensive Objective-C library for Twitter REST API 1.1
+ * [FHSTwitterEngine](https://github.com/fhsjaagshs/FHSTwitterEngine) Twitter API for Cocoa developers. 
  * [Giphy](https://github.com/heyalexchoi/Giphy-iOS) Giphy API client for iOS in Objective-C.
  * [UberKit](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API.
- * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
- * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Unofficial Instagram iOS SDK.
- * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Unofficial Dribbble iOS SDK.
+ * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
+ * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
+ * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
 
 # Xcode
 
@@ -580,6 +594,7 @@ Other amazingly awesome lists can be found in the
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
  * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
  * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
+ * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
