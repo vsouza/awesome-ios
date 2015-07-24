@@ -84,6 +84,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 ### Audio
  * [AudioBus](https://developer.audiob.us/) - Add Next Generation Live App-to-App Audio Routing
  * [AudioKit](https://github.com/audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
+ * [EZAudio](https://github.com/syedhali/EZAudio) - An iOS/OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
 
 ### Cache
  * [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache subclass with on-disk cache support on iPhone/iPad.
