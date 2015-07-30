@@ -301,6 +301,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker.
  * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions. 🔶
  * [spacecommander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
+ * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
 
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
