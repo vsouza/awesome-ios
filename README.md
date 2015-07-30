@@ -287,6 +287,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
  * [DatePickerDialog](https://github.com/squimer/DatePickerDialog-iOS-Swift) - A Swift library that displays an UIDatePicker within an UIAlertView 🔶
  * [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS in Swift 🔶
+ * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - Enhancing the back button with view history navigation. 🔶
+
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
