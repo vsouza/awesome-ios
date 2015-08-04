@@ -289,6 +289,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [DatePickerDialog](https://github.com/squimer/DatePickerDialog-iOS-Swift) - A Swift library that displays an UIDatePicker within an UIAlertView 🔶
  * [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS in Swift 🔶
  * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - Enhancing the back button with view history navigation. 🔶
+ * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift. 🔶
 
 
 ### WebSocket
