@@ -206,6 +206,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Transporter](https://github.com/nghialv/Transporter) - A tiny library makes uploading and downloading easier. 🔶
  * [CDZPinger](https://github.com/cdzombak/CDZPinger) - Easy-to-use ICMP Ping.
  * [NSRails](https://github.com/dingbat/nsrails) - Map client-side objects/classes to remote rest api objects/orm
+ * [NKMultipeer](https://github.com/nathankot/NKMultipeer) - A testable abstraction over multipeer connectivity. 🔶
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
