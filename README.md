@@ -93,6 +93,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Charts
  * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). 🔶
+ * [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS
  * [JTChartView](https://github.com/kubatru/JTChartView)
 
 ### Core Data
