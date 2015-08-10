@@ -342,6 +342,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
   * [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) - Reusable pre-permissions utility that lets developers ask users for access in their own dialog, before making the system-based request.
   * [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C
   * [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - Some well known CS algorithms & data structures in Objective-C.
+  * [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events. 🔶
 
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
