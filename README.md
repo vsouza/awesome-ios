@@ -296,7 +296,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS in Swift 🔶
  * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - Enhancing the back button with view history navigation. 🔶
  * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift. 🔶
-
+ * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications. LNRSimpleNotifications is a simplified Swift port of [TSMessages](https://github.com/toursprung/TSMessages). 🔶
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
