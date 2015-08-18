@@ -193,6 +193,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
+ * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
  * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
  * [Intuit](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously. 
 
