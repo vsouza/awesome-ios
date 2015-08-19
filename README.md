@@ -147,6 +147,8 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
  * [YXTMotionView](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
  * [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher.
+ * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - Easily Adding Animated Blur/Unblur Effects To An Image. 🔶
+
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS 🔶
