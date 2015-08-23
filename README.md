@@ -303,6 +303,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications. LNRSimpleNotifications is a simplified Swift port of [TSMessages](https://github.com/toursprung/TSMessages). 🔶
  * [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
  * [SAInboxViewController](https://github.com/szk-atmosphere/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning. 🔶
+ * [TLYShyNavBar](https://github.com/telly/TLYShyNavBar) - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -414,7 +415,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
 
 # Deployment
- * [fastlane](http://fastlane.tools/) fastlane lets you define and run your deployment pipelines for different environments.
+ * [fastlane](https://github.com/KrauseFx/fastlane) Connect all iOS deployment tools into one streamlined workflow.
  * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command.
  * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices.
 
