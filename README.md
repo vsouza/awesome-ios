@@ -413,7 +413,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
  * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
 
-### Platforms
+# Platforms
 * [Fabric by Twitter](https://get.fabric.io/) - The Tools You Need to Build the Best Apps. Includes crash reporting, beta distribution, mobile analytics and authentication using Twitter and/or Digits.
 * [HockeyApp](http://hockeyapp.net/) - Includes crash reporting, beta distribution, mobile analytics and mores.
 
