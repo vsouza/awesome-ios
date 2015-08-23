@@ -45,8 +45,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 - [Testing](#testing)
     - [TDD / BDD](#tdd--bdd)
     - [UI Testing](#ui-testing)
+    - [Other Testing](#other-testing)
     - [Beta Distribution](#beta-distribution)
 - [Toolchains](#toolchains)
+- [Tools](#tools)
 - [Rapid Development](#rapid-development)
 - [Deployment](#deployment)
 - [App Store](#app-store)
@@ -304,6 +306,9 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
  * [SAInboxViewController](https://github.com/szk-atmosphere/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning. 🔶
  * [TLYShyNavBar](https://github.com/telly/TLYShyNavBar) - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
+ * [BRYXBanner](https://github.com/bryx-inc/BRYXBanner) - A lightweight dropdown notification for iOS 7+, in Swift.
+ * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController) - Highly configurable iOS Alert Views with custom content views.
+ * [HDNotificationView](https://github.com/nhdang103/HDNotificationView) - Emulates the native Notification Banner UI for any alert.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -397,6 +402,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [Zucchini](http://www.zucchiniframework.org/) - A visual iOS testing framework that loves your apps.
  * [Remote](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing.
 
+### Other Testing
+ * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
+ * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
+
 ### Beta Distribution
  * [Crashlytics](https://www.crashlytics.com/) - A crash reporting and beta testing service.
  * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
@@ -405,6 +414,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
+
+# Tools
+ * [Shark](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum.
+ * [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project.
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
