@@ -5,7 +5,7 @@
 A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
-Projects in Swift language will be marked with :large_orange_diamond: and :watch: for Apple Watch projects feel free to add your project.
+Projects in Swift language will be marked with :large_orange_diamond: and :watch: for Apple Watch projects. Feel free to add your project.
 
 ### Contents
  - [Getting Started](#getting-started)
@@ -251,7 +251,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros. :large_orange_diamond:
 
 ### UI
- * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS.
+ * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
  * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
  * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
