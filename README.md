@@ -28,6 +28,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Networking](#networking)
      - [Push Notifications](#push-notifications)
      - [Passbook](#passbook)
+     - [Permissions](#permissions)
      - [Text](#text)
      - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
      - [UI](#ui)
@@ -230,6 +231,14 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
  * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
  * [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
+
+### Permissions
+* [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API (Supports Location, Notifications, Camera, Contacts, Calendar, Photos, Microphone, BT). :large_orange_diamond:
+* [Proposer](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). :large_orange_diamond:
+* [ICanHas](https://github.com/wircho/ICanHas) - Simplifies iOS user permission requests (Supports location, push notifications, camera, contacts, calendar, photos). :large_orange_diamond:
+* [VWWPermissionKit](https://github.com/zakkhoyt/VWWPermissionKit) - A visual permission manager for iOS.
+* [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) - A unified way for iOS apps to request user permissions.
+* [JLPermissions](https://github.com/jlaws/JLPermissions) - An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
