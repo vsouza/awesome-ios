@@ -415,7 +415,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
 
 # Platforms
 * [Fabric by Twitter](https://get.fabric.io/) - The Tools You Need to Build the Best Apps. Includes crash reporting, beta distribution, mobile analytics and authentication using Twitter and/or Digits.
-* [HockeyApp](http://hockeyapp.net/) - Includes crash reporting, beta distribution, mobile analytics and mores.
+* [HockeyApp](http://hockeyapp.net/) - Includes crash reporting, beta distribution, mobile analytics and more.
 
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
