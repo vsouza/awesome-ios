@@ -47,6 +47,7 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
     - [UI Testing](#ui-testing)
     - [Other Testing](#other-testing)
     - [Beta Distribution](#beta-distribution)
+- [Platforms](#platforms)
 - [Toolchains](#toolchains)
 - [Tools](#tools)
 - [Rapid Development](#rapid-development)
@@ -411,6 +412,10 @@ Projects in Swift language will be marked with :🔶: feel free to add your proj
  * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
  * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
+
+### Platforms
+* [Fabric by Twitter](https://get.fabric.io/) - The Tools You Need to Build the Best Apps. Includes crash reporting, beta distribution, mobile analytics and authentication using Twitter and/or Digits.
+* [HockeyApp](http://hockeyapp.net/) - Includes crash reporting, beta distribution, mobile analytics and mores.
 
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
