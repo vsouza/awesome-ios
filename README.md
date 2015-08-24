@@ -35,7 +35,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Websocket](#websocket)
      - [Code Quality](#code-quality)
      - [Analytics](#analytics)
-     - [Messaging](#messaging)
      - [Payments](#payments)
      - [Products](#products)
      - [Utility](#utility)
@@ -198,6 +197,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  
 ### Messaging
  * [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
+* [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
+* [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
 
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
@@ -346,10 +347,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
  * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
  * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
-
-### Messaging
-* [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
-* [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
 
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
