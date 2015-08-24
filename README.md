@@ -197,8 +197,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  
 ### Messaging
  * [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
-* [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
-* [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
+ * [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
+ * [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
 
 ### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
