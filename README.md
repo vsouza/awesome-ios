@@ -46,8 +46,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 - [Testing](#testing)
     - [TDD / BDD](#tdd--bdd)
     - [UI Testing](#ui-testing)
-    - [Other Testing](#other-testing)
     - [Beta Distribution](#beta-distribution)
+    - [Other Testing](#other-testing)
 - [Platforms](#platforms)
 - [Toolchains](#toolchains)
 - [Tools](#tools)
@@ -59,9 +59,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
     - [Themes](#themes)
-    - [Misc](#misc)
-
-
+    - [Other Xcode](#misc)
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
     - [News, Blogs and Feeds](#news-blogs-and-feeds)
@@ -529,11 +527,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 
-### Misc
+### Other Xcode
  * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
   * [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...) 
  
-
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
