@@ -59,7 +59,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Plugins](#plugins)
     - [Package Manager](#package-manager)
     - [Themes](#themes)
-    - [Other Xcode](#misc)
+    - [Other Xcode](#other-xcode)
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
     - [News, Blogs and Feeds](#news-blogs-and-feeds)
