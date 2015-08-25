@@ -90,6 +90,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [AudioBus](https://developer.audiob.us/) - Add Next Generation Live App-to-App Audio Routing
  * [AudioKit](https://github.com/audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
  * [EZAudio](https://github.com/syedhali/EZAudio) - An iOS/OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
+ * [novocaine](https://github.com/alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X.
 
 ### Bluetooth
  * [Discovery](https://github.com/omergul123/Discovery) - A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
