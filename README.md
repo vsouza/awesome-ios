@@ -433,6 +433,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ### Other Testing
  * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
  * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
+ * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
 
 ### Beta Distribution
  * [Crashlytics](https://www.crashlytics.com/) - A crash reporting and beta testing service.
