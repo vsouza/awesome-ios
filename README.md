@@ -315,6 +315,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from. :large_orange_diamond:
  * [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView
  * [PJAlertView](https://github.com/PrajeetShrestha/PJAlertView) - Apple has deprecated beloved alert view but this library will add revamped alert view with far more customization possibility. 
+ * [EKToast](https://github.com/PrajeetShrestha/EkToast) - Inspired from android toast but designed for iOS. Easy implementation, highly customizable.  
  * [CZPicker](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS.
  * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI. :large_orange_diamond:
  * [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
