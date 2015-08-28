@@ -58,7 +58,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 - [SDK](#sdk)
 - [Xcode](#xcode)
     - [Plugins](#plugins)
-    - [Package Manager](#package-manager)
     - [Themes](#themes)
     - [Other Xcode](#other-xcode)
 - [Style Guides](#style-guides)
@@ -407,6 +406,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Gradle](http://openbakery.org/gradle.php) - The gradle xcode plugin can be used to build iOS or Mac OS X Projects using gradle.
  * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. :large_orange_diamond:
  * [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of XCode. :large_orange_diamond:
+ * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
 
 
 # Testing
@@ -539,9 +539,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Aviator](https://github.com/marksands/Aviator) - Xcode plugin that brings ⇧⌘T (source/test toggle) from AppCode over to Xcode.
  * [JumpMarks](https://github.com/merrickp/JumpMarks) - Navigate your code files with numbered bookmarks.
  * [XCSnippetr](https://github.com/dzenbot/XCSnippetr) - An Xcode Plugin to upload code snippets directly into Slack and Gist.
-
-### Package Manager
- * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
 
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
