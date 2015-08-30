@@ -161,6 +161,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher.
  * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) - Easily Adding Animated Blur/Unblur Effects To An Image. :large_orange_diamond:
  * [FastImageCache](https://github.com/path/FastImageCache) - iOS library for quickly displaying images while scrolling.
+ * [BKAsciiImage](https://github.com/bkoc/BKAsciiImage) - A library to render UIImage as ASCII art
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
