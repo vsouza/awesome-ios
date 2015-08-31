@@ -32,6 +32,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Permissions](#permissions)
      - [Text](#text)
      - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
+     - [URL Scheme](#url-scheme)
      - [UI](#ui)
      - [Websocket](#websocket)
      - [Code Quality](#code-quality)
@@ -272,6 +273,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [JazzHands](https://github.com/IFTTT/JazzHands) - Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
  * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros. :large_orange_diamond:
 
+### URL Scheme
+ * [WAAppRouting](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
+ 
 ### UI
  * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
  * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
