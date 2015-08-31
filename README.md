@@ -275,6 +275,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### URL Scheme
  * [WAAppRouting](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
+ * [DeepLinkKit](https://github.com/usebutton/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
  
 ### UI
  * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
