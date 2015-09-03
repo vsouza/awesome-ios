@@ -212,7 +212,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
 
 ##### PDF
-* [Reader]https://github.com/vfr/Reader) - PDF Reader Core for iOS.
+* [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
 
 ### Messaging
  * [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
