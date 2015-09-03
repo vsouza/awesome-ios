@@ -54,7 +54,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [UI Testing](#ui-testing)
     - [Beta Distribution](#beta-distribution)
     - [Other Testing](#other-testing)
-- [Platforms](#platforms)
 - [Toolchains](#toolchains)
 - [Tools](#tools)
 - [Rapid Development](#rapid-development)
@@ -463,10 +462,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
  * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
 
-# Platforms
-* [Fabric by Twitter](https://get.fabric.io/) - The Tools You Need to Build the Best Apps. Includes crash reporting, beta distribution, mobile analytics and authentication using Twitter and/or Digits.
-* [HockeyApp](http://hockeyapp.net/) - Includes crash reporting, beta distribution, mobile analytics and more.
-
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
 
@@ -512,7 +507,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK.
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API.
- * [Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS.
+ * [Fabric by Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS.
  * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
 
