@@ -18,7 +18,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Database](#database)
      - [HUD](#hud)
      - [iBeacon](#ibeacon)
-     - [Images](#images)
      - [EventBus](#eventbus)
      - [JSON](#json)
      - [Layout](#layout)
