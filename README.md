@@ -597,7 +597,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) :large_orange_diamond:
  * [iOScreator](http://www.ioscreator.com/) :large_orange_diamond:
  * [Mathew Sanders](http://mathewsanders.com/) :large_orange_diamond:
- * [Little Bites of Cocoa](http://littlebitesofcocoa.com)
+ * [Little Bites of Cocoa](http://littlebitesofcocoa.com) :large_orange_diamond:
+ * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
