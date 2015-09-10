@@ -17,6 +17,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Charts](#charts)
      - [Database](#database)
      - [Hardware](#hardware)
+         - [Motion](#motion)
          - [Bluetooth](#bluetooth)
          - [Location](#location)
          - [iBeacon](#ibeacon)
@@ -129,6 +130,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Hardware
 ##### Motion
+ * [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
 
 ##### Bluetooth
  * [Discovery](https://github.com/omergul123/Discovery) - A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
@@ -141,7 +143,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
  * [Intuit](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
  * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
- 
+
 ##### iBeacon
  * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
  * [OWUProximityManager](https://github.com/ohwutup/OWUProximityManager) - A handy iBeacon + CoreBluetooth manager.
