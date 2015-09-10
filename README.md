@@ -11,7 +11,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  - [Getting Started](#getting-started)
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Audio](#audio)
-     - [Bluetooth](#bluetooth)
      - [Cache](#cache)
      - [Core Data](#core-data)
      - [Charts](#charts)
