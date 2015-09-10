@@ -367,6 +367,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Cocoa Controls](http://www.cocoacontrols.com) - Open source UI components for iOS and OS X.
  * [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) :large_orange_diamond:
  * [Awesome-iOS-Animation](https://github.com/jackyzh/awesome-ios-animation) - Collection of Animation projects
+ * [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
