@@ -141,7 +141,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
  * [Intuit](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
  * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
- 
+
 ##### iBeacon
  * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
  * [OWUProximityManager](https://github.com/ohwutup/OWUProximityManager) - A handy iBeacon + CoreBluetooth manager.
@@ -365,6 +365,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Cocoa Controls](http://www.cocoacontrols.com) - Open source UI components for iOS and OS X.
  * [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) :large_orange_diamond:
  * [Awesome-iOS-Animation](https://github.com/jackyzh/awesome-ios-animation) - Collection of Animation projects
+ * [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
