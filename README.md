@@ -16,6 +16,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Core Data](#core-data)
      - [Charts](#charts)
      - [Database](#database)
+     - [Hardware](#hardware)
      - [HUD](#hud)
      - [iBeacon](#ibeacon)
      - [EventBus](#eventbus)
@@ -130,6 +131,11 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
+
+### Hardware
+##### Core Motion
+##### Bluetooth
+##### iBeacon
 
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
