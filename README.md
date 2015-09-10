@@ -18,6 +18,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Database](#database)
      - [Hardware](#hardware)
          - [Bluetooth](#bluetooth)
+         - [Location](#location)
      - [HUD](#hud)
      - [iBeacon](#ibeacon)
      - [EventBus](#eventbus)
@@ -30,7 +31,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
          - [Video](#video)
          - [PDF](#pdf)
      - [Messaging](#messaging)
-     - [Location](#location)
      - [Networking](#networking)
      - [Push Notifications](#push-notifications)
      - [Passbook](#passbook)
@@ -128,13 +128,18 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
 
 ### Hardware
-##### Core Motion
+##### Motion
 ##### Bluetooth
  * [Discovery](https://github.com/omergul123/Discovery) - A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
  * [LGBluetooth](https://github.com/l0gg3r/LGBluetooth) - Simple, block-based, lightweight library over CoreBluetooth. Will clean up your Core Bluetooth related code.
  * [PeerKit](https://github.com/jpsim/PeerKit) An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps. :large_orange_diamond:
  * [simple-share](https://github.com/lauraskelton/simple-share) - Easy Proximity-based Bluetooth LE Sharing for iOS.
 
+##### Location
+ * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
+ * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
+ * [Intuit](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
+ * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
 ##### iBeacon
 
 ### HUD
@@ -225,12 +230,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
  * [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
  * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
-
-### Location
- * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
- * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
- * [Intuit](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
- * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
