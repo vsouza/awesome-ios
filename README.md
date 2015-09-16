@@ -22,6 +22,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
          - [iBeacon](#ibeacon)
      - [HUD](#hud)
      - [EventBus](#eventbus)
+     - [Files](#files)
      - [JSON](#json)
      - [Layout](#layout)
      - [Logging](#logging)
@@ -161,6 +162,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
  * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X.
+
+### Files
+* [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. :large_orange_diamond:
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON.
