@@ -11,6 +11,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  - [Getting Started](#getting-started)
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Audio](#audio)
+     - [Bridging](#bridging)
      - [Cache](#cache)
      - [Core Data](#core-data)
      - [Charts](#charts)
@@ -95,6 +96,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [AudioKit](https://github.com/audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
  * [EZAudio](https://github.com/syedhali/EZAudio) - An iOS/OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
  * [novocaine](https://github.com/alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X.
+
+### Bridging
+ * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
 
 ### Cache
  * [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache subclass with on-disk cache support on iPhone/iPad.
