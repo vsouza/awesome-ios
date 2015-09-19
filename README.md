@@ -625,6 +625,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Little Bites of Cocoa](http://littlebitesofcocoa.com) :large_orange_diamond:
  * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
  * [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
+ * [iOS Goodies](http://ios-goodies.com)
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
