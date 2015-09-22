@@ -111,6 +111,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Elegant Line Graphs for iOS (charting library).
  * [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
  * [iOSPlot](https://github.com/honcheng/iOSPlot) - Chart library for iOS.
+ * [XYPieChart](https://github.com/xyfeng/XYPieChart) - A simple and animated Pie Chart for your iOS app.
 
 ### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
