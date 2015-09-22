@@ -658,6 +658,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift/) :large_orange_diamond:
  * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development. :large_orange_diamond:
  * [Cocoa Dev Central](http://cocoadevcentral.com)
+ * [Use Your Loaf](http://useyourloaf.com)
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
