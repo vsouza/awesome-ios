@@ -393,7 +393,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
  * [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
  * [tapkulibrary](https://github.com/devinross/tapkulibrary) - tap + haiku = tapku, a well crafted open source iOS framework.
- * [ComponentKit](https://github.com/devinross/tapkulibrary) - A React-Inspired View Framework for iOS, by Facebook.
+ * [ComponentKit](http://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
