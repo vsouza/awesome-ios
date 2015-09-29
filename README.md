@@ -567,6 +567,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Fabric by Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS.
  * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
+ * [PacketZoom](https://packetzoom.com) PacketZoom SDK for iOS.
 
 ## Unofficial
 
