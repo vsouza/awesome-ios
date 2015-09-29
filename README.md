@@ -399,6 +399,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [tapkulibrary](https://github.com/devinross/tapkulibrary) - tap + haiku = tapku, a well crafted open source iOS framework.
  * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. :large_orange_diamond:
  * [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial. :large_orange_diamond:
+ * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift. :large_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
