@@ -409,7 +409,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants. :large_orange_diamond:
  * [ScrollPager](https://github.com/aryaxt/ScrollPager) - A scroll pager similar to the one in Flipboard :large_orange_diamond:
  * [ComponentKit](http://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
- * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift. :large_orange_diamond:
+ * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in pure Swift. :large_orange_diamond:
  * [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
  * [MZTimerLabel](https://github.com/mineschan/MZTimerLabel) - A handy class for iOS to use UILabel as a countdown timer or stopwatch just like in Apple Clock App.
  * [WobbleView](https://github.com/inFullMobile/WobbleView) - WobbleView is an implementation of a recently popular wobble effect for any view in your app. It can be used to easily add dynamics to user interactions and transitions. :large_orange_diamond:
