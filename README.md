@@ -410,6 +410,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [ScrollPager](https://github.com/aryaxt/ScrollPager) - A scroll pager similar to the one in Flipboard :large_orange_diamond:
  * [ComponentKit](http://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
  * [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
+ * [MZTimerLabel](https://github.com/mineschan/MZTimerLabel) - A handy class for iOS to use UILabel as a countdown timer or stopwatch just like in Apple Clock App.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
