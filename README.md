@@ -155,7 +155,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ##### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
  * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
- * [Intuit](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
+ * [LocationManager](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
  * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
 
 ##### iBeacon
@@ -410,6 +410,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [ScrollPager](https://github.com/aryaxt/ScrollPager) - A scroll pager similar to the one in Flipboard :large_orange_diamond:
  * [ComponentKit](http://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
  * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift. :large_orange_diamond:
+ * [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
+ * [MZTimerLabel](https://github.com/mineschan/MZTimerLabel) - A handy class for iOS to use UILabel as a countdown timer or stopwatch just like in Apple Clock App.
+ * [WobbleView](https://github.com/inFullMobile/WobbleView) - WobbleView is an implementation of a recently popular wobble effect for any view in your app. It can be used to easily add dynamics to user interactions and transitions. :large_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -526,6 +529,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Shark](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum. :large_orange_diamond:
  * [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project. :large_orange_diamond:
  * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings and UIColors). :large_orange_diamond:
+ * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching :large_orange_diamond:
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
@@ -567,6 +571,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Fabric by Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS.
  * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
+ * [PacketZoom](https://packetzoom.com) PacketZoom SDK for iOS.
 
 ## Unofficial
 
@@ -684,6 +689,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development. :large_orange_diamond:
  * [Cocoa Dev Central](http://cocoadevcentral.com)
  * [Use Your Loaf](http://useyourloaf.com)
+ * [Swift Tutorials by Jameson Quave](http://jamesonquave.com/blog/tutorials/) :large_orange_diamond:
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8)
