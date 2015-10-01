@@ -115,6 +115,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [TEAChart](https://github.com/xhacker/TEAChart) - Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
  * [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
  * [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
+ * [chartee](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
 
 ### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
