@@ -116,6 +116,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
  * [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
  * [chartee](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
+ * [ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
 
 ### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
