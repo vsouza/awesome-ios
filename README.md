@@ -628,6 +628,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [JumpMarks](https://github.com/merrickp/JumpMarks) - Navigate your code files with numbered bookmarks.
  * [XCSnippetr](https://github.com/dzenbot/XCSnippetr) - An Xcode Plugin to upload code snippets directly into Slack and Gist.
  * [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
+ * [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
 
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
