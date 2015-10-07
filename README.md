@@ -49,7 +49,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Products](#products)
      - [Utility](#utility)
      - [Security](#security)
-     - [Video](#video)
 
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
