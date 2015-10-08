@@ -129,7 +129,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
  * [Objective-Record](https://github.com/mneorr/Objective-Record) - Objective Record is a lightweight ActiveRecord way of managing Core Data objects.
- * [Magical Record](https://github.com/magicalpanda/MagicalRecord) -  Super Awesome Easy Fetching for Core Data.
  * [SSDataKit](https://github.com/soffes/SSDataKit) - Eliminate your Core Data boilerplate code.
  * [ios-queryable](https://github.com/martydill/ios-queryable) - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data.
  * [ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - ReactiveCoreData (RCD) is an attempt to bring Core Data into the ReactiveCocoa (RAC) world.
