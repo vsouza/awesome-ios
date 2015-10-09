@@ -429,6 +429,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RRNCollapsableSectionTableView](https://github.com/rob-nash/RRNCollapsableSectionTableView) -Collapsable table view sections with custom section header views. :large_orange_diamond:
  * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
  * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation :large_orange_diamond:
+ * [PickerView](https://github.com/filipealva/PickerView) - A customizable alternative to UIPickerView in Swift. :large_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
