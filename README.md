@@ -146,6 +146,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDatabase is an extensible database for iOS & Mac.
  * [Couchbase Mobile](http://developer.couchbase.com/mobile/) - Couchbase document store for mobile with cloud sync.
  * [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite.
+ * [Akaibu-NSUserDefault](https://github.com/roytang121/Akaibu-NSUserDefault) - Key-value store for archiving NSObject in only one line of code. Class properties are automatically mapped and archived under the hood.
 
 ### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
