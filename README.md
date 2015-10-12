@@ -534,7 +534,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Cucumber](http://cukes.info/) - Behavior driver development for iOS.
  * [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
  * [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
- * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/Introduction/Introduction.html) - JavaScript library to write test scripts that exercise your app’s user interface elements while the app runs on a connected device.
+ * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/) - JavaScript library to write test scripts that exercise your app’s user interface elements while the app runs on a connected device.
  * [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
  * [Zucchini](http://www.zucchiniframework.org/) - A visual iOS testing framework that loves your apps.
  * [Remote](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing.
