@@ -489,7 +489,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) - Reusable pre-permissions utility that lets developers ask users for access in their own dialog, before making the system-based request.
   * [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C
   * [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - Some well known CS algorithms & data structures in Objective-C.
-  * [RandomKit](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift. :large_orange_diamond:
   * [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events. :large_orange_diamond:
   * [Colours](https://github.com/bennyguitar/Colours) - A beautiful set of predefined colors and a set of color methods to make your iOS/OSX development life easier.
   * [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
