@@ -82,7 +82,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 - [Contributing](#contributing)
 
 # Getting Started
- * [Road Map iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/) - Start Developing iOS Apps Today, Apple Guide.
+ * [Road Map iOS](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Start Developing iOS Apps Today, Apple Guide. :large_orange_diamond:
  * [Lifehacker](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
  * [Codeproject](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development) - Getting Started with iPhone and iOS Development.
  * [Ray Wenderlich](http://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
@@ -596,7 +596,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK.
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API.
- * [Fabric by Twitter](https://dev.twitter.com/fabric/ios) Fabric Twitter Kit for iOS.
+ * [Fabric by Twitter](https://docs.fabric.io/ios/index.html) Fabric Twitter Kit for iOS.
  * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
  * [PacketZoom](https://packetzoom.com) PacketZoom SDK for iOS.
@@ -766,7 +766,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
  * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
  * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
- * [3D Graphics with Scenekit](http://ronnqvi.st/book/)
  * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426/)
  * [Cocoa Design Patterns](http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 
