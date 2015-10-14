@@ -324,6 +324,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing. :large_orange_diamond:
 
 ### Walkthrough / Intro / Tutorial
+ * [Primer](https://www.goprimer.com) - SDK with no code necessary for creating personalized landing screens, signup, and login flows with built in a/b/n testing.
  * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
  * [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
  * [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
