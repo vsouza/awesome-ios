@@ -444,6 +444,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [PickerView](https://github.com/filipealva/PickerView) - A customizable alternative to UIPickerView written in Swift.
  * [KCSelectionDialog](https://github.com/kciter/KCSelectionDialog) - Simple selection dialog. :large_orange_diamond:
  * [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content.
+ * [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) - UITextField category that adds shake animation. [Also with Swift version](https://github.com/King-Wizard/UITextField-Shake-Swift) :large_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
