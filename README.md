@@ -523,6 +523,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. :large_orange_diamond:
  * [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of XCode. :large_orange_diamond:
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
+ * [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) - Git Submodule Alternative for Cocoa.
 
 
 # Testing
