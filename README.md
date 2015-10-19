@@ -191,7 +191,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
  * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X.
-
+ * [Bolts](https://github.com/BoltsFramework/Bolts-iOS) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier.
+  
 ### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. :large_orange_diamond:
 
