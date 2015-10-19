@@ -669,6 +669,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
  * [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
  * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Flat Color Framework for iOS (Obj-C & Swift) :large_orange_diamond:
+ * [AutoHighlightSymbol](https://github.com/chiahsien/AutoHighlightSymbol) - A Xcode plugin to add highlight to the instances of selected symbol.
 
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
