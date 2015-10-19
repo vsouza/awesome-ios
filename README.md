@@ -105,7 +105,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
  * [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
  * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. http://designcode.io
-
+ * [Canvas](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
+ 
 ### Bridging
  * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
 
