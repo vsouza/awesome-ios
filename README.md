@@ -104,7 +104,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Awesome-iOS-Animation](https://github.com/jackyzh/awesome-ios-animation) - Collection of Animation projects
  * [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
  * [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
- * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. http://designcode.io
+ * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
  * [Canvas](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
  
 ### Bridging
@@ -131,7 +131,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
- * [Objective-Record](https://github.com/mneorr/Objective-Record) - Objective Record is a lightweight ActiveRecord way of managing Core Data objects.
+ * [ObjectiveRecord](https://github.com/supermarin/ObjectiveRecord) - ActiveRecord for Objective-C.
  * [SSDataKit](https://github.com/soffes/SSDataKit) - Eliminate your Core Data boilerplate code.
  * [ios-queryable](https://github.com/martydill/ios-queryable) - ios-queryable is an implementation of IQueryable/IEnumerable for Core Data.
  * [ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData) - ReactiveCoreData (RCD) is an attempt to bring Core Data into the ReactiveCocoa (RAC) world.
@@ -217,7 +217,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [Masonry](https://github.com/SnapKit/Masonry) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax.
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) - UIView category which makes it easy to create layout constraints in code.
 * [Façade](https://github.com/mamaral/Facade) - Programmatic view layout for the rest of us - an autolayout alternative.
-* [PureLayout](https://github.com/smileyborg/PureLayout) - extend UIView/NSView, NSArray, and NSLayoutConstraint with methods which makes it easy to create layout constraints in code.
+* [PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X. :large_orange_diamond:
 * [Cartography](https://github.com/robb/Cartography) - A declarative Auto Layout DSL for Swift :large_orange_diamond:
 
@@ -278,10 +278,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
- * [RestKit](http://restkit.org/) - RestKit is an Objective-C framework for iOS that aims to make interacting with RESTful web services simple, fast and fun.
+ * [RestKit](https://github.com/RestKit/RestKit) - RestKit is an Objective-C framework for iOS that aims to make interacting with RESTful web services simple, fast and fun.
  * [FSNetworking](https://github.com/foursquare/FSNetworking) - Foursquare iOS networking library.
  * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) - Easy to use CFNetwork wrapper for HTTP requests, Objective-C, Mac OS X and iPhone.
- * [Overcoat](https://github.com/gonzalezreal/Overcoat) - Overcoat is a small but powerful library that makes creating REST clients simple and fun.
+ * [Overcoat](https://github.com/Overcoat/Overcoat) - Small but powerful library that makes creating REST clients simple and fun.
  * [ROADFramework](https://github.com/epam/road-ios-framework) - Attributed-oriented approach for interacting with web services. The framework has built-in json and xml serialization for requests and responses and can be easily extensible.
  * [MBNetworkMonitor](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkMonitor.h) - A modern replacement for Apple's `Reachability` class that uses CoreTelephony to report more [information about the user's network connection](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkMonitor.html).
  * [MBNetworkIndicator](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkIndicator.h) - Provides a simple way to [coordinate the device's network activity indicator across multiple. requests](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkIndicator.html).
@@ -295,9 +295,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
- * [PEM](https://github.com/KrauseFx/PEM) - Automatically generate push notification profiles for your server.
+ * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
  * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing.
- * [Urban Airship](http://urbanairship.com/products/mobile-app-engagement#push-messages) - Paid Push Notifications backend.
+ * [Urban Airship](https://www.urbanairship.com/products/platform#push-messages) - Paid Push Notifications backend.
  * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
  * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
 
@@ -354,7 +354,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [BetweenKit](https://github.com/ice3-software/between-kit) - A robust drag-and-drop framework for iOS.
  * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
  * [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - A cool AlertView.
- * [TSMessages](https://github.com/toursprung/TSMessages) - Show notification views on top of screen such as success, error, warning or messages for iOS.
+ * [TSMessages](https://github.com/KrauseFx/TSMessages) - Show notification views on top of screen such as success, error, warning or messages for iOS.
  * [NZAlertView](https://github.com/NZN/NZAlertView) - Simple and intuitive alert view. Similar to push notification effect.
  * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
  * [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews.
@@ -399,7 +399,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS in Swift :large_orange_diamond:
  * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - Enhancing the back button with view history navigation. :large_orange_diamond:
  * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift. :large_orange_diamond:
- * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications. LNRSimpleNotifications is a simplified Swift port of [TSMessages](https://github.com/toursprung/TSMessages). :large_orange_diamond:
+ * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications. LNRSimpleNotifications is a simplified Swift port of [TSMessages](https://github.com/KrauseFx/TSMessages). :large_orange_diamond:
  * [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
  * [SAInboxViewController](https://github.com/szk-atmosphere/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning. :large_orange_diamond:
  * [TLYShyNavBar](https://github.com/telly/TLYShyNavBar) - Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!
@@ -411,7 +411,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iCarousel](https://github.com/nicklockwood/iCarousel) - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS.
  * [RESideMenu](https://github.com/romaonthego/RESideMenu) - iOS 7/8 style side menu with parallax effect inspired by Dribbble shots.
  * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
- * [Cocoa Controls](http://www.cocoacontrols.com) - Open source UI components for iOS and OS X.
+ * [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and OS X.
  * [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) :large_orange_diamond:
  * [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
  * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout whitch can move item with drag and drop.
@@ -456,7 +456,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [CardAnimation](https://github.com/seedante/CardAnimation) - Card flipping-style animation :large_orange_diamond:
  * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox#sample-app) - Tasteful Checkbox for iOS. (Check box)
  * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
- * 
+
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -480,7 +480,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more.
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
  * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together.
- * [Answers by Fabric](https://get.fabric.io/answers) - Answers gives you real-time insight into people’s experience in your app.
+ * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
  * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
  * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
  * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
@@ -530,9 +530,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 
 # Dependency / Package Manager
- * [Cocoa Pods](http://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
+ * [Cocoa Pods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
  * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
- * [Gradle](http://openbakery.org/gradle.php) - The gradle xcode plugin can be used to build iOS or Mac OS X Projects using gradle.
+ * [Gradle](http://openbakery.org/gradle.html) - The gradle xcode plugin can be used to build iOS or Mac OS X Projects using gradle.
  * [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. :large_orange_diamond:
  * [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of XCode. :large_orange_diamond:
  * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
@@ -554,12 +554,12 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
  * [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
  * [robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary) - AppiumLibrary is an appium testing library for RobotFramework.
- * [Cucumber](http://cukes.info/) - Behavior driver development for iOS.
+ * [Cucumber](https://cucumber.io/) - Behavior driver development for iOS.
  * [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
  * [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
  * [UIAutomation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/) - JavaScript library to write test scripts that exercise your app’s user interface elements while the app runs on a connected device.
  * [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.
- * [Zucchini](http://www.zucchiniframework.org/) - A visual iOS testing framework that loves your apps.
+ * [Zucchini](https://github.com/zucchini-src/zucchini) - A visual iOS testing framework that loves your apps.
  * [Remote](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing.
 
 ### Other Testing
@@ -568,7 +568,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
 
 ### Beta Distribution
- * [Crashlytics](https://www.crashlytics.com/) - A crash reporting and beta testing service.
+ * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
  * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
  * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
@@ -652,7 +652,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string. :large_orange_diamond:
  * [KPRunEverywhereXcodePlugin](https://github.com/kitschpatrol/KPRunEverywhereXcodePlugin) - An Xcode plugin to build and run an app across multiple iOS devices with one click.
  * [RevealPlugin](https://github.com/shjborage/Reveal-Plugin-for-Xcode) - Plugin for Xcode to integrate the Reveal App to your project automatic.
- * [RealmPlugin](http://realm.io/docs/cocoa/0.81.0/)- Xcode plugin to generate new Realm models.
+ * [RealmPlugin](https://realm.io/docs/objc/0.81.0/#xcode-plugin)- Xcode plugin to generate new Realm models.
  * [AdjustFontSize](https://github.com/zats/AdjustFontSize-Xcode-Plugin) - Instant font size adjustment with `⌘ +` / `⌘ -`.
  * [Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
  * [Rephrase](https://www.rephrase.io) - Localise from Xcode.
@@ -703,16 +703,16 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Lifehacker](http://lifehacker.com/tag/ios)
  * [iCode Blog](http://www.icodeblog.com/)
  * [NSHipster](http://nshipster.com)
- * [Objc.io](http://www.objc.io)
+ * [Objc.io](https://www.objc.io/)
  * [ASCIIwwdc](http://asciiwwdc.com)
  * [Natasha The Robot](http://natashatherobot.com)
  * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) :large_orange_diamond:
- * [iOS Programming Subreddit](http://www.reddit.com/r/iosprogramming)
+ * [iOS Programming Subreddit](https://www.reddit.com/r/iosprogramming)
  * [iOS Dev Weekly](https://iosdevweekly.com/)
  * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) :large_orange_diamond:
  * [iOScreator](http://www.ioscreator.com/) :large_orange_diamond:
  * [Mathew Sanders](http://mathewsanders.com/) :large_orange_diamond:
- * [Little Bites of Cocoa](http://littlebitesofcocoa.com) :large_orange_diamond:
+ * [Little Bites of Cocoa](https://littlebitesofcocoa.com/) :large_orange_diamond:
  * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
  * [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
  * [iOS Goodies](http://ios-goodies.com)
@@ -734,26 +734,26 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
  * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
  * [RAYWENDERLICH](http://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
- * [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/)
+ * [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index)
  * [Mike Ash](https://www.mikeash.com/pyblog/)
  * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) :large_orange_diamond:
  * [Tuts+](http://code.tutsplus.com/categories/ios-sdk) :large_orange_diamond:
  * [iOS-Blog](http://ios-blog.co.uk/) :large_orange_diamond:
- * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift/) :large_orange_diamond:
+ * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift) :large_orange_diamond:
  * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development. :large_orange_diamond:
  * [Cocoa Dev Central](http://cocoadevcentral.com)
  * [Use Your Loaf](http://useyourloaf.com)
  * [Swift Tutorials by Jameson Quave](http://jamesonquave.com/blog/tutorials/) :large_orange_diamond:
 
 ### iOS UI Template
- * [App Icon Template](http://appicontemplate.com/ios8)
- * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone)
+ * [App Icon Template](http://appicontemplate.com/ios8/)
+ * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone/)
  * [iOS UI Design Kit](http://www.invisionapp.com/tethr)
  * [iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
 
 ### Prototyping
  * [FluidUI](https://www.fluidui.com)
- * [Proto.io](http://proto.io)
+ * [Proto.io](https://proto.io/)
  * [Framer](http://framerjs.com/)
  * [Pixate](http://www.pixate.com/)
  * [Principle](http://principleformac.com)
@@ -786,7 +786,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf)
  * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) :large_orange_diamond:
  * [Using Swift with Cocoa and Objective C by Apple](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) :large_orange_diamond:
- * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](http://www.bignerdranch.com/we-write/ios-programming.html)
+ * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/we-write/ios-programming/)
  * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
  * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
  * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
