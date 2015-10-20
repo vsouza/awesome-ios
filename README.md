@@ -610,7 +610,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket.
  * [Tumblr](https://github.com/tumblr/TMTumblrSDK) Library for easily integrating Tumblr data into your iOS or OS X application.
  * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS.
- * [Box](https://github.com/box/box-ios-sdk-v2) iOS + OS X SDK for the Box API.
+ * [Box](https://github.com/box/box-ios-sdk) iOS + OS X SDK for the Box API.
  * [OneDrive](https://github.com/OneDrive/onedrive-sdk-ios) Live SDK for iOS.
  * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X.
  * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
