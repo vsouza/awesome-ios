@@ -294,6 +294,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [NKMultipeer](https://github.com/nathankot/NKMultipeer) - A testable abstraction over multipeer connectivity. :large_orange_diamond:
  * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS.
  * [Siesta](https://bustoutsolutions.github.io/siesta/) - Elegant abstraction for RESTful resources that untangles stateful messes. An alternative to callback- and delegate-based networking. :large_orange_diamond:
+ * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures :large_orange_diamond:
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
@@ -462,7 +463,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Atlas-iOS](http://atlas.layer.com/) - Atlas is a library of native iOS communications user interface components for Layer.
  * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift http://tbxark.github.io :large_orange_diamond:
  * [HorizontalProgress](https://github.com/AliThink/HorizontalProgress) - Simple horizontal progress bar with animation
- * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection http://tbxark.github.io
+ * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection http://tbxark.github.io :large_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
