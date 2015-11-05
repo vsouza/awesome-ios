@@ -461,7 +461,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox#sample-app) - Tasteful Checkbox for iOS. (Check box)
  * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
  * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View, written in Swift. :large_orange_diamond:
- * [Atlas-iOS](http://atlas.layer.com/) - Atlas is a library of native iOS communications user interface components for Layer.
+ * [Atlas-iOS](https://atlas.layer.com/ios) - Atlas is a library of native iOS communications user interface components for Layer.
  * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift http://tbxark.github.io :large_orange_diamond:
  * [HorizontalProgress](https://github.com/AliThink/HorizontalProgress) - Simple horizontal progress bar with animation
  * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection http://tbxark.github.io :large_orange_diamond:
@@ -607,9 +607,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
 
 # Deployment
- * [fastlane](https://github.com/KrauseFx/fastlane) Connect all iOS deployment tools into one streamlined workflow.
- * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command.
- * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices.
+ * [fastlane](https://github.com/fastlane/fastlane) Connect all iOS deployment tools into one streamlined workflow.
+ * [deliver](https://github.com/fastlane/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command.
+ * [snapshot](https://github.com/fastlane/snapshot) Automatically create screenshots in all languages on all devices.
 
 # App Store
  * [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
