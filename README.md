@@ -739,6 +739,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
  * [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
  * [iOS Goodies](http://ios-goodies.com)
+ * [iOS Developer and Designer interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
