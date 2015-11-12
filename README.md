@@ -717,6 +717,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0) -
 * [Github - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) - A guide to our Swift style and conventions by @github. :large_orange_diamond:
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Aymenworks](https://github.com/Aymenworks/iOS-Swift-Good-Practices) - Swift good practices/hints :large_orange_diamond:
 
 # Good Websites
 
@@ -739,7 +740,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
  * [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
  * [iOS Goodies](http://ios-goodies.com)
- * [iOS Developer and Designer interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
@@ -825,12 +825,12 @@ Other amazingly awesome lists can be found in the
    * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
    * [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
  * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials. :watch:
+ * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
  * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
  * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
  * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
- * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
