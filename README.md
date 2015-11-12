@@ -717,6 +717,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0) -
 * [Github - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) - A guide to our Swift style and conventions by @github. :large_orange_diamond:
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Aymenworks](https://github.com/Aymenworks/iOS-Swift-Good-Practices) - Swift good practices/hints :large_orange_diamond:
 
 # Good Websites
 
