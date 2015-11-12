@@ -630,7 +630,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
  * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket.
  * [Tumblr](https://github.com/tumblr/TMTumblrSDK) Library for easily integrating Tumblr data into your iOS or OS X application.
- * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS.
+ * [Evernote](https://github.com/evernote/evernote-cloud-sdk-ios) Evernote SDK for iOS.
  * [Box](https://github.com/box/box-ios-sdk) iOS + OS X SDK for the Box API.
  * [OneDrive](https://github.com/OneDrive/onedrive-sdk-ios) Live SDK for iOS.
  * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X.
