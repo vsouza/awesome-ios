@@ -69,7 +69,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Other Xcode](#other-xcode)
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
-    - [News, Blogs and Feeds](#news-blogs-and-feeds)
+    - [News, Blogs and more](#news-blogs-and-more)
     - [UIKIt references](#uikit-references)
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
@@ -720,7 +720,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 # Good Websites
 
-### News, Blogs and Feeds
+### News, Blogs and more
  * [BGR](http://bgr.com/ios-7/)
  * [iMore](http://www.imore.com/)
  * [Lifehacker](http://lifehacker.com/tag/ios)
