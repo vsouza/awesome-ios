@@ -69,7 +69,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Other Xcode](#other-xcode)
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
-    - [News, Blogs and Feeds](#news-blogs-and-feeds)
+    - [News, Blogs and more](#news-blogs-and-more)
     - [UIKIt references](#uikit-references)
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
@@ -107,6 +107,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
  * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
  * [Canvas](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
+ * [Fluent](https://github.com/matthewcheok/Fluent) - Swift animation made easy :large_orange_diamond:
 
 ### Bridging
  * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
@@ -153,6 +154,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [FMDB](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite.
  * [Akaibu-NSUserDefaults](https://github.com/roytang121/Akaibu-NSUserDefaults) - a Swifty Key-value store for archiving NSObject in only one line of code. Class properties are automatically mapped and archived under the hood.
  * [FCModel](https://github.com/marcoarment/FCModel) - An alternative to Core Data for people who like having direct SQL access.
+ * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly sync NSUserDefaults over iCloud :large_orange_diamond:
 
 ### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
@@ -195,6 +197,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
  * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X.
  * [Bolts](https://github.com/BoltsFramework/Bolts-iOS) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
+ * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.  :large_orange_diamond:
 
 ### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. :large_orange_diamond:
@@ -213,6 +216,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON. :large_orange_diamond:
  * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators. :large_orange_diamond:
  * [Gloss](https://github.com/hkellaway/Gloss) - A shiny JSON parsing library in Swift. :large_orange_diamond:
+ * [Cereal](https://github.com/Weebly/Cereal) - Swift object serialization :large_orange_diamond:
+ * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model. :large_orange_diamond:
 
 ### Layout
 * [ios-flexboxkit](https://github.com/alexdrone/ios-flexboxkit) - A simple UIKit extension to wrap Flexbox layouts.
@@ -295,6 +300,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS.
  * [Siesta](https://bustoutsolutions.github.io/siesta/) - Elegant abstraction for RESTful resources that untangles stateful messes. An alternative to callback- and delegate-based networking. :large_orange_diamond:
  * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures :large_orange_diamond:
+ * [NetworkEye](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
@@ -328,6 +334,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome) - NSString+FontAwesome.
  * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension :large_orange_diamond:
  * [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing. :large_orange_diamond:
+ * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency :large_orange_diamond:
+ * [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber. :large_orange_diamond:
 
 ### Walkthrough / Intro / Tutorial
  * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
@@ -460,13 +468,21 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox#sample-app) - Tasteful Checkbox for iOS. (Check box)
  * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
  * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View, written in Swift. :large_orange_diamond:
- * [Atlas-iOS](http://atlas.layer.com/) - Atlas is a library of native iOS communications user interface components for Layer.
+ * [Atlas-iOS](https://atlas.layer.com/ios) - Atlas is a library of native iOS communications user interface components for Layer.
  * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift http://tbxark.github.io :large_orange_diamond:
  * [HorizontalProgress](https://github.com/AliThink/HorizontalProgress) - Simple horizontal progress bar with animation
  * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection http://tbxark.github.io :large_orange_diamond:
  * [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - Easy customizable avatar image asynchronously with progress bar animated :large_orange_diamond:
  * [iOS-CircleProgressView](https://github.com/CardinalNow/iOS-CircleProgressView) - This control will allow a user to use code instantiated or interface builder to create and render a circle progress view. :large_orange_diamond:
  * [Hamburger-Menu-Button](https://github.com/toannt/Hamburger-Menu-Button) - A hamburger menu button with full customization. :large_orange_diamond:
+ * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift :large_orange_diamond:
+ * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder. :large_orange_diamond:
+ * [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) - Easy, customizable notifications displayed on top of the statusbar.
+ * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu/tree/swift_2.0) - Guillotine (Drop down) transitioning animation menu :large_orange_diamond:
+ * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app. :large_orange_diamond:
+ * [YALField](https://github.com/Yalantis/YALField?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_43) - Custom Field component with validation for creating easier form-like UI from interface builder.
+ * [StarryStars](https://github.com/peterprokop/StarryStars?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - iOS GUI library for displaying and editing ratings
+ * [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -483,7 +499,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [spacecommander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
  * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
  * [DCIntrospect](https://github.com/domesticcatsoftware/DCIntrospect) - Small library of visual debugging tools for iOS.
- * [Watchdog](https://github.com/wojteklukaszuk/Watchdog) - Class for logging excessive blocking on the main thread :large_orange_diamond:
+ * [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread :large_orange_diamond:
  * [Tailor](http://tailor.sh/) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Analytics
@@ -522,9 +538,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [GroundControl](https://github.com/mattt/GroundControl) - Remote configuration for iOS.
   * [OpinionatedC](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
   * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
-  * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data. :large_orange_diamond:  
+  * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data. :large_orange_diamond:
   * [RandomKit](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift. :large_orange_diamond:
   * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch :large_orange_diamond:
+  * [YOLOKit](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
 
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
@@ -532,6 +549,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
  * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
  * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
+ * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -595,6 +613,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching :large_orange_diamond:
  * [Blade](https://github.com/jondot/blade) - Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.
  * [Retini](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
+ * [Provisioning](https://github.com/chockenberry/Provisioning) - A Quick Look plug-in to preview .mobileprovision files.
  * [Strsync] (https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
 
 # Rapid Development
@@ -606,9 +625,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
 
 # Deployment
- * [fastlane](https://github.com/KrauseFx/fastlane) Connect all iOS deployment tools into one streamlined workflow.
- * [deliver](https://github.com/krausefx/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command.
- * [snapshot](https://github.com/krausefx/snapshot) Automatically create screenshots in all languages on all devices.
+ * [fastlane](https://github.com/fastlane/fastlane) Connect all iOS deployment tools into one streamlined workflow.
+ * [deliver](https://github.com/fastlane/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command.
+ * [snapshot](https://github.com/fastlane/snapshot) Automatically create screenshots in all languages on all devices.
 
 # App Store
  * [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
@@ -625,7 +644,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
  * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket.
  * [Tumblr](https://github.com/tumblr/TMTumblrSDK) Library for easily integrating Tumblr data into your iOS or OS X application.
- * [Evernote](https://github.com/evernote/evernote-sdk-ios) Evernote SDK for iOS.
+ * [Evernote](https://github.com/evernote/evernote-cloud-sdk-ios) Evernote SDK for iOS.
  * [Box](https://github.com/box/box-ios-sdk) iOS + OS X SDK for the Box API.
  * [OneDrive](https://github.com/OneDrive/onedrive-sdk-ios) Live SDK for iOS.
  * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and OS X.
@@ -689,6 +708,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Flat Color Framework for iOS (Obj-C & Swift) :large_orange_diamond:
  * [AutoHighlightSymbol](https://github.com/chiahsien/AutoHighlightSymbol) - A Xcode plugin to add highlight to the instances of selected symbol.
  * [Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-Github) - Xcode plugin to let you jump to GitHub History, Blame, PRs, Issues, Notifications of any GitHub repo with one shortcut.
+ * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A simple iSort like header sorting and duplicate removal plugin for Xcode, makes your headers look more organized.
 
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
@@ -713,7 +733,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 # Good Websites
 
-### News, Blogs and Feeds
+### News, Blogs and more
  * [BGR](http://bgr.com/ios-7/)
  * [iMore](http://www.imore.com/)
  * [Lifehacker](http://lifehacker.com/tag/ios)
@@ -732,6 +752,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
  * [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
  * [iOS Goodies](http://ios-goodies.com)
+ * [iOS Developer and Designer interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
+ * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
+
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
@@ -822,7 +845,6 @@ Other amazingly awesome lists can be found in the
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
  * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
  * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
- * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
