@@ -12,7 +12,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Audio](#audio)
      - [Animation](#animation)
-     - [Apple TV](#apple-tv
+     - [Apple TV](#apple-tv)
      - [Bridging](#bridging)
      - [Cache](#cache)
      - [Core Data](#core-data)
