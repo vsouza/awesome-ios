@@ -488,6 +488,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SevenSwitch](https://github.com/bvogelzang/SevenSwitch) - iOS7 style drop in replacement for UISwitch. :large_orange_diamond:
  * [RadialLayer](https://github.com/soheil/RadialLayer) - Animation for clickable elements :large_orange_diamond:
  * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift. :large_orange_diamond:
+ * [RPLoadingAnimation](https://github.com/naoyashiga/RPLoadingAnimation?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - Loading animations by using Swift CALayer :large_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
