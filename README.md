@@ -12,6 +12,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Audio](#audio)
      - [Animation](#animation)
+     - [Apple TV](#apple-tv
      - [Bridging](#bridging)
      - [Cache](#cache)
      - [Core Data](#core-data)
@@ -110,6 +111,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Canvas](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
  * [Fluent](https://github.com/matthewcheok/Fluent) - Swift animation made easy :large_orange_diamond:
  * [Cheetah](https://github.com/suguru/Cheetah) - Easy animation library on iOS with Swift2. :large_orange_diamond:
+ * 
+### Apple TV
+ * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 
 ### Bridging
  * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
