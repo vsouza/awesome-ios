@@ -486,6 +486,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts
  * [SevenSwitch](https://github.com/bvogelzang/SevenSwitch) - iOS7 style drop in replacement for UISwitch. :large_orange_diamond:
  * [RadialLayer](https://github.com/soheil/RadialLayer) - Animation for clickable elements
+ * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift.
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
