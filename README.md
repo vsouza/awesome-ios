@@ -614,6 +614,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Blade](https://github.com/jondot/blade) - Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.
  * [Retini](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
  * [Provisioning](https://github.com/chockenberry/Provisioning) - A Quick Look plug-in to preview .mobileprovision files.
+ * [Strsync] (https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
