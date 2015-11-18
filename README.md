@@ -344,6 +344,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing. :large_orange_diamond:
  * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency :large_orange_diamond:
  * [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber. :large_orange_diamond:
+ * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text. 
 
 ### Walkthrough / Intro / Tutorial
  * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
