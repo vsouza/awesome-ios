@@ -11,18 +11,20 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  - [Getting Started](#getting-started)
  - [Library and Frameworks](#libraries-and-frameworks)
      - [Audio](#audio)
+     - [Analytics](#analytics)
      - [Animation](#animation)
      - [Apple TV](#apple-tv)
      - [Bridging](#bridging)
      - [Cache](#cache)
+     - [Code Quality](#code-quality)
      - [Core Data](#core-data)
      - [Charts](#charts)
      - [Database](#database)
      - [Hardware](#hardware)
-         - [Motion](#motion)
          - [Bluetooth](#bluetooth)
-         - [Location](#location)
          - [iBeacon](#ibeacon)
+         - [Location](#location)
+         - [Motion](#motion)
      - [HUD](#hud)
      - [EventBus](#eventbus)
      - [Files](#files)
@@ -31,32 +33,30 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Logging](#logging)
      - [Maps](#maps)
      - [Media](#media)
-         - [Image](#image)
          - [Video](#video)
+         - [Image](#image)
          - [PDF](#pdf)
      - [Messaging](#messaging)
      - [Networking](#networking)
-     - [Push Notifications](#push-notifications)
      - [Passbook](#passbook)
-     - [Permissions](#permissions)
-     - [Text](#text)
-     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
-     - [URL Scheme](#url-scheme)
-     - [UI](#ui)
-     - [Websocket](#websocket)
-     - [Code Quality](#code-quality)
-     - [Analytics](#analytics)
      - [Payments](#payments)
+     - [Permissions](#permissions)
      - [Products](#products)
-     - [Utility](#utility)
+     - [Push Notifications](#push-notifications)
      - [Security](#security)
+     - [Text](#text)
+     - [UI](#ui)
+     - [URL Scheme](#url-scheme)
+     - [Utility](#utility)
+     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
+     - [Websocket](#websocket)
 
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
+    - [Beta Distribution](#beta-distribution)
     - [TDD / BDD](#tdd--bdd)
     - [UI Testing](#ui-testing)
-    - [Beta Distribution](#beta-distribution)
     - [Other Testing](#other-testing)
 - [Toolchains](#toolchains)
 - [Tools](#tools)
@@ -100,7 +100,18 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) - Queue management system for AVSpeechSynthesizer (iOS Text to Speech).
  * [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
  * [sound-fader-ios](https://github.com/evgenyneu/sound-fader-ios) - A sound fader for AVAudioPlayer written in Swift. :large_orange_diamond:
- 
+
+### Analytics
+ * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
+ * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more.
+ * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
+ * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together.
+ * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
+ * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
+ * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
+ * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
+ * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
+
 ### Animation
  * [Pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
@@ -125,20 +136,20 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content :large_orange_diamond:
  * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache :large_orange_diamond:
 
-### Charts
- * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). :large_orange_diamond:
- * [JTChartView](https://github.com/kubatru/JTChartView) - JTChartView is the new lightweight and fully customizable solution to draw a chart.
- * [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS
- * [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Elegant Line Graphs for iOS (charting library).
- * [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
- * [iOSPlot](https://github.com/honcheng/iOSPlot) - Chart library for iOS.
- * [XYPieChart](https://github.com/xyfeng/XYPieChart) - A simple and animated Pie Chart for your iOS app.
- * [TEAChart](https://github.com/xhacker/TEAChart) - Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
- * [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
- * [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
- * [chartee](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
- * [ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
- * [TWRCharts](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
+### Code Quality
+ * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - Set of scripts and annotations that generate extra compile time errors and warnings on bad code quality.
+ * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beautiful DSL.
+ * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
+ * [Flex](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS.
+ * [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
+ * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
+ * [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker.
+ * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions. :large_orange_diamond:
+ * [spacecommander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
+ * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
+ * [DCIntrospect](https://github.com/domesticcatsoftware/DCIntrospect) - Small library of visual debugging tools for iOS.
+ * [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread :large_orange_diamond:
+ * [Tailor](http://tailor.sh/) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 
 ### Core Data
  * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
@@ -155,6 +166,21 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [QueryKit](https://github.com/QueryKit/QueryKit) - A simple type-safe Core Data query language. :large_orange_diamond:
  * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Powerful Core Data framework for Incremental Migrations, Fetching, Observering, etc. :large_orange_diamond:
 
+### Charts
+ * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). :large_orange_diamond:
+ * [JTChartView](https://github.com/kubatru/JTChartView) - JTChartView is the new lightweight and fully customizable solution to draw a chart.
+ * [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS
+ * [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Elegant Line Graphs for iOS (charting library).
+ * [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
+ * [iOSPlot](https://github.com/honcheng/iOSPlot) - Chart library for iOS.
+ * [XYPieChart](https://github.com/xyfeng/XYPieChart) - A simple and animated Pie Chart for your iOS app.
+ * [TEAChart](https://github.com/xhacker/TEAChart) - Simple and intuitive iOS chart library. Contribution graph, clock chart, and bar chart.
+ * [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
+ * [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
+ * [chartee](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
+ * [ANDLineChartView](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
+ * [TWRCharts](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
+
 ### Database
  * [Realm](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
  * [YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDatabase is an extensible database for iOS & Mac.
@@ -169,9 +195,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
 
 ### Hardware
-##### Motion
- * [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
-
 ##### Bluetooth
  * [Discovery](https://github.com/omergul123/Discovery) - A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
  * [LGBluetooth](https://github.com/l0gg3r/LGBluetooth) - Simple, block-based, lightweight library over CoreBluetooth. Will clean up your Core Bluetooth related code.
@@ -179,18 +202,21 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [simple-share](https://github.com/lauraskelton/simple-share) - Easy Proximity-based Bluetooth LE Sharing for iOS.
  * [BluetoothKit](https://github.com/rasmusth/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE. :large_orange_diamond:
 
-##### Location
- * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
- * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
- * [LocationManager](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
- * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
-
 ##### iBeacon
  * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
  * [OWUProximityManager](https://github.com/ohwutup/OWUProximityManager) - A handy iBeacon + CoreBluetooth manager.
  * [Vicinity](https://github.com/Instrument/Vicinity) - Vicinity replicates iBeacons (by analyzing RSSI) and supports broadcasting and detecting low-energy bluetooth devices in the background.
  * [BeaconEmitter](https://github.com/lgaches/BeaconEmitter) - Turn your Mac as an iBeacon.
  * [OWUProximityManager](https://github.com/ohwutup/OWUProximityManager) - iBeacons + CoreBluetooth.
+
+##### Location
+ * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
+ * [Proxitee](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
+ * [LocationManager](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
+ * [LocationKit](https://locationkit.io) - Advanced location SDK - highly accurate location data with very low battery drain and contextual location information
+
+##### Motion
+ * [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
 
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
@@ -279,13 +305,13 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web. :large_orange_diamond:
  * [YYWebImage](https://github.com/ibireme/YYWebImage) - Asynchronous image loading framework (supports WebP, APNG, GIF).
 
-##### Video
- * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
- * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
-
 ##### PDF
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
 * [UIView 2 PDF](https://github.com/RobertAPhillips/UIView_2_PDF) - https://github.com/RobertAPhillips/UIView_2_PDF
+
+##### Video
+ * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
+ * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 
 ### Messaging
  * [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
@@ -312,18 +338,16 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures :large_orange_diamond:
  * [NetworkEye](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
 
-### Push Notifications
- * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
- * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
- * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing.
- * [Urban Airship](https://www.urbanairship.com/products/platform#push-messages) - Paid Push Notifications backend.
- * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
- * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
-
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
  * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
  * [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
+
+### Payments
+ * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
+ * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
+ * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
+ * [Moltin](https://moltin.com/ios-ecommerce-sdk) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
 
 ### Permissions
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API (Supports Location, Notifications, Camera, Contacts, Calendar, Photos, Microphone, BT, Activity Monitoring, HealthKit and CloudKit). :large_orange_diamond:
@@ -332,6 +356,26 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [VWWPermissionKit](https://github.com/zakkhoyt/VWWPermissionKit) - A visual permission manager for iOS.
 * [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) - A unified way for iOS apps to request user permissions.
 * [JLPermissions](https://github.com/jlaws/JLPermissions) - An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.
+
+### Products
+ * [Import.io](https://import.io) - Instantly Turn Web Pages into Data.
+ * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
+
+### Push Notifications
+ * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
+ * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
+ * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing.
+ * [Urban Airship](https://www.urbanairship.com/products/platform#push-messages) - Paid Push Notifications backend.
+ * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
+ * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
+
+### Security
+ * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
+ * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
+ * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
+ * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
+ * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
+ * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
@@ -346,26 +390,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing. :large_orange_diamond:
  * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency :large_orange_diamond:
  * [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber. :large_orange_diamond:
- * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text. 
-
-### Walkthrough / Intro / Tutorial
- * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
- * [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
- * [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
- * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
- * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough) - A UICollectionView backed drop-in component for introduction views.
- * [ICETutorial](https://github.com/icepat/ICETutorial) - A nice tutorial like the one introduced in the Path 3.X App.
- * [JazzHands](https://github.com/IFTTT/JazzHands) - Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
- * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros. :large_orange_diamond:
- * [Instructions](https://github.com/ephread/Instructions) - Easily add customizable coach marks into you iOS project. :large_orange_diamond:
- * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift. :large_orange_diamond:
- * [Primer](https://www.goprimer.com) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
-
-### URL Scheme
- * [WAAppRouting](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
- * [DeepLinkKit](https://github.com/usebutton/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
- * [IntentKit](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
- * [JLRoutes](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API.
+ * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
 ### UI
  * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
@@ -505,44 +530,11 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift). :large_orange_diamond:
  * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 
-### WebSocket
- * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
-
-### Code Quality
- * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - Set of scripts and annotations that generate extra compile time errors and warnings on bad code quality.
- * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beautiful DSL.
- * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
- * [Flex](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS.
- * [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
- * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
- * [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker.
- * [SwiftLint](https://github.com/realm/SwiftLint) - An experimental tool to enforce Swift style and conventions. :large_orange_diamond:
- * [spacecommander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
- * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
- * [DCIntrospect](https://github.com/domesticcatsoftware/DCIntrospect) - Small library of visual debugging tools for iOS.
- * [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread :large_orange_diamond:
- * [Tailor](http://tailor.sh/) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
-
-### Analytics
- * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
- * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more.
- * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
- * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together.
- * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
- * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
- * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
- * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
- * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
-
-### Payments
- * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
- * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
- * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
- * [Moltin](https://moltin.com/ios-ecommerce-sdk) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
-
-### Products
- * [Import.io](https://import.io) - Instantly Turn Web Pages into Data.
- * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
+### URL Scheme
+ * [WAAppRouting](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
+ * [DeepLinkKit](https://github.com/usebutton/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
+ * [IntentKit](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
+ * [JLRoutes](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API.
 
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
@@ -564,13 +556,21 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch :large_orange_diamond:
   * [YOLOKit](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
 
-### Security
- * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
- * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
- * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
- * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
- * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
- * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
+### Walkthrough / Intro / Tutorial
+ * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
+ * [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
+ * [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
+ * [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
+ * [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough) - A UICollectionView backed drop-in component for introduction views.
+ * [ICETutorial](https://github.com/icepat/ICETutorial) - A nice tutorial like the one introduced in the Path 3.X App.
+ * [JazzHands](https://github.com/IFTTT/JazzHands) - Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
+ * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros. :large_orange_diamond:
+ * [Instructions](https://github.com/ephread/Instructions) - Easily add customizable coach marks into you iOS project. :large_orange_diamond:
+ * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift. :large_orange_diamond:
+ * [Primer](https://www.goprimer.com) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
+
+### WebSocket
+ * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -590,6 +590,13 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 
 # Testing
+
+### Beta Distribution
+ * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
+ * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
+ * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
+ * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
+ * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
 
 ### TDD / BDD
  * [Kiwi](https://github.com/kiwi-bdd/Kiwi) - A behavior-driven development library for iOS development.
@@ -616,13 +623,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
  * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
  * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
-
-### Beta Distribution
- * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
- * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
- * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
- * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
- * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
 
 # Toolchains
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
