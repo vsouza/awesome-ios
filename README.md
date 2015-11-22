@@ -641,6 +641,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Provisioning](https://github.com/chockenberry/Provisioning) - A Quick Look plug-in to preview .mobileprovision files.
  * [Strsync](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
  * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …) :large_orange_diamond:
+ * [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
