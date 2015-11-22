@@ -641,6 +641,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Retini](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
  * [Provisioning](https://github.com/chockenberry/Provisioning) - A Quick Look plug-in to preview .mobileprovision files.
  * [Strsync] (https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
+ * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …) :large_orange_diamond:
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
