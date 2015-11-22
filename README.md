@@ -694,6 +694,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
  * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
  * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
+ * [DropletKit](https://github.com/victorgama/DropletKit) - Objective-C Wrapper for DigitalOcean v2 API.
 
 # Xcode
 
