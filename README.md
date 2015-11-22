@@ -779,6 +779,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iOS Goodies](http://ios-goodies.com)
  * [iOS Developer and Designer interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
+ * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
 
 
 ### UIKit references
@@ -828,6 +829,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [@CocoaPods](https://twitter.com/CocoaPods)
  * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
  * [@RubyMotion](https://twitter.com/RubyMotion)
+ * [@SwiftSandbox](https://twitter.com/SwiftSandbox) - Swift open source news, projects and resources.
+
 
 # Facebook Groups
  * [HH iOS](https://www.facebook.com/groups/hhios/)
