@@ -100,7 +100,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) - Queue management system for AVSpeechSynthesizer (iOS Text to Speech).
  * [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
  * [sound-fader-ios](https://github.com/evgenyneu/sound-fader-ios) - A sound fader for AVAudioPlayer written in Swift. :large_orange_diamond:
- 
+
 ### Animation
  * [Pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
@@ -346,7 +346,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RichEditorView](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing. :large_orange_diamond:
  * [Money](https://github.com/danthorpe/Money) - Swift value types for working with money & currency :large_orange_diamond:
  * [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber. :large_orange_diamond:
- * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text. 
+ * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
 ### Walkthrough / Intro / Tutorial
  * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
@@ -639,7 +639,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Blade](https://github.com/jondot/blade) - Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.
  * [Retini](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
  * [Provisioning](https://github.com/chockenberry/Provisioning) - A Quick Look plug-in to preview .mobileprovision files.
- * [Strsync] (https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
+ * [Strsync](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
  * [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …) :large_orange_diamond:
 
 # Rapid Development
