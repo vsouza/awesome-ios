@@ -103,6 +103,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Animation
  * [Pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
+ * [Pop By Example](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - A project tutorial in how to use Pop animation framework by example.
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
  * [Awesome-iOS-Animation](https://github.com/jackyzh/awesome-ios-animation) - Collection of Animation projects
  * [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
@@ -373,6 +374,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ### UI
  * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
  * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
+ * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu) - a lightweight, fully customizable side menu for iOS inspired from [TimeLine app](https://itunes.apple.com/us/app/timeline-news-in-context/id948867534?mt=8&ign-mpt=uo%3D4). Built with spring animations using Facebook Pop.
  * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
  * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
