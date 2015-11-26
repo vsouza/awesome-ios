@@ -686,6 +686,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [fastlane](https://github.com/fastlane/fastlane) Connect all iOS deployment tools into one streamlined workflow.
  * [deliver](https://github.com/fastlane/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command.
  * [snapshot](https://github.com/fastlane/snapshot) Automatically create screenshots in all languages on all devices.
+ * [buddybuild](buddybuild.com) - A mobile iteration platform - build, deploy, and collaborate.
 
 # App Store
  * [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
