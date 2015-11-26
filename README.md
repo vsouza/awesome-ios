@@ -48,7 +48,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
          - [Alert View](#alert-view)
          - [UITextField](#uitextfield)
          - [Button](#button)
-
      - [Websocket](#websocket)
      - [Code Quality](#code-quality)
      - [Analytics](#analytics)
@@ -56,7 +55,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
      - [Products](#products)
      - [Utility](#utility)
      - [Security](#security)
-
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
