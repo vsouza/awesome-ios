@@ -8,53 +8,54 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 Projects in Swift language will be marked with :large_orange_diamond: and :watch: for Apple Watch projects. Feel free to add your project.
 
 ### Contents
- - [Getting Started](#getting-started)
- - [Library and Frameworks](#libraries-and-frameworks)
-     - [Audio](#audio)
-     - [Animation](#animation)
-     - [Apple TV](#apple-tv)
-     - [Bridging](#bridging)
-     - [Cache](#cache)
-     - [Color](#color)
-     - [Core Data](#core-data)
-     - [Charts](#charts)
-     - [Database](#database)
-     - [Hardware](#hardware)
-         - [Motion](#motion)
-         - [Bluetooth](#bluetooth)
-         - [Location](#location)
-         - [iBeacon](#ibeacon)
-     - [HUD](#hud)
-     - [EventBus](#eventbus)
-     - [Files](#files)
-     - [JSON](#json)
-     - [Layout](#layout)
-     - [Logging](#logging)
-     - [Maps](#maps)
-     - [Media](#media)
-         - [Image](#image)
-         - [Video](#video)
-         - [PDF](#pdf)
-     - [Messaging](#messaging)
-     - [Networking](#networking)
-     - [Push Notifications](#push-notifications)
-     - [Passbook](#passbook)
-     - [Permissions](#permissions)
-     - [Text](#text)
-     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
-     - [URL Scheme](#url-scheme)
-     - [UI](#ui)
-         - [Activity Indicator](#activity-indicator)
-         - [Alert View](#alert-view)
-         - [UITextField](#uitextfield)
-         - [Button](#button)
-     - [Websocket](#websocket)
-     - [Code Quality](#code-quality)
-     - [Analytics](#analytics)
-     - [Payments](#payments)
-     - [Products](#products)
-     - [Utility](#utility)
-     - [Security](#security)
+
+- [Getting Started](#getting-started)
+- [Library and Frameworks](#libraries-and-frameworks)
+    - [Audio](#audio)
+    - [Animation](#animation)
+    - [Apple TV](#apple-tv)
+    - [Bridging](#bridging)
+    - [Cache](#cache)
+    - [Color](#color)
+    - [Core Data](#core-data)
+    - [Charts](#charts)
+    - [Database](#database)
+    - [Hardware](#hardware)
+        - [Motion](#motion)
+        - [Bluetooth](#bluetooth)
+        - [Location](#location)
+        - [iBeacon](#ibeacon)
+    - [HUD](#hud)
+    - [EventBus](#eventbus)
+    - [Files](#files)
+    - [JSON](#json)
+    - [Layout](#layout)
+    - [Logging](#logging)
+    - [Maps](#maps)
+    - [Media](#media)
+        - [Image](#image)
+        - [Video](#video)
+        - [PDF](#pdf)
+    - [Messaging](#messaging)
+    - [Networking](#networking)
+    - [Push Notifications](#push-notifications)
+    - [Passbook](#passbook)
+    - [Permissions](#permissions)
+    - [Text](#text)
+    - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
+    - [URL Scheme](#url-scheme)
+    - [UI](#ui)
+        - [Activity Indicator](#activity-indicator)
+        - [Alert View](#alert-view)
+        - [UITextField](#uitextfield)
+        - [Button](#button)
+    - [Websocket](#websocket)
+    - [Code Quality](#code-quality)
+    - [Analytics](#analytics)
+    - [Payments](#payments)
+    - [Products](#products)
+    - [Utility](#utility)
+    - [Security](#security)
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
@@ -328,7 +329,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [NetworkEye](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
  * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS network debugging library! :large_orange_diamond:
  * [OctopusKit](https://github.com/icoco/OctopusKit) - A simplicity but graceful solution for invoke RESTful web service APIs.
- 
+
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
@@ -486,7 +487,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments. :large_orange_diamond:
  * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form. :large_orange_diamond:
  * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - A camera view controller with custom image picker and image cropping. Written in Swift. :large_orange_diamond:
- 
+
 ##### Activity Indicator
 
  * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. :large_orange_diamond:
@@ -494,7 +495,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RPLoadingAnimation](https://github.com/naoyashiga/RPLoadingAnimation) - Loading animations by using Swift CALayer :large_orange_diamond:
  * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation :large_orange_diamond:
  * [iOS-CircleProgressView](https://github.com/CardinalNow/iOS-CircleProgressView) - This control will allow a user to use code instantiated or interface builder to create and render a circle progress view. :large_orange_diamond:
- 
+
 ##### Alert View
 
  * [NZAlertView](https://github.com/NZN/NZAlertView) - Simple and intuitive alert view. Similar to push notification effect.
@@ -516,12 +517,12 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController :large_orange_diamond:
 
 ##### UITextField
- 
+
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
  * [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews.
  * [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView
  * [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) - UITextField category that adds shake animation. [Also with Swift version](https://github.com/King-Wizard/UITextField-Shake-Swift) :large_orange_diamond:
- * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder. :large_orange_diamond: 
+ * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder. :large_orange_diamond:
  * [MVAutocompletePlaceSearchTextField](https://github.com/mrugrajsinh/MVAutocompletePlaceSearchTextField) - A drop-in Autocompletion control for Place Search like Google Places, Uber, etc.
  * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 
@@ -558,7 +559,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread :large_orange_diamond:
  * [Tailor](http://tailor.sh/) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
  * [SwiftCop](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations. :large_orange_diamond:
- 
+
 
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
