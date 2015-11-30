@@ -867,6 +867,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Newsletters
  * [iOS Goodies](http://ios-goodies.com)
+ * [This Week in Swift)(https://swiftnews.curated.co)
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
