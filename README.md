@@ -601,8 +601,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch :large_orange_diamond:
   * [YOLOKit](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
   * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work. :large_orange_diamond:
-  * [Storage](https://github.com/nickoneill/Storage) - Easy native de/serialization for structs in Swift :large_orange_diamond:
-
+  * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift :large_orange_diamond:
 
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
