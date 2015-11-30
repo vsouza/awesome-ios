@@ -306,7 +306,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
  * [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
  * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
- * [Carnival](https://www.carnival.io) - Targeted, personalized In-App Messaging and Push Notifications.
+ * [Carnival](http://www.carnival.io) - Targeted, personalized In-App Messaging and Push Notifications.
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
@@ -722,7 +722,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
  * [PacketZoom](https://packetzoom.com) PacketZoom SDK for iOS.
  * [Primer](https://www.goprimer.com) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
- * [Carnival](https://www.carnival.io) - Targeted, personalized In-App Messaging and Push Notifications.
+ * [Carnival](http://www.carnival.io) - Targeted, personalized In-App Messaging and Push Notifications.
 
 ## Unofficial
 
