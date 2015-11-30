@@ -80,6 +80,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
     - [Prototyping](#prototyping)
+    - [Newsletters](#newsletters)
+
 - [Twitter](#twitter)
 - [Facebook Groups](#facebook-groups)
 - [Podcasts](#podcasts)
@@ -862,6 +864,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Framer](http://framerjs.com/)
  * [Pixate](http://www.pixate.com/)
  * [Principle](http://principleformac.com)
+
+### Newsletters
+ * [iOS Goodies](http://ios-goodies.com)
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
