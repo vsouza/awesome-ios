@@ -46,8 +46,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [URL Scheme](#url-scheme)
     - [UI](#ui)
         - [Activity Indicator](#activity-indicator)
-        - [Alert View](#alert-view)
-        - [UITextField](#uitextfield)
+        - [Alert View](#alerts)
+        - [UITextField](#textfield)
         - [Button](#button)
     - [Websocket](#websocket)
     - [Code Quality](#code-quality)
@@ -499,7 +499,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation :large_orange_diamond:
  * [iOS-CircleProgressView](https://github.com/CardinalNow/iOS-CircleProgressView) - This control will allow a user to use code instantiated or interface builder to create and render a circle progress view. :large_orange_diamond:
 
-##### Alert View
+##### Alerts
 
  * [NZAlertView](https://github.com/NZN/NZAlertView) - Simple and intuitive alert view. Similar to push notification effect.
  * [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - A cool AlertView.
@@ -519,7 +519,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [MMPopupView](https://github.com/adad184/MMPopupView) - Pop-up based view(e.g. alert sheet), can easily customize.
  * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController :large_orange_diamond:
 
-##### UITextField
+##### TextField
 
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
  * [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews.
