@@ -873,8 +873,9 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Principle](http://principleformac.com)
 
 ### Newsletters
- * [iOS Goodies](http://ios-goodies.com)
- * [This Week in Swift)(https://swiftnews.curated.co)
+ * [iOS Goodies](http://ios-goodies.com) - Weekly iOS newsletter
+ * [This Week in Swift)(https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
+ * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem. 
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
