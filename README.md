@@ -884,6 +884,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Medium
  * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
+ * [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
