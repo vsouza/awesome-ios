@@ -81,6 +81,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
     - [Prototyping](#prototyping)
     - [Newsletters](#newsletters)
+    - [Medium](#medium)
 
 - [Twitter](#twitter)
 - [Facebook Groups](#facebook-groups)
@@ -833,9 +834,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
  * [iOS Goodies](http://ios-goodies.com)
  * [iOS Developer and Designer interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
- * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
- * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
-
 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
@@ -882,6 +880,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iOS Goodies](http://ios-goodies.com) - Weekly iOS newsletter
  * [This Week in Swift)(https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
  * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem. 
+ * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
+
+### Medium
+ * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Twitter
  * [@objcio](https://twitter.com/objcio)
