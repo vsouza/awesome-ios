@@ -142,7 +142,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [SDevFlatColors](https://github.com/0x73/SDevFlatColors) - Flat Colors on Swift :large_orange_diamond:
 * [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift. :large_orange_diamond:
-* [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor. :large_orange_diamond:
+* [SwiftColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor. :large_orange_diamond:
 * [Colours](https://github.com/bennyguitar/Colours) - A beautiful set of predefined colors and a set of color methods to make your iOS/OSX development life easier.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string. :large_orange_diamond:
 
@@ -222,7 +222,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - A suite containing many tools to display progress information on iOS.
  * [JHProgressHUD](https://github.com/harikrishnant1991/JHProgressHUD) - An easy and lightweight Swift library to show HUD in IOS applications. :large_orange_diamond:
  * [PKHUD](https://github.com/pkluz/PKHUD) - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8 and above. :large_orange_diamond:
- * [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD.  :large_orange_diamond:
+ * [CozyLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - Lightweight loading activity HUD.  :large_orange_diamond:
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
@@ -349,7 +349,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
  * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
  * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing.
- * [Urban Airship](https://www.urbanairship.com/products/platform#push-messages) - Paid Push Notifications backend.
+ * [Urban Airship](https://www.urbanairship.com/products/engage#push-messages) - Paid Push Notifications backend.
  * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
  * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
 
