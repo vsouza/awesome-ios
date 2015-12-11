@@ -129,7 +129,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and OS X
 
 ### Bridging
- * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
+ * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.[DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
+ * [DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
 
 ### Cache
  * [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache subclass with on-disk cache support on iPhone/iPad.
