@@ -801,6 +801,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A simple iSort like header sorting and duplicate removal plugin for Xcode, makes your headers look more organized.
  * [Luft](https://github.com/k0nserv/luft) - The Xcode Plugin that helps you write lighter view controllers
  * [You-Can-Do-It](https://github.com/orta/You-Can-Do-It) - Is learning a new language getting you down? Worry not, this Xcode plugin will keep you motivated.
+ * [PreciseCoverage](https://github.com/zats/PreciseCoverage) - Make Xcode code coverage more informative
 
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
