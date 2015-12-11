@@ -321,6 +321,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
  * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
  * [Carnival](http://www.carnival.io) - Targeted, personalized In-App Messaging and Push Notifications.
+ * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
