@@ -894,7 +894,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Newsletters
  * [iOS Goodies](http://ios-goodies.com) - Weekly iOS newsletter
- * [This Week in Swift)(https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
+ * [This Week in Swift](https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
  * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem. 
  * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
 
