@@ -213,7 +213,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [OWUProximityManager](https://github.com/ohwutup/OWUProximityManager) - iBeacons + CoreBluetooth.
  * [Vicinity](https://github.com/Instrument/Vicinity) - Vicinity replicates iBeacons (by analyzing RSSI) and supports broadcasting and detecting low-energy bluetooth devices in the background.
  * [BeaconEmitter](https://github.com/lgaches/BeaconEmitter) - Turn your Mac as an iBeacon.
- * [MOCA](https://mocaplatform.com/features) - Paid proximity marketing platform that lets you add amazing proximity experiences to your app.
+ * [MOCA Proximity](https://mocaplatform.com/features) - Paid proximity marketing platform that lets you add amazing proximity  experiences to your app.
 
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
@@ -353,8 +353,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Urban Airship](https://www.urbanairship.com/products/engage#push-messages) - Paid Push Notifications backend.
  * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
  * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
- * [MOCA](https://mocaplatform.com/features) - Paid Push Notifications backend with beacons, real-time segmentation and big data analytics.
-
+ 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
  * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
@@ -603,7 +602,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
  * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
  * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
- * [MOCA](https://mocaplatform.com/features) - Paid cross-platform analytics and proximity marketing platform.
+ * [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
 
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
