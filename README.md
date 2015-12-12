@@ -56,6 +56,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Products](#products)
     - [Utility](#utility)
     - [Security](#security)
+    - [Servers](#servers)
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
@@ -543,7 +544,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SnowGlobeFramework](https://github.com/stringcode86/SnowGlobeFramework) - Delightful / slightly cheese easter egg for christmas season. Turns your awesome app into a snow globe, when user shake the device. :large_orange_diamond:
  * [GSMessages](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+. :large_orange_diamond:
  * [OEANotification](https://github.com/OEASLAN/OEANotification) - In-app customizable notification views on top of screen for iOS which is written in Swift 2.1. :large_orange_diamond:
- 
+
 ##### TextField
 
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
@@ -643,6 +644,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
  * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
  * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
+
+### Servers
+ * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps. :large_orange_diamond:
+ * [swifter](https://github.com/glock45/swifter) - Tiny http server engine written in Swift programming language. :large_orange_diamond:
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
@@ -764,7 +769,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
  * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
  * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
- 
+
 # Xcode
 
 ### Plugins
@@ -895,7 +900,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ### Newsletters
  * [iOS Goodies](http://ios-goodies.com) - Weekly iOS newsletter
  * [This Week in Swift)(https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
- * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem. 
+ * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem.
  * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
 
 ### Medium
