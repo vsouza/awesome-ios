@@ -28,7 +28,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [HUD](#hud)
     - [EventBus](#eventbus)
     - [Files](#files)
-    - [Functional Programming] (functional-programming)
+    - [Functional Programming] (#functional-programming)
     - [JSON](#json)
     - [Layout](#layout)
     - [Logging](#logging)
