@@ -28,6 +28,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [HUD](#hud)
     - [EventBus](#eventbus)
     - [Files](#files)
+    - [Functional Programming] (functional-programming)
     - [JSON](#json)
     - [Layout](#layout)
     - [Logging](#logging)
@@ -233,6 +234,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. :large_orange_diamond:
+
+### Functional Programming
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON.
