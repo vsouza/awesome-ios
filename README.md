@@ -598,7 +598,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
  * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more.
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
- * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together.
+ * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
  * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
  * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
  * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
