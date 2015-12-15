@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list CONTRIBUTING.md,facebook.com/groups
+  - awesome_bot README.md --white-list CONTRIBUTING.md,facebook.com/groups,growthpush.com
