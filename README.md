@@ -91,12 +91,14 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 - [Contributing](#contributing)
 
 # Getting Started
- * [Road Map iOS](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Start Developing iOS Apps Today, Apple Guide. :large_orange_diamond:
+ * [Start Developing with iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide. :large_orange_diamond:
  * [Lifehacker](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
  * [Codeproject](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development) - Getting Started with iPhone and iOS Development.
  * [Ray Wenderlich](http://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
  * [Stanford - Developing Apps to iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774?mt=10) - Stanford's iTunes U App Development Course (Audio and Video).
  * [Stanford - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford's 2015 iTunes U App Development Course. :large_orange_diamond:
+ * [Programming with Objective-C by Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+ * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
 
 # Libraries And Frameworks
 
@@ -129,7 +131,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and OS X
 
 ### Bridging
- * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.[DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
+ * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
  * [DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
 
 ### Cache
@@ -596,7 +598,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
  * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more.
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
- * [Localytics](http://www.localytics.com/) - Brings app marketing and analytics together.
+ * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
  * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
  * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
  * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
@@ -929,8 +931,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [iOS Bytes](https://iosbytes.codeschool.com/)
 
 # Books
- * [Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
- * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf)
  * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) :large_orange_diamond:
  * [Using Swift with Cocoa and Objective C by Apple](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) :large_orange_diamond:
  * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/we-write/ios-programming/)
@@ -959,7 +959,7 @@ Other amazingly awesome lists can be found in the
 
 # License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 
