@@ -356,7 +356,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Urban Airship](https://www.urbanairship.com/products/engage#push-messages) - Paid Push Notifications backend.
  * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
  * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
- 
+
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
  * [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
@@ -547,7 +547,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [GSMessages](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+. :large_orange_diamond:
  * [OEANotification](https://github.com/OEASLAN/OEANotification) - In-app customizable notification views on top of screen for iOS which is written in Swift 2.1. :large_orange_diamond:
  * [GSAlert](https://github.com/wxxsw/GSAlert) - If you want to use UIAlertController, but still need to support iOS 7 this project is for you. :large_orange_diamond:
- 
+
 ##### TextField
 
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
@@ -773,7 +773,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
  * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
  * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
- 
+
 # Xcode
 
 ### Plugins
@@ -904,7 +904,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ### Newsletters
  * [iOS Goodies](http://ios-goodies.com) - Weekly iOS newsletter
  * [This Week in Swift](https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
- * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem. 
+ * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem.
  * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
 
 ### Medium
