@@ -56,6 +56,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Products](#products)
     - [Utility](#utility)
     - [Security](#security)
+- [Servers](#servers)
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
@@ -652,6 +653,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
  * [amaro](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
  * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
+
+# Servers
+ * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps. :large_orange_diamond:
+ * [Swifter](https://github.com/glock45/swifter) - Tiny http server engine written in Swift programming language. :large_orange_diamond:
 
 # Dependency / Package Manager
  * [Cocoa Pods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
