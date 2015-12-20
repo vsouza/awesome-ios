@@ -268,6 +268,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ##### Video
  * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
  * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
+ * [360 VR Player](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
 
 ##### PDF
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
