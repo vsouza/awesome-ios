@@ -190,6 +190,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [FCModel](https://github.com/marcoarment/FCModel) - An alternative to Core Data for people who like having direct SQL access.
  * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly sync NSUserDefaults over iCloud :large_orange_diamond:
  * [Prephirences](https://github.com/phimage/Prephirences) - Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state. :large_orange_diamond:
+ * [Storez](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage (with namespace support) :large_orange_diamond::watch:.
 
 ### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
