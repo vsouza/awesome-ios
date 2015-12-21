@@ -516,7 +516,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
  * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. :large_orange_diamond:
  * [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) - This is a spring slide menu for iOS apps
- * [SimpleFloatingActionButton](https://github.com/PhilippeBoisney/SimpleFloatingActionButton) - Simple floating action button (inspired by Google Material Design) for iOS written in Swift 2.0. :large_orange_diamond:
+ * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - A Slide Menu, written in Swift, inspired by Slide Menu Material Design. :large_orange_diamond:
 
 ##### Activity Indicator
 
