@@ -621,6 +621,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
 
 ### Utility
+  * [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor) - Monitor iOS app version easily. 
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
   * [SBConstants](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project.
   * [XExtensionItem](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
@@ -972,5 +973,3 @@ Other amazingly awesome lists can be found in the
 </a>
 
 To the extent possible under law, [Vinicius Souza](https://github.com/vsouza) has waived all copyright and related or neighboring rights to this work.
-
-
