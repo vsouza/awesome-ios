@@ -56,7 +56,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Products](#products)
     - [Utility](#utility)
     - [Security](#security)
-- [Servers](#servers)
+- [Server](#server)
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
@@ -661,7 +661,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [amaro](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
  * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 
-# Servers
+# Server
  * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps. :large_orange_diamond:
  * [Swifter](https://github.com/glock45/swifter) - Tiny http server engine written in Swift programming language. :large_orange_diamond:
 
