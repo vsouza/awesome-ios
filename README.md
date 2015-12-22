@@ -28,6 +28,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [HUD](#hud)
     - [EventBus](#eventbus)
     - [Files](#files)
+    - [Functional Programming] (#functional-programming)
     - [JSON](#json)
     - [Layout](#layout)
     - [Logging](#logging)
@@ -237,6 +238,15 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. :large_orange_diamond:
+
+### Functional Programming
+* [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift. :large_orange_diamond:
+* [Funky](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift. :large_orange_diamond:
+* [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools. :large_orange_diamond:
+* [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions. :large_orange_diamond:
+* [Prelude](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools. :large_orange_diamond:
+* [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project. :large_orange_diamond:
+* [Swiftz](https://github.com/typelift/Swiftz) -  Functional programming in Swift. :large_orange_diamond:
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON.
