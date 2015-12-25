@@ -658,7 +658,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift :large_orange_diamond:
   * [SwiftParsec](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language. :large_orange_diamond:
   * [OrderedSet](https://github.com/Weebly/OrderedSet) - A Swift collection of unique, ordered objects :large_orange_diamond:
-  * [watchbuild](https://github.com/fastlane/watchbuild/) - Get a notification once your iTunes Connect build is finished processing https://fastlane.tools
   * [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`. :large_orange_diamond:
 
 ### Security
@@ -754,6 +753,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [snapshot](https://github.com/fastlane/snapshot) Automatically create screenshots in all languages on all devices.
  * [buddybuild](buddybuild.com) - A mobile iteration platform - build, deploy, and collaborate.
  * [Bitrise](https://www.bitrise.io) Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate.
+  * [watchbuild](https://github.com/fastlane/watchbuild/) - Get a notification once your iTunes Connect build is finished processing https://fastlane.tools
 
 # App Store
  * [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
