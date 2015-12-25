@@ -127,6 +127,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Pop By Example](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - A project tutorial in how to use Pop animation framework by example.
  * [AppAnimations](http://www.appanimations.com) - Collection of iOS animations to inspire your next project
  * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together. :large_orange_diamond:
+ * [Animo](https://github.com/JohnEstropia/Animo) - SpriteKit-like animation builders for CALayers. :large_orange_diamond:
 
 ### Apple TV
  * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
@@ -529,7 +530,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. :large_orange_diamond:
  * [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) - This is a spring slide menu for iOS apps
  * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - A Slide Menu, written in Swift, inspired by Slide Menu Material Design. :large_orange_diamond:
- * [Animo](https://github.com/JohnEstropia/Animo) - SpriteKit-like animation builders for CALayers. :large_orange_diamond:
  * [SSASideMenu](https://github.com/SSA111/SSASideMenu) - A Swift implementation of RESideMenu. A iOS 7/8 style side menu with parallax effect. :large_orange_diamond:
 
 ##### Activity Indicator
