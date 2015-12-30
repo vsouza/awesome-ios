@@ -132,6 +132,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ### Apple TV
  * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
  * [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and OS X
+ * [TVMLKitchen](https://github.com/toshi0383/TVMLKitchen) - Swifty TVML template manager without client-server :large_orange_diamond:
 
 ### Bridging
  * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
