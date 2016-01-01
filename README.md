@@ -43,7 +43,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Passbook](#passbook)
     - [Permissions](#permissions)
     - [Security](#security)
-    - [Social Networking](#social-networking)
     - [Text](#text)
     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
     - [URL Scheme](#url-scheme)
@@ -394,9 +393,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
  * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
  * [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) - String Obfuscation for app's executable file
-
-### Social Networking
-* [Easy Social](https://github.com/pjebs/EasySocial) - Twitter & Facebook Integration
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
@@ -799,6 +795,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
  * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
  * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
+ * [Easy Social](https://github.com/pjebs/EasySocial) - Twitter & Facebook Integration.
 
 # Xcode
 
