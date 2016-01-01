@@ -42,6 +42,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Push Notifications](#push-notifications)
     - [Passbook](#passbook)
     - [Permissions](#permissions)
+    - [Security](#security)
     - [Text](#text)
     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
     - [URL Scheme](#url-scheme)
@@ -56,7 +57,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Payments](#payments)
     - [Products](#products)
     - [Utility](#utility)
-    - [Security](#security)
 - [Server](#server)
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
@@ -386,6 +386,15 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [JLPermissions](https://github.com/jlaws/JLPermissions) - An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.
 * [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) - Reusable pre-permissions utility that lets developers ask users for access in their own dialog, before making the system-based request.
 
+### Security
+ * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
+ * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
+ * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
+ * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
+ * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
+ * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
+ * [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) - String Obfuscation for app's executable file
+
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
  * [Nimbus](http://nimbuskit.info/) - Nimbus is a toolkit for experienced iOS software designers.
@@ -663,14 +672,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [BFKit](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
   * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster. :large_orange_diamond:
 
-### Security
- * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
- * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
- * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
- * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
- * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
- * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
-
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
@@ -798,6 +799,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [InstagramKit](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
  * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
  * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
+ * [Easy Social](https://github.com/pjebs/EasySocial) - Twitter & Facebook Integration.
 
 # Xcode
 
