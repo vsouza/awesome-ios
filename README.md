@@ -319,6 +319,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Nuke](https://github.com/kean/Nuke) - Advanced framework for managing images :large_orange_diamond:
  * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web. :large_orange_diamond:
  * [YYWebImage](https://github.com/ibireme/YYWebImage) - Asynchronous image loading framework (supports WebP, APNG, GIF).
+ * [Silo] (https://github.com/josejuanqm/Silo) - Image loading framework with loaders (development stage)
  * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
  * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing how an ImagePicker should be. :large_orange_diamond:
  * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - An image cropper for iOS like in the Contacts app with support for landscape orientation.
