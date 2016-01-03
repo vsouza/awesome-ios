@@ -498,7 +498,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - Make any UIView a full fledged notification center.
  * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit
  * [CollapsableTable](https://github.com/rob-nash/CollapsableTable) - Collapsable table view sections with custom section header views. :large_orange_diamond:
- * [InfiniteScroll](https://github.com/rob-nash/InfiniteScroll) - Add paging to your table views with a cool animation.
  * [PickerView](https://github.com/filipealva/PickerView) - A customizable alternative to UIPickerView in Swift. :large_orange_diamond:
  * [InteractivePlayerView](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view :large_orange_diamond:
  * [phone-number-picker](https://github.com/hughbe/phone-number-picker) - A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift :large_orange_diamond:
@@ -543,6 +542,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - A Slide Menu, written in Swift, inspired by Slide Menu Material Design. :large_orange_diamond:
  * [SSASideMenu](https://github.com/SSA111/SSASideMenu) - A Swift implementation of RESideMenu. A iOS 7/8 style side menu with parallax effect. :large_orange_diamond:
  * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift. :large_orange_diamond:
+ * [InfiniteScroll](https://github.com/rob-nash/InfiniteScroll) - Add paging to your table views with a cool animation.
 
 ##### Activity Indicator
 
