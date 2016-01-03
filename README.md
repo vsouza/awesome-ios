@@ -330,6 +330,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and OS X
  * [AVAnimator](http://www.modejong.com/AVAnimator/) - An open source iOS native library that makes it easy to implement non-trivial video/audio enabled apps.
  * [360 VR Player](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
+ * [Silo](https://github.com/josejuanqm/Silo) - Image loading framework with loaders. :large_orange_diamond:
+ * [Ody](https://github.com/josejuanqm/Ody) - Ody is an easy to use random image generator built with Swift, Perfect for placeholders. :large_orange_diamond:
 
 ##### PDF
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
