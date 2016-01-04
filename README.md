@@ -545,6 +545,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SSASideMenu](https://github.com/SSA111/SSASideMenu) - A Swift implementation of RESideMenu. A iOS 7/8 style side menu with parallax effect. :large_orange_diamond:
  * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift. :large_orange_diamond:
  * [InfiniteScroll](https://github.com/rob-nash/InfiniteScroll) - Add paging to your table views with a cool animation.
+ * [InfiniteCollectionView](https://github.com/hryk224/InfiniteCollectionView) - Infinite horizontal Scrolling Using UICollectionView. :large_orange_diamond:
 
 ##### Activity Indicator
 
@@ -579,6 +580,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [GSMessages](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+. :large_orange_diamond:
  * [OEANotification](https://github.com/OEASLAN/OEANotification) - In-app customizable notification views on top of screen for iOS which is written in Swift 2.1. :large_orange_diamond:
  * [GSAlert](https://github.com/wxxsw/GSAlert) - If you want to use UIAlertController, but still need to support iOS 7 this project is for you. :large_orange_diamond:
+ * [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) - Swift AlertController, use UIVisualeffectview. :large_orange_diamond:
 
 ##### TextField
 
