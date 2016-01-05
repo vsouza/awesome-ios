@@ -51,6 +51,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
         - [Alert View](#alerts)
         - [TextField](#textfield)
         - [Button](#button)
+        - [Menu] (#menu)
     - [Websocket](#websocket)
     - [Code Quality](#code-quality)
     - [Analytics](#analytics)
@@ -443,7 +444,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
  * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
  * [TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
- * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift. :large_orange_diamond:
  * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
  * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
  * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. :large_orange_diamond:
@@ -472,7 +472,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
  * [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
  * [iCarousel](https://github.com/nicklockwood/iCarousel) - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS.
- * [RESideMenu](https://github.com/romaonthego/RESideMenu) - iOS 7/8 style side menu with parallax effect inspired by Dribbble shots.
  * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
  * [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and OS X.
  * [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) :large_orange_diamond:
@@ -482,9 +481,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [HoneycombView](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout written by swift. :large_orange_diamond:
  * [tapkulibrary](https://github.com/devinross/tapkulibrary) - tap + haiku = tapku, a well crafted open source iOS framework.
  * [KCJogDial](https://github.com/kciter/KCJogDial) - Controllable UIView like jog dial. :large_orange_diamond:
- * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift. :large_orange_diamond:
- * [RadialMenu](https://github.com/bradjasper/radialmenu) - RadialMenu is a custom control for providing a touch context menu (like iMessage recording in iOS 8) built with Swift & POP :large_orange_diamond:
- * [cariocamenu](https://github.com/arn00s/cariocamenu) - The fastest zero-tap iOS menu. :large_orange_diamond:
  * [DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants. :large_orange_diamond:
  * [ScrollPager](https://github.com/aryaxt/ScrollPager) - A scroll pager similar to the one in Flipboard :large_orange_diamond:
  * [ComponentKit](http://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
@@ -512,8 +508,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection :large_orange_diamond:
  * [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) - Easy customizable avatar image asynchronously with progress bar animated :large_orange_diamond:
  * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift :large_orange_diamond:
- * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu/tree/swift_2.0) - Guillotine (Drop down) transitioning animation menu :large_orange_diamond:
- * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app. :large_orange_diamond:
  * [YALField](https://github.com/Yalantis/YALField?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_43) - Custom Field component with validation for creating easier form-like UI from interface builder.
  * [StarryStars](https://github.com/peterprokop/StarryStars?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - iOS GUI library for displaying and editing ratings
  * [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts
@@ -525,7 +519,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
  * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) - :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages :large_orange_diamond:
  * [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) - A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right.
- * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu) - a lightweight, fully customizable side menu for iOS inspired from [TimeLine app](https://itunes.apple.com/us/app/timeline-news-in-context/id948867534?mt=8&ign-mpt=uo%3D4). Built with spring animations using Facebook Pop.
  * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments. :large_orange_diamond:
  * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form. :large_orange_diamond:
  * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - A camera view controller with custom image picker and image cropping. Written in Swift. :large_orange_diamond:
@@ -535,9 +528,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [AuthenticationViewController](https://github.com/raulriera/AuthenticationViewController) - A simple to use, standard interface for authenticating to oauth 2.0 protected endpoints via SFSafariViewController.
  * [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
  * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. :large_orange_diamond:
- * [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) - This is a spring slide menu for iOS apps
- * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - A Slide Menu, written in Swift, inspired by Slide Menu Material Design. :large_orange_diamond:
- * [SSASideMenu](https://github.com/SSA111/SSASideMenu) - A Swift implementation of RESideMenu. A iOS 7/8 style side menu with parallax effect. :large_orange_diamond:
+
  * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift. :large_orange_diamond:
  * [InfiniteScroll](https://github.com/rob-nash/InfiniteScroll) - Add paging to your table views with a cool animation.
 
@@ -578,7 +569,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [CZPicker](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS.
  * [STPopup](https://github.com/kevin0571/STPopup) - STPopup provides a UINavigationController in popup style, for both iPhone and iPad.
  * [CNPPopupController](https://github.com/carsonperrotti/CNPPopupController) - Simple and versatile class for presenting a custom popup in a variety of fashions. It includes a many options for controlling how your popup appears and behaves.
- * [VLDContextSheet](https://github.com/vangelov/VLDContextSheet) - Context menu similar to the one in the Pinterest iOS app
 
 ##### TextField
 
@@ -608,6 +598,20 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Hamburger-Menu-Button](https://github.com/toannt/Hamburger-Menu-Button) - A hamburger menu button with full customization. :large_orange_diamond:
  * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift). :large_orange_diamond:
  * [SwiftyButton](https://github.com/TakeScoop/SwiftyButton) - Simple and customizable button in Swift :large_orange_diamond:
+
+ ##### Menu
+ * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift. :large_orange_diamond:
+ * [RESideMenu](https://github.com/romaonthego/RESideMenu) - iOS 7/8 style side menu with parallax effect inspired by Dribbble shots.
+ * [SSASideMenu](https://github.com/SSA111/SSASideMenu) - A Swift implementation of RESideMenu. A iOS 7/8 style side menu with parallax effect. :large_orange_diamond:
+ * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift. :large_orange_diamond:
+ * [RadialMenu](https://github.com/bradjasper/radialmenu) - RadialMenu is a custom control for providing a touch context menu (like iMessage recording in iOS 8) built with Swift & POP :large_orange_diamond:
+ * [cariocamenu](https://github.com/arn00s/cariocamenu) - The fastest zero-tap iOS menu. :large_orange_diamond:
+ * [VLDContextSheet](https://github.com/vangelov/VLDContextSheet) - Context menu similar to the one in the Pinterest iOS app
+ * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu/tree/swift_2.0) - Guillotine (Drop down) transitioning animation menu :large_orange_diamond:
+ * [MediumMenu](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app. :large_orange_diamond:
+ * [SwiftySideMenu](https://github.com/hossamghareeb/SwiftySideMenu) - a lightweight, fully customizable side menu for iOS inspired from [TimeLine app](https://itunes.apple.com/us/app/timeline-news-in-context/id948867534?mt=8&ign-mpt=uo%3D4). Built with spring animations using Facebook Pop.
+ * [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) - This is a spring slide menu for iOS apps
+ * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - A Slide Menu, written in Swift, inspired by Slide Menu Material Design. :large_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
