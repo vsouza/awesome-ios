@@ -415,6 +415,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
  * [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects. :large_orange_diamond:
  * [Format](https://github.com/marmelroy/Format) - A Swift Formatter Kit. :large_orange_diamond:
+ * [Tribute](https://github.com/zats/Tribute) - Programmatic creation of NSAttributedString doesn't have to be a pain :large_orange_diamond:
 
 ### Walkthrough / Intro / Tutorial
  * [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
