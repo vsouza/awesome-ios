@@ -21,10 +21,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Charts](#charts)
     - [Database](#database)
     - [Hardware](#hardware)
-        - [Motion](#motion)
         - [Bluetooth](#bluetooth)
         - [Location](#location)
         - [iBeacon](#ibeacon)
+        - [Other Hardware](#other-hardware)
     - [HUD](#hud)
     - [EventBus](#eventbus)
     - [Files](#files)
@@ -137,7 +137,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Bridging
  * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
- * [DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
 
 ### Cache
  * [SDURLCache](https://github.com/steipete/SDURLCache) - URLCache subclass with on-disk cache support on iPhone/iPad.
@@ -201,8 +200,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
 
 ### Hardware
-##### Motion
- * [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
 
 ##### Bluetooth
  * [Discovery](https://github.com/omergul123/Discovery) - A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
@@ -223,6 +220,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Vicinity](https://github.com/Instrument/Vicinity) - Vicinity replicates iBeacons (by analyzing RSSI) and supports broadcasting and detecting low-energy bluetooth devices in the background.
  * [BeaconEmitter](https://github.com/lgaches/BeaconEmitter) - Turn your Mac as an iBeacon.
  * [MOCA Proximity](https://mocaplatform.com/features) - Paid proximity marketing platform that lets you add amazing proximity  experiences to your app.
+
+##### Other Hardware
+ * [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
+ * [DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
 
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
