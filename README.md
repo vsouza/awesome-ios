@@ -532,6 +532,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift. :large_orange_diamond:
  * [InfiniteScroll](https://github.com/rob-nash/InfiniteScroll) - Add paging to your table views with a cool animation.
  * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - Vertical page view with UIViewControllers stacked on the top of each other :large_orange_diamond:
+ * [PageControl](https://github.com/kasper-lahti/PageControl) - ● ○ ○ ○ A nice, animated UIPageControl alternative. :large_orange_diamond:
 
 ##### Activity Indicator
 
