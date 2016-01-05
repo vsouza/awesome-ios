@@ -38,6 +38,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
         - [Video](#video)
         - [PDF](#pdf)
     - [Messaging](#messaging)
+    - [Machine Learning](#machine-learning)
     - [Networking](#networking)
     - [Push Notifications](#push-notifications)
     - [Passbook](#passbook)
@@ -347,6 +348,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
  * [Carnival](http://www.carnival.io) - Targeted, personalized In-App Messaging and Push Notifications.
  * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
+
+### Machine Learning
+ * [Swift-AI](https://github.com/collinhundley/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift. :large_orange_diamond:
+ * [Swift-Brain](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI. :large_orange_diamond:
 
 ### Networking
  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and OS X networking framework.
