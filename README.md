@@ -546,7 +546,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [InfiniteScroll](https://github.com/rob-nash/InfiniteScroll) - Add paging to your table views with a cool animation.
  * [StackPageView](https://github.com/noppefoxwolf/StackPageView) - Vertical page view with UIViewControllers stacked on the top of each other :large_orange_diamond:
  * [PageControl](https://github.com/kasper-lahti/PageControl) - ● ○ ○ ○ A nice, animated UIPageControl alternative. :large_orange_diamond:
- * [InfiniteScroll](https://github.com/rob-nash/InfiniteScroll) - Add paging to your table views with a cool animation.
+ * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
 
 ##### Activity Indicator
 
