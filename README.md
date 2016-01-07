@@ -131,6 +131,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [AppAnimations](http://www.appanimations.com) - Collection of iOS animations to inspire your next project
  * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together. :large_orange_diamond:
  * [Animo](https://github.com/JohnEstropia/Animo) - SpriteKit-like animation builders for CALayers. :large_orange_diamond:
+ * [CurryFire](https://github.com/devinross/curry-fire) - A framework for creating unique animations.
 
 ### Apple TV
  * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
