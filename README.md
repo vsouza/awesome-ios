@@ -908,7 +908,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [NSHipster](http://nshipster.com)
  * [Objc.io](https://www.objc.io/)
  * [ASCIIwwdc](http://asciiwwdc.com)
- * [Natasha The Robot](http://www.natashatherobot.com/)
+ * [Natasha The Robot](https://www.natashatherobot.com/)
  * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) :large_orange_diamond:
  * [iOS Programming Subreddit](https://www.reddit.com/r/iosprogramming)
  * [iOS Dev Weekly](https://iosdevweekly.com/)
