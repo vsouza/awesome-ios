@@ -339,6 +339,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - An image cropper for iOS like in the Contacts app with support for landscape orientation.
  * [Silo](https://github.com/josejuanqm/Silo) - Image loading framework with loaders. :large_orange_diamond:
  * [Ody](https://github.com/josejuanqm/Ody) - Ody is an easy to use random image generator built with Swift, Perfect for placeholders. :large_orange_diamond:
+ * [Banana](https://github.com/gauravkatoch007/banana) - Image slider with very simple interface. :large_orange_diamond:
 
 ##### Video
  * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
