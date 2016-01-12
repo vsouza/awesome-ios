@@ -670,6 +670,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
  * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
  * [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
+ * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 
 ### Payments
  * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
