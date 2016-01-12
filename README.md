@@ -684,7 +684,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Moltin](https://moltin.com/ios-ecommerce-sdk) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
 
 ### Products
- * [Import.io](https://import.io) - Instantly Turn Web Pages into Data.
+ * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
  * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
 
 ### Utility
