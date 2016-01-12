@@ -416,7 +416,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type :large_orange_diamond:
  * [SwiftRegex](https://github.com/kasei/SwiftRegex) - Perl-like regex =~ operator for Swift :large_orange_diamond:
  * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way :large_orange_diamond:
- 
+
 ### Security
  * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
  * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
@@ -557,7 +557,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
  * [Curry](https://github.com/devinross/curry) - Curry is a framework built to enhance and compliment Foundation and UIKit.
  * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library makes transition animations smooth between different navigation bar styles while pushing or popping a view controller. :large_orange_diamond:
- 
+
 ##### Activity Indicator
 
  * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. :large_orange_diamond:
@@ -712,7 +712,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster. :large_orange_diamond:
   * [Scale](https://github.com/onmyway133/scale) - Unit converter in Swift (available via Cocoapods) :large_orange_diamond:
   * [Standard Template Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs :large_orange_diamond:
-  
+
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
@@ -763,6 +763,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
  * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
  * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
+ * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator. :large_orange_diamond:
 
 ### Beta Distribution
  * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
