@@ -557,6 +557,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
  * [Curry](https://github.com/devinross/curry) - Curry is a framework built to enhance and compliment Foundation and UIKit.
  * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library makes transition animations smooth between different navigation bar styles while pushing or popping a view controller. :large_orange_diamond:
+ * [ElasticTransition](https://github.com/lkzhao/ElasticTransition) - A UIKit custom transition that simulates an elastic drag. Written in Swift. :large_orange_diamond:
  
 ##### Activity Indicator
 
