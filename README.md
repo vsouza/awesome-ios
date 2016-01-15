@@ -797,6 +797,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C. :large_orange_diamond:
  * [appledoc](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
  * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics. :large_orange_diamond:
+ * [Azkaban](https://github.com/neonichu/Azkaban) - A CLI to Alcatraz, the Xcode package manager. :large_orange_diamond:
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
