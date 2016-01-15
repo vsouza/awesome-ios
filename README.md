@@ -297,6 +297,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [BlockTypeDescription](https://github.com/conradev/BlockTypeDescription) - Show type signatures when logging blocks.
  * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs. :large_orange_diamond:
  * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns. :large_orange_diamond:
+ * [Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
