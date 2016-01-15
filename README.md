@@ -11,7 +11,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
-    - [Audio](#audio)
     - [Animation](#animation)
     - [Apple TV](#apple-tv)
     - [Bridging](#bridging)
@@ -35,9 +34,10 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Logging](#logging)
     - [Maps](#maps)
     - [Media](#media)
+        - [Audio](#audio)
         - [Image](#image)
-        - [Video](#video)
         - [PDF](#pdf)
+        - [Video](#video)
     - [Messaging](#messaging)
     - [Machine Learning](#machine-learning)
     - [Networking](#networking)
@@ -107,15 +107,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
 
 # Libraries And Frameworks
-
-### Audio
- * [AudioBus](https://developer.audiob.us/) - Add Next Generation Live App-to-App Audio Routing
- * [AudioKit](https://github.com/audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
- * [EZAudio](https://github.com/syedhali/EZAudio) - An iOS/OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
- * [novocaine](https://github.com/alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X.
- * [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) - Queue management system for AVSpeechSynthesizer (iOS Text to Speech).
- * [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
- * [sound-fader-ios](https://github.com/evgenyneu/sound-fader-ios) - A sound fader for AVAudioPlayer written in Swift. :large_orange_diamond:
 
 ### Animation
  * [Pop](https://github.com/facebook/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
@@ -312,6 +303,16 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [CMMapLauncher](https://github.com/citymapper/CMMapLauncher) - iOS library that makes it quick and easy to show directions in various mapping applications.
 
 ### Media
+
+##### Audio
+ * [AudioBus](https://developer.audiob.us/) - Add Next Generation Live App-to-App Audio Routing
+ * [AudioKit](https://github.com/audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
+ * [EZAudio](https://github.com/syedhali/EZAudio) - An iOS/OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
+ * [novocaine](https://github.com/alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X.
+ * [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) - Queue management system for AVSpeechSynthesizer (iOS Text to Speech).
+ * [StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS.
+ * [sound-fader-ios](https://github.com/evgenyneu/sound-fader-ios) - A sound fader for AVAudioPlayer written in Swift. :large_orange_diamond:
+
 ##### Image
  * [GPU Image](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
  * [UIImage DSP](https://github.com/gdawg/uiimage-dsp) - IOS UIImage processing functions using the vDSP/Accelerate framework for speed.
