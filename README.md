@@ -591,6 +591,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [STLoadingGroup](https://github.com/saitjr/STLoadingGroup) - loading views :large_orange_diamond:
  * [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - Add PullToRefresh using animated GIF to any scrollView with just simple code
  * [ALThreeCircleSpinner](https://github.com/AlexLittlejohn/ALThreeCircleSpinner) - A pulsing spinner view written in swift :large_orange_diamond:
+ * [MHRadialProgressView](https://github.com/mehfuzh/MHRadialProgressView) - iOS 7 radial animated progress view.
 
 ##### Alerts
 
