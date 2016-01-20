@@ -991,6 +991,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Cocoa Dev Central](http://cocoadevcentral.com)
  * [Use Your Loaf](http://useyourloaf.com)
  * [Swift Tutorials by Jameson Quave](http://jamesonquave.com/blog/tutorials/) :large_orange_diamond:
+ * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: All of the resources for Learning About Swift :large_orange_diamond:
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8/)
@@ -1064,6 +1065,7 @@ Other amazingly awesome lists can be found in the
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
  * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
  * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
+ * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :large_orange_diamond:
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
