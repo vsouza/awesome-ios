@@ -19,7 +19,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [Core Data](#core-data)
     - [Charts](#charts)
     - [Database](#database)
-    - [Date & Time](date-time)
+    - [Date & Time](#date--time)
     - [Hardware](#hardware)
         - [Bluetooth](#bluetooth)
         - [Camera](#camera)
