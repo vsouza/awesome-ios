@@ -182,7 +182,8 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Super Awesome Easy Fetching for Core Data.
  * [QueryKit](https://github.com/QueryKit/QueryKit) - A simple type-safe Core Data query language. :large_orange_diamond:
  * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Powerful Core Data framework for Incremental Migrations, Fetching, Observering, etc. :large_orange_diamond:
- * [Core Data Query Interface](https://github.com/prosumma/CoreDataQueryInterface) A type-safe, fluent query framework for Core Data. :large_orange_diamond:
+ * [Core Data Query Interface](https://github.com/prosumma/CoreDataQueryInterface) - A type-safe, fluent query framework for Core Data. :large_orange_diamond:
+ * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift. :large_orange_diamond:
 
 ### Database
  * [Realm](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
@@ -202,7 +203,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions :large_orange_diamond:
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift 2.0 :large_orange_diamond:
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library written in Swift 2 :large_orange_diamond:
- 
+
 ### Graphics
 * [Graphicz](https://github.com/SwiftKitz/Graphicz) - Light-weight, operator-overloading-free complements to CoreGraphics! :large_orange_diamond:
 * [PKCoreTechniques](https://github.com/pkluz/PKCoreTechniques) - The code for my CoreGraphics+CoreAnimation talk, held during the 2012 iOS Game Design Seminar at the Technical University Munich.
@@ -593,7 +594,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [PFStepper](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had! :large_orange_diamond:
  * [ALTextInputBar](https://github.com/AlexLittlejohn/ALTextInputBar) - An auto growing text input bar for messaging apps. :large_orange_diamond:
  * [PMZSwitch](https://github.com/kovpas/PMZSwitch) - Yet another animated toggle :large_orange_diamond:
- * [GoAutoSlideView](https://github.com/zjmdp/GoAutoSlideView) - GoAutoSlideView extends UIScrollView by featuring infinitely and automatically slide. 
+ * [GoAutoSlideView](https://github.com/zjmdp/GoAutoSlideView) - GoAutoSlideView extends UIScrollView by featuring infinitely and automatically slide.
  * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
  * [APCustomBlurView](https://github.com/collinhundley/APCustomBlurView) - A subclass of UIVisualEffectView with customizable blur radius. :large_orange_diamond:
 
@@ -761,7 +762,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
   * [Scale](https://github.com/onmyway133/scale) - Unit converter in Swift (available via Cocoapods) :large_orange_diamond:
   * [Standard Template Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs :large_orange_diamond:
   * [TimeLord](https://github.com/JonFir/TimeLord) - Easy DateTime (`NSDate`, `NSCalendar`, `NSDateComponents`, `NSDateFormatter`) management :large_orange_diamond:
-  * [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor) - Monitor iOS app version easily. 
+  * [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor) - Monitor iOS app version easily.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
