@@ -422,7 +422,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing.
  * [Urban Airship](https://www.urbanairship.com/products/engage#push-messages) - Paid Push Notifications backend.
  * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
- * [APNS-Pusher](https://github.com/KnuffApp/APNS-Pusher) - The debug application for Apple Push Notification Service (APNS).
+ * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
