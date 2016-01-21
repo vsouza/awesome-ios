@@ -886,6 +886,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [DribbbleSDK](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
  * [objectiveflickr](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
  * [Easy Social](https://github.com/pjebs/EasySocial) - Twitter & Facebook Integration.
+ * [das-quadrat](https://github.com/Constantine-Fry/das-quadrat) - A Swift wrapper for Foursquare API. iOS and OSX. :large_orange_diamond:
 
 # Xcode
 
