@@ -128,6 +128,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Animo](https://github.com/JohnEstropia/Animo) - SpriteKit-like animation builders for CALayers. :large_orange_diamond:
  * [CurryFire](https://github.com/devinross/curry-fire) - A framework for creating unique animations.
  * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. :large_orange_diamond:
+ * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView :large_orange_diamond:
 
 ### Apple TV
  * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
