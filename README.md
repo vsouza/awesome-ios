@@ -30,7 +30,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
     - [HUD](#hud)
     - [EventBus](#eventbus)
     - [Files](#files)
-    - [Functional Programming] (#functional-programming)
+    - [Functional Programming](#functional-programming)
     - [JSON](#json)
     - [Layout](#layout)
     - [Logging](#logging)
@@ -506,7 +506,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
  * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
  * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. :large_orange_diamond:
- * [Form](https://github.com/hyperoslo/Form) - JSON driven form
+ * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
  * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
  * [SDevIconFonts](https://github.com/0x73/SDevIconFonts) - Fontawesome, Iconic, Ionicons, Octicon porting for swift. :large_orange_diamond:
  * [WCFastCell](https://github.com/wczekalski/WCFastCell) - Fast cells for Tables/Collections scrolling (without animations).
