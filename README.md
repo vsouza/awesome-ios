@@ -1027,7 +1027,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Mike Ash](https://www.mikeash.com/pyblog/)
  * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) :large_orange_diamond:
  * [Tuts+](http://code.tutsplus.com/categories/ios-sdk) :large_orange_diamond:
- * [iOS-Blog](http://ios-blog.co.uk/) :large_orange_diamond:
+ * [iOS-Blog](http://www.ios-blog.co.uk/) :large_orange_diamond:
  * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift) :large_orange_diamond:
  * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development. :large_orange_diamond:
  * [Cocoa Dev Central](http://cocoadevcentral.com)
