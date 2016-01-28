@@ -421,6 +421,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [OctopusKit](https://github.com/icoco/OctopusKit) - A simplicity but graceful solution for invoke RESTful web service APIs.
  * [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. :large_orange_diamond:
  * [TWRDownloadManager](https://github.com/chasseurmic/TWRDownloadManager) - A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.
+ * [HappyDns](https://github.com/qiniu/happy-dns-objc) - A Dns library, support custom dns server, dnspod httpdns. Only support A record. 
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
@@ -564,7 +565,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection :large_orange_diamond:
  * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift :large_orange_diamond:
  * [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
- * [StarryStars](https://github.com/peterprokop/StarryStars?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - iOS GUI library for displaying and editing ratings
+ * [StarryStars](https://github.com/peterprokop/StarryStars) - iOS GUI library for displaying and editing ratings
  * [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts
  * [SevenSwitch](https://github.com/bvogelzang/SevenSwitch) - iOS7 style drop in replacement for UISwitch. :large_orange_diamond:
  * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift. :large_orange_diamond:
@@ -606,6 +607,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
  * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController. :large_orange_diamond:
  * [NWCalendarView](https://github.com/nbwar/NWCalendarView) - An availability calendar implementation for iOS :large_orange_diamond:
+ * [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - Show simple text tags or custom tag views in a vertical scrollable view.
 
 ##### Activity Indicator
 
@@ -857,6 +859,7 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
  * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics. :large_orange_diamond:
  * [Azkaban](https://github.com/neonichu/Azkaban) - A CLI to Alcatraz, the Xcode package manager. :large_orange_diamond:
  * [Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
+ * [Rubustrings](https://github.com/dcordero/Rubustrings) - Check the format and consistency of Localizable.strings files
  * [ai2app] (https://github.com/metasmile/ai2app) - Creating AppIcon sets from Adobe Illustrator (all supported formats).
 
 # Rapid Development
