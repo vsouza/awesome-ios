@@ -54,7 +54,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
     - [UI](#ui)
         - [Activity Indicator](#activity-indicator)
         - [Alert View](#alerts)
-        - [TextField](#textfield)
+        - [TextField & TextView](#textfield--textview)
         - [Button](#button)
         - [Menu] (#menu)
         - [Label](#label)
@@ -656,7 +656,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
  * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - Animated alert library like Swarm app. :large_orange_diamond:
  * [Whisper](https://github.com/hyperoslo/Whisper) - Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside :large_orange_diamond:
 
-##### TextField / TextView
+##### TextField & TextView
 
  * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
  * [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews.
