@@ -426,7 +426,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
  * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
- * [Parse Push](https://parse.com/products/push) - Complete free Push Notifications Backend with the possibility of creating segments, scheduling and even A/B Testing.
  * [Urban Airship](https://www.urbanairship.com/products/engage#push-messages) - Paid Push Notifications backend.
  * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
  * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
@@ -732,7 +731,6 @@ Projects in Swift language will be marked with :large_orange_diamond: and :watch
 
 ### Analytics
  * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
- * [Parse Analytics](https://parse.com/products/analytics) - Measure App Usage, track bugs and much more.
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
  * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
  * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
