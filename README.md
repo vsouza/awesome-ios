@@ -201,6 +201,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
  * [Storez](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage (with namespace support). :large_orange_diamond:
  * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - Statically-typed NSUserDefaults. :large_orange_diamond:
  * [swiftydb](https://github.com/Oyvindkg/swiftydb) - Making SQLite databases a blast :large_orange_diamond:
+ * [SugarRecord](https://github.com/pepibumur/SugarRecord) - Data persistence management library written in Swift 2.0 :large_orange_diamond:
 
 ### Date & Time
 
@@ -785,6 +786,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
   * [TimeLord](https://github.com/JonFir/TimeLord) - Easy DateTime (`NSDate`, `NSCalendar`, `NSDateComponents`, `NSDateFormatter`) management :large_orange_diamond:
   * [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor) - Monitor iOS app version easily.
   * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa. :large_orange_diamond:[e]
+  * [
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
