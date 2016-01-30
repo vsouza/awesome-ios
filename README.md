@@ -324,6 +324,8 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
  * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs. :large_orange_diamond:
  * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns. :large_orange_diamond:
  * [Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers. :large_orange_diamond:
+ * [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole) - Clickable links in your Xcode console, so you never wonder which class logged the message. http://merowing.info :large_orange_diamond:
+
 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
