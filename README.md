@@ -282,6 +282,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
 * [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project. :large_orange_diamond:
 * [Swiftz](https://github.com/typelift/Swiftz) -  Functional programming in Swift. :large_orange_diamond:
 * [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the Optional Type. :large_orange_diamond:[e]
+* [Hookah](https://github.com/khoiln/Hookah) - Hookah is a functional library for Swift. It's inspired by LoDash, Underscore project. https://www.hookah.rocks/ :large_orange_diamond:
 
 ### JSON
  * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C JSON.
