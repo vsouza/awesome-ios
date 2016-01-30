@@ -851,6 +851,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
  * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
  * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
  * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator. :large_orange_diamond:
+ * [DVR](https://github.com/venmo/DVR) - Network testing for Swift :large_orange_diamond:
 
 ### Beta Distribution
  * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
