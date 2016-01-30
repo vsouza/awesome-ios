@@ -786,8 +786,8 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
   * [TimeLord](https://github.com/JonFir/TimeLord) - Easy DateTime (`NSDate`, `NSCalendar`, `NSDateComponents`, `NSDateFormatter`) management :large_orange_diamond:
   * [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor) - Monitor iOS app version easily.
   * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa. :large_orange_diamond:[e]
-  * [
 
+[Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize iOS apps in a smarter way using JSON files. Swift framework. :large_orange_diamond:
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
@@ -867,6 +867,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
  * [Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
  * [Rubustrings](https://github.com/dcordero/Rubustrings) - Check the format and consistency of Localizable.strings files
  * [Laurine](https://github.com/JiriTrecak/Laurine) - Laurine - Localization code generator written in Swift. Sweet! :large_orange_diamond:
+ * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize iOS apps in a smarter way using JSON files. Swift framework. :large_orange_diamond:
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
