@@ -801,6 +801,7 @@ Projects in Swift language will be marked with :large_orange_diamond:, Swift Ext
  * [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) - A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.
  * [Curassow](https://github.com/kylef/Curassow) - Swift HTTP server using the pre-fork worker model. :large_orange_diamond:
  * [Epoch](https://github.com/Zewo/Epoch) - Venice based HTTP server for Swift 2.2 on Linux :large_orange_diamond:
+ * [vapor](https://github.com/tannernelson/vapor) - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu. :large_orange_diamond:
 
 # Dependency / Package Manager
  * [Cocoa Pods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
