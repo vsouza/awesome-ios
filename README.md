@@ -396,11 +396,13 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 * [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS. :large_orange_diamond:
 
 ### Messaging
+
+Also see [push notifications](#push-notifications)
+
  * [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
  * [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
  * [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
  * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
- * [Carnival](http://www.carnival.io) - Targeted, personalized In-App Messaging and Push Notifications.
  * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
 
 ### Machine Learning
@@ -434,9 +436,23 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
  * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
- * [Urban Airship](https://www.urbanairship.com/products/engage#push-messages) - Paid Push Notifications backend.
- * [Growth Push](https://growthpush.com) - Paid Push Notifications. It is one of the most popular tool in Japan.
  * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
+
+#### Providers
+
+Most of these are paid services, some have free tiers.
+
+ * [Urban Airship](https://www.urbanairship.com/products/engage#push-messages)
+ * [Growth Push](https://growthpush.com) - Popular in Japan.
+ * [Appboy](https://www.appboy.com)
+ * [Batch](https://batch.com)
+ * [Boxcar](https://boxcar.io/developer)
+ * [Carnival](http://www.carnival.io)
+ * [Catapush](https://www.catapush.com)
+ * [Netmera](http://www.netmera.com)
+ * [OneSignal](https://www.onesignal.com) - Free.
+ * [PushBots](https://www.pushbots.com)
+ * [Pushwoosh](https://www.pushwoosh.com)
 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
