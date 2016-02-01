@@ -76,6 +76,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
     - [Other Testing](#other-testing)
 - [Tools](#tools)
 - [Rapid Development](#rapid-development)
+  - [Injection](#injection)
 - [Deployment](#deployment)
 - [App Store](#app-store)
 - [SDK](#sdk)
@@ -900,11 +901,14 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
- * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
- * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
  * [MMBarricade](https://github.com/mutualmobile/MMBarricade) - Runtime configurable local server for iOS apps.
  * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - Generate RESTful server from your Core Data Model.
  * [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
+
+## Injection
+* [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
+* [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
+* [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
 
 # Deployment
  * [fastlane](https://github.com/fastlane/fastlane) Connect all iOS deployment tools into one streamlined workflow.
