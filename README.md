@@ -667,6 +667,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
  * [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
  * [NWCalendarView](https://github.com/nbwar/NWCalendarView) - An availability calendar implementation for iOS :large_orange_diamond:
+ * [FSCalendar](https://github.com/WenchaoIOS/FSCalendar) - A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2 https://www.cocoacontrols.com/controls/fscalendar :large_orange_diamond:
  
 ##### Form
  * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
