@@ -2,8 +2,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more.
-The list is divided into categories such as Frameworks, Components, Testing and others,  open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
+A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more.
+The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with :large_orange_diamond:[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
@@ -264,7 +264,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
  * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
  * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X.
- * [Bolts](https://github.com/BoltsFramework/Bolts-iOS) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
+ * [Bolts](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
  * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.  :large_orange_diamond:
 
 ### Files
