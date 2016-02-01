@@ -1146,6 +1146,7 @@ Other amazingly awesome lists can be found in the
  * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
  * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
  * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :large_orange_diamond:
+ * [Awesome-Swift-Playgrounds]https://github.com/uraimo/Awesome-Swift-Playgrounds - :large_orange_diamond:
 
 # Contributing
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
