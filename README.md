@@ -74,7 +74,6 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
     - [UI Testing](#ui-testing)
     - [Beta Distribution](#beta-distribution)
     - [Other Testing](#other-testing)
-- [Toolchains](#toolchains)
 - [Tools](#tools)
 - [Rapid Development](#rapid-development)
 - [Deployment](#deployment)
@@ -142,6 +141,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [Swift-GA-Tracker-for-Apple-tvOS](https://github.com/analytics-pros/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV. :large_orange_diamond:
 
 ### Bridging
+ * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
  * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
 
 ### Cache
@@ -875,9 +875,6 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
  * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
  * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
-
-# Toolchains
- * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
 
 # Tools
  * [Shark](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum. :large_orange_diamond:
