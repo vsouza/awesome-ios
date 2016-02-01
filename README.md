@@ -888,6 +888,7 @@ Most of these are paid services, some have free tiers.
  * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
  * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator. :large_orange_diamond:
  * [DVR](https://github.com/venmo/DVR) - Network testing for Swift :large_orange_diamond:
+ * [Cuckoo](https://github.com/SwiftKit/Cuckoo) - First boilerplate-free mocking framework for Swift :large_orange_diamond:
 
 ### Beta Distribution
  * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
