@@ -121,7 +121,6 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
  * [Awesome-iOS-Animation](https://github.com/jackyzh/awesome-ios-animation) - Collection of Animation projects
  * [RZTransitions](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
- * [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
  * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
  * [Canvas](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
  * [Fluent](https://github.com/matthewcheok/Fluent) - Swift animation made easy :large_orange_diamond:
