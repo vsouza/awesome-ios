@@ -110,6 +110,9 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [Stanford - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford's 2015 iTunes U App Development Course. :large_orange_diamond:
  * [Programming with Objective-C by Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
  * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
+* [Udacity: Beggining IOs App Developing](https://www.udacity.com/course/beginning-ios-app-development--nd006) - Udacity's intro course on writing IOs apps [Paid Resource]
+* [Udacity: IOs Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003) - Udacity's full course on IOs and Ipad developing [Paid Resource]
+
 
 # Libraries And Frameworks
 
