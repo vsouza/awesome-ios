@@ -690,6 +690,7 @@ Most of these are paid services, some have free tiers.
  * [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
  * [NWCalendarView](https://github.com/nbwar/NWCalendarView) - An availability calendar implementation for iOS :large_orange_diamond:
  * [FSCalendar](https://github.com/WenchaoIOS/FSCalendar) - A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2 https://www.cocoacontrols.com/controls/fscalendar :large_orange_diamond:
+ * [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) - A fully customizable calendar view acting as a date range picker
 
 ##### Form
  * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
