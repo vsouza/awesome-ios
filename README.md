@@ -211,6 +211,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - Statically-typed NSUserDefaults. :large_orange_diamond:
  * [swiftydb](https://github.com/Oyvindkg/swiftydb) - Making SQLite databases a blast :large_orange_diamond:
  * [SugarRecord](https://github.com/pepibumur/SugarRecord) - Data persistence management library written in Swift 2.0 :large_orange_diamond:
+ * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3. :large_orange_diamond:
 
 ### Date & Time
 
