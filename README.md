@@ -1114,6 +1114,7 @@ Most of these are paid services, some have free tiers.
  * [Use Your Loaf](http://useyourloaf.com)
  * [Swift Tutorials by Jameson Quave](http://jamesonquave.com/blog/tutorials/) :large_orange_diamond:
  * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: All of the resources for Learning About Swift :large_orange_diamond:
+ * [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) - A List of Awesome Swift Playgrounds! :large_orange_diamond:
 
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8/)
