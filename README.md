@@ -353,7 +353,6 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [ALPlacesViewController](https://github.com/AlexLittlejohn/ALPlacesViewController) - A place picker and location search using Google's places api webserice :large_orange_diamond:
 
 ### Media
-
 ##### Audio
  * [AudioBus](https://developer.audiob.us/) - Add Next Generation Live App-to-App Audio Routing
  * [AudioKit](https://github.com/audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
@@ -414,6 +413,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [360 VR Player](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
  * [Periscope VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control :large_orange_diamond:
  * [SSVideoPlayer](https://github.com/immrss/SSVideoPlayer) - A video player that support both local and network resource.
+ * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery 
 
 ##### PDF
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
