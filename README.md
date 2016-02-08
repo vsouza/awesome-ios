@@ -835,6 +835,7 @@ Most of these are paid services, some have free tiers.
  * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
  * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
  * [Moltin](https://moltin.com/ios-ecommerce-sdk) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
+ * [PatronKit](https://github.com/MosheBerman/PatronKit) - A framework to add patronage to your apps. :large_orange_diamond:
 
 ### Products
  * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
