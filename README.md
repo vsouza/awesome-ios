@@ -1,4 +1,4 @@
-![awesomeios3](https://cloud.githubusercontent.com/assets/6511079/12837998/0f359168-cb7d-11e5-93a6-5de346845650.png)
+<img src="awesome_logo.png">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
