@@ -132,7 +132,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [Pop By Example](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - A project tutorial in how to use Pop animation framework by example.
  * [AppAnimations](http://www.appanimations.com) - Collection of iOS animations to inspire your next project
  * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together. :large_orange_diamond:
- * [Animo](https://github.com/JohnEstropia/Animo) - SpriteKit-like animation builders for CALayers. :large_orange_diamond:
+ * [Animo](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers. :large_orange_diamond:
  * [CurryFire](https://github.com/devinross/curry-fire) - A framework for creating unique animations.
  * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable. :large_orange_diamond:
  * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView :large_orange_diamond:
