@@ -225,6 +225,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library written in Swift 2 :large_orange_diamond:
 * [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C
 * [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) - Swift dates, more fun. :large_orange_diamond:
+* [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer :large_orange_diamond:[e]
 
 ### Graphics
 * [Graphicz](https://github.com/SwiftKitz/Graphicz) - Light-weight, operator-overloading-free complements to CoreGraphics! :large_orange_diamond:
