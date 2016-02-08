@@ -456,7 +456,7 @@ Also see [push notifications](#push-notifications)
  * [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. :large_orange_diamond:
  * [TWRDownloadManager](https://github.com/chasseurmic/TWRDownloadManager) - A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.
  * [HappyDns](https://github.com/qiniu/happy-dns-objc) - A Dns library, support custom dns server, dnspod httpdns. Only support A record.
- * [Bridge](https://github.com/rawrjustin/Bridge) - a simple extensible typed networking library. intercept and process/alter requests and responses easily. :large_orange_diamond:
+ * [Bridge](https://github.com/rawrjustin/Bridge) - A simple extensible typed networking library. Intercept and process/alter requests and responses easily. :large_orange_diamond:
 
 
 ### Push Notifications
