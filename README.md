@@ -859,7 +859,7 @@ Most of these are paid services, some have free tiers.
   * [Scale](https://github.com/onmyway133/scale) - Unit converter in Swift (available via Cocoapods) :large_orange_diamond:
   * [Standard Template Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs :large_orange_diamond:
   * [TimeLord](https://github.com/JonFir/TimeLord) - Easy DateTime (`NSDate`, `NSCalendar`, `NSDateComponents`, `NSDateFormatter`) management :large_orange_diamond:
-  * [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor) - Monitor iOS app version easily.
+  * [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
   * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa. :large_orange_diamond:[e]
   * [Then](https://github.com/devxoul/Then) - ✨ Super sweet syntactic sugar for Swift initializers. :large_orange_diamond:[e]
   * [Kvitto](https://github.com/Cocoanetics/Kvitto) - App Store Receipt Validation :large_orange_diamond:
