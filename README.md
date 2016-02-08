@@ -43,6 +43,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
     - [Machine Learning](#machine-learning)
     - [Networking](#networking)
     - [Push Notifications](#push-notifications)
+        - [Push Notification Providers](#push-notification-providers)
     - [Passbook](#passbook)
     - [Permissions](#permissions)
     - [Regex](#regex)
@@ -456,7 +457,7 @@ Also see [push notifications](#push-notifications)
  * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
  * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
 
-#### Providers
+#### Push Notification Providers
 
 Most of these are paid services, some have free tiers.
 
