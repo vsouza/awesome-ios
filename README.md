@@ -654,6 +654,7 @@ Most of these are paid services, some have free tiers.
  * [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements 
  * [MZFormSheetController](https://github.com/m1entus/MZFormSheetController) - MZFormSheetController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
  * [StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) - UICollectionView layout for presenting of the overlapping cells. :large_orange_diamond:
+ * [Switcher](https://github.com/knn90/Switcher) - Custom UISwitcher with animation :large_orange_diamond:
 
 ##### Activity Indicator
 
