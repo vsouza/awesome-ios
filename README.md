@@ -1002,8 +1002,8 @@ Most of these are paid services, some have free tiers.
  * [Chocolat](https://github.com/neonichu/Chocolat) - :chocolate_bar: Generate podspecs from Swift packages. :large_orange_diamond:
  * [StoryboardMerge](https://github.com/marcinolawski/StoryboardMerge) - Xcode storyboards diff and merge tool.
  * [ai2app](https://github.com/metasmile/ai2app) - Creating AppIcon sets from Adobe Illustrator (all supported formats).
- * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy.
- :large_orange_diamond:
+ * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy. :large_orange_diamond:
+ * [abandoned-strings](https://github.com/ijoshsmith/abandoned-strings) - Command line program that detects unused resource strings in an iOS or OS X application. :large_orange_diamond:
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
