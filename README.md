@@ -442,6 +442,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
 * [UIView 2 PDF](https://github.com/RobertAPhillips/UIView_2_PDF) - PDF generator using UIViews or UIViews with an associated XIB
 * [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - A Swift ePub reader and parser framework for iOS. :large_orange_diamond:
+* [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s). :large_orange_diamond:
 
 ### Messaging
 
