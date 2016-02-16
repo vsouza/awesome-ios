@@ -947,7 +947,7 @@ Most of these are paid services, some have free tiers.
  * [Swifter](https://github.com/glock45/swifter) - Tiny http server engine written in Swift programming language. :large_orange_diamond:
  * [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) - A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.
  * [Curassow](https://github.com/kylef/Curassow) - Swift HTTP server using the pre-fork worker model. :large_orange_diamond:
- * [Epoch](https://github.com/Zewo/Epoch) - Venice based HTTP server for Swift 2.2 on Linux :large_orange_diamond:
+ * [Zewo](https://github.com/Zewo/Zewo) - Venice based HTTP server for Swift 2.2 on Linux :large_orange_diamond:
  * [vapor](https://github.com/tannernelson/vapor) - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu. :large_orange_diamond:
  * [swiftra](https://github.com/takebayashi/swiftra) - Sinatra-like DSL for developing web apps in Swift :large_orange_diamond:
  * [blackfish](https://github.com/elliottminns/blackfish) - A fast HTTP web server based on Node.js and Express written in Swift :large_orange_diamond:
