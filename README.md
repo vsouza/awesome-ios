@@ -225,6 +225,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [SugarRecord](https://github.com/pepibumur/SugarRecord) - Data persistence management library written in Swift 2.0 :large_orange_diamond:
  * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3. :large_orange_diamond:
  * [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift :large_orange_diamond:
+ * [SwiftData](https://github.com/ryanfowler/SwiftData) - Simple and Effective SQLite Handling in Swift :large_orange_diamond:
 
 ### Date & Time
 
