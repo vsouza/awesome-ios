@@ -361,6 +361,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole) - Clickable links in your Xcode console, so you never wonder which class logged the message. http://merowing.info :large_orange_diamond:
  * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Colorful, lightweight & fast logging in Swift 2 :large_orange_diamond:
  * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight tool for generating text tables. :large_orange_diamond:
+ * [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread :large_orange_diamond:
 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
@@ -872,7 +873,6 @@ Most of these are paid services, some have free tiers.
  * [spacecommander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
  * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
  * [DCIntrospect](https://github.com/domesticcatsoftware/DCIntrospect) - Small library of visual debugging tools for iOS.
- * [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread :large_orange_diamond:
  * [Tailor](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
  * [SwiftCop](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations. :large_orange_diamond:
  * [Trackable](https://github.com/VojtaStavik/Trackable) - Trackable is a simple analytics integration helper library. It’s especially designed for easy and comfortable integration with existing projects. :large_orange_diamond:
