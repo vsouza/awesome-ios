@@ -378,6 +378,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [Mapbox GL](https://github.com/mapbox/mapbox-gl-native) - An OpenGL renderer for Mapbox Vector Tiles with SDK bindings for iOS.
  * [CMMapLauncher](https://github.com/citymapper/CMMapLauncher) - iOS library that makes it quick and easy to show directions in various mapping applications.
  * [ALPlacesViewController](https://github.com/AlexLittlejohn/ALPlacesViewController) - A place picker and location search using Google's places api webservice :large_orange_diamond:
+ * [GEOSwift](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine. :large_orange_diamond:
 
 ### Media
 ##### Audio
