@@ -1004,6 +1004,7 @@ Most of these are paid services, some have free tiers.
  * [Zucchini](https://github.com/zucchini-src/zucchini) - A visual iOS testing framework that loves your apps.
  * [Remote](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing.
  * [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) - Write unit tests which test the layout of a view in multiple configurations :large_orange_diamond:
+ * [EarlGrey](https://github.com/google/EarlGrey) - iOS UI Automation Test Framework by Google
 
 ### Other Testing
  * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
