@@ -93,7 +93,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
     - [News, Blogs and more](#news-blogs-and-more)
-    - [UIKIt references](#uikit-references)
+    - [UIKit references](#uikit-references)
     - [Forums and discuss lists](#forums-and-discuss-lists)
     - [Tutorials and Keynotes](#tutorials-and-keynotes)
     - [Prototyping](#prototyping)
