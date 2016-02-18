@@ -1161,6 +1161,7 @@ Most of these are paid services, some have free tiers.
  * [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) - An Xcode plugin let you build & run your selected lines of code in Xcode without running the whole project, you'll have the output instantly in your Xcode console. :large_orange_diamond:
  * [TTPasteHistory](https://github.com/tutumagi/TTPasteHistory) - A Xcode plugin. Recording you copy-and-paste history easily to write the code
  * [xSendIssue](https://github.com/hungri-yeti/xSendIssue) - Plugin for Xcode to submit github issues directly from within Xcode.
+ * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
 
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
