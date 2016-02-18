@@ -99,7 +99,6 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
     - [Prototyping](#prototyping)
     - [Newsletters](#newsletters)
     - [Medium](#medium)
-
 - [Twitter](#twitter)
 - [Facebook Groups](#facebook-groups)
 - [Podcasts](#podcasts)
