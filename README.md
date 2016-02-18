@@ -106,6 +106,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
+***
 # Getting Started
  * [Start Developing with iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide. :large_orange_diamond:
  * [Lifehacker](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
