@@ -983,6 +983,7 @@ Most of these are paid services, some have free tiers.
  * [Trevi](https://github.com/Yoseob/Trevi) - A powerful Swift Web Application Server Framework Project :large_orange_diamond:
  * [Express](https://github.com/crossroadlabs/Express) - Swift Express is a simple, yet unopinionated web application server written in Swift :large_orange_diamond:
  * [Aeon](https://github.com/Zewo/Aeon) - Aeon is a GCD based HTTP server for Swift 2. :large_orange_diamond:
+ * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift :large_orange_diamond:
 
 # Dependency / Package Manager
  * [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
