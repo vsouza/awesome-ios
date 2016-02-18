@@ -1115,6 +1115,7 @@ Most of these are paid services, some have free tiers.
  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
  * [PacketZoom](https://packetzoom.com) PacketZoom SDK for iOS.
  * [Primer](https://www.goprimer.com) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
+ * [Azure](https://github.com/Azure/azure-storage-ios) - Client library for accessing Azure Storage on an iOS device
 
 ## Unofficial
 
