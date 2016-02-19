@@ -1310,6 +1310,7 @@ Most of these are paid services, some have free tiers.
  * [App Story](http://www.appstorypodcast.com)
  * [Mobile Couch](http://mobilecouch.co/)
  * [iOS Bytes](https://iosbytes.codeschool.com/)
+ * [iPhreaks](https://devchat.tv/iphreaks)
 
 # Books
  * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) :large_orange_diamond:
