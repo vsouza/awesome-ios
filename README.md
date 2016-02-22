@@ -230,6 +230,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3. :large_orange_diamond:
  * [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift :large_orange_diamond:
  * [SwiftData](https://github.com/ryanfowler/SwiftData) - Simple and Effective SQLite Handling in Swift :large_orange_diamond:
+ * [Fluent](https://github.com/qutheory/fluent) - Simple ActiveRecord implementation for working with your database in Swift. :large_orange_diamond:
 
 ### Date & Time
 
@@ -297,6 +298,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X.
  * [Bolts](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
  * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.  :large_orange_diamond:
+ * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift. :large_orange_diamond:
 
 ### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. :large_orange_diamond:
@@ -720,6 +722,8 @@ Most of these are paid services, some have free tiers.
  * [NGAParallaxMotion](https://github.com/michaeljbishop/NGAParallaxMotion) - A tiny category on UIView that allows you to set one property: "parallaxIntensity" to achieve a parallax effect with UIMotionEffect
  * [EPShapes](https://github.com/ipraba/EPShapes) - Design shapes in Interface Builder. :large_orange_diamond:
  * [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - A CocoaPod that simplifies creation of the particle effects
+ * [ValueStepper](https://github.com/BalestraPatrick/ValueStepper) - A Stepper object that displays its value. :large_orange_diamond:
+ * [CircleMenu](https://github.com/Ramotion/circle-menu) - An animated, multi-option menu button. :large_orange_diamond:
  * [LocalizedView](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
 
 ##### Activity Indicator
@@ -883,7 +887,7 @@ Most of these are paid services, some have free tiers.
  * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) - Folding Tab Bar and Tab Bar Controller
  * [GGTabBar](https://github.com/Goles/GGTabBar) - Another UITabBar & UITabBarController (iOS Tab Bar) replacement, but uses Auto Layout for arranging it's views hierarchy.
  * [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements
- 
+
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
  * [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - Socket.IO-client for iOS/OS X. :large_orange_diamond:
@@ -985,7 +989,7 @@ Most of these are paid services, some have free tiers.
  * [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) - A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.
  * [Curassow](https://github.com/kylef/Curassow) - Swift HTTP server using the pre-fork worker model. :large_orange_diamond:
  * [Zewo](https://github.com/Zewo/Zewo) - Venice based HTTP server for Swift 2.2 on Linux :large_orange_diamond:
- * [vapor](https://github.com/tannernelson/vapor) - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu. :large_orange_diamond:
+ * [Vapor](https://github.com/qutheory/vapor) - Elegant web framework for Swift that works on iOS, OS X, and Ubuntu. :large_orange_diamond:
  * [swiftra](https://github.com/takebayashi/swiftra) - Sinatra-like DSL for developing web apps in Swift :large_orange_diamond:
  * [blackfish](https://github.com/elliottminns/blackfish) - A fast HTTP web server based on Node.js and Express written in Swift :large_orange_diamond:
  * [swift-http](https://github.com/huytd/swift-http) - HTTP Implementation for Swift on Linux and Mac OS X :large_orange_diamond:
@@ -1186,6 +1190,7 @@ Most of these are paid services, some have free tiers.
  * [TTPasteHistory](https://github.com/tutumagi/TTPasteHistory) - A Xcode plugin. Recording you copy-and-paste history easily to write the code
  * [xSendIssue](https://github.com/hungri-yeti/xSendIssue) - Plugin for Xcode to submit github issues directly from within Xcode.
  * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
+ * [Fastlane-Plugin](https://github.com/RishabhTayal/Fastlane-Plugin) - The awesome Fastlane tools brought into your Xcode.
 
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
