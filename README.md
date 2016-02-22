@@ -724,6 +724,7 @@ Most of these are paid services, some have free tiers.
  * [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - A CocoaPod that simplifies creation of the particle effects
  * [ValueStepper](https://github.com/BalestraPatrick/ValueStepper) - A Stepper object that displays its value. :large_orange_diamond:
  * [CircleMenu](https://github.com/Ramotion/circle-menu) - An animated, multi-option menu button. :large_orange_diamond:
+ * [LocalizedView](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
 
 ##### Activity Indicator
 
