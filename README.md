@@ -617,6 +617,7 @@ Most of these are paid services, some have free tiers.
  * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks :large_orange_diamond:
  * [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application :large_orange_diamond:
  * [Appz](https://github.com/SwiftKitz/Appz) - Easily launch and deeplink into external applications, falling back to web if not installed. :large_orange_diamond:
+ * [URLNavigator](https://github.com/devxoul/URLNavigator) - :boat: Elegant URL Routing for Swift :large_orange_diamond:
 
 ### UI
  * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
