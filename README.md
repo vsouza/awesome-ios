@@ -1023,6 +1023,7 @@ Most of these are paid services, some have free tiers.
  * [Aeon](https://github.com/Zewo/Aeon) - Aeon is a GCD based HTTP server for Swift 2. :large_orange_diamond:
  * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift :large_orange_diamond:
  * [Frank](https://github.com/nestproject/Frank) - Frank is a DSL for quickly writing web applications in Swift
+ * [Kitura](https://github.com/IBM-Swift/Kitura) - Web framework and HTTP server for Swift by IBM :large_orange_diamond:
 
 # Dependency / Package Manager
  * [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
