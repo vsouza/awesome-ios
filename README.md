@@ -914,12 +914,11 @@ Most of these are paid services, some have free tiers.
  * [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements
 
 ### WebSocket
- * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
+ * [SocketRocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
  * [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - Socket.IO-client for iOS/OS X. :large_orange_diamond:
  * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift, iOS and OSX. :large_orange_diamond:
  * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX :large_orange_diamond:
  * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple socket library for apple swift lang. :large_orange_diamond:
- * [SocketRocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
 
 ### Code Quality
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
