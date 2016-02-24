@@ -1311,6 +1311,7 @@ Most of these are paid services, some have free tiers.
  * [This Week in Swift](https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
  * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem.
  * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
+ * [raywenderlich.com Weekly](http://www.raywenderlich.com/newsletter) - sign up to receive the latest tutorials from raywenderlich.com each week
 
 ### Medium
  * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
