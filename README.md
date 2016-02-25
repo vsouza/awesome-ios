@@ -741,6 +741,7 @@ Most of these are paid services, some have free tiers.
  * [CircleMenu](https://github.com/Ramotion/circle-menu) - An animated, multi-option menu button. :large_orange_diamond:
  * [LocalizedView](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
  * [Spots](https://github.com/hyperoslo/Spots) - Spots is a view controller framework that makes your setup and future development blazingly fast. :large_orange_diamond:
+ * [APAddressBook](https://github.com/Alterplay/APAddressBook) - Easy access to iOS address book
 
 ##### Activity Indicator
 
