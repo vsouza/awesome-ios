@@ -1248,7 +1248,6 @@ Most of these are paid services, some have free tiers.
  * [BGR](http://bgr.com/ios-7/)
  * [iMore](http://www.imore.com/)
  * [Lifehacker](http://lifehacker.com/tag/ios)
- * [iCode Blog](http://www.icodeblog.com/)
  * [NSHipster](http://nshipster.com)
  * [Objc.io](https://www.objc.io/)
  * [ASCIIwwdc](http://asciiwwdc.com)
