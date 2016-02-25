@@ -744,6 +744,7 @@ Most of these are paid services, some have free tiers.
  * [CircleMenu](https://github.com/Ramotion/circle-menu) - An animated, multi-option menu button. :large_orange_diamond:
  * [Spots](https://github.com/hyperoslo/Spots) - Spots is a view controller framework that makes your setup and future development blazingly fast. :large_orange_diamond:
  * [APAddressBook](https://github.com/Alterplay/APAddressBook) - Easy access to iOS address book
+ * [JDSlider](https://github.com/JellyDevelopment/JDSlider) - An iOS Slider written in Swift. :large_orange_diamond:
 
 ##### Activity Indicator
 
