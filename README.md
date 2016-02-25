@@ -65,7 +65,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
         - [TextField & TextView](#textfield--textview)
         - [Keyboard](#keyboard)
         - [Button](#button)
-        - [Menu] (#menu)
+        - [Menu](#menu)
         - [Label](#label)
         - [Pull to Refresh](#pull-to-refresh)
         - [Tab Bar](#tab-bar)
@@ -243,6 +243,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift :large_orange_diamond:
  * [SwiftData](https://github.com/ryanfowler/SwiftData) - Simple and Effective SQLite Handling in Swift :large_orange_diamond:
  * [Fluent](https://github.com/qutheory/fluent) - Simple ActiveRecord implementation for working with your database in Swift. :large_orange_diamond:
+ * [RealmIncrementalStore](https://github.com/eure/RealmIncrementalStore) - Realm-powered Core Data persistent store. :large_orange_diamond:
 
 ### Date & Time
 
