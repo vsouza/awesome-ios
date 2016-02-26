@@ -9,7 +9,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
-### Contents
+### Contentste
 
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
@@ -1087,6 +1087,7 @@ Most of these are paid services, some have free tiers.
  * [DVR](https://github.com/venmo/DVR) - Network testing for Swift :large_orange_diamond:
  * [Cuckoo](https://github.com/SwiftKit/Cuckoo) - First boilerplate-free mocking framework for Swift :large_orange_diamond:
  * [Parallel iOS Tests](https://github.com/plu/parallel_ios_tests) - Run iOS tests on multiple simulators in parallel at the same time :large_orange_diamond:
+ * [Vinyl](https://github.com/Velhotes/Vinyl) - Network testing à la VCR in Swift :large_orange_diamond:
 
 ### Beta Distribution
  * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
