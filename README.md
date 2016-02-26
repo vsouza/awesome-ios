@@ -378,7 +378,6 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Auto Layout In Swift Made Easy :large_orange_diamond:
 * [SwiftBond](https://github.com/SwiftBond/Bond) - Bond is a Swift binding framework that takes binding concepts to a whole new level. It's simple, powerful, type-safe and multi-paradigm. :large_orange_diamond:
 
-
 ### Localization
  * [Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
  * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize iOS apps in a smarter way using JSON files. Swift framework. :large_orange_diamond:
