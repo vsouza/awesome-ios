@@ -9,7 +9,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
-### Contentste
+### Content
 
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
