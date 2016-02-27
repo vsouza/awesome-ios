@@ -1017,7 +1017,8 @@ Most of these are paid services, some have free tiers.
   * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch :large_orange_diamond:
   * [SwiftSafe](https://github.com/czechboy0/SwiftSafe) - Thread synchronization made easy :large_orange_diamond:
   * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS utility class to manage global dispatch queue.
-
+  * [AlecrimAsyncKit](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
+  
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
