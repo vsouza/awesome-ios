@@ -405,6 +405,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number. :large_orange_diamond:
  * [puree](https://github.com/cookpad/puree-ios) - A log collector for iOS :large_orange_diamond:
  * [AFNetworkActivityLogger](https://github.com/AFNetworking/AFNetworkActivityLogger) - AFNetworking 2.0 Extension for Network Request Logging
+ * [Colors](https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy! :large_orange_diamond:[e]
 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
