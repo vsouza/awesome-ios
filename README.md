@@ -19,6 +19,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
     - [Bridging](#bridging)
     - [Cache](#cache)
     - [Color](#color)
+    - [Command Line](#command-line)
     - [Core Data](#core-data)
     - [Charts](#charts)
     - [Database](#database)
@@ -192,6 +193,12 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette helpers written in Swift. :large_orange_diamond:
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js. :large_orange_diamond:
 * [PFColorHash](https://github.com/PerfectFreeze/PFColorHash) - Generate color based on the given string. :large_orange_diamond:
+
+### Command Line
+* [Swiftline](https://github.com/Swiftline/Swiftline) - Swiftline is a set of tools to help you create command line applications. :large_orange_diamond:
+* [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces :large_orange_diamond:
+* [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift :large_orange_diamond:
+* [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift :large_orange_diamond:
 
 ### Charts
  * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). :large_orange_diamond:
