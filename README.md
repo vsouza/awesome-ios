@@ -409,6 +409,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [puree](https://github.com/cookpad/puree-ios) - A log collector for iOS :large_orange_diamond:
  * [AFNetworkActivityLogger](https://github.com/AFNetworking/AFNetworkActivityLogger) - AFNetworking 2.0 Extension for Network Request Logging
  * [Colors](https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy! :large_orange_diamond:[e]
+ * [Loggerithm](https://github.com/honghaoz/Loggerithm) - A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output. :large_orange_diamond:
 
 ### Maps
  * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
