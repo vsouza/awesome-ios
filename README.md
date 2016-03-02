@@ -758,6 +758,7 @@ Most of these are paid services, some have free tiers.
  * [JDSlider](https://github.com/JellyDevelopment/JDSlider) - An iOS Slider written in Swift. :large_orange_diamond:
  * [TagListView](https://github.com/xhacker/TagListView) - Simple and highly customizable iOS tag list view, in Swift. :large_orange_diamond:
  * [AZExpandableIconListView](https://github.com/Azuritul/AZExpandableIconListView) - An expandable/collapsible view component written in Swift. :large_orange_diamond:
+ * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
 
 ##### Activity Indicator
 
