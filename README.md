@@ -164,6 +164,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [OAuth2](https://github.com/p2/OAuth2) - OAuth2 framework for OS X and iOS, written in Swift. :large_orange_diamond:
  * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS :large_orange_diamond:
  * [SimpleAuth](https://github.com/calebd/SimpleAuth) - Simple social authentication for iOS
+ * [AlamofireOauth2](https://github.com/evermeer/AlamofireOauth2) - A swift implementation of OAuth2 :large_orange_diamond:
 
 ### Bridging
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
