@@ -80,6 +80,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
     - [TDD / BDD](#tdd--bdd)
+    - [A/B Testing](#ab-testing)
     - [UI Testing](#ui-testing)
     - [Beta Distribution](#beta-distribution)
     - [Other Testing](#other-testing)
@@ -1068,6 +1069,11 @@ Most of these are paid services, some have free tiers.
  * [Dixie](https://github.com/Skyscanner/Dixie) - Dixie is an open source Objective-C testing framework for altering object behaviours.
  * [gh-unit](https://github.com/gh-unit/gh-unit) - Test Framework for Objective-C.
  * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C :large_orange_diamond:
+
+### A/B Testing
+ * [Switchboard](https://github.com/KeepSafe/Switchboard) - Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users.
+ * [SkyLab](https://github.com/mattt/SkyLab) - Multivariate & A/B Testing for iOS and Mac
+ * [MSActiveConfig](https://github.com/mindsnacks/MSActiveConfig) - Remote configuration and A/B Testing framework for iOS
 
 ### UI Testing
  * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
