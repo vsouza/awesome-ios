@@ -1302,6 +1302,7 @@ Most of these are paid services, some have free tiers.
  * [iOS Programming Subreddit](https://www.reddit.com/r/iosprogramming)
  * [iOS Dev Weekly](https://iosdevweekly.com/)
  * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) :large_orange_diamond:
+ * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) :large_orange_diamond:
  * [iOScreator](http://www.ioscreator.com/) :large_orange_diamond:
  * [Mathew Sanders](http://mathewsanders.com/) :large_orange_diamond:
  * [Little Bites of Cocoa](https://littlebitesofcocoa.com/) :large_orange_diamond:
