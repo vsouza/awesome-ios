@@ -1308,7 +1308,8 @@ Most of these are paid services, some have free tiers.
  * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
  * [This Week in Swift](http://swiftnews.curated.co) :large_orange_diamond:
  * [iOS Developer and Designer interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
-
+ * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) :large_orange_diamond:
+ 
 ### UIKit references
  * [iOS Fonts](http://iosfonts.com/)
  * [UIAppearance list](https://gist.github.com/mattt/5135521)
