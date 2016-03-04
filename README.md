@@ -116,7 +116,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [Start Developing with iOS](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide. :large_orange_diamond:
  * [Lifehacker](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
  * [Codeproject](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development) - Getting Started with iPhone and iOS Development.
- * [Ray Wenderlich](http://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
+ * [Ray Wenderlich](https://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
  * [Stanford - Developing Apps to iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774?mt=10) - Stanford's iTunes U App Development Course (Audio and Video).
  * [Stanford - Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford's 2015 iTunes U App Development Course. :large_orange_diamond:
  * [Programming with Objective-C by Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
@@ -1331,7 +1331,7 @@ Most of these are paid services, some have free tiers.
  * [Cocoa is my Girlfriend](http://www.cimgf.com/)
  * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
  * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
- * [RAYWENDERLICH](http://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
+ * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
  * [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index)
  * [Mike Ash](https://www.mikeash.com/pyblog/)
  * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) :large_orange_diamond:
@@ -1364,7 +1364,7 @@ Most of these are paid services, some have free tiers.
  * [This Week in Swift](https://swiftnews.curated.co) - I'm @NatashaTheRobot and I'm programmed to love #Swift! Every week, I put together a list of the best Swift resources for you. Happy Learning!
  * [The iOS Times](http://theiostimes.com) - A weekly publication with news and trending projects in the open source iOS ecosystem.
  * [Swift Sandbox](http://swiftsandbox.io) - Swift developer newsletter, curated collection of Swift open source news, projects & resources. :large_orange_diamond:
- * [raywenderlich.com Weekly](http://www.raywenderlich.com/newsletter) - sign up to receive the latest tutorials from raywenderlich.com each week
+ * [raywenderlich.com Weekly](https://www.raywenderlich.com/newsletter) - sign up to receive the latest tutorials from raywenderlich.com each week
  * [iOS Dev Tools Weekly](https://iosdev.tools) - The greatest iOS development tools, including websites, desktop and mobile apps, and back-end services.
  * [iOS Trivia Weekly](http://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b) - Three challenging questions about iOS development every Wednesday
  * [Indie iOS Focus Weekly](https://indieiosfocus.curated.co) - Looking for the best iOS dev links, tutorials, & tips beyond the usual news? Curated by Chris Beshore. Published every Thursday.
@@ -1391,7 +1391,7 @@ Most of these are paid services, some have free tiers.
  * [Framer JS](https://www.facebook.com/groups/framerjs/)
 
 # Podcasts
- * [The Ray Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
+ * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
  * [Debug](http://www.imore.com/debug)
  * [iDeveloper](http://ideveloper.co/)
  * [App Story](http://www.appstorypodcast.com)
