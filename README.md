@@ -904,6 +904,7 @@ Most of these are paid services, some have free tiers.
  * [VCFloatingActionButton](https://github.com/gizmoboy7/VCFloatingActionButton) - A Floating Action Button just like Google inbox for iOS
  * [FlowBarButtonItem](https://github.com/noppefoxwolf/FlowBarButtonItem) - Bar Button Item that can be moved anywhere in the screen, like Android's stickers button. :large_orange_diamond:
  * [gbkui-button-progress-view](https://github.com/Guidebook/gbkui-button-progress-view) - UIButton Inspired by Apple’s download progress buttons in the app store
+ * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - Custom UIButton effect inspired by Google Material Design :large_orange_diamond:
 
 ##### Menu
  * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift. :large_orange_diamond:
