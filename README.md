@@ -483,6 +483,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [Navi](https://github.com/nixzhu/Navi) - Focus on avatar caching. :large_orange_diamond:
 
 ##### GIF
+ * [JWAnimatedImage](https://github.com/wangjwchn/JWAnimatedImage) - A animated GIF engine for iOS in Swift with low memory & cpu usage.:large_orange_diamond:
  * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
  * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
  * [gifu](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS in Swift :large_orange_diamond:
