@@ -842,7 +842,7 @@ Most of these are paid services, some have free tiers.
  * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
  * [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
  * [NWCalendarView](https://github.com/nbwar/NWCalendarView) - An availability calendar implementation for iOS :large_orange_diamond:
- * [FSCalendar](https://github.com/WenchaoIOS/FSCalendar) - A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2 https://www.cocoacontrols.com/controls/fscalendar :large_orange_diamond:
+ * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2 https://www.cocoacontrols.com/controls/fscalendar :large_orange_diamond:
  * [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) - A fully customizable calendar view acting as a date range picker
  * [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - A customizable calendar view for iOS.
 
