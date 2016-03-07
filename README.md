@@ -777,6 +777,7 @@ Most of these are paid services, some have free tiers.
  * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
  * [greedo-layout-for-ios](https://github.com/500px/greedo-layout-for-ios) - Full aspect ratio grid layout for iOS
  * [FlourishUI](https://github.com/thinkclay/FlourishUI) - A highly configurable and out-of-the-box-pretty UI library :large_orange_diamond:
+ * [GranadaLayout](https://github.com/gskbyte/GranadaLayout) - Alternative layout system for iOS, inspired on the Android layout system, that includes linear and relative layouts, as well as an extensible JSON-based layout inflater.
 
 ##### Activity Indicator
 
