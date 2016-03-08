@@ -300,6 +300,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - Reinventing the way ImagePicker works. :large_orange_diamond:
  * [CameraManager](https://github.com/imaginary-cloud/CameraManager) - Simple Swift class to provide all the configurations you need to create custom camera view in your app. :large_orange_diamond:
  * [RxMediaPicker](https://github.com/ruipfcosta/RxMediaPicker) - A reactive wrapper built around UIImagePickerController. :large_orange_diamond:
+ * [prankPro](https://github.com/huijimuhe/prankPro) - A fully functional short video app project.Record a six secends video while playing prank sounds.
 
 ##### Location
  * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
