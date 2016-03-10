@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list CONTRIBUTING.md,facebook.com/groups,growthpush.com,mocaplatform.com/features,XCDYouTubeKit,useyourloaf,appicontemplate.com,littlebitesofcocoa,sensiblecocoa,Awesome-Swift-,natasha,pushbots,count.ly,travis,rypress,tapglue,localytics,rephrase,thinkster,dropboxusercontent
+  - awesome_bot README.md --white-list CONTRIBUTING.md,facebook.com/groups,growthpush.com,mocaplatform.com/features,XCDYouTubeKit,useyourloaf,appicontemplate.com,littlebitesofcocoa,sensiblecocoa,Awesome-Swift-,natasha,pushbots,count.ly,travis,rypress,tapglue,localytics,rephrase,thinkster,dropboxusercontent,catapush
