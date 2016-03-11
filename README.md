@@ -1071,7 +1071,7 @@ Most of these are paid services, some have free tiers.
   * [AlecrimAsyncKit](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
 
 ### Dependency Injection
- * [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C Dependency Injection
+ * [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C Dependency Injection.
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
