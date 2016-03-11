@@ -195,6 +195,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette helpers written in Swift. :large_orange_diamond:
 * [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) - An attractive color generator for Swift. Ported from randomColor.js. :large_orange_diamond:
 * [PFColorHash](https://github.com/PerfectFreeze/PFColorHash) - Generate color based on the given string. :large_orange_diamond:
+* [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - A UISwitch that infects its superview with its tint color.
 
 ### Command Line
 * [Swiftline](https://github.com/Swiftline/Swiftline) - Swiftline is a set of tools to help you create command line applications. :large_orange_diamond:
