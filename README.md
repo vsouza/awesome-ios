@@ -1205,6 +1205,7 @@ Most of these are paid services, some have free tiers.
 * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
 * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 * [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
+* [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 
 # Deployment
  * [fastlane](https://github.com/fastlane/fastlane) Connect all iOS deployment tools into one streamlined workflow.
