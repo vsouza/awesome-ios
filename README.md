@@ -1263,7 +1263,8 @@ Most of these are paid services, some have free tiers.
  * [Easy Social](https://github.com/pjebs/EasySocial) - Twitter & Facebook Integration.
  * [das-quadrat](https://github.com/Constantine-Fry/das-quadrat) - A Swift wrapper for Foursquare API. iOS and OSX. :large_orange_diamond:
  * [SocialLib](https://github.com/darkcl/SocialLib) - SocialLib handles sharing message to multiple social media.
-
+ * [PokemonKit](https://github.com/ContinuousLearning/PokemonKit) - Pokeapi wrapper, written in Swift :large_orange_diamond:
+ 
 # Xcode
 
 ### Plugins
