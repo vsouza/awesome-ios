@@ -77,7 +77,6 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
     - [Payments](#payments)
     - [Products](#products)
     - [Utility](#utility)
-    - [Dependency Injection](#dependency-injection)
 - [Server](#server)
 - [Project setup](#project-setup)
 - [Dependency / Package Manager](#dependency--package-manager)
@@ -1070,9 +1069,6 @@ Most of these are paid services, some have free tiers.
   * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS utility class to manage global dispatch queue.
   * [AlecrimAsyncKit](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
 
-### Dependency Injection
- * [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C Dependency Injection.
-
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
  * [liftoff](https://github.com/thoughtbot/liftoff) - Another CLI for creating iOS projects.
@@ -1191,6 +1187,7 @@ Most of these are paid services, some have free tiers.
 * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
 * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 * [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
+* [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 
 # Deployment
  * [fastlane](https://github.com/fastlane/fastlane) Connect all iOS deployment tools into one streamlined workflow.
