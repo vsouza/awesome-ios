@@ -92,6 +92,8 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 - [Deployment](#deployment)
 - [App Store](#app-store)
 - [SDK](#sdk)
+    - [Official](#official)
+    - [Unofficial](#unofficial)
 - [Xcode](#xcode)
     - [Plugins](#plugins)
     - [Themes](#themes)
