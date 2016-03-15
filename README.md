@@ -581,7 +581,7 @@ Also see [push notifications](#push-notifications)
 
 ### Push Notifications
  * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
- * [PEM](https://github.com/fastlane/PEM) - Automatically generate push notification profiles for your server.
+ * [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - Automatically generate and renew your push notification profiles.
  * [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
 
 #### Push Notification Providers
@@ -1216,12 +1216,12 @@ Most of these are paid services, some have free tiers.
 * [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 
 # Deployment
- * [fastlane](https://github.com/fastlane/fastlane) Connect all iOS deployment tools into one streamlined workflow.
- * [deliver](https://github.com/fastlane/deliver) Deploy screenshots, app metadata and app updates to the App Store using just one command.
- * [snapshot](https://github.com/fastlane/snapshot) Automatically create screenshots in all languages on all devices.
+ * [fastlane](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+ * [deliver](https://github.com/fastlane/fastlane/tree/master/deliver) - Upload screenshots, metadata and your app to the App Store using a single command.
+ * [snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot) Automate taking localized screenshots of your iOS app on every device.
  * [buddybuild](buddybuild.com) - A mobile iteration platform - build, deploy, and collaborate.
  * [Bitrise](https://www.bitrise.io) Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate.
- * [watchbuild](https://github.com/fastlane/watchbuild/) - Get a notification once your iTunes Connect build is finished processing https://fastlane.tools
+ * [watchbuild](https://github.com/fastlane/fastlane/tree/master/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
 
 # App Store
  * [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
