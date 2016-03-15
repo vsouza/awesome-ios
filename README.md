@@ -157,6 +157,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [UIView-Shake](https://github.com/andreamazz/UIView-Shake) - UIView category that adds shake animation
  * [Walker](https://github.com/RamonGilabert/Walker) - A new animation engine for your app. :large_orange_diamond:
  * [Morgan](https://github.com/RamonGilabert/Morgan) - An animation set for your app. :large_orange_diamond:
+ * [MagicMove](https://github.com/patrickreynolds/MagicMove) - Keynote-style Magic Move transition animations :large_orange_diamond:
 
 ### Apple TV
  * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
