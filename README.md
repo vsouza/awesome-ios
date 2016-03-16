@@ -1124,6 +1124,7 @@ Most of these are paid services, some have free tiers.
  * [Frank](https://github.com/nestproject/Frank) - Frank is a DSL for quickly writing web applications in Swift
  * [Kitura](https://github.com/IBM-Swift/Kitura) - Web framework and HTTP server for Swift by IBM :large_orange_diamond:
  * [Swifton](https://github.com/necolt/Swifton) - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X :large_orange_diamond:
+ * [Dynamo](https://github.com/johnno1962/Dynamo) - High Performance (nearly)100% Swift Web server supporting dynamic content. :large_orange_diamond:
 
 # Dependency / Package Manager
  * [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
