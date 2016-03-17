@@ -378,6 +378,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
  * [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift :large_orange_diamond:
  * [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - An Alamofire extension which converts JSON response data into swift objects using EVReflection :large_orange_diamond:
  * [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
+ * [YYModel](https://github.com/ibireme/YYModel) - High performance model framework for iOS/OSX.
 
 ### Layout
 * [FlexboxLayout](https://github.com/alexdrone/FlexboxLayout) - Port of Facebook's css-layout to Swift :large_orange_diamond:
