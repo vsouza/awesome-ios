@@ -733,7 +733,7 @@ Most of these are paid services, some have free tiers.
  * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
  * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - Make any UIView a full fledged notification center.
  * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit
- * [CollapsableTable](https://github.com/rob-nash/CollapsableTable) - Collapsable table view sections with custom section header views. :large_orange_diamond:
+ * [CollapsableOptions](https://github.com/rob-nash/CollapsableOptions) - Collapsable table view sections with custom section header views. :large_orange_diamond:
  * [PickerView](https://github.com/filipealva/PickerView) - A customizable alternative to UIPickerView in Swift. :large_orange_diamond:
  * [InteractivePlayerView](https://github.com/AhmettKeskin/InteractivePlayerView) - Custom iOS music player view :large_orange_diamond:
  * [phone-number-picker](https://github.com/hughbe/phone-number-picker) - A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift :large_orange_diamond:
@@ -1040,7 +1040,6 @@ Most of these are paid services, some have free tiers.
  * [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments
 
 ### Analytics
- * [Flurry Analytics](http://www.flurry.com) - Free app Analytics API.
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
  * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
  * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
