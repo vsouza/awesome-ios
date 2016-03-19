@@ -1415,7 +1415,7 @@ Most of these are paid services, some have free tiers.
 ### iOS UI Template
  * [App Icon Template](http://appicontemplate.com/ios8/)
  * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone/)
- * [iOS UI Design Kit](http://www.invisionapp.com/tethr)
+ * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
  * [iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
 
 ### Prototyping
