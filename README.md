@@ -806,6 +806,7 @@ Most of these are paid services, some have free tiers.
  * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - UICollectionView with a sticky header flow layout, written in Swift :large_orange_diamond:
  * [PeekPop](https://github.com/marmelroy/PeekPop) - Backwards-compatible Peek and Pop.
  * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - Whole, half or floating point ratings control written in Swift :large_orange_diamond:
+ * [RKTagsView](https://github.com/kuler90/RKTagsView) - Highly customizable iOS tags view (like NSTokenField). Supports editing, multiple selection, Auto Layout and much more.
 
 ##### Activity Indicator
 
