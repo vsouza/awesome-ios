@@ -328,6 +328,7 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 ##### Other Hardware
  * [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
  * [DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
+ * [Knock-To-React](https://github.com/MatheusCavalca/Knock-To-React) - Get data from Accelerometer to build an exclusive feature to interact with users just by receiving and recognizing "knocks" in the device.
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
