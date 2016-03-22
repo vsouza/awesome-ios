@@ -14,5 +14,12 @@ Please ensure your pull request adheres to the following guidelines:
 - If project has been made in Swift, add :large_orange_diamond: in the end of description.
 - If project is a Swift Extension, add :large_orange_diamond:[e] in the end of description.
 - If project has been made for Apple Watch, add ⌚ in the end of description.
- 
-Your contributions are always welcome!  Thank you for your suggestions!
+
+#### Projects are ineligible if:
+- Doesn't have commit for more than two years.
+- Doesn't support ios 7 and later.
+- Only have README in another language (Chinese, Japanese, Portuguese and etc)
+- We cannot clearly understand the objective.
+- Without clear README
+
+Your contributions are always welcome!  Thank you for your suggestions! :smiley:
