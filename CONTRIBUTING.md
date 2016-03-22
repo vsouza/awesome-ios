@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 #### Projects are ineligible if:
 - Doesn't have commit for more than two years.
-- Doesn't support ios 7 and later.
+- Doesn't support iOS 7 and later.
 - Only have README in another language (Chinese, Japanese, Portuguese and etc)
 - We cannot clearly understand the objective.
 - Without clear README
