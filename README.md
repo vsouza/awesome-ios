@@ -1137,6 +1137,7 @@ Most of these are paid services, some have free tiers.
   * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
   * [VersionTrackerSwift](https://github.com/tbaranes/VersionTrackerSwift) - Track which versions of your app a user has previously installed. :large_orange_diamond:
   * [DeviceGuru](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s. :large_orange_diamond:
+  * [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - Some well known CS algorithms & data structures in Swift with explanations. :large_orange_diamond:
 
 #### GCD
   * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
