@@ -4,10 +4,17 @@
 [![Join the chat at https://gitter.im/norio-nomura/SwiftTalkInJapanese](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vsouza/awesome-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/vsouza/awesome-ios.svg?branch=master)](https://travis-ci.org/vsouza/awesome-ios)
 
+##### About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md).
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
+
+##### How to Use
+Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
+- Ask for help on [our Twitter](https://twitter.com/awesome_ios) or [our Gitter Channel](https://gitter.im/vsouza/awesome-ios)
+- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
+- Go through our *Content Menu*
 
 ### Content
 
