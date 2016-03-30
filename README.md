@@ -634,6 +634,7 @@ Most of these are paid services, some have free tiers.
  * [OneSignal](https://www.onesignal.com) - Free.
  * [PushBots](https://www.pushbots.com)
  * [Pushwoosh](https://www.pushwoosh.com)
+ * [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
 
 ### Passbook
  * [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
