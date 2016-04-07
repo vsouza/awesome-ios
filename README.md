@@ -959,6 +959,7 @@ Most of these are paid services, some have free tiers.
  * [InfiniteScrollKit](https://github.com/rob-nash/InfiniteScrollKit) - A kit for building tableviews with a paging animation.
  * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells). :large_orange_diamond:
  * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
+ * [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView :large_orange_diamond:
 
 ##### TextField & TextView
 
