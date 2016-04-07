@@ -955,6 +955,7 @@ Most of these are paid services, some have free tiers.
  * [CollapsableTableKit](https://github.com/rob-nash/CollapsableTableKit) - A kit for building tableviews with a collapsable animation, for each section.
  * [InfiniteScrollKit](https://github.com/rob-nash/InfiniteScrollKit) - A kit for building tableviews with a paging animation.
  * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells). :large_orange_diamond:
+ * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 
 ##### TextField & TextView
 
