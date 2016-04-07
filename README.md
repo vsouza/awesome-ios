@@ -175,6 +175,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Morgan](https://github.com/RamonGilabert/Morgan) - An animation set for your app. :large_orange_diamond:
  * [MagicMove](https://github.com/patrickreynolds/MagicMove) - Keynote-style Magic Move transition animations :large_orange_diamond:
  * [Shimmer](https://github.com/facebook/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
+ * [SAConfettiView](https://github.com/osteslag/Changeset) - Confetti! Who doesn't like confetti? :large_orange_diamond:
 
 ### Apple TV
  * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
