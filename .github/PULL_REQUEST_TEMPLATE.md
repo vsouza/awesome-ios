@@ -9,5 +9,8 @@
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] One project per pull request
+- [ ] Only one project is in the request
 - [ ] `Travis CI` pass
+- [ ] Supports iOS 7 and later
+- [ ] Has a commit from less than 2 years ago
+- [ ] has a **clear** README in English
