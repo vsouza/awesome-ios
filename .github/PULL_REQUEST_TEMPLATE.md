@@ -13,4 +13,4 @@
 - [ ] `Travis CI` pass
 - [ ] Supports iOS 7 and later
 - [ ] Has a commit from less than 2 years ago
-- [ ] has a **clear** README in English
+- [ ] Has a **clear** README in English
