@@ -1495,7 +1495,7 @@ Most of these are paid services, some have free tiers.
 ### Tutorials and Keynotes
  * [AppCoda](http://www.appcoda.com)
  * [Tutorials Point](http://www.tutorialspoint.com/ios/)
- * [Code with Cris](http://codewithchris.com/)
+ * [Code with Chris](http://codewithchris.com/)
  * [Cocoa with Love](http://www.cocoawithlove.com/)
  * [Cocoa is my Girlfriend](http://www.cimgf.com/)
  * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
