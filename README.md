@@ -1601,7 +1601,7 @@ Other amazingly awesome lists can be found in the
  * [Awesome Reactive Programming in Swift](https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift) - A collection of frameworks, talks and resources about reactive programming in Swift.
 
 # Contributing
-[See the guide](https://github.com/vsouza/awesome-ios/blob/master/CONTRIBUTING.md)
+[See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
 
 # License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
