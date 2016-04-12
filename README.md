@@ -1570,7 +1570,7 @@ Most of these are paid services, some have free tiers.
 # Podcasts
  * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
  * [Debug](http://www.imore.com/debug)
- * [iDeveloper](http://ideveloper.co/)
+ * [iDeveloper](http://blog.ideveloper.co/)
  * [App Story](http://www.appstorypodcast.com)
  * [Mobile Couch](http://mobilecouch.co/)
  * [iOS Bytes](https://iosbytes.codeschool.com/)
