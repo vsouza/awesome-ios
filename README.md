@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png">
+
+[Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:<img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/norio-nomura/SwiftTalkInJapanese](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vsouza/awesome-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -418,6 +419,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Jay](https://github.com/czechboy0/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
  * [YYModel](https://github.com/ibireme/YYModel) - High performance model framework for iOS/OSX.
  * [Alembic](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
+ * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
 
 ### XML
  * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. :large_orange_diamond:
