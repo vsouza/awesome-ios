@@ -23,6 +23,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Animation](#animation)
     - [Apple TV](#apple-tv)
     - [Authentication](#authentication)
+    - [Analytics](#analytics)
     - [Bridging](#bridging)
     - [Cache](#cache)
     - [Color](#color)
@@ -90,7 +91,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [VR](#vr)
     - [Websocket](#websocket)
     - [Code Quality](#code-quality)
-    - [Analytics](#analytics)
     - [Payments](#payments)
     - [Products](#products)
     - [Utility](#utility)
@@ -195,6 +195,18 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS :large_orange_diamond:
  * [SimpleAuth](https://github.com/calebd/SimpleAuth) - Simple social authentication for iOS
  * [AlamofireOauth2](https://github.com/evermeer/AlamofireOauth2) - A swift implementation of OAuth2 :large_orange_diamond:
+
+### Analytics
+ * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
+ * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
+ * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
+ * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
+ * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
+ * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
+ * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
+ * [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
+ * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
+ * [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
 
 ### Bridging
  * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
@@ -1156,18 +1168,6 @@ User input projects.
  * [Trackable](https://github.com/VojtaStavik/Trackable) - Trackable is a simple analytics integration helper library. It’s especially designed for easy and comfortable integration with existing projects. :large_orange_diamond:
  * [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
  * [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments
-
-### Analytics
- * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
- * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
- * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
- * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
- * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
- * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
- * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
- * [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
- * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
- * [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
 
 ### Payments
  * [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS. :large_orange_diamond:
