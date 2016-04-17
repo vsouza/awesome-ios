@@ -955,6 +955,7 @@ Most of these are paid services, some have free tiers.
  * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift :large_orange_diamond:
  * [SDevCircleButton](https://github.com/0x73/SDevCircleButton) - Circle Button for Swift :large_orange_diamond:
  * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states animated using Facebook POP.
+ * [WYMaterialButton](https://github.com/yuwang17/WYMaterialButton) - Animated button with material design effect using Facebook's POP for swift :large_orange_diamond:
  * [HTPressableButton](https://github.com/herinkc/HTPressableButton) - Flat design pressable button.
  * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
  * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - An UIButton-based view with fade in/out animation features.
