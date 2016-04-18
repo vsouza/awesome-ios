@@ -1217,6 +1217,7 @@ Most of these are paid services, some have free tiers.
   * [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - Some well known CS algorithms & data structures in Swift with explanations. :large_orange_diamond:
   * [AEAppVersion](https://github.com/tadija/AEAppVersion) - Simple and Lightweight iOS App Version Tracking written in Swift :large_orange_diamond:
   * [BlocksKit](https://github.com/zwaldowski/BlocksKit) - The Objective-C block utilities you always wish you had.
+  * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
 
 #### GCD
   * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
