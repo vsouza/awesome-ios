@@ -101,12 +101,11 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [TDD / BDD](#tdd--bdd)
     - [A/B Testing](#ab-testing)
     - [UI Testing](#ui-testing)
-    - [Beta Distribution](#beta-distribution)
     - [Other Testing](#other-testing)
 - [Tools](#tools)
 - [Rapid Development](#rapid-development)
   - [Injection](#injection)
-- [Deployment](#deployment)
+- [Deployment / Distribution](#deployment--distribution)
 - [App Store](#app-store)
 - [SDK](#sdk)
     - [Official](#official)
@@ -1305,13 +1304,6 @@ Most of these are paid services, some have free tiers.
  * [Vinyl](https://github.com/Velhotes/Vinyl) - Network testing à la VCR in Swift :large_orange_diamond:
  * [Fetcher](https://github.com/rob-nash/Fetcher) - Mock paging data with a variable fetch time interval.
 
-### Beta Distribution
- * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
- * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
- * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
- * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
- * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
-
 # Tools
  * [Shark](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum. :large_orange_diamond:
  * [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project. :large_orange_diamond:
@@ -1353,13 +1345,18 @@ Most of these are paid services, some have free tiers.
 * [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
 * [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 
-# Deployment
+# Deployment / Distribution
  * [fastlane](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
  * [deliver](https://github.com/fastlane/fastlane/tree/master/deliver) - Upload screenshots, metadata and your app to the App Store using a single command.
  * [snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot) Automate taking localized screenshots of your iOS app on every device.
  * [buddybuild](buddybuild.com) - A mobile iteration platform - build, deploy, and collaborate.
  * [Bitrise](https://www.bitrise.io) Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate.
  * [watchbuild](https://github.com/fastlane/fastlane/tree/master/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
+ * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
+ * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
+ * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
+ * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
+ * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
 
 # App Store
  * [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.
