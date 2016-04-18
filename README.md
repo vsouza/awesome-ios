@@ -955,7 +955,6 @@ Most of these are paid services, some have free tiers.
  * [SDevBootstrapButton](https://github.com/0x73/SDevBootstrapButton) - Twitter Bootstrap buttons for Swift :large_orange_diamond:
  * [SDevCircleButton](https://github.com/0x73/SDevCircleButton) - Circle Button for Swift :large_orange_diamond:
  * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - Flat button with 9 different states animated using Facebook POP.
- * [WYMaterialButton](https://github.com/yuwang17/WYMaterialButton) - Animated button with material design effect using Facebook's POP for swift :large_orange_diamond:
  * [HTPressableButton](https://github.com/herinkc/HTPressableButton) - Flat design pressable button.
  * [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
  * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - An UIButton-based view with fade in/out animation features.
@@ -971,6 +970,7 @@ Most of these are paid services, some have free tiers.
  * [ProgressButton](https://github.com/sprint84/ProgressButton) - Custom button class that displays a progress bar around it to gauge :large_orange_diamond:
  * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Custom button that opens a popover with more buttons, similar to the new 'Like' button of Facebook :large_orange_diamond:
  * [EMEmojiableBtn](https://github.com/Eke/EMEmojiableBtn) - Custom button that opens a popover with more buttons, similar to the new 'Like' button of Facebook
+ * [WYMaterialButton](https://github.com/yuwang17/WYMaterialButton) - Animated button with material design effect using Facebook's POP, working well for both flat and image button :large_orange_diamond:
 
 ##### Calendar
  * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
