@@ -12,8 +12,8 @@ Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions w
 
 ##### How to Use
 Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
-- Ask for help on [our Twitter](https://twitter.com/awesome_ios) or [our Gitter Channel](https://gitter.im/vsouza/awesome-ios)
-- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword.
+- Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
+- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
 ### Content
