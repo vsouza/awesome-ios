@@ -32,6 +32,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Charts](#charts)
     - [Database](#database)
     - [Date & Time](#date--time)
+    - [EventBus](#eventbus)
     - [Gesture](#gesture)
     - [Graphics](#graphics)
     - [Hardware](#hardware)
@@ -40,7 +41,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [iBeacon](#ibeacon)
         - [Location](#location)
         - [Other Hardware](#other-hardware)
-    - [EventBus](#eventbus)
     - [Files](#files)
     - [Functional Programming](#functional-programming)
     - [Reactive Programming](#reactive-programming)
@@ -309,6 +309,14 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Convenience extension for NSDate in Swift :large_orange_diamond:[e]
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift :large_orange_diamond:
 
+### EventBus
+ * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
+ * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
+ * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X.
+ * [Bolts](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
+ * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.  :large_orange_diamond:
+ * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift. :large_orange_diamond:
+
 ### Gesture
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents :large_orange_diamond:
 * [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - Aids with prototyping UIGestureRecognizers in Xcode Playgrounds :large_orange_diamond:[e]
@@ -368,14 +376,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple.
  * [DarkLightning](https://github.com/jensmeder/DarkLightning) -Simply the fastest way to transmit data between iOS and OSX
  * [Deviice](https://github.com/andrealufino/Deviice) - Simply library to detect the device on which the app is running (and some properties) 🔶
-
-### EventBus
- * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
- * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
- * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and OS X.
- * [Bolts](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
- * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.  :large_orange_diamond:
- * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift. :large_orange_diamond:
 
 ### Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. :large_orange_diamond:
