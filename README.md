@@ -1077,6 +1077,7 @@ Most of these are paid services, some have free tiers.
  * [MARKRangeSlider](https://github.com/vadymmarkov/MARKRangeSlider) - A custom reusable slider control with 2 thumbs (range slider).
  * [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider) - A UISlider subclass that displays the slider value in a popup view
  * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - A slider, similar in style to UISlider, but which allows you to pick a minimum and maximum range.
+ * [MMSegmentSlider](https://github.com/MedvedevMax/MMSegmentSlider) - An easy-to-use animated segment slider with IBDesignable support
 
 ##### Stepper
  * [PFStepper](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had! :large_orange_diamond:
