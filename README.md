@@ -1371,7 +1371,7 @@ Most of these are paid services, some have free tiers.
  * [watchbuild](https://github.com/fastlane/fastlane/tree/master/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
  * [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
  * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
- * [HockeyApp](http://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
+ * [HockeyApp](https://hockeyapp.net/) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
  * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
  * [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
 
