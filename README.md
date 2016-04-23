@@ -219,6 +219,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [YYCache](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
  * [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache. :large_orange_diamond:
  * [MGCacheManager](https://github.com/Mortgy/MGCacheManager) - A delightful iOS Networking Cache Managing Class.
+ * [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify
 
 ### Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
