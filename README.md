@@ -1022,6 +1022,7 @@ Most of these are paid services, some have free tiers.
  * [IncrementableLabel](https://github.com/recisio/IncrementableLabel) - Incrementable label for iOS, OS X, and tvOS. :large_orange_diamond:
  * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
  * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing. :large_orange_diamond:
+ * [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS. :large_orange_diamond:
 
 ##### Menu
  * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift. :large_orange_diamond:
