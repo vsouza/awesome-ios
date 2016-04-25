@@ -237,7 +237,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ViralSwitch](https://github.com/andreamazz/ViralSwitch) - A UISwitch that infects its superview with its tint color.
 
 ### Command Line
-* [Swiftline](https://github.com/Swiftline/Swiftline) - Swiftline is a set of tools to help you create command line applications. :large_orange_diamond:
+* [Swiftline](https://github.com/oarrabi/Swiftline) - Swiftline is a set of tools to help you create command line applications. :large_orange_diamond:
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces :large_orange_diamond:
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift :large_orange_diamond:
 * [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift :large_orange_diamond:
@@ -1568,7 +1568,7 @@ Most of these are paid services, some have free tiers.
 ### Prototyping
  * [FluidUI](https://www.fluidui.com)
  * [Proto.io](https://proto.io/)
- * [Framer](http://framerjs.com/)
+ * [Framer](https://framerjs.com/)
  * [Pixate](http://www.pixate.com/)
  * [Principle](http://principleformac.com)
 
