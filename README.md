@@ -731,6 +731,7 @@ Most of these are paid services, some have free tiers.
  * [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA) - RSA public/private key encryption in Swift :large_orange_diamond:
  * [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Enigma encryption in Swift :large_orange_diamond:
  * [SSKeychain](https://github.com/soffes/sskeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
+ * [SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, SEM encryption in Swift with CommonCrypto in iOS and OS X :large_orange_diamond:
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
