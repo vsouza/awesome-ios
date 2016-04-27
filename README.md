@@ -897,6 +897,9 @@ Most of these are paid services, some have free tiers.
  * [Fashion](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way. :large_orange_diamond:
  * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch. :large_orange_diamond:
  * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - Custom transition between two collection view layouts :large_orange_diamond:
+ * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - Template auto layout cell for automatically UITableViewCell height calculating
+ * [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - only need two array to build a simple project
+ * [LCFInfiniteScrollView](https://github.com/leichunfeng/LCFInfiniteScrollView) - https://github.com/leichunfeng/LCFInfiniteScrollView
 
 ##### Activity Indicator
 
