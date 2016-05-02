@@ -991,7 +991,7 @@ Most of these are paid services, some have free tiers.
  * [ProgressButton](https://github.com/sprint84/ProgressButton) - Custom button class that displays a progress bar around it to gauge :large_orange_diamond:
  * [JOEmojiableBtn](https://github.com/lojals/JOEmojiableBtn) - Custom button that opens a popover with more buttons, similar to the new 'Like' button of Facebook :large_orange_diamond:
  * [EMEmojiableBtn](https://github.com/Eke/EMEmojiableBtn) - Custom button that opens a popover with more buttons, similar to the new 'Like' button of Facebook
- * [WYMaterialButton](https://github.com/yuwang17/WYMaterialButton) - Animated button with material design effect using Facebook's POP, working well for both flat and image button :large_orange_diamond:
+ * [WYMaterialButton](https://github.com/Yu-w/WYMaterialButton) - Animated button with material design effect using Facebook's POP, working well for both flat and image button :large_orange_diamond:
  * [DynamicButton](https://github.com/yannickl/DynamicButton) - Yet another animated flat buttons in Swift :large_orange_diamond:
 
 ##### Calendar
