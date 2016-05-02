@@ -31,6 +31,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Core Data](#core-data)
     - [Charts](#charts)
     - [Database](#database)
+    - [Data Structures / Algorithms](#data-structures--algorithms)
     - [Date & Time](#date--time)
     - [EventBus](#eventbus)
     - [Gesture](#gesture)
@@ -177,7 +178,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Morgan](https://github.com/RamonGilabert/Morgan) - An animation set for your app. :large_orange_diamond:
  * [MagicMove](https://github.com/patrickreynolds/MagicMove) - Keynote-style Magic Move transition animations :large_orange_diamond:
  * [Shimmer](https://github.com/facebook/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
- * [SAConfettiView](https://github.com/osteslag/Changeset) - Confetti! Who doesn't like confetti? :large_orange_diamond:
+ * [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - Confetti! Who doesn't like confetti? :large_orange_diamond:
  * [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) - CCMRadarView uses the IBDesignable tools to make an easy customizable radar view with animation :large_orange_diamond:
  * [Pulsator](https://github.com/shu223/Pulsator) - Pulse animation for iOS :large_orange_diamond:
 
@@ -300,6 +301,13 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Fluent](https://github.com/qutheory/fluent) - Simple ActiveRecord implementation for working with your database in Swift. :large_orange_diamond:
  * [RealmIncrementalStore](https://github.com/eure/RealmIncrementalStore) - Realm-powered Core Data persistent store. :large_orange_diamond:
  * [Palau](https://github.com/symentis/Palau) - NSUserDefaults with Wings! Custom Validation, Swift Generics.  :large_orange_diamond:
+
+### Data Structures / Algorithms
+ * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
+ * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another
+ * [BTree](https://github.com/lorentey/BTree) - Fast ordered collections for Swift using in-memory B-trees :large_orange_diamond:
+ * [SwiftStructures](https://github.com/waynewbishop/SwiftStructures) - Examples of commonly used data structures and algorithms in Swift. :large_orange_diamond:
+ * [diff](https://github.com/soffes/diff) - Simple diff library in pure Swift :large_orange_diamond:
 
 ### Date & Time
 
@@ -1269,7 +1277,6 @@ Most of these are paid services, some have free tiers.
   * [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - Some well known CS algorithms & data structures in Swift with explanations. :large_orange_diamond:
   * [AEAppVersion](https://github.com/tadija/AEAppVersion) - Simple and Lightweight iOS App Version Tracking written in Swift :large_orange_diamond:
   * [BlocksKit](https://github.com/zwaldowski/BlocksKit) - The Objective-C block utilities you always wish you had.
-  * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
 
 #### GCD
   * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
