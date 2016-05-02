@@ -45,7 +45,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [iBeacon](#ibeacon)
         - [Location](#location)
         - [Other Hardware](#other-hardware)
-
     - [Reactive Programming](#reactive-programming)
     - [JSON](#json)
     - [XML / HTML](#xml--html)
@@ -387,7 +386,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift. :large_orange_diamond:
 
 ### Hardware
-
 ##### Bluetooth
  * [Discovery](https://github.com/omergul123/Discovery) - A very simple library to discover and retrieve data from nearby devices (even if the peer app works at background).
  * [LGBluetooth](https://github.com/l0gg3r/LGBluetooth) - Simple, block-based, lightweight library over CoreBluetooth. Will clean up your Core Bluetooth related code.
