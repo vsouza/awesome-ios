@@ -328,6 +328,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [diff](https://github.com/soffes/diff) - Simple diff library in pure Swift :large_orange_diamond:
  * [Brick](https://github.com/hyperoslo/Brick) - A generic view model for both basic and complex scenarios :large_orange_diamond:
  * [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models in Swift :large_orange_diamond:
+ * [AnyObjectConvertible](https://github.com/tarunon/AnyObjectConvertible) - Convert your own struct/enum to AnyObject easily. :large_orange_diamond:
 
 ### Date & Time
 
