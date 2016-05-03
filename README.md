@@ -65,7 +65,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Passbook](#passbook)
     - [Permissions](#permissions)
     - [Reactive Programming](#reactive-programming)
-    - [XML / HTML / CSV](#xml--html--csv)
     - [Regex](#regex)
     - [Security](#security)
     - [Text](#text)
@@ -97,8 +96,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Payments](#payments)
     - [Products](#products)
     - [Utility](#utility)
-- [Server](#server)
+    - [XML / HTML / CSV](#xml--html--csv)
 - [Project setup](#project-setup)
+- [Server](#server)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Testing](#testing)
     - [TDD / BDD](#tdd--bdd)
@@ -743,16 +743,6 @@ Most of these are paid services, some have free tiers.
 * [RxMultipeer](https://github.com/RxSwiftCommunity/RxMultipeer) - A testable RxSwift wrapper around MultipeerConnectivity :large_orange_diamond:
 * [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift :large_orange_diamond:
 
-### XML / HTML / CSV
- * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. :large_orange_diamond:
- * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift. :large_orange_diamond:
- * [Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & OS X
- * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - Fetch a XML feed and parse it into objects :large_orange_diamond:
- * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support :large_orange_diamond:
- * [Kanna](https://github.com/tid-kijyun/Kanna)  - Kanna(鉋) is an XML/HTML parser for MacOSX/iOS. :large_orange_diamond:
- * [CSwiftV](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180 :large_orange_diamond:
- * [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
-
 ### Regex
  * [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type :large_orange_diamond:
  * [SwiftRegex](https://github.com/kasei/SwiftRegex) - Perl-like regex =~ operator for Swift :large_orange_diamond:
@@ -1286,6 +1276,16 @@ Most of these are paid services, some have free tiers.
   * [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) - iOS utility class to manage global dispatch queue.
   * [AlecrimAsyncKit](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
   * [GrandSugarDispatch](https://github.com/jessesquires/GrandSugarDispatch) - Syntactic sugar for Grand Central Dispatch (GCD) :large_orange_diamond:
+
+### XML / HTML / CSV
+ * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. :large_orange_diamond:
+ * [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser for Swift. :large_orange_diamond:
+ * [Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & OS X
+ * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - Fetch a XML feed and parse it into objects :large_orange_diamond:
+ * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support :large_orange_diamond:
+ * [Kanna](https://github.com/tid-kijyun/Kanna)  - Kanna(鉋) is an XML/HTML parser for MacOSX/iOS. :large_orange_diamond:
+ * [CSwiftV](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180 :large_orange_diamond:
+ * [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
