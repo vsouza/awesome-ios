@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/norio-nomura/SwiftTalkInJapanese](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vsouza/awesome-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/vsouza/awesome-ios.svg?branch=master)](https://travis-ci.org/vsouza/awesome-ios)
+[![Build Status](https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master)](https://travis-ci.org/vsouza/awesome-ios)
 
 ##### About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more.
@@ -714,7 +714,7 @@ Most of these are paid services, some have free tiers.
  * [Catapush](https://www.catapush.com)
  * [Netmera](http://www.netmera.com)
  * [OneSignal](https://www.onesignal.com) - Free.
- * [PushBots](https://www.pushbots.com)
+ * [PushBots](https://pushbots.com/)
  * [Pushwoosh](https://www.pushwoosh.com)
  * [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
 
@@ -1612,7 +1612,7 @@ Most of these are paid services, some have free tiers.
  * [Treehouse's iOS Courses and Workshops](https://teamtreehouse.com/library/topic:ios) - Topics for beginner and advanced developers in both Objective-C and Swift.
 
 ### iOS UI Template
- * [App Icon Template](http://appicontemplate.com/ios8/)
+ * [App Icon Template](https://appicontemplate.com/ios8/)
  * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone/)
  * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
  * [iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
@@ -1671,7 +1671,7 @@ Most of these are paid services, some have free tiers.
  * [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
  * [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
  * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
- * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426/)
+ * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
  * [Cocoa Design Patterns](http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
 
 # Other Awesome Lists
