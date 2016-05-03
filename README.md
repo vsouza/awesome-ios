@@ -319,6 +319,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Fluent](https://github.com/qutheory/fluent) - Simple ActiveRecord implementation for working with your database in Swift. :large_orange_diamond:
  * [RealmIncrementalStore](https://github.com/eure/RealmIncrementalStore) - Realm-powered Core Data persistent store. :large_orange_diamond:
  * [Palau](https://github.com/symentis/Palau) - NSUserDefaults with Wings! Custom Validation, Swift Generics.  :large_orange_diamond:
+ * [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - A collaborative list of Parse alternative backend service providers.
 
 ### Data Structures / Algorithms
  * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
