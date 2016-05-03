@@ -64,6 +64,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Push Notification Providers](#push-notification-providers)
     - [Passbook](#passbook)
     - [Permissions](#permissions)
+    - [Payments](#payments)
+    - [Products](#products)
     - [Reactive Programming](#reactive-programming)
     - [Regex](#regex)
     - [Security](#security)
@@ -93,8 +95,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [TextField & TextView](#textfield--textview)
     - [VR](#vr)
     - [Websocket](#websocket)
-    - [Payments](#payments)
-    - [Products](#products)
     - [Utility](#utility)
     - [XML / HTML / CSV](#xml--html--csv)
 - [Project setup](#project-setup)
@@ -728,6 +728,21 @@ Most of these are paid services, some have free tiers.
 * [Permission](https://github.com/delba/Permission) - Ask for iOS permissions through a single, uniform interface. :large_orange_diamond:
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - A simple and elegant 3D-Flyover location request screen written Swift. :large_orange_diamond:
 
+### Payments
+ * [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS. :large_orange_diamond:
+ * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
+ * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
+ * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
+ * [Moltin](https://moltin.com/ios-ecommerce-sdk) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
+ * [PatronKit](https://github.com/MosheBerman/PatronKit) - A framework to add patronage to your apps. :large_orange_diamond:
+ * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+ and OSX 9.0+ :large_orange_diamond:
+ * [InAppFramework](https://github.com/sandorgyulai/InAppFramework) - In App Purchase Manager framework for iOS :large_orange_diamond:
+ * [SwiftInAppPurchase](https://github.com/rpzzzzzz/SwiftInAppPurchase) - Simply code In App Purchases with this Swift Framework :large_orange_diamond:
+
+### Products
+ * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
+ * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
+
 ### Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift :large_orange_diamond:
 * [RxOptional](https://github.com/thanegill/RxOptional) - RxSwift extentions for Swift optionals and "Occupiable" types :large_orange_diamond:[e]
@@ -1217,21 +1232,6 @@ Most of these are paid services, some have free tiers.
  * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX :large_orange_diamond:
  * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple socket library for apple swift lang. :large_orange_diamond:
  * [Socks](https://github.com/czechboy0/Socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X :large_orange_diamond:
-
-### Payments
- * [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS. :large_orange_diamond:
- * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowlege on Backend.
- * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
- * [Venmo](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
- * [Moltin](https://moltin.com/ios-ecommerce-sdk) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
- * [PatronKit](https://github.com/MosheBerman/PatronKit) - A framework to add patronage to your apps. :large_orange_diamond:
- * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+ and OSX 9.0+ :large_orange_diamond:
- * [InAppFramework](https://github.com/sandorgyulai/InAppFramework) - In App Purchase Manager framework for iOS :large_orange_diamond:
- * [SwiftInAppPurchase](https://github.com/rpzzzzzz/SwiftInAppPurchase) - Simply code In App Purchases with this Swift Framework :large_orange_diamond:
-
-### Products
- * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
- * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
 
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
