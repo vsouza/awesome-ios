@@ -327,6 +327,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [SwiftStructures](https://github.com/waynewbishop/SwiftStructures) - Examples of commonly used data structures and algorithms in Swift. :large_orange_diamond:
  * [diff](https://github.com/soffes/diff) - Simple diff library in pure Swift :large_orange_diamond:
  * [Brick](https://github.com/hyperoslo/Brick) - A generic view model for both basic and complex scenarios :large_orange_diamond:
+ * [BTree](https://github.com/lorentey/BTree) - Fast ordered collections for Swift using in-memory B-trees :large_orange_diamond:
 
 ### Date & Time
 
