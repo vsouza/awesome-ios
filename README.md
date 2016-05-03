@@ -462,6 +462,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
  * [Arrow 🏹](https://github.com/s4cha/Arrow) - Elegant JSON Parsing in Swift. :large_orange_diamond:
  * [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:
+ * [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux) :large_orange_diamond:
 
 ### Layout
 * [FlexboxLayout](https://github.com/alexdrone/FlexboxLayout) - Port of Facebook's css-layout to Swift :large_orange_diamond:
