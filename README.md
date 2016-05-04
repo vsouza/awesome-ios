@@ -1298,6 +1298,7 @@ Most of these are paid services, some have free tiers.
  * [Kanna](https://github.com/tid-kijyun/Kanna)  - Kanna(鉋) is an XML/HTML parser for MacOSX/iOS. :large_orange_diamond:
  * [CSwiftV](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180 :large_orange_diamond:
  * [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
+ * [SwiftyXMLParer](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift  :large_orange_diamond:
 
 # Project setup
  * [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
