@@ -4,4 +4,5 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list rephrase.io,reddit,littlebites,amazon,twilio,developer.apple
+  - ALLOWED_DUPES = CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit
+  - awesome_bot README.md --white-list $ALLOWED_DUPES,rephrase.io,reddit,littlebites,amazon,twilio,developer.apple,growthpush
