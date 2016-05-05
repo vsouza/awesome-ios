@@ -1275,7 +1275,7 @@ Most of these are paid services, some have free tiers.
  * [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift. :large_orange_diamond:
 
 ### WebSocket
- * [SocketRocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
+ * [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
  * [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - Socket.IO-client for iOS/OS X. :large_orange_diamond:
  * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift, iOS and OSX. :large_orange_diamond:
  * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX :large_orange_diamond:
