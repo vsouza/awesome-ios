@@ -344,7 +344,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer :large_orange_diamond:[e]
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Convenience extension for NSDate in Swift :large_orange_diamond:[e]
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift :large_orange_diamond:
-* [Datez](https://github.com/SwiftKitz/Datez) - Breeze through NSDate, NSDateComponents, and NSTimeInterval with Swift! :large_orange_diamond:
+* [Datez](https://github.com/SwiftKitz/Datez) - Breeze through NSDate, NSDateComponents, and NSTimeInterval with Swift :large_orange_diamond:
 
 ### EventBus
  * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
