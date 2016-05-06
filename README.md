@@ -692,7 +692,7 @@ Also see [push notifications](#push-notifications)
  * [APIKit](https://github.com/ishkawa/APIKit) - A networking library for building type safe web API client in Swift. :large_orange_diamond:
  * [ws ☁️](https://github.com/s4cha/ws) - Elegant JSON WebService in Swift.:large_orange_diamond:
  * [SPTDataLoader](https://github.com/spotify/SPTDataLoader) - The HTTP library used by the Spotify iOS client :large_orange_diamond:
- * [SWNetworking](https://github.com/skywite/SWNetworking) - Achieve your deadlines by using SWNetworking. You will save Hundred hours.
+ * [SWNetworking](https://github.com/skywite/SWNetworking) - Powerful high-level iOS, OS X and tvOS networking library.
  
 #### Email
 
