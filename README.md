@@ -334,6 +334,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models in Swift :large_orange_diamond:
  * [AnyObjectConvertible](https://github.com/tarunon/AnyObjectConvertible) - Convert your own struct/enum to AnyObject easily. :large_orange_diamond:
 
+### MVVM 
+ * [Morpheus](https://github.com/mpurland/Morpheus) - Swift library for functional and reactive MVVM :large_orange_diamond:
+
 ### Date & Time
 
 * [Every.swift](https://github.com/samhann/Every.swift) - Wrapper for NSTimer :large_orange_diamond:
