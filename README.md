@@ -1258,6 +1258,7 @@ Most of these are paid services, some have free tiers.
   * [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - Some well known CS algorithms & data structures in Swift with explanations. :large_orange_diamond:
   * [AEAppVersion](https://github.com/tadija/AEAppVersion) - Simple and Lightweight iOS App Version Tracking written in Swift :large_orange_diamond:
   * [BlocksKit](https://github.com/zwaldowski/BlocksKit) - The Objective-C block utilities you always wish you had.
+  * [SwiftyUtils](https://github.com/tbaranes/swiftyutils) - All the reusable code that we need in each project. :large_orange_diamond:[e]
 
 ### VR
  * [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS :large_orange_diamond:
