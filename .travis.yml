@@ -5,5 +5,6 @@ before_script:
   - gem install awesome_bot
 env:
   - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit
+  - white_list=rephrase.io,reddit,littlebites,amazon,twilio,developer.apple,growthpush
 script:
-  - awesome_bot README.md --white-list $allowed_dupes,rephrase.io,reddit,littlebites,amazon,twilio,developer.apple,growthpush
+  - awesome_bot README.md --white-list $allowed_dupes,$white_list
