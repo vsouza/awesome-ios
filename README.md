@@ -491,6 +491,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftBond](https://github.com/SwiftBond/Bond) - Bond is a Swift binding framework that takes binding concepts to a whole new level. It's simple, powerful, type-safe and multi-paradigm. :large_orange_diamond:
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift :large_orange_diamond:
 * [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - The easiest way to create and maintain Auto Layout constraints :large_orange_diamond:
+* [ReactiveBind](https://github.com/mpurland/ReactiveBind) - Swift library for binding properties with ReactiveCocoa :large_orange_diamond:
 
 ### Localization
  * [Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
