@@ -6,4 +6,4 @@ before_script:
 env:
   - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit
 script:
-  - awesome_bot README.md --white-list $allowed_dupes,rephrase.io,reddit,littlebites,amazon,twilio,developer.apple,growthpush
+  - awesome_bot README.md --white-list $allowed_dupes,rephrase.io,reddit,littlebites,amazon,twilio,developer.apple,growthpush,iphonedevsdk
