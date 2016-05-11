@@ -12,6 +12,6 @@
 - [ ] Only one project is in the request
 - [ ] Addition in chronological order (bottom of category)
 - [ ] `Travis CI` pass
-- [ ] Supports iOS 7 and later
+- [ ] Supports iOS 7 or later
 - [ ] Has a commit from less than 2 years ago
 - [ ] Has a **clear** README in English
