@@ -754,6 +754,7 @@ Most of these are paid services, some have free tiers.
 ### Products
  * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
  * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
+ * [OpenShop.io](https://github.com/openshopio/openshop.io-ios) - mobile e-commerce solution connected to Facebook Ads and Google.
 
 ### Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift :large_orange_diamond:
