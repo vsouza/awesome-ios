@@ -29,6 +29,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Code Quality](#code-quality)
     - [Color](#color)
     - [Command Line](#command-line)
+    - [Concurrency](#concurrency)
     - [Core Data](#core-data)
     - [Charts](#charts)
     - [Database](#database)
@@ -267,6 +268,11 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces :large_orange_diamond:
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift :large_orange_diamond:
 * [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift :large_orange_diamond:
+
+### Concurrency
+* [Venice](https://github.com/VeniceX/Venice) - CSP (Coroutines, Channels, Select) for Swift :large_orange_diamond:
+* [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift. :large_orange_diamond:
+* [Concurrent](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives :large_orange_diamond:
 
 ### Charts
  * [Charts](https://github.com/danielgindi/Charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). :large_orange_diamond:
