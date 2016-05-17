@@ -1437,9 +1437,9 @@ Most of these are paid services, some have free tiers.
 ## Injection
 * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
 * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
-* [Kraken](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
 * [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
 * [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
+* [Kraken](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
 
 # Deployment / Distribution
  * [fastlane](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
