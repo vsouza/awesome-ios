@@ -1374,6 +1374,7 @@ Most of these are paid services, some have free tiers.
  * [Switchboard](https://github.com/KeepSafe/Switchboard) - Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users.
  * [SkyLab](https://github.com/mattt/SkyLab) - Multivariate & A/B Testing for iOS and Mac
  * [MSActiveConfig](https://github.com/mindsnacks/MSActiveConfig) - Remote configuration and A/B Testing framework for iOS
+ * [ABKit](https://github.com/recruit-mp/ABKit) - AB testing framework for iOS :large_orange_diamond:
 
 ### UI Testing
  * [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
