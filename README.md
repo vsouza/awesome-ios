@@ -1433,6 +1433,7 @@ Most of these are paid services, some have free tiers.
  * [AVXCAssets-Generator](https://github.com/angelvasa/AVXCAssets-Generator) - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click
  * [Peek](https://github.com/shaps80/Peek) - Take a Peek at your application. :large_orange_diamond:
  * [SourceKitten](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit. :large_orange_diamond:
+ * [Localizations](https://github.com/athiercelin/localizations) - OS X app that manages localizations of Xcode projects. :large_orange_diamond:
 
 # Rapid Development
  * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
