@@ -1528,6 +1528,7 @@ Most of these are paid services, some have free tiers.
  * [SocialLib](https://github.com/darkcl/SocialLib) - SocialLib handles sharing message to multiple social media.
  * [PokemonKit](https://github.com/ContinuousLearning/PokemonKit) - Pokeapi wrapper, written in Swift :large_orange_diamond:
  * [TJDropbox](https://github.com/timonus/TJDropbox) - A Dropbox v2 client library written in Objective-C
+ * [Lyft](https://github.com/genadyo/Lyft) - Some pink mustache company forgot to build that SDK. :large_orange_diamond:
 
 # Xcode
 
