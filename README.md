@@ -1573,6 +1573,7 @@ Most of these are paid services, some have free tiers.
  * [Fastlane-Plugin](https://github.com/RishabhTayal/Fastlane-Plugin) - The awesome Fastlane tools brought into your Xcode.
  * [Gradle Xcode plugin](https://openbakery.org/gradle.html) - Build iOS or Mac OS X Projects using Gradle.
  * [SYXcodeIconVersion](https://github.com/dvkch/SYXcodeIconVersion) - This Xcode plugin shows Xcode app version in the Dock and App Switcher icon :large_orange_diamond:
+ * [Gradle](https://github.com/openbakery/gradle-xcodePlugin) - makes it easier to build Xcode projects by specifying the build settings in a single configuration file :large_orange_diamond:
  
 ### Themes
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
