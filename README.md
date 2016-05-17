@@ -1303,6 +1303,7 @@ Most of these are paid services, some have free tiers.
  * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX :large_orange_diamond:
  * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple socket library for apple swift lang. :large_orange_diamond:
  * [Socks](https://github.com/czechboy0/Socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X :large_orange_diamond:
+ * [SwifterSockets](https://github.com/Swiftrien/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iO :large_orange_diamond:
 
 #### GCD
   * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
