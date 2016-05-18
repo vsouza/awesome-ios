@@ -1363,7 +1363,7 @@ Most of these are paid services, some have free tiers.
  * [Express](https://github.com/crossroadlabs/Express) - Swift Express is a simple, yet unopinionated web application server written in Swift :large_orange_diamond:
  * [Aeon](https://github.com/paulofaria/Aeon) - Aeon is a GCD based HTTP server for Swift 2. :large_orange_diamond:
  * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift :large_orange_diamond:
- * [Frank](https://github.com/nestproject/Frank) - Frank is a DSL for quickly writing web applications in Swift
+ * [Frank](https://github.com/nestproject/Frank) - Frank is a DSL for quickly writing web applications in Swift :large_orange_diamond:
  * [Kitura](https://github.com/IBM-Swift/Kitura) - Web framework and HTTP server for Swift by IBM :large_orange_diamond:
  * [Swifton](https://github.com/necolt/Swifton) - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X :large_orange_diamond:
  * [Dynamo](https://github.com/johnno1962/Dynamo) - High Performance (nearly)100% Swift Web server supporting dynamic content. :large_orange_diamond:
