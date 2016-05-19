@@ -484,6 +484,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux) :large_orange_diamond:
  * [Tyro](https://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
  * [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder :large_orange_diamond:
+ * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - Convert JSON to Swift objects. :large_orange_diamond:
 
 ### Layout
 * [FlexboxLayout](https://github.com/alexdrone/FlexboxLayout) - Port of Facebook's css-layout to Swift :large_orange_diamond:
