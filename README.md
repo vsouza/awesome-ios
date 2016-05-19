@@ -577,6 +577,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [TuningFork](https://github.com/comyarzaheri/TuningFork) - A Simple Tuner for iOS :large_orange_diamond::black_circle:
  * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift :large_orange_diamond:
  * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator. :large_orange_diamond:
+ * [NVDSP](https://github.com/bartolsthoorn/NVDSP) - iOS/OSX DSP for audio (with Novocaine)
 
 ##### Image
  * [GPU Image](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
