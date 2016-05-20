@@ -205,6 +205,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [SimpleAuth](https://github.com/calebd/SimpleAuth) - Simple social authentication for iOS
  * [AlamofireOauth2](https://github.com/evermeer/AlamofireOauth2) - A swift implementation of OAuth2 :large_orange_diamond:
  * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers :large_orange_diamond:
+ * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps.
 
 ### Analytics
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
