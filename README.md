@@ -521,6 +521,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching :large_orange_diamond:
  * [LocalizedView](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
  * [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
+ * [lokalise](https://lokali.se/en) - Translation platform for software developers. Free for open source projects
 
 ### Logging
  * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible Swift-based logging API that is simple, lightweight and performant. :large_orange_diamond:
