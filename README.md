@@ -1643,7 +1643,6 @@ Most of these are paid services, some have free tiers.
  * [Natasha The Robot](https://www.natashatherobot.com/)
  * [Apple's Swift Blog](https://developer.apple.com/swift/blog/) :large_orange_diamond:
  * [iOS Programming Subreddit](https://www.reddit.com/r/iosprogramming)
- * [iOS Dev Weekly](https://iosdevweekly.com/)
  * [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day) :large_orange_diamond:
  * [iOScreator](http://www.ioscreator.com/) :large_orange_diamond:
  * [Mathew Sanders](http://mathewsanders.com/) :large_orange_diamond:
