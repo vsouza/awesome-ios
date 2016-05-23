@@ -5,6 +5,7 @@
 [![Build Status](https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master)](https://travis-ci.org/vsouza/awesome-ios)
 [![Language](https://awesomelinkcounter.herokuapp.com/swift)]()
 [![Language](https://awesomelinkcounter.herokuapp.com/objc)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ##### About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more.
