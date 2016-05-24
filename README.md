@@ -633,6 +633,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - Makes dealing with images buttery smooth :large_orange_diamond:
  * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift :large_orange_diamond:
  * [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - An implementation of High Pass Skin Smoothing using Apple's Core Image Framework
+ * [CLImageViewPopup](https://github.com/vinbhai4u/CLImageViewPopup/) - A simple Image full screen pop up :large_orange_diamond:
 
 ##### GIF
  * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
