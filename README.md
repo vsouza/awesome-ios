@@ -122,6 +122,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Plugins](#plugins)
     - [Themes](#themes)
     - [Other Xcode](#other-xcode)
+- [Reference](#reference)
 - [Style Guides](#style-guides)
 - [Good Websites](#good-websites)
     - [News, Blogs and more](#news-blogs-and-more)
@@ -1634,6 +1635,9 @@ Most of these are paid services, some have free tiers.
  * [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
  * [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator
 
+# Reference
+* [Swift Cheat Sheet](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift. :large_orange_diamond:
+* [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet) - A quick reference cheat sheet for common, high level topics in Objective-C.
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
