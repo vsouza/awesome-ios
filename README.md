@@ -1285,6 +1285,7 @@ Most of these are paid services, some have free tiers.
  * [TJTextField](https://github.com/tejas-ardeshna/TJTextField) - UITextField with underline and left image :large_orange_diamond:
  * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
  * [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders) - UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
+ * [SRKControls](https://github.com/sag333ar/SRKControls) - A Custom control which turns UITextfield to item-picker & date-picker. :large_orange_diamond:
 
 ### Utility
   * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
