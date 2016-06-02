@@ -592,7 +592,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [MusicKit](https://github.com/benzguo/MusicKit) - A framework for composing and transforming music in Swift :large_orange_diamond:
  * [SubtleVolume](https://github.com/andreamazz/SubtleVolume) - Replace the system volume popup with a more subtle indicator. :large_orange_diamond:
  * [NVDSP](https://github.com/bartolsthoorn/NVDSP) - iOS/OSX DSP for audio (with Novocaine)
- * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS.git) - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
+ * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
 
 ##### Image
  * [GPU Image](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing.
@@ -667,7 +667,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [SSVideoPlayer](https://github.com/immrss/SSVideoPlayer) - A video player that support both local and network resource.
  * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery
  * [PlayerView](https://github.com/davidlondono/PlayerView) - Player View is a delegated view using AVPlayer of Swift :large_orange_diamond:
- * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS.git) - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
+ * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
 
 ##### PDF
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
