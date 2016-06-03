@@ -24,6 +24,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
     - [Animation](#animation)
+    - [API Integrations] (#api-integrations)
     - [Apple TV](#apple-tv)
     - [Authentication](#authentication)
     - [Analytics](#analytics)
@@ -191,6 +192,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [Interpolate](https://github.com/marmelroy/Interpolate) - Interpolation framework for creating interactive gesture-driven animations :large_orange_diamond:
  * [ADPuzzleAnimation](https://github.com/Antondomashnev/ADPuzzleAnimation) - Custom animation for UIView inspired by Fabric - Answers animation. :large_orange_diamond:
 
+### API Integrations
+ * [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk) - Abstraction layer / unified API for multiple API providers. Interfaces eg for Cloud Storage, Social Networks and more.
 
 ### Apple TV
  * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
@@ -208,7 +211,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [SimpleAuth](https://github.com/calebd/SimpleAuth) - Simple social authentication for iOS
  * [AlamofireOauth2](https://github.com/evermeer/AlamofireOauth2) - A swift implementation of OAuth2 :large_orange_diamond:
  * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers :large_orange_diamond:
- * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps. :large_orange_diamond:
+ * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps. :large_orange_diamond: 
+ * [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk) - A unified API to integrate logins with serveral providers like Facebook, Twitter, Slack, LinkedIn, Google+ and more.
 
 ### Analytics
  * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
