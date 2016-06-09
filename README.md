@@ -755,6 +755,7 @@ Also see [push notifications](#push-notifications)
  * [Networking](https://github.com/3lvis/Networking) - Simple HTTP Networking in Swift a NSURLSession wrapper with image caching support :large_orange_diamond:
  * [SOAPEngine](https://github.com/priore/SOAPEngine) - This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app
  * [Swish](https://github.com/thoughtbot/Swish) - Nothing but Net(working) :large_orange_diamond:
+ * [Malibu](https://github.com/hyperoslo/Malibu) - Networking library built on promises :large_orange_diamond:
 
 #### Email
 
