@@ -1130,6 +1130,7 @@ Most of these are paid services, some have free tiers.
  * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift. By Creativedash :large_orange_diamond:
 
 ##### Calendar
+ * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final iOS calendar control you'll ever try. :large_orange_diamond:
  * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
  * [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) - iOS 7+ Calendar with Infinite Scrolling.
  * [NWCalendarView](https://github.com/nbwar/NWCalendarView) - An availability calendar implementation for iOS :large_orange_diamond:
