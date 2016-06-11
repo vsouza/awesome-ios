@@ -1136,6 +1136,7 @@ Most of these are paid services, some have free tiers.
  * [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2 :large_orange_diamond:
  * [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) - A fully customizable calendar view acting as a date range picker
  * [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - A customizable calendar view for iOS.
+ * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final iOS calendar control you'll ever try. :large_orange_diamond:
 
 ##### Form
  * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
