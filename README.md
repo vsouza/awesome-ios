@@ -1035,7 +1035,8 @@ Most of these are paid services, some have free tiers.
  * [StateView](https://github.com/sahandnayebaziz/StateView) - Views that automatically update themselves. :large_orange_diamond:
  * [JDFlipNumberView](https://github.com/jaydee3/JDFlipNumberView) - Representing analog flip numbers like airport/trainstation displays.
  * [JQSwiftIcon](https://github.com/josejuanqm/JQSwiftIcon) - Icon Fonts on iOS using string interpolation written in Swift. :large_orange_diamond:
-
+*  [MBCircularProgressBar](https://github.com/MatiBot/MBCircularProgressBar) -  A circular, animatable & highly customizable progress bar, editable from the Interface Builder using IBDesignable.
+* 
 ##### Activity Indicator
 
  * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations. :large_orange_diamond:
