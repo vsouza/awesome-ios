@@ -544,6 +544,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [LocalizedView](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
  * [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
  * [lokalise](https://lokali.se/en) - Translation platform for software developers. Free for open source projects
+ * [Strsync](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
 
 ### Logging
  * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible Swift-based logging API that is simple, lightweight and performant. :large_orange_diamond:
@@ -1517,7 +1518,6 @@ Most of these are paid services, some have free tiers.
  * [Blade](https://github.com/jondot/blade) - Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.
  * [Retini](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
  * [Provisioning](https://github.com/chockenberry/Provisioning) - A Quick Look plug-in to preview .mobileprovision files.
- * [Strsync](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
  * [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C. :large_orange_diamond:
  * [appledoc](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
  * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics. :large_orange_diamond:
