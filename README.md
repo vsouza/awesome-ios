@@ -231,7 +231,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Cache
  * [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache :large_orange_diamond:
- * [UITableView Cache](https://github.com/Kilograpp/UITableView-Cache) - UITableView cache that cures scroll-lags on a cell instantiating
  * [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content :large_orange_diamond:
  * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache :large_orange_diamond:
  * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images. :large_orange_diamond:
@@ -240,6 +239,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [MGCacheManager](https://github.com/Mortgy/MGCacheManager) - A delightful iOS Networking Cache Managing Class.
  * [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify
  * [Track](https://github.com/maquannene/Track) - Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU. :large_orange_diamond:
+ * [UITableView Cache](https://github.com/Kilograpp/UITableView-Cache) - UITableView cache that cures scroll-lags on a cell instantiating
 
 ### Code Quality
  * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
