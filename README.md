@@ -231,6 +231,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Cache
  * [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache :large_orange_diamond:
+ * [UITableView Cache](https://github.com/Kilograpp/UITableView-Cache) - UITableView cache that cures scroll-lags on a cell instantiating
  * [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content :large_orange_diamond:
  * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache :large_orange_diamond:
  * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images. :large_orange_diamond:
