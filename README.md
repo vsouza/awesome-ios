@@ -1388,6 +1388,7 @@ Most of these are paid services, some have free tiers.
   * [Validated](https://github.com/Ben-G/Validated) - A Swift μ-Library for Somewhat Dependent Types :large_orange_diamond:
   * [Cent](https://github.com/ankurp/Cent) - Extensions for Swift Standard Types and Classes :large_orange_diamond:[e]
   * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift. :large_orange_diamond:
+  * [SwiftLinkPreview](https://github.com/LeonardoCardoso/Swift-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images. 🔶
 
 ### VR
  * [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS :large_orange_diamond:
