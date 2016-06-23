@@ -1873,7 +1873,7 @@ Other amazingly awesome lists can be found in the
 [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
 
 # License
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
