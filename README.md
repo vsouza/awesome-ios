@@ -1317,7 +1317,7 @@ Most of these are paid services, some have free tiers.
  * [BWSwipeRevealCell](https://github.com/bitwit/BWSwipeRevealCell) - A Swift library for swipeable table cells :large_orange_diamond:
  * [preview-transition](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller :large_orange_diamond:
  * [QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A quick way to create settings tableview with switches, tap buttons, icons and more :large_orange_diamond:
-  * [TableKit](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views :large_orange_diamond:
+ * [TableKit](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views :large_orange_diamond:
 
 ##### Tag
  * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
