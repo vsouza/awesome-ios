@@ -908,8 +908,8 @@ Most of these are paid services, some have free tiers.
  * [SZMentionsSwift](https://github.com/szweier/SZMentionsSwift) - Library to help handle mentions, written in Swift 🔶
  * [Heimdall](https://github.com/henrinormak/Heimdall) - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations. :large_orange_diamond:
  * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation) - NoOptionalInterpolation gets rid of "Optional(...)" and "nil" in Swift's string interpolation.🔶[e]
- * [Smile](https://github.com/onmyway133/Smile) 😄 Emoji in Swift
- * [ISO8601](https://github.com/onmyway133/iso8601) Super lightweight ISO8601 Date Formatter in Swift 
+ * [Smile](https://github.com/onmyway133/Smile) 😄 Emoji in Swif t🔶
+ * [ISO8601](https://github.com/onmyway133/iso8601) Super lightweight ISO8601 Date Formatter in Swift 🔶[e]
 
 ##### Font
  * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app. :large_orange_diamond:
