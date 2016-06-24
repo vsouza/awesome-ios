@@ -907,7 +907,7 @@ Most of these are paid services, some have free tiers.
  * [SZMentions](https://github.com/szweier/SZMentions) - Library to help handle mentions
  * [SZMentionsSwift](https://github.com/szweier/SZMentionsSwift) - Library to help handle mentions, written in Swift 🔶
  * [Heimdall](https://github.com/henrinormak/Heimdall) - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations. :large_orange_diamond:
- * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation) - NoOptionalInterpolation gets rid of "Optional(...)" and "nil" in Swift's string interpolation.🔶[e]
+ * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.🔶[e]
  * [Smile](https://github.com/onmyway133/Smile) 😄 Emoji in Swift
 
 ##### Font
