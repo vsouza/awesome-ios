@@ -1629,7 +1629,7 @@ Most of these are paid services, some have free tiers.
  * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
  * [Adobe Creative SDK](https://creativesdk.adobe.com/) Adobe creative tools and Creative Cloud SDK.
  * [Dropbox](https://www.dropbox.com/developers) SDKs for Drop-ins and Dropbox Core API.
- * [Fabric by Twitter](https://docs.fabric.io/ios/index.html) Fabric Twitter Kit for iOS.
+ * [Fabric by Twitter](https://docs.fabric.io/apple/fabric/overview.html) Fabric Twitter Kit for iOS.
  * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
  * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
  * [PacketZoom](https://packetzoom.com) PacketZoom SDK for iOS.
