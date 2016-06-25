@@ -1726,7 +1726,7 @@ Most of these are paid services, some have free tiers.
  * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
  * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
  * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
- * [https://github.com/cargath/WWDC2016-Xcode-Color-Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
+ * [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 
 ### Other Xcode
  * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
