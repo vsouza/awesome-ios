@@ -286,6 +286,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces :large_orange_diamond:
 * [Colors](https://github.com/paulot/Colors) - Terminal Colors for Swift :large_orange_diamond:
 * [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift :large_orange_diamond:
+* [ColorizeSwift](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift. :large_orange_diamond:
 
 ### Concurrency
 * [Venice](https://github.com/VeniceX/Venice) - CSP (Coroutines, Channels, Select) for Swift :large_orange_diamond:
