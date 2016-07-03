@@ -417,7 +417,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift :large_orange_diamond:
 
 ### Games
-* [Fischer](https://github.com/nvzqz/Fischer) - A cross-platform chess library for Swift. :large_orange_diamond:
+* [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift. :large_orange_diamond:
 
 ### Gesture
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents :large_orange_diamond:
