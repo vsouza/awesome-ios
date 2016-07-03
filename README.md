@@ -1353,6 +1353,7 @@ Most of these are paid services, some have free tiers.
  * [QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A quick way to create settings tableview with switches, tap buttons, icons and more :large_orange_diamond:
  * [TableKit](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views :large_orange_diamond:
  * [Preheat](https://github.com/kean/Preheat) - Automates prefetching of content in UITableView and UICollectionView :large_orange_diamond:
+ * [VBPiledView](https://github.com/v-braun/VBPiledView) - Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu
 
 ##### Tag
  * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
