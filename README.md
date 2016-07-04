@@ -416,6 +416,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the Optional Type. :large_orange_diamond:[e]
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift. It's inspired by LoDash, Underscore project. :large_orange_diamond:
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift :large_orange_diamond:
+* [Formatting](https://github.com/stephencelis/Formatting) - Type-safe, functional string formatting in Swift. :large_orange_diamond:
 
 ### Games
 * [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift. :large_orange_diamond:
