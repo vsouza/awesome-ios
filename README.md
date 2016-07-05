@@ -30,6 +30,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Bridging](#bridging)
     - [Cache](#cache)
     - [Code Quality](#code-quality)
+        - [Linter](#linter)
     - [Color](#color)
     - [Command Line](#command-line)
     - [Concurrency](#concurrency)
@@ -266,6 +267,10 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
  * [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
  * [Buglife](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps
+
+##### Linter
+ * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. :large_orange_diamond:
+ * [Swiftlint](https://github.com/realm/swiftlint) - A tool to enforce Swift style and conventions. :large_orange_diamond:
 
 ### Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
