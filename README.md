@@ -97,7 +97,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Stepper](#stepper)
         - [Switch](#switch)
         - [Tab Bar](#tab-bar)
-        - [Table View](#table-view)
+        - [Table View / Collection View](#table-view--collection-view)
         - [Tag](#tag)
         - [TextField & TextView](#textfield--textview)
     - [Utility](#utility)
@@ -1338,7 +1338,7 @@ Most of these are paid services, some have free tiers.
  * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - Customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, written in Swift 🔶
  * [SwipeViewController](https://github.com/fortmarek/SwipeViewController) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers :large_orange_diamond:
 
-##### Table View
+##### Table View / Collection View
  * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
  * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
  * [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
