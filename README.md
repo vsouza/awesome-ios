@@ -1606,7 +1606,6 @@ Most of these are paid services, some have free tiers.
  * [Provisioning](https://github.com/chockenberry/Provisioning) - A Quick Look plug-in to preview .mobileprovision files.
  * [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C. :large_orange_diamond:
  * [appledoc](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
- * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics. :large_orange_diamond:
  * [Azkaban](https://github.com/neonichu/Azkaban) - A CLI to Alcatraz, the Xcode package manager. :large_orange_diamond:
  * [Laurine](https://github.com/JiriTrecak/Laurine) - Laurine - Localization code generator written in Swift. Sweet! :large_orange_diamond:
  * [Chocolat](https://github.com/neonichu/Chocolat) - :chocolate_bar: Generate podspecs from Swift packages. :large_orange_diamond:
