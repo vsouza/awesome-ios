@@ -141,6 +141,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Facebook Groups](#facebook-groups)
 - [Podcasts](#podcasts)
 - [Books](#books)
+- [RSS](#rss)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -1925,6 +1926,9 @@ Most of these are paid services, some have free tiers.
  * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
  * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
  * [Cocoa Design Patterns](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+
+# RSS
+ * [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - Useful feeds for your RSS client, collected in one place.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
