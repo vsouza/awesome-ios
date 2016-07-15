@@ -1088,6 +1088,7 @@ Most of these are paid services, some have free tiers.
  * [DCKit](https://github.com/andrew8712/DCKit) - Set of `@IBDesignable` iOS controls, which have useful `@IBInspectable` properties (border width and color, corner radius and much more) :large_orange_diamond:
  * [BackgroundVideoiOS](https://github.com/Guzlan/BackgroundVideoiOS) - A swift and objective-C object that lets you add a background video to iOS views :large_orange_diamond:
  * [NightNight](https://github.com/Draveness/NightNight) - Elegant way to integrate night mode to swift projects :large_orange_diamond:
+ * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+ :large_orange_diamond:
 
 ##### Activity Indicator
 
