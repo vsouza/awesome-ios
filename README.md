@@ -916,6 +916,7 @@ Most of these are paid services, some have free tiers.
  * [SwiftHash](https://github.com/onmyway133/SwiftHash) - Hash in Swift :large_orange_diamond:
  * [Lockbox](https://github.com/granoff/Lockbox) - Objective-C utility class for storing data securely in the key chain.
  * [CommonCrypto.swift](https://github.com/onmyway133/CommonCrypto.swift) - :floppy_disk: Lightweight wrapper around CommonCrypto in Swift :large_orange_diamond:
+ * [zxcvbn-ios](https://github.com/dropbox/zxcvbn-ios) - A realistic password strength estimator.
 
 ### Text
  * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
