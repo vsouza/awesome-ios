@@ -1208,6 +1208,7 @@ Most of these are paid services, some have free tiers.
  * [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
  * [Former](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form. :large_orange_diamond:
  * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms. :large_orange_diamond:
+ * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Framework for creating forms with validation rules :large_orange_diamond:
  * [APValidators](https://github.com/Alterplay/APValidators) - Codeless solution for form validation in iOS!
  * [Formalist](https://github.com/seedco/Formalist) - Declarative form building framework for iOS :large_orange_diamond:
 
