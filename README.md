@@ -1857,6 +1857,7 @@ Most of these are paid services, some have free tiers.
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) :large_orange_diamond:
 * [Code Facebook](https://code.facebook.com/ios/)
 * [iOS Cookies](http://www.ioscookies.com/) - A hand curated collection of iOS libraries written in Swift :large_orange_diamond:
+* [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 
 ### UIKit references
 * [iOS Fonts](http://iosfonts.com/)
