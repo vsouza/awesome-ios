@@ -1093,6 +1093,7 @@ Most of these are paid services, some have free tiers.
 * [NightNight](https://github.com/Draveness/NightNight) - Elegant way to integrate night mode to swift projects :large_orange_diamond:
 * [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+ :large_orange_diamond:
 * [PinpointKit](https://github.com/Lickability/PinpointKit) - Let your testers and users send feedback with annotated screenshots and logs using a simple gesture. :large_orange_diamond:
+* [FDStackView](https://github.com/forkingdog/FDStackView) - Use UIStackView directly in iOS6+
 
 ##### Activity Indicator
 
