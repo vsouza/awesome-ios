@@ -1305,6 +1305,7 @@ Most of these are paid services, some have free tiers.
 * [PopupController](https://github.com/daisuke310vvv/PopupController) - A customizable controller for showing temporary popup view.
 * [SubscriptionPrompt](https://github.com/Binur/SubscriptionPrompt) - Subscription View Controller like the Tinder uses :large_orange_diamond:
 * [Presentr](https://github.com/IcaliaLabs/Presentr) - Wrapper for custom ViewController presentations in iOS 8+ :large_orange_diamond:
+* [PopupDialog](https://github.com/Orderella/PopupDialog) - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style. :large_orange_diamond:
 
 ##### Pull to Refresh
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift :large_orange_diamond:
