@@ -2,7 +2,7 @@
 fail "Please provide a summary in the Pull Request description" if github.pr_body.length < 5
 
 # Warn when there are merge commits in the diff
-if commits.any? { |c| c.message =~ /^Merge branch 'master'/ }
+if git.commits.any? { |c| c.message =~ /^Merge branch 'master'/ }
    warn 'Please rebase to get rid of the merge commits in this Pull Request'
 end
 
