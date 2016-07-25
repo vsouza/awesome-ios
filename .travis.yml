@@ -3,6 +3,7 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
+  - gem install danger
 script:
   - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit,SRGMediaPlayer
   - allowed_redirects=growthpush,awesomelinkcounter
