@@ -3,7 +3,9 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
-env:
-  - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit
+  - gem install danger
+  - danger
 script:
-  - awesome_bot README.md --white-list $allowed_dupes,rephrase.io,reddit,littlebites,amazon,twilio,developer.apple,growthpush,iphonedevsdk,awesomelinkcounter
+  - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit,SRGMediaPlayer
+  - allowed_redirects=growthpush,awesomelinkcounter
+  - awesome_bot README.md --allow-ssl --white-list $allowed_dupes,$allowed_redirects
