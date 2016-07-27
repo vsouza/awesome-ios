@@ -1693,6 +1693,7 @@ Most of these are paid services, some have free tiers.
 * [SuperDelegate](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
 * [fastlane-plugin-appicon](https://github.com/neonichu/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.
 * [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
+* [PlayNow](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode. :large_orange_diamond:
 
 # Rapid Development
 * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
