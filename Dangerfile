@@ -8,3 +8,6 @@ end
 
 # Only one library per pull request
 fail "Please only add one library per Pull Request" if git.lines_of_code > 1
+
+# Pull request title warning
+warn 'Please update the Pull Request title' if github.pr_title.include? 'Update README.md'
