@@ -1236,6 +1236,7 @@ Most of these are paid services, some have free tiers.
 * [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - A customizable calendar view for iOS.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - The final iOS calendar control you'll ever try. :large_orange_diamond:
 * [Daysquare](https://github.com/unixzii/Daysquare) - An elegant calendar control for iOS.
+* [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern :large_orange_diamond:
 
 ##### Form
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
