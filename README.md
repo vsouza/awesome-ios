@@ -131,6 +131,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Xcode](#xcode)
     - [Plugins](#plugins)
     - [Themes](#themes)
+	- [Xcode Scripts](#xcode-scripts)
     - [Other Xcode](#other-xcode)
 - [Reference](#reference)
 - [Style Guides](#style-guides)
@@ -1842,6 +1843,10 @@ Most of these are paid services, some have free tiers.
 * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
 * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 * [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
+
+### Xcode Scripts
+* [Awesome Xcode Scripts]() - A curated list of useful xcode scripts 📝.
+
 
 ### Other Xcode
 * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
