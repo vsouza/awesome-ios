@@ -783,7 +783,7 @@ Also see [push notifications](#push-notifications)
 
 Most of these are paid services, some have free tiers.
 
-* [Urban Airship](https://www.urbanairship.com/products/engage#push-messages)
+* [Urban Airship](http://www.urbanairship.com/products/mobile-engagement/engage)
 * [Growth Push](https://growthpush.com) - Popular in Japan.
 * [Appboy](https://www.appboy.com)
 * [Batch](https://batch.com)
