@@ -928,7 +928,7 @@ Most of these are paid services, some have free tiers.
 ##### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift. :large_orange_diamond:
-* [CommonCrypto.swift](https://github.com/onmyway133/CommonCrypto.swift) - :floppy_disk: Lightweight wrapper around CommonCrypto in Swift :large_orange_diamond:
+* [Arcane](https://github.com/onmyway133/Arcane) - 🔱 Lightweight wrapper around CommonCrypto in Swift :large_orange_diamond:
 * [SwiftMD5](https://github.com/mpurland/SwiftMD5) - A pure Swift implementation of MD5 :large_orange_diamond:
 * [SwiftHash](https://github.com/onmyway133/SwiftHash) - Hash in Swift :large_orange_diamond:
 * [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms :large_orange_diamond:
