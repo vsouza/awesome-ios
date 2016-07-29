@@ -1847,8 +1847,7 @@ Most of these are paid services, some have free tiers.
 * [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 
 ### Xcode Scripts
-* [Awesome Xcode Scripts]() - A curated list of useful xcode scripts 📝.
-
+* [Awesome Xcode Scripts](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts 📝.
 
 ### Other Xcode
 * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
