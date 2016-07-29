@@ -131,7 +131,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Xcode](#xcode)
     - [Plugins](#plugins)
     - [Themes](#themes)
-	- [Xcode Scripts](#xcode-scripts)
     - [Other Xcode](#other-xcode)
 - [Reference](#reference)
 - [Style Guides](#style-guides)
@@ -1846,10 +1845,9 @@ Most of these are paid services, some have free tiers.
 * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 * [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 
-### Xcode Scripts
-* [Awesome Xcode Scripts](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts 📝.
-
 ### Other Xcode
+
+* [awesome-xcode-scripts](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts 📝.
 * [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
 * [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
 * [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator
