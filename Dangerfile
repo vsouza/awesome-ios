@@ -29,7 +29,7 @@ unless j.count==0
     if error=='Dupe'
       message << "#{loc} | Dupe | #{link}"
     else
-      message << "#{loc} | [#{s}](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/#{s}) | #{link}"
+      message << "#{loc} | [#{s}](https://httpstatuses.com/#{s}) | #{link}"
       message << "<br> #{error}" unless error ==''
       message << " redirects to<br>#{i['redirect']}" unless i['redirect']==''
     end
