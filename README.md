@@ -404,6 +404,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer :large_orange_diamond:[e]
 * [AFDateHelper](https://github.com/melvitax/AFDateHelper) - Convenience extension for NSDate in Swift :large_orange_diamond:[e]
 * [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift :large_orange_diamond:
+* [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
 
 ### EventBus
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS :large_orange_diamond:
