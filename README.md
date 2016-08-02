@@ -453,6 +453,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) -  A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView). :large_orange_diamond:
 * [InkKit](https://github.com/shaps80/InkKit) - Drawing and Geometry made easy for iOS -- Now in Swift! :large_orange_diamond:
 * [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) - iOS utility classes for asynchronous rendering and display.
+* [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone :large_orange_diamond:
 
 ### Hardware
 ##### Bluetooth
