@@ -1129,6 +1129,7 @@ Most of these are paid services, some have free tiers.
 * [FDStackView](https://github.com/forkingdog/FDStackView) - Use UIStackView directly in iOS6+
 * [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app :large_orange_diamond:
 * [YangMingShan](https://github.com/yahoo/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
+* [TOActionSheet](https://github.com/TimOliver/TOActionSheet) - A custom-designed reimplementation of the UIActionSheet control for iOS
 
 ##### Activity Indicator
 
