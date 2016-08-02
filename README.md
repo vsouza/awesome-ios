@@ -351,6 +351,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Sync](https://github.com/hyperoslo/Sync) - Modern JSON synchronization to Core Data :large_orange_diamond:
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - A powerful and simple Core Data wrapper framework written in Swift. :large_orange_diamond:
 * [AERecord](https://github.com/tadija/AERecord) - Super awesome Core Data wrapper in Swift. :large_orange_diamond:
+* [CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data Stack :large_orange_diamond:
 
 ### Database
 * [Realm](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
