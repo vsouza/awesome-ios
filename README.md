@@ -1666,6 +1666,7 @@ Most of these are paid services, some have free tiers.
 * [Bugfender Live](https://github.com/bugfender/BugfenderLive-iOS) - Stream the screen of an iOS device for live debugging.
 * [Cribble](https://github.com/maxsokolov/Cribble) - Swifty tool for visual testing iPhone and iPad apps :large_orange_diamond:
 * [second_curtain](https://github.com/ashfurrow/second_curtain) - Upload failing iOS snapshot tests cases to S3
+* [trainer](https://github.com/KrauseFx/trainer) - Convert xcodebuild plist files to JUnit reports
 
 # Tools
 * [Shark](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum. :large_orange_diamond:
