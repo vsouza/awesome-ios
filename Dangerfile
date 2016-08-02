@@ -14,24 +14,25 @@ warn 'Please update the Pull Request title' if github.pr_title.include? 'Update 
 require 'json'
 results = File.read 'ab-results-README.md-filtered.json'
 j = JSON.parse results
-unless j.count==0
+if j.count>0
   fail 'Found links issues'
   message = "#### Link issues by [`awesome_bot`](https://github.com/dkhamsing/awesome_bot)\n\n"
-  message << "Line | Status | Link\n"
-  message << "| ---: | :---: | --- |\n"
+  message << "  Line | Status | Link\n"
+  message << "| ---: | :----: | --- |\n"
 
   j.sort_by { |h| h['loc'] }.each do |i|
     error = i['error']
     loc   = i['loc']
     link  = i['link']
     s     = i['status']
+    r     = i['redirect']
 
     if error=='Dupe'
-      message << "#{loc} | Dupe | #{link}"
+      message << "#{loc} | Dupe | #{link} "
     else
-      message << "#{loc} | [#{s}](https://httpstatuses.com/#{s}) | #{link}"
+      message << "#{loc} | [#{s}](https://httpstatuses.com/#{s}) | #{link} "
       message << "<br> #{error}" unless error ==''
-      message << " redirects to<br>#{i['redirect']}" unless i['redirect']==''
+      message << "redirects to<br>#{r}" unless r==''
     end
     message << "\n"
   end
