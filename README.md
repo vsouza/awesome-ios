@@ -1142,6 +1142,7 @@ Most of these are paid services, some have free tiers.
 * [TOActionSheet](https://github.com/TimOliver/TOActionSheet) - A custom-designed reimplementation of the UIActionSheet control for iOS
 * [LFLoginController](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift :large_orange_diamond:
 * [nui](https://github.com/tombenner/nui) - Style iOS apps with a stylesheet, similar to CSS
+* [RedBeard](http://www.redbeard.io/) - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
 
 ##### Activity Indicator
 
