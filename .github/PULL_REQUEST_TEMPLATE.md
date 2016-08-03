@@ -11,7 +11,7 @@
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 - [ ] Only one project is in this pull request
 - [ ] Addition in chronological order (bottom of category)
-- [ ] `Travis CI` pass
 - [ ] Supports iOS 7 or later
 - [ ] Has a commit from less than 2 years ago
 - [ ] Has a **clear** README in English
+- [ ] `Travis CI` pass
