@@ -456,6 +456,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [InkKit](https://github.com/shaps80/InkKit) - Drawing and Geometry made easy for iOS -- Now in Swift! :large_orange_diamond:
 * [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) - iOS utility classes for asynchronous rendering and display.
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone :large_orange_diamond:
+* [jot](https://github.com/IFTTT/jot) - An iOS framework for easily adding drawings and text to images.
 
 ### Hardware
 ##### Bluetooth
