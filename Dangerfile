@@ -8,7 +8,7 @@ warn 'Please rebase to get rid of the merge commits in this Pull Request' if git
 warn 'Please only add one library per Pull Request' if git.lines_of_code > 1
 
 # Warn if pull request is not updated
-warn 'Please update the Pull Request title' if github.pr_title.include? 'Update README.md'
+warn 'Please update the Pull Request title to contain the library name' if github.pr_title.include? 'Update README.md'
 
 # Check links
 require 'json'
