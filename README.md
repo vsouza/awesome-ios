@@ -809,7 +809,8 @@ Most of these are paid services, some have free tiers.
 * [OneSignal](https://www.onesignal.com) - Free.
 * [PushBots](https://pushbots.com/)
 * [Pushwoosh](https://www.pushwoosh.com)
-* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
+* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source. 
+* [Pusher](https://pusher.com)
 
 ### Parsing
 
