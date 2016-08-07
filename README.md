@@ -1228,6 +1228,7 @@ Most of these are paid services, some have free tiers.
 * [AlertViewLoveNotification](https://github.com/PhilippeBoisney/AlertViewLoveNotification) - A simple and attractive AlertView to ask permission to your users for Push Notification. 🔶
 * [CRToast](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs
 * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. :large_orange_diamond:
+* [CuckooAlert](https://github.com/singcodes/CuckooAlert) - Update for UIAlertController with multiple using of presentViewController function. 🔶
 
 ##### Button
 * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
