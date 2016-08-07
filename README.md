@@ -412,7 +412,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Bolts](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
 * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.  :large_orange_diamond:
 * [When](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises in Swift. :large_orange_diamond:
-* [then🎬](https://github.com/s4cha/then) - Elegant Async code in Swift. :large_orange_diamond:
+* [then🎬](https://github.com/freshOS/then) - Elegant Async code in Swift. :large_orange_diamond:
 * [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier. :large_orange_diamond:
 * [RWPromiseKit](https://github.com/deput/RWPromiseKit) - A light-weighted Promise library for Objective-C
 * [FutureLib](https://github.com/couchdeveloper/FutureLib) - FutureLib is a pure Swift 2 library implementing Futures & Promises inspired by Scala. :large_orange_diamond:
@@ -712,6 +712,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator) - A simple Generator of PDF in Swift. Generate PDF from view(s) or image(s). :large_orange_diamond:
 * [SimplePDF](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly. :large_orange_diamond:
 * [SwiftPDFGenerator](https://github.com/kayoslab/SwiftPDFGenerator) - PDF generator using UIViews; Swift Version of 'UIView 2 PDF'. :large_orange_diamond:
+* [PSPDFKit](https://pspdfkit.com/) - Render PDF, add/edit annotations, fill forms, add/edit pages, view/create digital signatures.
 
 ### Messaging
 
@@ -771,7 +772,7 @@ Also see [push notifications](#push-notifications)
 * [MonkeyKing](https://github.com/nixzhu/MonkeyKing) - MonkeyKing helps you post messages to Chinese Social Networks. :large_orange_diamond:
 * [NetworkKit](https://github.com/imex94/NetworkKit) - Lightweight Networking and Parsing framework made for iOS, Mac, WatchOS and tvOS. :large_orange_diamond:
 * [APIKit](https://github.com/ishkawa/APIKit) - A networking library for building type safe web API client in Swift. :large_orange_diamond:
-* [ws ☁️](https://github.com/s4cha/ws) - Elegant JSON WebService in Swift.:large_orange_diamond:
+* [ws ☁️](https://github.com/freshOS/ws) - Elegant JSON WebService in Swift.:large_orange_diamond:
 * [SPTDataLoader](https://github.com/spotify/SPTDataLoader) - The HTTP library used by the Spotify iOS client :large_orange_diamond:
 * [SWNetworking](https://github.com/skywite/SWNetworking) - Powerful high-level iOS, OS X and tvOS networking library.
 * [Networking](https://github.com/3lvis/Networking) - Simple HTTP Networking in Swift a NSURLSession wrapper with image caching support :large_orange_diamond:
@@ -779,6 +780,7 @@ Also see [push notifications](#push-notifications)
 * [Swish](https://github.com/thoughtbot/Swish) - Nothing but Net(working) :large_orange_diamond:
 * [Malibu](https://github.com/hyperoslo/Malibu) - Networking library built on promises :large_orange_diamond:
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - YTKNetwork is a high level request util based on AFNetworking.
+* [UnboxedAlamofire](https://github.com/serejahh/UnboxedAlamofire) - Alamofire + Unbox: the easiest way to download and decode JSON into swift objects. :large_orange_diamond:
 
 #### Email
 
@@ -808,7 +810,8 @@ Most of these are paid services, some have free tiers.
 * [OneSignal](https://www.onesignal.com) - Free.
 * [PushBots](https://pushbots.com/)
 * [Pushwoosh](https://www.pushwoosh.com)
-* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
+* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source. 
+* [Pusher](https://pusher.com)
 
 ### Parsing
 
@@ -843,7 +846,7 @@ Most of these are paid services, some have free tiers.
 * [YYModel](https://github.com/ibireme/YYModel) - High performance model framework for iOS/OSX.
 * [Alembic](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON :large_orange_diamond:
 * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder :large_orange_diamond:
-* [Arrow 🏹](https://github.com/s4cha/Arrow) - Elegant JSON Parsing in Swift. :large_orange_diamond:
+* [Arrow 🏹](https://github.com/freshOS/Arrow) - Elegant JSON Parsing in Swift. :large_orange_diamond:
 * [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right :large_orange_diamond:
 * [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux) :large_orange_diamond:
 * [Tyro](https://github.com/typelift/Tyro) - Functional JSON parsing and encoding :large_orange_diamond:
@@ -1146,6 +1149,7 @@ Most of these are paid services, some have free tiers.
 * [nui](https://github.com/tombenner/nui) - Style iOS apps with a stylesheet, similar to CSS
 * [RedBeard](http://www.redbeard.io/) - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
 * [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that allows developers to easily create beautiful applications. :large_orange_diamond:
+* [Blurable](https://github.com/FlexMonkey/Blurable) - Apply a Gaussian Blur to any UIView with Swift Protocol Extensions :large_orange_diamond:
 
 ##### Activity Indicator
 
@@ -1436,6 +1440,7 @@ Most of these are paid services, some have free tiers.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view. 🔶
 * [TabDrawer](https://github.com/winslowdibona/TabDrawer) - Customizable TabBar UI element that allows you to run a block of code upon TabBarItem selection, written in Swift 🔶
 * [SwipeViewController](https://github.com/fortmarek/SwipeViewController) - SwipeViewController is a Swift modification of RKSwipeBetweenViewControllers - navigate between pages / ViewControllers :large_orange_diamond:
+* [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs :large_orange_diamond:
 
 ##### Table View / Collection View
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
