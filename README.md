@@ -944,6 +944,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftRegex](https://github.com/kasei/SwiftRegex) - Perl-like regex =~ operator for Swift :large_orange_diamond:
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way :large_orange_diamond:
 * [Regex](https://github.com/crossroadlabs/Regex) - Regular expressions for swift :large_orange_diamond:
+* [Regex](https://github.com/brynbellomy/Regex) - Regex class for Swift. Wraps NSRegularExpression. :large_orange_diamond:
 
 ### Security
 * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
