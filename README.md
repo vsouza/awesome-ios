@@ -332,6 +332,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generater for iOS. :large_orange_diamond:
 * [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS!.
 * [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - An iOS open source Radar Chart implementation.
+* [TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart in Swift :large_orange_diamond:
 
 ### Core Data
 * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
