@@ -385,6 +385,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ObjectiveRocks](https://github.com/iabudiab/ObjectiveRocks) - An Objective-C wrapper of Facebook's RocksDB - A Persistent Key-Value Store for Flash and RAM Storage.
 * [OHMySQL](https://github.com/oleghnidets/OHMySQL) - An Objective-C wrapper of MySQL C API.
 * [faunadb-swift](https://github.com/faunadb/faunadb-swift) - Swift client for FaunaDB :large_orange_diamond:
+* [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
 
 ### Data Structures / Algorithms
 * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
