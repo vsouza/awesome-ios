@@ -820,7 +820,7 @@ Most of these are paid services, some have free tiers.
 * [Carnival](http://www.carnival.io)
 * [Catapush](https://www.catapush.com)
 * [Netmera](http://www.netmera.com)
-* [OneSignal](https://www.onesignal.com) - Free.
+* [OneSignal](https://onesignal.com) - Free.
 * [PushBots](https://pushbots.com/)
 * [Pushwoosh](https://www.pushwoosh.com)
 * [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
