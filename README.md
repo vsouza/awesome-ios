@@ -924,6 +924,7 @@ Most of these are paid services, some have free tiers.
 * [monza](https://github.com/gabrielgarza/monza) - Ruby Gem for Rails - Easy iTunes In-App Purchase Receipt validation, including auto-renewable subscriptions
 * [EasyIAPs](https://github.com/alvinvarghese/EasyIAPs) - An easy way to manage In App Purchases
 * [PayPal](https://github.com/paypal/PayPal-iOS-SDK) - Accept payments in your iOS app via PayPal.
+* [card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
 
 ### Products
 * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
