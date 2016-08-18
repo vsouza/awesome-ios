@@ -453,6 +453,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Games
 * [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift. :large_orange_diamond:
+* [Five in a Row](https://github.com/WelkinXie/FiveInARow) - Five in a Row game written with Sprite Kit.
 
 ### Gesture
 * [Tactile](https://github.com/delba/Tactile) - The Swift way to add UIGestureRecognizer and to react to UIControlEvents :large_orange_diamond:
