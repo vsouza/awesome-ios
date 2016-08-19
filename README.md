@@ -1134,7 +1134,6 @@ Most of these are paid services, some have free tiers.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView :large_orange_diamond:
 * [Navigation Stack](https://github.com/Ramotion/navigation-stack) - Navigation Stack is a stack-modeled navigation controller. :large_orange_diamond:
 * [UIView-draggable](https://github.com/andreamazz/UIView-draggable) - UIView category that adds dragging capabilities :large_orange_diamond:
-* [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift :large_orange_diamond:
 * [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - UICollectionView with a sticky header flow layout, written in Swift :large_orange_diamond:
 * [PeekPop](https://github.com/marmelroy/PeekPop) - Backwards-compatible Peek and Pop.
 * [MKGradientView](https://github.com/maxkonovalov/MKGradientView) - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift. 🔶
@@ -1453,6 +1452,7 @@ Most of these are paid services, some have free tiers.
 * [MMSegmentSlider](https://github.com/MedvedevMax/MMSegmentSlider) - An easy-to-use customizable animated segment slider for iOS
 * [StepSlider](https://github.com/spromicky/StepSlider) - StepSlider its custom implementation of slider such as UISlider for preset integer values.
 * [JDSlider](https://github.com/JellyDevelopment/JDSlider) - An iOS Slider written in Swift. :large_orange_diamond:
+* [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift :large_orange_diamond:
 
 ##### Stepper
 * [PFStepper](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had! :large_orange_diamond:
