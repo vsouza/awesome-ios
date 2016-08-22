@@ -213,7 +213,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [WXWaveView](https://github.com/WelkinXie/WXWaveView) - Add a pretty water wave to your view.
 * [Twinkle](https://github.com/piemonte/Twinkle) - :sparkles: Swift and easy way to make elements in your iOS and tvOS app twinkle :large_orange_diamond:
 * [MotionBlur](https://github.com/fastred/MotionBlur) - MotionBlur allows you to add motion blur effect to iOS animations.
-* [TLLayoutTransitioning](https://github.com/wtmoose/TLLayoutTransitioning) - Enhanced transitioning between UICollectionView layouts in iOS.
 
 ### Apple TV
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
@@ -1538,6 +1537,7 @@ Most of these are paid services, some have free tiers.
 * [FooterPull](https://github.com/rob-nash/FooterPull) - Add paging to your table views with a cool animation.
 * [StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) - UICollectionView layout for presenting of the overlapping cells. :large_orange_diamond:
 * [ios-dragable-table-cells](https://github.com/palmin/ios-dragable-table-cells) - Support for drag-n-drop of UITableViewCells in a navigation hierarchy of view controllers. You drag cells by tapping and holding them.
+* [TLLayoutTransitioning](https://github.com/wtmoose/TLLayoutTransitioning) - Enhanced transitioning between UICollectionView layouts in iOS.
 
 ##### Tag
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
