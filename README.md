@@ -213,6 +213,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [WXWaveView](https://github.com/WelkinXie/WXWaveView) - Add a pretty water wave to your view.
 * [Twinkle](https://github.com/piemonte/Twinkle) - :sparkles: Swift and easy way to make elements in your iOS and tvOS app twinkle :large_orange_diamond:
 * [MotionBlur](https://github.com/fastred/MotionBlur) - MotionBlur allows you to add motion blur effect to iOS animations.
+* [TLLayoutTransitioning](https://github.com/wtmoose/TLLayoutTransitioning) - Enhanced transitioning between UICollectionView layouts in iOS.
 
 ### Apple TV
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
