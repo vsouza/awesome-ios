@@ -2045,7 +2045,6 @@ Most of these are paid services, some have free tiers.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds. :large_orange_diamond:
 
 ### iOS UI Template
-* [App Icon Template](https://appicontemplate.com/ios8/)
 * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone/)
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
 * [iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines)
