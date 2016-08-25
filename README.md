@@ -92,7 +92,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Alert View](#alerts)
         - [Button](#button)
         - [Calendar](#calendar)
-        - [Form](#form)
+        - [Form & Settings](#form--settings)
         - [Keyboard](#keyboard)
         - [Label](#label)
         - [Menu](#menu)
@@ -1305,7 +1305,7 @@ Most of these are paid services, some have free tiers.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern :large_orange_diamond:
 * [Calendar](https://github.com/jumartin/Calendar) - A set of views and controllers for displaying and scheduling events on iOS
 
-##### Form
+##### Form & Settings
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
 * [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in pure Swift. :large_orange_diamond:
