@@ -1228,6 +1228,7 @@ Most of these are paid services, some have free tiers.
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
 * [LilithProgressHUD] (https://github.com/Liquicit/LilithProgressHUD) - A elegant and simple progress hud, written in Swift. 🔶
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here :large_orange_diamond:
+* [VHUD](https://github.com/xxxAIRINxxx/VHUD) Simple HUD. :large_orange_diamond:
 
 ##### Alerts
 
