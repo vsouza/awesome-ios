@@ -997,6 +997,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftPasscodeLock](https://github.com/yankodimitrov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift. :large_orange_diamond:
 * [Smile-Lock](https://github.com/recruit-lifestyle/Smile-Lock) - A library for make a beautiful Passcode Lock View.
 * [zxcvbn-ios](https://github.com/dropbox/zxcvbn-ios) - A realistic password strength estimator.
+* [TPObfuscatedString](https://github.com/Techprimate/TPObfuscatedString) - Simple String obfuscation using basic Swift :large_orange_diamond:
 
 ##### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
