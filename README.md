@@ -948,6 +948,7 @@ Most of these are paid services, some have free tiers.
 * [EasyIAPs](https://github.com/alvinvarghese/EasyIAPs) - An easy way to manage In App Purchases
 * [PayPal](https://github.com/paypal/PayPal-iOS-SDK) - Accept payments in your iOS app via PayPal.
 * [card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
+* [SwiftLuhn](https://github.com/MaxKramer/SwiftLuhn) - Debit/Credit card validation port of the Luhn Algorithm in Swift :large_orange_diamond:
 
 ### Products
 * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
