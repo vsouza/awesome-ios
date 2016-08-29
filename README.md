@@ -1989,6 +1989,7 @@ Most of these are paid services, some have free tiers.
 * [JSPatchX](https://github.com/bang590/JSPatchX) - A XCode plugin that provides autocompletion for JSPatch
 * [Dash](https://kapeli.com/dash) - Dash is a great documentation browser which integrates closely into Xcode with its plugin.
 * [SFJumpToLine](https://github.com/sferrini/SFJumpToLine) - Xcode plugin that moves the instruction pointer to the selected line
+* [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) - An Xcode plug-in to format your code using Clang's format tools.
 
 ### Themes
 * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
