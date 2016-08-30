@@ -825,6 +825,7 @@ Also see [push notifications](#push-notifications)
 * [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - YTKNetwork is a high level request util based on AFNetworking.
 * [UnboxedAlamofire](https://github.com/serejahh/UnboxedAlamofire) - Alamofire + Unbox: the easiest way to download and decode JSON into swift objects. :large_orange_diamond:
 * [MMLanScan](https://github.com/mavris/MMLanScan) - An iOS LAN Network Scanner library
+* [Domainer](https://github.com/FelixLinBH/Domainer) - Manage multi-domain url auto mapping ip address table
 
 #### Email
 
