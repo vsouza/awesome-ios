@@ -2148,6 +2148,7 @@ Most of these are paid services, some have free tiers.
 * [Core Intuition](http://www.coreint.org/)
 * [Swift Playhouse](http://www.swiftplayhouse.com/)
 * [Release Notes](https://releasenotes.tv/)
+* [More Than Just Code](http://mtjc.fm/)
 
 # Books
 * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) :large_orange_diamond:
