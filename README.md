@@ -1427,7 +1427,7 @@ Most of these are paid services, some have free tiers.
 * [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController. :large_orange_diamond:
 * [Presenter](https://github.com/muukii/Presenter) - Screen transition with safe and clean code.  :large_orange_diamond:
-
+* [Kaeru](https://github.com/bannzai/Kaeru) - Switch viewcontroller like ios task manager :large_orange_diamond:
 
 ##### Navigation Bar
 * [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls :large_orange_diamond:
