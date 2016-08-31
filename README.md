@@ -288,6 +288,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Buglife](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps
 * [Warnings-xcconfig](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
 * [Aardvark](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
+* [Stats](https://github.com/shu223/Stats) - In-app memory usage monitoring.
 
 ##### Linter
 * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
