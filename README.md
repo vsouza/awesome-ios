@@ -831,6 +831,7 @@ Also see [push notifications](#push-notifications)
 * [UnboxedAlamofire](https://github.com/serejahh/UnboxedAlamofire) - Alamofire + Unbox: the easiest way to download and decode JSON into swift objects. :large_orange_diamond:
 * [MMLanScan](https://github.com/mavris/MMLanScan) - An iOS LAN Network Scanner library
 * [Domainer](https://github.com/FelixLinBH/Domainer) - Manage multi-domain url auto mapping ip address table
+* [Restofire](https://github.com/Restofire/Restofire) - Restofire is a protocol oriented network abstraction layer in swift that is built on top of Alamofire to use services in a declartive way :large_orange_diamond:
 
 #### Email
 
