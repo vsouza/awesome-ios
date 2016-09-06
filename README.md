@@ -1864,6 +1864,7 @@ Most of these are paid services, some have free tiers.
 * [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
 * [PlayNow](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode. :large_orange_diamond:
 * [Xtrace](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance
+* [xcenv](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
 
 # Rapid Development
 * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
