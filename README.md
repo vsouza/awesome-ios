@@ -516,6 +516,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [JVTImageFilePicker](https://github.com/mcmatan/JVTImageFilePicker) - Easy and beautiful way for a user to pick content, files or images. Written in Objective C.
 * [HorizonSDK-iOS](https://github.com/HorizonCamera/HorizonSDK-iOS) - State of the art real-time video recording / photo shooting iOS library.
 * [FastttCamera](https://github.com/IFTTT/FastttCamera) - Fasttt and easy camera framework for iOS with customizable filters
+* [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - This is a copy of the Prisma APP. Reproduce Prisma custom camera, image picker and picture editor. :large_orange_diamond:
 
 ##### Force Touch
 * [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts) :large_orange_diamond:
