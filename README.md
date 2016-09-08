@@ -328,6 +328,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Safe](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization for Swift. :large_orange_diamond:
 * [Concurrent](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives :large_orange_diamond:
 * [Flow](https://github.com/JohnSundell/Flow) - Operation Oriented Programming in Swift :large_orange_diamond:
+* [Brisk](https://github.com/jmfieldman/Brisk) - A Swift DSL that allows concise and effective concurrency manipulation. :large_orange_diamond:
 
 ### Charts
 * [Charts](https://github.com/danielgindi/Charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). :large_orange_diamond:
