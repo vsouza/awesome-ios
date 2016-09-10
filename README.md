@@ -1608,6 +1608,7 @@ Most of these are paid services, some have free tiers.
 * [Bohr](https://github.com/DavdRoman/Bohr) - Bohr allows you to set up a settings screen for your app with three principles in mind: ease, customization and extensibility.
 * [SwiftReorder](https://github.com/adamshin/SwiftReorder) - Add drag-and-drop reordering to any table view with just a few lines of code. Robust, lightweight, and completely customizable. :large_orange_diamond:[e]
 * [TLIndexPathTools](https://github.com/wtmoose/TLIndexPathTools) - TLIndexPathTools is a small set of classes that can greatly simplify your table and collection views.
+* [ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) - A simple iOS swift project demonstrates how to implement collapsible table section. :large_orange_diamond:
 
 ##### Tag
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
