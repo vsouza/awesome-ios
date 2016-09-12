@@ -1976,6 +1976,7 @@ Most of these are paid services, some have free tiers.
 * [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk) - Abstraction layer / unified API for multiple API providers. Interfaces eg for Cloud Storage (Dropbox, Google, ...), Social Networks (Facebook, Twitter, ...) and more.
 * [Medium SDK - Swift](https://github.com/96-problems/medium-sdk-swift) - Unofficial Medium API SDK in Swift with sample project :large_orange_diamond:
 * [Swifter](https://github.com/mattdonnelly/Swifter) - :bird: A Twitter framework for iOS & OS X written in Swift :large_orange_diamond:
+* [SlackKit](https://github.com/pvzig/SlackKit) - a Slack client library for iOS and OS X written in Swift :large_orange_diamond:
 
 # Xcode
 
