@@ -1225,6 +1225,7 @@ Most of these are paid services, some have free tiers.
 * [planet](https://github.com/kwallet/planet) - A country picker :large_orange_diamond:
 * [PageController](https://github.com/hirohisa/PageController) - Infinite paging controller, scrolling through contents and title bar scrolls with a delay. :large_orange_diamond:
 * [StatusProvider](https://github.com/mariohahn/StatusProvider) - Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views :large_orange_diamond:
+* [ASBubbleDrag](https://github.com/scamps88/ASBubbleDrag) - round icon drag control (made in swift) dock style :large_orange_diamond:
 
 ##### Activity Indicator
 
