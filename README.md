@@ -1747,6 +1747,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple socket library for apple swift lang. :large_orange_diamond:
 * [Socks](https://github.com/vapor/Socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X :large_orange_diamond:
 * [SwifterSockets](https://github.com/Swiftrien/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iO :large_orange_diamond:
+* [Swift-ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app. :large_orange_diamond:
 
 #### GCD
  * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
