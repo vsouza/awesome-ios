@@ -1312,7 +1312,7 @@ Most of these are paid services, some have free tiers.
 * [PopupViewController](https://github.com/dimillian/PopupViewController) - UIAlertController drop in replacement with much more customization. 🔶
 * [AlertViewLoveNotification](https://github.com/PhilippeBoisney/AlertViewLoveNotification) - A simple and attractive AlertView to ask permission to your users for Push Notification. 🔶
 * [CRToast](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs
-* [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. :large_orange_diamond:
+* [JLToast](https://github.com/devxoul/Toaster) - Toast for iOS with very simple interface. :large_orange_diamond:
 * [CuckooAlert](https://github.com/singcodes/CuckooAlert) - Multiple use of presentViewController for UIAlertController. 🔶
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS. :large_orange_diamond:
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift. :large_orange_diamond:
