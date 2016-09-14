@@ -11,6 +11,6 @@
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 - [ ] Only one project/change is in this pull request
 - [ ] Addition in chronological order (bottom of category)
-- [ ] Supports iOS 7 or later
+- [ ] Supports iOS 8 or later
 - [ ] Has a commit from less than 2 years ago
 - [ ] Has a **clear** README in English
