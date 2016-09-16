@@ -634,6 +634,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol! Change debug habit thoroughly!
 * [XLTestLog](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console
 * [XLFacility](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for OS X & iOS (includes database, Telnet and HTTP servers)
+* [Atlantis](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability. :large_orange_diamond:
 
 ## Machine Learning
 * [Swift-AI](https://github.com/collinhundley/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift. :large_orange_diamond:
