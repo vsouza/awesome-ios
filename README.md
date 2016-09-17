@@ -1712,7 +1712,7 @@ Most of these are paid services, some have free tiers.
 * [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) - An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 * [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews :large_orange_diamond:
 * [Dwifft](https://github.com/jflinter/Dwifft) - Automatic updates of UITableView with animations in Swift :large_orange_diamond:
-* [CollapsableTableKit](https://github.com/rob-nash/CollapsableTableKit) - A kit for building tableviews with a collapsable animation, for each section.
+* [CollapsableTable](https://github.com/rob-nash/CollapsableTable) - A kit for building tableviews with a collapsable animation, for each section.
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells). :large_orange_diamond:
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 * [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView :large_orange_diamond:
