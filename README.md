@@ -436,6 +436,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - Some well known CS algorithms & data structures in Objective-C.
 * [Monaka](https://github.com/naru-jpn/Monaka) - Convert custom struct and fundamental values to NSData.
 * [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration. :large_orange_diamond:
+* [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph data structure and utility functions in pure Swift. :large_orange_diamond:
+* [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift. :large_orange_diamond:
 
 ## Date & Time
 
