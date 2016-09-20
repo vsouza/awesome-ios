@@ -12,5 +12,6 @@
 - [ ] Only one project/change is in this pull request
 - [ ] Addition in chronological order (bottom of category)
 - [ ] Supports iOS 8 or later
+- [ ] Supports Swift 3
 - [ ] Has a commit from less than 2 years ago
 - [ ] Has a **clear** README in English
