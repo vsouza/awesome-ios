@@ -2217,6 +2217,7 @@ Most of these are paid services, some have free tiers.
 * [Release Notes](https://releasenotes.tv/)
 * [More Than Just Code](http://mtjc.fm/)
 * [Runtime](https://spec.fm/podcasts/runtime)
+* [Consult](http://consultpodcast.com/)
 
 # Books
 * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) :large_orange_diamond:
