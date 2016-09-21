@@ -1930,7 +1930,7 @@ Most of these are paid services, some have free tiers.
 * [appledoc](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
 * [Azkaban](https://github.com/neonichu/Azkaban) - A CLI to Alcatraz, the Xcode package manager. :large_orange_diamond:
 * [Laurine](https://github.com/JiriTrecak/Laurine) - Laurine - Localization code generator written in Swift. Sweet! :large_orange_diamond:
-* [Chocolat](https://github.com/neonichu/Chocolat) - :chocolate_bar: Generate podspecs from Swift packages. :large_orange_diamond:
+* [Chocolat](https://github.com/pepibumur/Chocolat) - :chocolate_bar: Generate podspecs from Swift packages. :large_orange_diamond:
 * [StoryboardMerge](https://github.com/marcinolawski/StoryboardMerge) - Xcode storyboards diff and merge tool.
 * [ai2app](https://github.com/metasmile/ai2app) - Creating AppIcon sets from Adobe Illustrator (all supported formats).
 * [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy. :large_orange_diamond:
