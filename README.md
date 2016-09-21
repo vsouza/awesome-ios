@@ -1965,6 +1965,7 @@ Most of these are paid services, some have free tiers.
 * [Xtrace](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance
 * [xcenv](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
 * [playgroundbook](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books
+* [Ecno](https://github.com/xmartlabs/Ecno) - Ecno is a task state manager built on top of UserDefaults in pure Swift 3. :large_orange_diamond:
 
 # Rapid Development
 * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
