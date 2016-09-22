@@ -2069,6 +2069,7 @@ Most of these are paid services, some have free tiers.
 * [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode) - An Xcode plug-in to format your code using Clang's format tools.
 * [update_xcode_plugins](https://github.com/inket/update_xcode_plugins) - No more messing with plugin UUIDs; Plugins on Xcode 8!
 * [MakeXcodeGr8Again](https://github.com/fpg1503/MakeXcodeGr8Again) - Xcode + Plugins = :blue_heart: :large_orange_diamond:
+* [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension based tools to improve the text editing experience of Xcode 8 and provide extensions with simple code. :large_orange_diamond:
 
 #### Themes
 * [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
