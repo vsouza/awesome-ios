@@ -112,6 +112,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Popup](#popup)
         - [Pull to Refresh](#pull-to-refresh)
         - [Rating Stars](#rating-stars)
+        - [ScrollView](#scrollview)
         - [Slider](#slider)
         - [Splash View](#splash-view)
         - [Stepper](#stepper)
@@ -1648,6 +1649,9 @@ Most of these are paid services, some have free tiers.
 * [Cosmos](https://github.com/marketplacer/Cosmos) - A star rating control for iOS / Swift :large_orange_diamond:
 * [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) - Simple star rating view for iOS written in Objective-C
 * [MBRateApp](https://github.com/MatiBot/MBRateApp) - A groovy app rate stars screen for iOS written in Swift :large_orange_diamond:
+
+#### ScrollView
+* [ScrollingFollowView](https://github.com/ktanaka117/ScrollingFollowView) - ScrollingFollowView is a simple view which follows UIScrollView scrolling.
 
 #### Slider
 * [VolumeControl](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
