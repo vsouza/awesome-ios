@@ -2223,7 +2223,6 @@ Most of these are paid services, some have free tiers.
 * [iDeveloper](http://blog.ideveloper.co/)
 * [App Story](http://www.appstorypodcast.com)
 * [Mobile Couch](http://mobilecouch.co/)
-* [iOS Bytes](https://iosbytes.codeschool.com/)
 * [iPhreaks](https://devchat.tv/iphreaks)
 * [Under the Radar](https://www.relay.fm/radar)
 * [Core Intuition](http://www.coreint.org/)
