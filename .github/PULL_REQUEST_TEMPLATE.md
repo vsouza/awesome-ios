@@ -3,8 +3,7 @@
 ## Project URL
 <!--- The project URL -->
 
-## Description
-<!--- Describe your changes in detail -->
+## Why it should be included to `awesome-ios`
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
