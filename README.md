@@ -51,7 +51,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Camera](#camera)
         - [Force Touch](#force-touch)
         - [iBeacon](#ibeacon)
-        - [Location](#location)    
+        - [Location](#location)
         - [Other Hardware](#other-hardware)
     - [Layout](#layout)
     - [Logging](#logging)
@@ -1027,6 +1027,7 @@ Most of these are paid services, some have free tiers.
 * [RxAutomaton](https://github.com/inamiy/RxAutomaton) - RxSwift + State Machine, inspired by Redux and Elm. :large_orange_diamond:
 * [ReactiveArray](https://github.com/Wolox/ReactiveArray) - An array class implemented in Swift that can be observed using ReactiveCocoa's Signals. :large_orange_diamond:
 * [Interstellar](https://github.com/JensRavens/Interstellar) - Simple and lightweight Functional Reactive Coding in Swift for the rest of us. :large_orange_diamond:
+* [ReduxSwift](https://github.com/lsunsi/ReduxSwift) - Predictable state container for Swift apps too. :large_orange_diamond:
 
 ## Reflection
 * [Reflection](https://github.com/Zewo/Reflection) - Reflection provides an API for advanced reflection at runtime including dynamic construction of types. :large_orange_diamond:
