@@ -321,6 +321,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Aardvark](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
 * [Stats](https://github.com/shu223/Stats) - In-app memory usage monitoring.
 * [Alpha](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
+* [GlueKit](https://github.com/lorentey/GlueKit) - A type-safe observer framework for Swift. :large_orange_diamond:
 
 #### Linter
 * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
