@@ -1006,7 +1006,7 @@ Most of these are paid services, some have free tiers.
 * [PushBots](https://pushbots.com/)
 * [Pushwoosh](https://www.pushwoosh.com)
 * [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
-* [Pusher](https://pusher.com)
+* [Pusher](https://pusher.com/push-notifications) - Free and unlimited.
 
 ## Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift :large_orange_diamond:
