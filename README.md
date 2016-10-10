@@ -1187,6 +1187,7 @@ Most of these are paid services, some have free tiers.
 * [BonMot](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by [validator.js](https://www.npmjs.com/package/validator).
 * [StringStylizer](https://github.com/kazuhiro4949/StringStylizer) - Type strict builder class for NSAttributedString. :large_orange_diamond:
+* [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swift extensions that make it a breeze to work with attributed strings. :large_orange_diamond;
 
 ## Testing
 
