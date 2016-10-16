@@ -999,7 +999,7 @@ Most of these are paid services, some have free tiers.
 * [Growth Push](https://growthpush.com) - Popular in Japan.
 * [Appboy](https://www.appboy.com)
 * [Batch](https://batch.com)
-* [Boxcar](https://boxcar.io/developer)
+* [Boxcar](https://boxcar.io)
 * [Carnival](http://www.carnival.io)
 * [Catapush](https://www.catapush.com)
 * [Netmera](http://www.netmera.com)
@@ -1784,7 +1784,7 @@ Most of these are paid services, some have free tiers.
 * [AMTagListView](https://github.com/andreamazz/AMTagListView) - UIScrollView subclass that allows to add a list of highly customizable tags.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments. :large_orange_diamond:
 * [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - Show simple text tags or custom tag views in a vertical scrollable view.
-* [TagListView](https://github.com/xhacker/TagListView) - Simple and highly customizable iOS tag list view, in Swift. :large_orange_diamond:
+* [TagListView](https://github.com/ElaWorkshop/TagListView) - Simple and highly customizable iOS tag list view, in Swift. :large_orange_diamond:
 * [RKTagsView](https://github.com/kuler90/RKTagsView) - Highly customizable iOS tags view (like NSTokenField). Supports editing, multiple selection, Auto Layout and much more.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags :large_orange_diamond:
 * [AKMaskField](https://github.com/artemkrachulov/AKMaskField) - AKMaskField is UITextField subclass which allows enter data in the fixed quantity and in the certain format. :large_orange_diamond:
