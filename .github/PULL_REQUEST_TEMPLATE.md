@@ -5,13 +5,15 @@
 
 ## Description
 <!--- Describe your changes in detail -->
+ 
+## Why it should be included to `awesome-ios` (optional)
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] Only one project is in the request
+- [ ] Only one project/change is in this pull request
 - [ ] Addition in chronological order (bottom of category)
-- [ ] `Travis CI` pass
-- [ ] Supports iOS 7 and later
+- [ ] Supports iOS 8 or later
+- [ ] Supports Swift 3
 - [ ] Has a commit from less than 2 years ago
 - [ ] Has a **clear** README in English
