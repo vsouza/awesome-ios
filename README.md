@@ -884,6 +884,7 @@ Also see [push notifications](#push-notifications)
 * [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
 
 #### JSON
+* [Marshal](https://github.com/utahiosmac/Marshal) - Marshaling the typeless wild west of [String: Any] (Protocol based).
 * [JSON-Framework](https://github.com/stig/json-framework) -  This framework implements a strict JSON parser and generator in Objective-C.
 * [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch.
 * [Groot](https://github.com/gonzalezreal/Groot) - Convert JSON dictionaries and arrays to and from Core Data managed objects.
