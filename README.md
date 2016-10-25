@@ -321,6 +321,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Stats](https://github.com/shu223/Stats) - In-app memory usage monitoring.
 * [Alpha](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
 * [GlueKit](https://github.com/lorentey/GlueKit) - A type-safe observer framework for Swift. :large_orange_diamond:
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code. :large_orange_diamond:
 
 #### Linter
 * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
