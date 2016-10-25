@@ -13,7 +13,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
-# How to Use
+# How to Use 
 Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
 - Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
@@ -2198,7 +2198,7 @@ Most of these are paid services, some have free tiers.
 * [learn-swift](https://github.com/nettlep/learn-swift) - Learn Apple's Swift programming language interactively through these playgrounds. :large_orange_diamond:
 * [Treehouse's iOS Courses and Workshops](https://teamtreehouse.com/library/topic:ios) - Topics for beginner and advanced developers in both Objective-C and Swift.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds. :large_orange_diamond:
-* [HACKING WITH SWIFT](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials. :large_orange_diamond:
+* [Hacking With Swift](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials. :large_orange_diamond:
 
 #### iOS UI Template
 * [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone/)
