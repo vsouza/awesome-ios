@@ -1382,6 +1382,7 @@ Most of these are paid services, some have free tiers.
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app. :large_orange_diamond:
 * [iCheckbox](https://github.com/mancunianetz/iCheckbox) - A checkbox like component for iOS apps. :large_orange_diamond:
 * [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. :large_orange_diamond:
+* [HubFramework](https://github.com/spotify/HubFramework) - Spotify’s component-driven UI framework for iOS.
 
 #### Activity Indicator
 
