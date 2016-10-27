@@ -1475,7 +1475,7 @@ Most of these are paid services, some have free tiers.
 * [MaterialActionSheetController](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet for iOS written in Swift. :large_orange_diamond:
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift. :large_orange_diamond:
 * [FCAlertView](https://github.com/k9101/FCAlertView) - A Flat Customizable AlertView for iOS. (Swift) :large_orange_diamond:
-* [FCAlertView](https://github.com/nimati/FCAlertView) - A Flat Customizable AlertView for iOS.
+* [FCAlertView](https://github.com/nimati/FCAlertView) - A Flat Customizable AlertView for iOS. (Objective-C)
 
 #### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
