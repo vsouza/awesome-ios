@@ -423,6 +423,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB) - A Swift wrapper around the mongo-c client library, enabling access to MongoDB servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [SQLite](https://github.com/PerfectlySoft/Perfect-SQLite) - A Swift wrapper around the SQLite 3 client library, enabling access to SQLite servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) - A Swift wrapper around the MySQL client library, enabling access to MySQL servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+* [MariaDB](https://github.com/PerfectlySoft/Perfect-MariaDB) - A Swift wrapper around the MariaDB client library, enabling access to MariaDB servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [Redis](https://github.com/PerfectlySoft/Perfect-Redis) - A Swift wrapper around the Redis client library, enabling access to Redis. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) - A Swift wrapper around the libpq client library, enabling access to PostgreSQL servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
@@ -940,6 +941,7 @@ Also see [push notifications](#push-notifications)
 * [SwiftyXMLParer](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift  :large_orange_diamond:
 * [HTMLKit](https://github.com/iabudiab/HTMLKit) - An Objective-C framework for your everyday HTML needs.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift :large_orange_diamond:
+* [Perfect-XML](https://github.com/PerfectlySoft/Perfect-XML) - XML & HTML parsing support for Perfect: A Server Side Swift Framework & Web Server.
 
 #### Other Parsing
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - WKZombie is a Swift framework for iOS/OSX to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests or manipulate websites using Javascript. :large_orange_diamond:
@@ -996,6 +998,7 @@ Also see [push notifications](#push-notifications)
 * [FBNotifications](https://github.com/facebook/FBNotifications) - Facebook Analytics In-App Notifications Framework https://developers.facebook.com/docs/analytics/push-campaigns
 * [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 * [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications) - Library to send mock remote notifications to the iOS simulator
+* [Perfect-Notifications](https://github.com/PerfectlySoft/Perfect-Notifications) - iOS Notifications for Perfect, A Server Side Swift Framework & Web Server.
 
 #### Push Notification Providers
 
@@ -1936,6 +1939,7 @@ Most of these are paid services, some have free tiers.
 * [Socks](https://github.com/vapor/Socks) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, OS X :large_orange_diamond:
 * [SwifterSockets](https://github.com/Swiftrien/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iO :large_orange_diamond:
 * [Swift-ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app. :large_orange_diamond:
+* [Perfect-WebSockets](https://github.com/PerfectlySoft/Perfect-WebSockets) - WebSockets support for Perfect: A Server Side Swift Framework & Web Server.
 
 #### GCD
  * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. :large_orange_diamond:
