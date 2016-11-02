@@ -1008,7 +1008,7 @@ Most of these are paid services, some have free tiers.
 * [Batch](https://batch.com)
 * [Boxcar](https://boxcar.io)
 * [Carnival](http://www.carnival.io)
-* [Catapush](https://www.catapush.com)
+* [Catapush](http://www.catapush.com/)
 * [Netmera](http://www.netmera.com)
 * [OneSignal](https://onesignal.com) - Free.
 * [PushBots](https://pushbots.com/)
