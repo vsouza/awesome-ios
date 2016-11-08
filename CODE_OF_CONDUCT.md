@@ -30,6 +30,8 @@ advances
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+  
+Critical examination of beliefs, including critical commentary on another person’s views, does not, by itself, constitute hostile conduct, harassment, or trolling. One of the underlying rationales of this Code of Conduct is to promote the free exchange of ideas, not to inhibit it.
 
 ## Our Responsibilities
 
