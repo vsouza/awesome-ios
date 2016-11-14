@@ -157,7 +157,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Podcasts](#podcasts)
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
+- [Contributing](#contributing-and-license)
 
 ***
 # Getting Started
@@ -486,6 +486,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Ares](https://github.com/indragiek/Ares) - Zero-setup P2P file transfer between Macs and iOS devices :large_orange_diamond:
 * [FileProvider](https://github.com/amosavian/FileProvider) - NSFileManager replacement for local and remote (WebDAV/Dropbox/SMB2) files on iOS and macOS. :large_orange_diamond:
 * [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools. :large_orange_diamond:
+* [ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.
 
 ## Functional Programming
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift. :large_orange_diamond:
