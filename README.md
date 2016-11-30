@@ -459,6 +459,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Buffer](https://github.com/alexdrone/Buffer) - Swift μ-framework for efficient array diffs, collection observation and cell configuration. :large_orange_diamond:
 * [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph data structure and utility functions in pure Swift. :large_orange_diamond:
 * [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift. :large_orange_diamond:
+* [HeckelDiff](https://github.com/mcudich/HeckelDiff) - Pure Swift implementation of Paul Heckel's "A Technique for Isolating Differences Between Files". :large_orange_diamond:
 
 ## Date & Time
 
