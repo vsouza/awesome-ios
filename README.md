@@ -1138,7 +1138,6 @@ Most of these are paid services, some have free tiers.
 * [TPObfuscatedString](https://github.com/Techprimate/TPObfuscatedString) - Simple String obfuscation using core Swift. :large_orange_diamond:
 * [LTHPasscodeViewController](https://github.com/rolandleth/LTHPasscodeViewController) - An iOS passcode lockscreen replica (from Settings), with TouchID and simple (variable length) / complex support.
 * [iOS-App-Security-Class](https://github.com/karek314/iOS-App-Security-Class) - Simple class to check if iOS app has been cracked, being debugged or enriched with custom dylib and as well detect jailbroken environment.
-* [Objective-C-CLI-Obfuscator](https://github.com/karek314/Objective-C-CLI-Obfuscator) - Simple command line Objective-C symbols obfuscator, safe for apple review.
 
 
 #### Encryption
