@@ -1419,7 +1419,6 @@ Most of these are paid services, some have free tiers.
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer. :large_orange_diamond:
 * [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars) - AIB indicates for your app users which audio is playing. Just like the Podcasts app. :large_orange_diamond:
 * [LLSpinner](https://github.com/alaphao/LLSpinner) - An easy way to create a full screen activity indicator. :large_orange_diamond:
-* [FlexibleSteppedProgressBar](https://github.com/amratab/FlexibleSteppedProgressBar) - A customisable stepped progress bar. :large_orange_diamond:
 
 #### Alerts
 
@@ -1778,6 +1777,7 @@ Most of these are paid services, some have free tiers.
 * [HoverConversion](https://github.com/marty-suzuki/HoverConversion) - HoverConversion realized vertical paging with UITableView. UIViewController will be paging when reaching top or bottom of UITableView contentOffset. :large_orange_diamond:
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop. :large_orange_diamond:
 * [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
+* [ThreeLevelAccordian](https://github.com/amratab/ThreeLevelAccordian) - A customisable three level accordian with images and accessory options. :large_orange_diamond:
 
 #### Tag
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
