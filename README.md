@@ -538,6 +538,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone :large_orange_diamond:
 * [jot](https://github.com/IFTTT/jot) - An iOS framework for easily adding drawings and text to images.
 * [SVGKit](https://github.com/SVGKit/SVGKit) - Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation) (currently only supported for iOS - OS X code needs updating).
+* [Snowflake](https://github.com/onmyway133/Snowflake) - ❄️ SVG in Swift. :large_orange_diamond:
 
 ## Hardware
 #### Bluetooth
