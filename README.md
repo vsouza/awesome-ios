@@ -1252,6 +1252,7 @@ Most of these are paid services, some have free tiers.
 * [Apodimark](https://github.com/loiclec/Apodimark) - Fast, flexible markdown parser written in Swift. :large_orange_diamond:
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting. :large_orange_diamond:
 * [KKStringValidator](https://github.com/krizhanovskii/KKStringValidator) - Fast and simple string validation for IOS. With UITextField extension. :large_orange_diamond:
+* [ISO8859](https://github.com/Cosmo/ISO8859) - 📄⚙ Convert ISO8859 1-16 Encoded Text to String in Swift. Supports iOS, tvOS, watchOS and macOS. :large_orange_diamond:
 
 ## Testing
 
