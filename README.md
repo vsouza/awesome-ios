@@ -1309,7 +1309,6 @@ Most of these are paid services, some have free tiers.
 * [Vinyl](https://github.com/Velhotes/Vinyl) - Network testing à la VCR in Swift :large_orange_diamond:
 * [Fetcher](https://github.com/rob-nash/Fetcher) - Mock paging data with a variable fetch time interval.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java :large_orange_diamond:
-* [Bugfender Live](https://github.com/bugfender/BugfenderLive-iOS) - Stream the screen of an iOS device for live debugging.
 * [Cribble](https://github.com/maxsokolov/Cribble) - Swifty tool for visual testing iPhone and iPad apps :large_orange_diamond:
 * [second_curtain](https://github.com/ashfurrow/second_curtain) - Upload failing iOS snapshot tests cases to S3
 * [trainer](https://github.com/KrauseFx/trainer) - Convert xcodebuild plist files to JUnit reports
@@ -2133,8 +2132,8 @@ Most of these are paid services, some have free tiers.
 * [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - A Mac OS X library for managing and manipulating iOS Simulators
 * [IconResizer](https://iconresizer.com/) - A simple web application to resize iPhone and iPad app icons for the App Store
 * [Nomad](http://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute *.ipa*, verify In-App-Purchase receipt and more.
-* [Cookiecutter](https://github.com/cookiecutter-swift/Framework) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file :large_orange_diamond:
-* [Insanity](https://github.com/krzysztofzablocki/Insanity) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code. :large_orange_diamond:
+* [Cookiecutter](https://github.com/cookiecutter-swift/FrameworkTemplate) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file :large_orange_diamond:
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code. :large_orange_diamond:
 * [AssetChecker 👮](https://github.com/s4cha/AssetChecker) - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious. :large_orange_diamond:
 
 # Rapid Development
