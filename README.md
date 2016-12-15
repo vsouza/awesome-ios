@@ -2133,6 +2133,7 @@ Most of these are paid services, some have free tiers.
 * [Nomad](http://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute *.ipa*, verify In-App-Purchase receipt and more.
 * [Cookiecutter](https://github.com/cookiecutter-swift/Framework) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file :large_orange_diamond:
 * [Insanity](https://github.com/krzysztofzablocki/Insanity) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code. :large_orange_diamond:
+* [AssetChecker 👮](https://github.com/s4cha/AssetChecker) - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious. :large_orange_diamond:
 
 # Rapid Development
 * [KZPlayground](https://github.com/krzysztofzablocki/KZPlayground) - Playgrounds for Objective-C for extremely fast prototyping / learning.
