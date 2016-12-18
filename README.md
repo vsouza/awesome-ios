@@ -922,7 +922,7 @@ Also see [push notifications](#push-notifications)
 ## Notifications
 
 #### Local Notifications
-* [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework :large_orange_diamond:
+* [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework. :large_orange_diamond:
 
 
 #### Push Notifications
