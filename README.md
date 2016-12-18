@@ -81,6 +81,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Video](#video)
     - [Messaging](#messaging)
     - [Networking](#networking)
+    - [Notifications](#notifications)
+        - [Local Notifications](#local-notifications]
+        - [Push Notifications](#push-notifications)
     - [Parsing](#parsing)
         - [CSV](#csv)
         - [JSON](#json)
@@ -90,8 +93,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Payments](#payments)
     - [Permissions](#permissions)
     - [Products](#products)
-    - [Push Notifications](#push-notifications)
-        - [Push Notification Providers](#push-notification-providers)
     - [Reactive Programming](#reactive-programming)
     - [Reflection](#reflection)
     - [Regex](#regex)
@@ -918,6 +919,39 @@ Also see [push notifications](#push-notifications)
 * [SwiftyZeroMQ](https://github.com/azawawi/SwiftyZeroMQ) - ZeroMQ Swift Bindings for iOS, macOS, tvOS and watchOS. :large_orange_diamond: ⌚
 * [Nikka](https://github.com/JustaLab/Nikka) - A super simple Networking wrapper that supports many JSON libraries, Futures and Rx :large_orange_diamond: ⌚
 
+## Notifications
+
+#### Local Notifications
+* [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework :large_orange_diamond:
+
+
+#### Push Notifications
+* [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
+* [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - Automatically generate and renew your push notification profiles.
+* [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
+* [FBNotifications](https://github.com/facebook/FBNotifications) - Facebook Analytics In-App Notifications Framework https://developers.facebook.com/docs/analytics/push-campaigns
+* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+* [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications) - Library to send mock remote notifications to the iOS simulator
+
+##### Push Notification Providers
+
+Most of these are paid services, some have free tiers.
+
+* [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement )
+* [Growth Push](https://growthpush.com) - Popular in Japan.
+* [Appboy](https://www.appboy.com)
+* [Batch](https://batch.com)
+* [Boxcar](https://boxcar.io)
+* [Carnival](http://www.carnival.io)
+* [Catapush](http://www.catapush.com/)
+* [Netmera](http://www.netmera.com)
+* [OneSignal](https://onesignal.com) - Free.
+* [PushBots](https://pushbots.com/)
+* [Pushwoosh](https://www.pushwoosh.com)
+* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
+* [Pusher](https://pusher.com/push-notifications) - Free and unlimited.
+
+
 #### Email
 
 * [Mail Core 2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
@@ -1032,32 +1066,6 @@ Also see [push notifications](#push-notifications)
 * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
 * [Tapglue](https://www.tapglue.com) - Build social products and a activity feed with a few lines of code.
 * [OpenShop.io](https://github.com/openshopio/openshop.io-ios) - mobile e-commerce solution connected to Facebook Ads and Google.
-
-## Push Notifications
-* [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
-* [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - Automatically generate and renew your push notification profiles.
-* [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
-* [FBNotifications](https://github.com/facebook/FBNotifications) - Facebook Analytics In-App Notifications Framework https://developers.facebook.com/docs/analytics/push-campaigns
-* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
-* [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications) - Library to send mock remote notifications to the iOS simulator
-
-#### Push Notification Providers
-
-Most of these are paid services, some have free tiers.
-
-* [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement )
-* [Growth Push](https://growthpush.com) - Popular in Japan.
-* [Appboy](https://www.appboy.com)
-* [Batch](https://batch.com)
-* [Boxcar](https://boxcar.io)
-* [Carnival](http://www.carnival.io)
-* [Catapush](http://www.catapush.com/)
-* [Netmera](http://www.netmera.com)
-* [OneSignal](https://onesignal.com) - Free.
-* [PushBots](https://pushbots.com/)
-* [Pushwoosh](https://www.pushwoosh.com)
-* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
-* [Pusher](https://pusher.com/push-notifications) - Free and unlimited.
 
 ## Reactive Programming
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift :large_orange_diamond:
