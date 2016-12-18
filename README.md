@@ -82,7 +82,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Messaging](#messaging)
     - [Networking](#networking)
     - [Notifications](#notifications)
-        - [Local Notifications](#local-notifications]
+        - [Local Notification](#local-notifications)
         - [Push Notifications](#push-notifications)
     - [Parsing](#parsing)
         - [CSV](#csv)
