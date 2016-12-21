@@ -804,6 +804,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PPAssetsActionController](https://github.com/pantuspavel/PPAssetsActionController) - Highly customizable Action Sheet Controller with Assets Preview. :large_orange_diamond:
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority in Swift. :large_orange_diamond:
 * [FacebookImagePicker](https://github.com/terflogag/FacebookImagePicker) - Facebook album photo picker written in Swift. :large_orange_diamond:
+* [Lightbox](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app. :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
@@ -1562,7 +1563,7 @@ Most of these are paid services, some have free tiers.
 * [Hedwig](https://github.com/Lab111/Hedwig) - Interactive Notification. 🔶
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code. :large_orange_diamond:
 * [Malert](https://github.com/vitormesquita/Malert) - Malert is a simple, easy and custom iOS UIAlertView written in Swift 🔶
-* [RAlertView](https://github.com/roycms/AlertView) - AlertView, Ios popup window, A pop-up framework, Can be simple and convenient to join your project. 
+* [RAlertView](https://github.com/roycms/AlertView) - AlertView, Ios popup window, A pop-up framework, Can be simple and convenient to join your project.
 
 #### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
