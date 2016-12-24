@@ -82,8 +82,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Messaging](#messaging)
     - [Networking](#networking)
     - [Notifications](#notifications)
-        - [Local Notification](#local-notifications)
         - [Push Notifications](#push-notifications)
+        - [Local Notifications](#local-notifications)
     - [Parsing](#parsing)
         - [CSV](#csv)
         - [JSON](#json)
@@ -919,11 +919,11 @@ Also see [push notifications](#push-notifications)
 * [SwiftyZeroMQ](https://github.com/azawawi/SwiftyZeroMQ) - ZeroMQ Swift Bindings for iOS, macOS, tvOS and watchOS. :large_orange_diamond: ⌚
 * [Nikka](https://github.com/JustaLab/Nikka) - A super simple Networking wrapper that supports many JSON libraries, Futures and Rx :large_orange_diamond: ⌚
 
+#### Email
+* [Mail Core 2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
+* [Postal](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers. :large_orange_diamond:
+
 ## Notifications
-
-#### Local Notifications
-* [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework. :large_orange_diamond:
-
 
 #### Push Notifications
 * [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
@@ -951,11 +951,8 @@ Most of these are paid services, some have free tiers.
 * [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
 * [Pusher](https://pusher.com/push-notifications) - Free and unlimited.
 
-
-#### Email
-
-* [Mail Core 2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
-* [Postal](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers. :large_orange_diamond:
+#### Local Notifications
+* [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework. :large_orange_diamond:
 
 ## Parsing
 
