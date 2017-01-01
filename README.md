@@ -7,17 +7,9 @@
 [![Language](https://awesomelinkcounter.herokuapp.com/objc)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-<br><br>
-<br><br>
-<br><br>
-
-# We've launched our Newsletter!! ✅🚀📰
+## We've launched our Newsletter!! ✅🚀📰
 * [You can sign up over here 🗞](http://eepurl.com/bSQZ89)
 * [You can read more about it over here](https://github.com/vsouza/awesome-ios/issues/1263)
-
-<br><br>
-<br><br>
-<br><br>
 
 # About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more.
