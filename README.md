@@ -1574,7 +1574,7 @@ Most of these are paid services, some have free tiers.
 * [RMActionController](https://github.com/CooperRS/RMActionController) - Present any UIView in an UIAlertController like manner.
 * [RMDateSelectionViewController](https://github.com/CooperRS/RMDateSelectionViewController) - Select a date using UIDatePicker in a UIAlertController like fashion.
 * [RMPickerViewController](https://github.com/CooperRS/RMPickerViewController) - Select something using UIPickerView in a UIAlertController like fashion.
-* [Hedwig](https://github.com/Lab111/Hedwig) - Interactive Notification. 🔶
+* [Hedwig](https://github.com/Lab111/Hedwig) - Interactive notification :large_orange_diamond:
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code. :large_orange_diamond:
 * [Malert](https://github.com/vitormesquita/Malert) - Malert is a simple, easy and custom iOS UIAlertView written in Swift 🔶
 * [RAlertView](https://github.com/roycms/AlertView) - AlertView, Ios popup window, A pop-up framework, Can be simple and convenient to join your project.
@@ -1820,6 +1820,7 @@ Most of these are paid services, some have free tiers.
 * [VerticalSlider](https://github.com/jonkykong/VerticalSlider) - VerticalSlider is a vertical implementation of the UISlider slider control. :large_orange_diamond:
 * [CircularSlider](https://github.com/taglia3/CircularSlider) - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable. :large_orange_diamond:
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application. :large_orange_diamond:
+* [PivotSlider](https://github.com/lab111/pivot-slider) - Slider that pivots :large_orange_diamond:
 
 #### Splash View
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
