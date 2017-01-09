@@ -1475,6 +1475,7 @@ Most of these are paid services, some have free tiers.
 * [CardStackController](https://github.com/jobandtalent/CardStackController) - iOS custom controller used in Jobandtalent app to present new view controllers as cards :large_orange_diamond:
 * [Material Components](https://github.com/material-components/material-components-ios) - Google developed UI components that help developers execute Material Design.
 * [RKMultiUnitRuler](https://github.com/farshidce/RKMultiUnitRuler/) - Simple customizable ruler control that supports multiple units. 🔶
+* [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift. :large_orange_diamond:
 
 #### Activity Indicator
 
