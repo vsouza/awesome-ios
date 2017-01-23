@@ -1584,7 +1584,7 @@ Most of these are paid services, some have free tiers.
 * [Dodo](https://github.com/marketplacer/Dodo) - A message bar for iOS written in Swift. :large_orange_diamond:
 * [MaterialActionSheetController](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet for iOS written in Swift. :large_orange_diamond:
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift. :large_orange_diamond:
-* [FCAlertView](https://github.com/k9101/FCAlertView) - A Flat Customizable AlertView for iOS. (Swift) :large_orange_diamond:
+* [FCAlertView](https://github.com/krispenney/FCAlertView) - A Flat Customizable AlertView for iOS. (Swift) :large_orange_diamond:
 * [FCAlertView](https://github.com/nimati/FCAlertView) - A Flat Customizable AlertView for iOS. (Objective-C)
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup 🔶
 * [RMActionController](https://github.com/CooperRS/RMActionController) - Present any UIView in an UIAlertController like manner.
