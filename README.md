@@ -465,6 +465,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Date & Time
 
+* [ServerSync](https://github.com/skylovely/ServerSync-iOS) - Synchronize server's UTC time and app's UTC time :large_orange_diamond:[e]
 * [Every.swift](https://github.com/samhann/Every.swift) - Wrapper for NSTimer :large_orange_diamond:
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions :large_orange_diamond:[e]
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift 2.0 :large_orange_diamond:
