@@ -61,6 +61,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Logging](#logging)
     - [Localization](#localization)
     - [Machine Learning](#machine-learning)
+        - [Artifical Intelligence](#artificial-intelligence)
+        - [Personal Assitant](#personal-assistant)
+        - [Miscellaneous Machine Learning](#miscellaneous-machine-learning)
     - [Maps](#maps)
     - [Math](#math)
     - [Media](#media)
@@ -688,9 +691,15 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [JustLog](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket. :large_orange_diamond:
 
 ## Machine Learning
+### Artifical Intelligence
 * [Swift-AI](https://github.com/collinhundley/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift. :large_orange_diamond:
 * [Swift-Brain](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI. :large_orange_diamond:
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians. :large_orange_diamond:
+
+### Personal Assistant
+* [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills. :large_orange_diamond:
+
+### Miscellaneous Machine Learning
 * [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/ios_examples/) - The official Google-built powerful neural network library port for iOS.
 
 ## Maps
