@@ -1247,6 +1247,7 @@ Most of these are paid services, some have free tiers.
 * [Edge](https://github.com/SwiftOnEdge/Edge) - A Swift Multiplatform Web and Networking Framework. :large_orange_diamond:
 * [SwiftGD](https://github.com/twostraws/swiftgd) - A simple Swift wrapper for libgd. :large_orange_diamond:
 * [Jobs](https://github.com/BrettRToomey/Jobs) - A job system for Swift backends. :large_orange_diamond:
+* [mod_swift](https://github.com/AlwaysRightInstitute/mod_swift) - Write Apache Modules in Swift! :large_orange_diamond:
 
 ## Text
 * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
