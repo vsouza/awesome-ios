@@ -2385,7 +2385,6 @@ Most of these are paid services, some have free tiers.
 * [Tutorials Point](http://www.tutorialspoint.com/ios/)
 * [Code with Chris](http://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Cocoa is my Girlfriend](http://www.cimgf.com/)
 * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
