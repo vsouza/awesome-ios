@@ -941,7 +941,7 @@ Also see [push notifications](#push-notifications)
 
 #### Representations
 
- * [apollo-ios](https://github.com/apollostack/apollo-ios) - A GraphQL client for iOS, written in Swift :large_orange_diamond:
+ * [apollo-ios](https://github.com/apollographql/apollo-ios) - A GraphQL client for iOS, written in Swift :large_orange_diamond:
  * [JSONRPCKit](https://github.com/bricklife/JSONRPCKit) - A JSON-RPC 2.0 library purely written in Swift :large_orange_diamond:
  * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) - Google ProtocolBuffers for Apple Swift http://protobuf.io/#swift :large_orange_diamond:
 
