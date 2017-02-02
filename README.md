@@ -1068,6 +1068,7 @@ Most of these are paid services, some have free tiers.
 * [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time by ReactiveCocoa group
 * [Listenable](https://github.com/MerrickSapsford/Listenable) - Swift object that provides an observable platform. :large_orange_diamond:
 * [Reactor](https://github.com/ReactorSwift/Reactor) - :arrows_counterclockwise: Unidirectional Data Flow using idiomatic Swift—inspired by Elm and Redux . :large_orange_diamond:
+* [Snail](https://github.com/UrbanCompass/Snail) - An observables framework for Swift :large_orange_diamond:
 
 ## Reflection
 * [Reflection](https://github.com/Zewo/Reflection) - Reflection provides an API for advanced reflection at runtime including dynamic construction of types. :large_orange_diamond:
