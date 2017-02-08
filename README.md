@@ -28,7 +28,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [How to Use](#how-to-use)
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
-    - [Analytics](#analytics)    
+    - [Analytics](#analytics)
     - [Apple TV](#apple-tv)
     - [Authentication](#authentication)
     - [Bridging](#bridging)
@@ -113,7 +113,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Form & Settings](#form--settings)
         - [Keyboard](#keyboard)
         - [Label](#label)
-        - [Menu](#menu)        
+        - [Menu](#menu)
         - [Navigation Bar](#navigation-bar)
         - [PickerView](#pickerview)
         - [Popup](#popup)
@@ -1559,6 +1559,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) - Composable animations in Swift. :large_orange_diamond:
 * [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat “cutting” animations. :large_orange_diamond:
 * [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects.
+* [anim](https://github.com/onurersel/anim) - An animation library for iOS with custom easings and easy to follow API.
 
 ##### Transition
 * [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
