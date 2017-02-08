@@ -1255,6 +1255,7 @@ Most of these are paid services, some have free tiers.
 * [StyleDecorator](https://github.com/dimpiax/StyleDecorator) - Design string simply by linking attributes to needed parts
 * [Mustard](https://github.com/mathewsanders/Mustard) - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it. :large_orange_diamond:
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - Pattern-based user input formatter, parser and validator for iOS. :large_orange_diamond:
+* [Attributed](https://github.com/Nirma/Attributed) - A Modern interface for attributed strings. :large_orange_diamond:
 
 ## Testing
 
