@@ -288,6 +288,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Fallback](https://github.com/devxoul/Fallback) - Syntactic sugar for nested do-try-catch. :large_orange_diamond:
 * [ODUIThreadGuard](https://github.com/olddonkey/ODUIThreadGuard) - A guard to help you check if you make UI changes not in main thread. :large_orange_diamond:
 * [IBAnalyzer](https://github.com/fastred/IBAnalyzer) - Find common xib and storyboard-related problems without running your app or writing unit tests. :large_orange_diamond:
+* [Dotzu](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 
 #### Linter
 * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
