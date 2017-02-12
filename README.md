@@ -574,6 +574,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Compose](https://github.com/VivaReal/Compose) - Compose is a library that helps you compose complex and dynamic views. :large_orange_diamond:
 * [BrickKit](https://github.com/wayfair/brickkit-ios) - With BrickKit, you can create complex and responsive layouts in a simple way. It's easy to use and easy to extend. Create your own reusable bricks and behaviors. :large_orange_diamond:
 * [Framezilla](https://github.com/Otbivnoe/Framezilla) - Elegant library which wraps working with frames with a nice chaining syntax. :large_orange_diamond:
+* [JustUiKit](https://github.com/lfkdsk/JustUiKit) - iOS UI Kit With Android-Style. JustUiKit contains JustLinearLayout, JustFrameLayout, JustRelativeLayout and so on. It is designed to make Android developers build iOS UI easily. It also provides iOS developers a new way to build UI. :large_orange_diamond:
 
 #### Location
 * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
