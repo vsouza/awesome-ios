@@ -106,7 +106,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Activity Indicator](#activity-indicator)
         - [Alert View](#alerts)
         - [Animation](#animation)
-          - [Transition](transition)
+          - [Transition](#transition)
         - [Badge](#badge)
         - [Button](#button)
         - [Calendar](#calendar)
