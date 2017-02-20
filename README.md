@@ -1682,6 +1682,7 @@ Most of these are paid services, some have free tiers.
 * [DynamicButton](https://github.com/yannickl/DynamicButton) - Yet another animated flat buttons in Swift :large_orange_diamond:
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift. By Creativedash :large_orange_diamond:
 * [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS :large_orange_diamond:
+* [WCLShineButton](https://github.com/631106979/WCLShineButton) - This is a UI lib for iOS. Effects like shining. :large_orange_diamond:
 
 #### Calendar
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
