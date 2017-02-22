@@ -429,7 +429,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Punctual.swift](https://github.com/harlanhaskins/Punctual.swift) - Swift dates, more fun. :large_orange_diamond:
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer :large_orange_diamond:
 * [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift :large_orange_diamond:
-* [Tempo](https://github.com/remirobert/Tempo) - Date and time manager for iOS/OSX written in Swift :large_orange_diamond:
+* [Tempo](https://github.com/remirobert/Tempo) - :watch: Date and time manager for iOS/OSX written in Swift :large_orange_diamond:
 * [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
 * [EmojiTimeFormatter](https://github.com/thomaspaulmann/EmojiTimeFormatter) - Format your dates/times as emojis. :large_orange_diamond:
 * [Kronos](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift :large_orange_diamond:
