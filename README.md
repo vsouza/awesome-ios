@@ -422,7 +422,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## Date & Time
 
 * [Every.swift](https://github.com/samhann/Every.swift) - A swift wrapper for NSTimer  :large_orange_diamond:
-* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions :large_orange_diamond:[e]
+* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift :large_orange_diamond:
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift 2.0 :large_orange_diamond:
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library written in Swift 2 :large_orange_diamond:
 * [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C
