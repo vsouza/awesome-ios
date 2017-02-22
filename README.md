@@ -401,7 +401,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Data Structures / Algorithms
 * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
-* [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another
+* [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another :large_orange_diamond:
 * [BTree](https://github.com/lorentey/BTree) - Fast ordered collections for Swift using in-memory B-trees :large_orange_diamond:
 * [SwiftStructures](https://github.com/waynewbishop/SwiftStructures) - Examples of commonly used data structures and algorithms in Swift. :large_orange_diamond:
 * [diff](https://github.com/soffes/diff) - Simple diff library in pure Swift :large_orange_diamond:
