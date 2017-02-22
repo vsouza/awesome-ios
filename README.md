@@ -567,7 +567,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Auto Layout In Swift Made Easy :large_orange_diamond:
 * [SwiftBond](https://github.com/ReactiveKit/Bond) - Bond is a Swift binding framework that takes binding concepts to a whole new level. It's simple, powerful, type-safe and multi-paradigm. :large_orange_diamond:
 * [Restraint](https://github.com/puffinsupply/Restraint) - Minimal Auto Layout in Swift :large_orange_diamond:
-* [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - The easiest way to create and maintain Auto Layout constraints :large_orange_diamond:
+* [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy  :large_orange_diamond:
 * [Auto Layout Magic](http://akordadev.github.io/AutoLayoutMagic/) - Build 1 scene, let Auto Layout Magic generate the  constraints for you!  Scenes look great across all devices! :large_orange_diamond:
 * [Anchorman](https://github.com/mergesort/Anchorman) - An autolayout library for the damn fine citizens of San Diego. :large_orange_diamond:
 * [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS :large_orange_diamond:
