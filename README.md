@@ -406,7 +406,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftStructures](https://github.com/waynewbishop/SwiftStructures) - Examples of commonly used data structures and algorithms in Swift. :large_orange_diamond:
 * [diff](https://github.com/soffes/diff) - Simple diff library in pure Swift :large_orange_diamond:
 * [Brick](https://github.com/hyperoslo/Brick) - :droplet: A generic view model for both basic and complex scenarios :large_orange_diamond:
-* [Algorithm](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models in Swift :large_orange_diamond:
+* [Algorithm](https://github.com/CosmicMind/Algorithm) - Algorithm is a collection of data structures that are empowered by a probability toolset. :large_orange_diamond:
 * [AnyObjectConvertible](https://github.com/tarunon/AnyObjectConvertible) - Convert your own struct/enum to AnyObject easily. :large_orange_diamond:
 * [Dollar](https://github.com/ankurp/Dollar) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript https://www.dollarswift.org/. :large_orange_diamond:
 * [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations. :large_orange_diamond:
