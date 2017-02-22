@@ -1242,7 +1242,7 @@ Most of these are paid services, some have free tiers.
 * [SmarkDown](https://github.com/SwiftStudies/SmarkDown) - A Pure Swift implementation of the markdown mark-up language :large_orange_diamond:
 * [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString :large_orange_diamond:
 * [SZMentions](https://github.com/szweier/SZMentions) - Library to help handle mentions
-* [SZMentionsSwift](https://github.com/szweier/SZMentionsSwift) - Library to help handle mentions, written in Swift 🔶
+* [SZMentionsSwift](https://github.com/szweier/SZMentionsSwift) - Library to help handle mentions.
 * [Heimdall](https://github.com/henrinormak/Heimdall) - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations. :large_orange_diamond:
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.🔶[e]
 * [Smile](https://github.com/onmyway133/Smile) 😄 Emoji in Swift
