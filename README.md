@@ -1710,7 +1710,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms. :large_orange_diamond:
 * [APValidators](https://github.com/Alterplay/APValidators) - Codeless solution for form validation in iOS!
 * [Formalist](https://github.com/seedco/Formalist) - Declarative form building framework for iOS :large_orange_diamond:
-* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - Framework for creating forms with validation rules :large_orange_diamond:
+* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - SwiftyFORM is a form framework for iOS written in Swift :large_orange_diamond:
 * [FXForms](https://github.com/nicklockwood/FXForms) - FXForms is an Objective-C library for easily creating table-based forms on iOS. It is ideal for settings pages, or user data entry tasks.
 * [SwiftValidator](https://github.com/jpotts18/SwiftValidator) - A rule-based validation library for Swift :large_orange_diamond:
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - MZFormSheetPresentationController provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
