@@ -962,7 +962,7 @@ Most of these are paid services, some have free tiers.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs. :large_orange_diamond:
 * [alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift. :large_orange_diamond:
 * [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift. :large_orange_diamond:
-* [mapper](https://github.com/lyft/mapper) - Another JSON deserialization library for Swift :large_orange_diamond:
+* [mapper](https://github.com/lyft/mapper) - A JSON deserialization library for Swift :large_orange_diamond:
 * [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - An Alamofire extension which converts JSON response data into swift objects using EVReflection :large_orange_diamond:
 * [Jay](https://github.com/DanToml/Jay) - Pure-Swift JSON parser & formatter. Linux & OS X ready. :large_orange_diamond:
 * [YYModel](https://github.com/ibireme/YYModel) - High performance model framework for iOS/OSX.
