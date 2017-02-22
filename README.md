@@ -728,7 +728,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FastImageCache](https://github.com/path/FastImageCache) - iOS library for quickly displaying images while scrolling.
 * [BKAsciiImage](https://github.com/bkoc/BKAsciiImage) - Convert UIImage to ASCII art
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - An image component library for Alamofire. :large_orange_diamond:
-* [Nuke](https://github.com/kean/Nuke) - Advanced framework for managing images :large_orange_diamond:
+* [Nuke](https://github.com/kean/Nuke) - Image loading, processing, caching and preheating :large_orange_diamond:
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web. :large_orange_diamond:
 * [YYWebImage](https://github.com/ibireme/YYWebImage) - Asynchronous image loading framework (supports WebP, APNG, GIF).
 * [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - An image cropper for iOS like in the Contacts app with support for landscape orientation.
