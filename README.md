@@ -1468,6 +1468,7 @@ Most of these are paid services, some have free tiers.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders. :large_orange_diamond:
 * [PanelKit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS. :large_orange_diamond:
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures. :large_orange_diamond:
+* [Pageboy](https://github.com/MerrickSapsford/Pageboy) - A simple, highly informative page view controller. :large_orange_diamond:
 
 #### Activity Indicator
 
@@ -1517,7 +1518,6 @@ Most of these are paid services, some have free tiers.
 * [YLProgressBar](https://github.com/yannickl/YLProgressBar) - UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics.
 * [FlexibleSteppedProgressBar](https://github.com/amratab/FlexibleSteppedProgressBar) - A beautiful easily customisable stepped progress bar.  :large_orange_diamond:
 * [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar. :large_orange_diamond:
-* [Pageboy](https://github.com/MerrickSapsford/Pageboy) - A simple, highly informative page view controller. :large_orange_diamond:
 * [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and customizable animated progress bar written in Swift. :large_orange_diamond:
 
 #### Animation
