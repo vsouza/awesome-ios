@@ -2445,7 +2445,6 @@ Most of these are paid services, some have free tiers.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials. :large_orange_diamond:
 
 #### iOS UI Template
-* [iOS 8 GUI PSD Template](http://www.teehanlax.com/tools/iphone/)
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
 * [iOS Design Guidelines](http://ivomynttinen.com/blog/ios-design-guidelines)
 * [iOS GUI by Facebook Design Resources](http://facebook.design/)
