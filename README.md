@@ -2439,7 +2439,7 @@ Most of these are paid services, some have free tiers.
 * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift) :large_orange_diamond:
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development. :large_orange_diamond:
 * [Cocoa Dev Central](http://cocoadevcentral.com)
-* [Use Your Loaf](http://useyourloaf.com)
+* [Use Your Loaf](https://useyourloaf.com/)
 * [Swift Tutorials by Jameson Quave](http://jamesonquave.com/blog/tutorials/) :large_orange_diamond:
 * [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: All of the resources for Learning About Swift :large_orange_diamond:
 * [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) - ⭐ A List of Awesome Swift Playgrounds! :large_orange_diamond:
