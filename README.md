@@ -459,7 +459,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files. :large_orange_diamond:
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS. :large_orange_diamond:
 * [Ares](https://github.com/indragiek/Ares) - Zero-setup P2P file transfer between Macs and iOS devices :large_orange_diamond:
-* [FileProvider](https://github.com/amosavian/FileProvider) - FileManager replacement for Local and Remote (WebDAV/Dropbox/OneDrive/SMB2) files on iOS/tvOS and macOS. :large_orange_diamond:
+* [FileProvider](https://github.com/amosavian/FileProvider) - FileManager replacement for Local, iCloud and Remote (WebDAV/Dropbox/OneDrive/SMB2) files on iOS/tvOS and macOS. :large_orange_diamond:
 * [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools. :large_orange_diamond:
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.
 * [FileExplorer](https://github.com/Augustyniak/FileExplorer) - Powerful file browser for iOS that allows its users to choose and remove files and/or directories. :large_orange_diamond:
