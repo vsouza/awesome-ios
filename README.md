@@ -1047,6 +1047,7 @@ Most of these are paid services, some have free tiers.
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - A simple and elegant 3D-Flyover location request screen written Swift. :large_orange_diamond:
 * [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS :large_orange_diamond:
 * [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission. :large_orange_diamond:
+* [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - simple permission request with beautiful UI :large_orange_diamond:
 
 ## Products
 * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
