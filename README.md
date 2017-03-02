@@ -1080,7 +1080,7 @@ Most of these are paid services, some have free tiers.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux. :large_orange_diamond:
 * [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift. :large_orange_diamond:
 * [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time by ReactiveCocoa group
-* [Listenable](https://github.com/MerrickSapsford/Listenable) - Swift object that provides an observable platform. :large_orange_diamond:
+* [Listenable](https://github.com/msaps/Listenable) - Swift object that provides an observable platform. :large_orange_diamond:
 * [Reactor](https://github.com/ReactorSwift/Reactor) - :arrows_counterclockwise: Unidirectional Data Flow using idiomatic Swift—inspired by Elm and Redux . :large_orange_diamond:
 * [Snail](https://github.com/UrbanCompass/Snail) - An observables framework for Swift :large_orange_diamond:
 * [RxWebSocket](https://github.com/fjcaetano/RxWebSocket) - Reactive extension over Starscream for websockets :large_orange_diamond:
@@ -1207,7 +1207,7 @@ Most of these are paid services, some have free tiers.
 * [Trevi](https://github.com/Yoseob/Trevi) - libuv base Swift web HTTP server framework :large_orange_diamond:
 * [Express](https://github.com/crossroadlabs/Express) - Swift Express is a simple, yet unopinionated web application server written in Swift :large_orange_diamond:
 * [Taylor](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift :large_orange_diamond:
-* [Frank](https://github.com/nestproject/Frank) - Frank is a DSL for quickly writing web applications in Swift :large_orange_diamond:
+* [Frank](https://github.com/kylef/Frank) - Frank is a DSL for quickly writing web applications in Swift :large_orange_diamond:
 * [Kitura](https://github.com/IBM-Swift/Kitura) - A Swift Web Framework and HTTP Server :large_orange_diamond:
 * [Swifton](https://github.com/necolt/Swifton) - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X :large_orange_diamond:
 * [Dynamo](https://github.com/johnno1962/Dynamo) - High Performance (nearly)100% Swift Web server supporting dynamic content. :large_orange_diamond:
@@ -1474,7 +1474,7 @@ Most of these are paid services, some have free tiers.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders. :large_orange_diamond:
 * [PanelKit](https://github.com/louisdh/panelkit) - A UI framework that enables panels on iOS. :large_orange_diamond:
 * [ElongationPreview](https://github.com/Ramotion/elongation-preview) - ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures. :large_orange_diamond:
-* [Pageboy](https://github.com/MerrickSapsford/Pageboy) - A simple, highly informative page view controller. :large_orange_diamond:
+* [Pageboy](https://github.com/msaps/Pageboy) - A simple, highly informative page view controller. :large_orange_diamond:
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 🎨 A customizable color picker for iOS in Swift 🔶
 
 #### Activity Indicator
