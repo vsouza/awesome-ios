@@ -183,7 +183,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## Analytics
 * [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
 * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
-* [devtodev] (https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development
 * [Answers by Fabric](https://answers.io/) - Answers gives you real-time insight into people’s experience in your app.
 * [Liquid Analytics](https://onliquid.com) - Identify behaviours through Analytics and react with real-time Personalization.
 * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
@@ -192,6 +191,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
 * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 * [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
+* [devtodev] (https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development
 
 ## Apple TV
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
