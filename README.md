@@ -191,6 +191,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
 * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 * [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
+* [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
 
 ## Apple TV
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
