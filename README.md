@@ -1484,6 +1484,7 @@ Most of these are paid services, some have free tiers.
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 🎨 A customizable color picker for iOS in Swift 🔶
 * [KPActionSheet](https://github.com/khuong291/KPActionSheet) - 🔶 A replacement of default action sheet, but has very simple usage. 🔶
 * [SegmentedProgressBar](https://github.com/D-32/SegmentedProgressBar) - Snapchat / Instagram Stories style animated indicator :large_orange_diamond:
+* [CardSlider](https://github.com/saoudrizwan/CardSlider) - Innovative twist to Tinder cards for iOS. 🔶
 
 #### Activity Indicator
 
