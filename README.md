@@ -293,7 +293,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Dotzu](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift. :large_orange_diamond:
 * [PIDOR](https://github.com/applepride/pidor) - Simple design pattern with the best iOS dev experience.
-* [DecouplingKit](https://github.com/coderyi/DecouplingKit) - decoupling between modules in your iOS Project. 
+* [DecouplingKit](https://github.com/coderyi/DecouplingKit) - decoupling between modules in your iOS Project.
 
 #### Linter
 * [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
@@ -1280,6 +1280,7 @@ Most of these are paid services, some have free tiers.
 * [Attributed](https://github.com/Nirma/Attributed) - A Modern interface for attributed strings. :large_orange_diamond:
 * [Atributika](https://github.com/psharanda/Atributika) - Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns. :large_orange_diamond:
 * [Guitar](https://github.com/ArtSabintsev/Guitar) - A Cross-Platform String Library Written in Swift. :large_orange_diamond:
+* [RealTimeCurrencyFormatter](https://github.com/kaiomedau/realtime-currency-formatter-objc) - An ObjC international currency formatting utility.
 
 ## Testing
 
