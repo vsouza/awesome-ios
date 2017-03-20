@@ -2033,6 +2033,7 @@ Most of these are paid services, some have free tiers.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight CollectionView that _'pages'_ and _centers_ it's cells 🎡 written in Swift. :large_orange_diamond:
 * [YBSlantedCollectionViewLayout](https://github.com/yacir/YBSlantedCollectionViewLayout) - UICollectionViewLayout with slanted content.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) - A UITableView extension that enables cell insertion from the bottom of a table view.
+* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS written in Swift 3 🔶
 
 #### Tag
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
