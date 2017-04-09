@@ -103,7 +103,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Font](#font)
     - [UI](#ui)
         - [Activity Indicator](#activity-indicator)
-        - [Alert View](#alerts)
+        - [Alert & Action Sheet](#alert--action-sheet)
         - [Animation](#animation)
           - [Transition](#transition)
         - [Badge](#badge)
@@ -1645,7 +1645,7 @@ Most of these are paid services, some have free tiers.
 * [PresenterKit](https://github.com/jessesquires/PresenterKit) - Swifty view controller presentation for iOS :large_orange_diamond:
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions. :large_orange_diamond:
 
-#### Alerts
+#### Alert & Action Sheet
 
 * [NZAlertView](https://github.com/NZN/NZAlertView) - Simple and intuitive alert view. Similar to push notification effect.
 * [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - A cool AlertView.
