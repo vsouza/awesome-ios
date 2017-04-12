@@ -658,6 +658,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [JustLog](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket. :large_orange_diamond:
 * [Twitter Logging Service](https://github.com/twitter/ios-twitter-logging-service) - Twitter Logging Service is a robust and performant logging framework for iOS clients.
 * [Reqres](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support :large_orange_diamond:
+* [GodEye](https://github.com/zixun/GodEye) - Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. :large_orange_diamond:
 
 ## Machine Learning
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift. :large_orange_diamond:
