@@ -1633,6 +1633,7 @@ Most of these are paid services, some have free tiers.
 * [Spruce iOS Animation Library](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.:large_orange_diamond:
 * [CircularRevealKit](https://github.com/T-Pro/CircularRevealKit) - UI framework that implements the material design's reveal effect. 🔶
 * [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift. 🔶
+* [Water](https://github.com/KrisYu/Water) - Simple calculation to render cheap water effects. 🔶
 
 ##### Transition
 * [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
