@@ -176,6 +176,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Programming with Objective-C by Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 * [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
 * [Udacity: Start A Career Developing iOS Apps](https://www.udacity.com/course/ios-developer-nanodegree--nd003?v=ios1) - Udacity's intro course on writing iOS apps [Paid Resource] :large_orange_diamond:
+* [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language :large_orange_diamond:
 
 # Libraries And Frameworks
 
