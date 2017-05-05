@@ -94,6 +94,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Encryption](#encryption)
         - [Keychain](#keychain)
     - [Server](#server)
+    - [Social](#social)
     - [Testing](#testing)
         - [TDD / BDD](#tdd--bdd)
         - [A/B Testing](#ab-testing)
@@ -1257,6 +1258,9 @@ Most of these are paid services, some have free tiers.
 * [SwiftGD](https://github.com/twostraws/swiftgd) - A simple Swift wrapper for libgd. :large_orange_diamond:
 * [Jobs](https://github.com/BrettRToomey/Jobs) - A job system for Swift backends. :large_orange_diamond:
 * [mod_swift](https://github.com/AlwaysRightInstitute/mod_swift) - Write Apache Modules in Swift! :large_orange_diamond:
+
+## Social
+* [Potter Pics](https://github.com/surayashivji/PotterPics) - A Harry Potter themed social network similar to Instagram. :large_orange_diamond:
 
 ## Text
 * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
