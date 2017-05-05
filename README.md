@@ -2488,6 +2488,7 @@ Most of these are paid services, some have free tiers.
 * [App Store Checklist](https://github.com/whitef0x0/app-store-checklist) - A checklist of what to look for before submitting your app to the App Store.
 
 # Style Guides
+* [LLVM Clang Format tool](http://clang.llvm.org/docs/ClangFormat.html) - Life's short, don't waste your time doing machine's work.  Obj-C/C/C++ auto-formatter tool, just run through and forget.  Come with LLVM, Google, Chromium, Mozilla, WebKit styles; see -style flag.
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
 * [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com.
 * [Github Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
