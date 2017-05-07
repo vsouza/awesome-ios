@@ -2541,7 +2541,6 @@ Most of these are paid services, some have free tiers.
 * [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
-* [Ry’s Objective-C Tutorial](http://rypress.com/tutorials/objective-c/index)
 * [Mike Ash](https://www.mikeash.com/pyblog/)
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) :large_orange_diamond:
 * [Tuts+](https://code.tutsplus.com/categories/ios-sdk) :large_orange_diamond:
