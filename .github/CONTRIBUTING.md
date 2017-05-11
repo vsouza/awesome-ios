@@ -15,6 +15,14 @@ Please ensure your pull request adheres to the following guidelines:
 - If project is a Swift Extension, add :large_orange_diamond:[e] in the end of description.
 - If project has been made for Apple Watch, add ⌚ in the end of description.
 
+#### Deleting 
+
+Typical reasons for deleting project:
+
+- No updates / no longer works
+- Deprecated
+- Lacks license
+
 #### Projects are ineligible if:
 - Doesn't have commit for more than two years.
 - Doesn't support iOS 9 or later.
