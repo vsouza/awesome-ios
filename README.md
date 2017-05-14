@@ -114,6 +114,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Label](#label)
         - [Menu](#menu)
         - [Navigation Bar](#navigation-bar)
+        - [PassCode View](#PassCode--View)
         - [PickerView](#pickerview)
         - [Popup](#popup)
         - [Pull to Refresh](#pull-to-refresh)
@@ -1893,6 +1894,9 @@ Most of these are paid services, some have free tiers.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationbar with hidden or show. :large_orange_diamond:
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView :large_orange_diamond:
 * [NavKit](https://github.com/wilbertliu/NavKit) - Simple and integrated way to customize navigation bar experience on iOS app. :large_orange_diamond:
+
+#### PassCode View
+* [SAPinViewController](https://github.com/siavashalipour/SAPinViewController) - Simple and easy to use default iOS PIN screen. This simple library allows you to draw a fully customisable PIN screen same as the iOS default PIN view. My inspiration to create this library was form THPinViewController, however SAPinViewController is completely implemented in Swift. Also the main purpose of creating this library was to have simple, easy to use and fully customisable PIN screen. 🔶
 
 #### PickerView
 * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
