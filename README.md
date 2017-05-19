@@ -1308,7 +1308,7 @@ Most of these are paid services, some have free tiers.
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting. :large_orange_diamond:
 * [KKStringValidator](https://github.com/krizhanovskii/KKStringValidator) - Fast and simple string validation for IOS. With UITextField extension. :large_orange_diamond:
 * [ISO8859](https://github.com/Cosmo/ISO8859) - 📄⚙ Convert ISO8859 1-16 Encoded Text to String in Swift. Supports iOS, tvOS, watchOS and macOS. :large_orange_diamond:
-* [Emojica](https://github.com/xoudini/emojica) - Replace standard emoji in strings with a custom emoji set, such as [Twemoji](https://github.com/twitter/twemoji) or [EmojiOne](https://github.com/Ranks/emojione). :large_orange_diamond:
+* [Emojica](https://github.com/xoudini/emojica) - Replace standard emoji in strings with a custom emoji set, such as [Twemoji](https://github.com/twitter/twemoji) or [EmojiOne](https://github.com/emojione/emojione). :large_orange_diamond:
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library in Swift. :large_orange_diamond:
 * [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library).
 * [AttributedTextView](https://github.com/evermeer/AttributedTextView) - Easiest way to create an attributed UITextView with support for multiple links (including hashtags and mentions).
@@ -2091,7 +2091,7 @@ Most of these are paid services, some have free tiers.
 * [TableFlip](https://github.com/mergesort/TableFlip) - A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻ :large_orange_diamond:
 * [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types. :large_orange_diamond:
 * [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) - Netflix and App Store like UITableView with UICollectionView :large_orange_diamond:
-* [SwipeCellKit](https://github.com/jerkoch/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift. :large_orange_diamond:
+* [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift. :large_orange_diamond:
 * [EditDistance](https://github.com/kazuhiro4949/EditDistance) - Incremental update tool for UITableView and UICollectionView :large_orange_diamond:
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight CollectionView that _'pages'_ and _centers_ it's cells 🎡 written in Swift. :large_orange_diamond:
 * [YBSlantedCollectionViewLayout](https://github.com/yacir/YBSlantedCollectionViewLayout) - UICollectionViewLayout with slanted content.
