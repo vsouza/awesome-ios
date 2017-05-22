@@ -1553,13 +1553,13 @@ Most of these are paid services, some have free tiers.
 * [Jelly](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code. :large_orange_diamond:
 * [Malert](https://github.com/vitormesquita/Malert) - Malert is a simple, easy and custom iOS UIAlertView written in Swift 🔶
 * [RAlertView](https://github.com/roycms/AlertView) - AlertView, Ios popup window, A pop-up framework, Can be simple and convenient to join your project. 
+* [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) - Swift AlertController with UIVisualeffectview
 
 #### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
 * [EasyNotificationBadge](https://github.com/Minitour/EasyNotificationBadge) - UIView extension that adds a notification badge. :large_orange_diamond:[e]
 * [Sheriff](https://github.com/gemr/Sheriff) - Add badges to anything.
 * [swift-badge](https://github.com/marketplacer/swift-badge) - Badge view for iOS written in swift :large_orange_diamond:
-* [MKNumberBadgeView](https://github.com/erichoracek/MKNumberBadgeView) - Use this class to display a badge in app similar to the app icon badges that iOS permits.
 
 #### Button
 * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
