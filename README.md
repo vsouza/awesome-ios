@@ -2549,7 +2549,7 @@ Most of these are paid services, some have free tiers.
 
 #### Forums and discuss lists
 * [iPhone Dev SDK Forum](http://iphonedevsdk.com/)
-* ["iOS" on Stackoverflow](http://stackoverflow.com/questions/tagged/ios)
+* ["iOS" on Stackoverflow](https://stackoverflow.com/questions/tagged/ios)
 
 #### Tutorials and Keynotes
 * [AppCoda](http://www.appcoda.com)
