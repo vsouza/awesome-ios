@@ -2117,7 +2117,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftSpreadSheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶
 * [GenericDataSource](https://github.com/GenericDataSource/GenericDataSource) - A generic small reusable components for data source implementation for UITableView/UICollectionView in Swift. 🔶
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce. 🔶
-* [Savory](https://github.com/Nandiin/Savory) - A swift accordion view implementation.
+* [Savory](https://github.com/Nandiin/Savory) - A swift accordion view implementation. :large_orange_diamond:
 * [PagingView](https://github.com/KyoheiG3/PagingView) - Infinite paging, Smart auto layout, Interface of similar to UIKit. :large_orange_diamond:🔶
 
 #### Tag
