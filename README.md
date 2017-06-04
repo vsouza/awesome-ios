@@ -2541,7 +2541,7 @@ Most of these are paid services, some have free tiers.
 
 #### News, Blogs and more
 * [BGR](http://bgr.com/ios-7/)
-* [iMore](http://www.imore.com/)
+* [iMore](https://www.imore.com/)
 * [Lifehacker](http://lifehacker.com/tag/ios)
 * [NSHipster](http://nshipster.com)
 * [Objc.io](https://www.objc.io/)
@@ -2645,7 +2645,7 @@ Most of these are paid services, some have free tiers.
 
 # Podcasts
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
-* [Debug](http://www.imore.com/debug)
+* [Debug](https://www.imore.com/debug)
 * [iDeveloper](http://blog.ideveloper.co/)
 * [App Story](http://www.appstorypodcast.com)
 * [Mobile Couch](http://mobilecouch.co/)
