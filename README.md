@@ -687,6 +687,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians. :large_orange_diamond:
 * [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
 * [Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks. Use TensorFlow models. Metal under the hood.
+* [Caffe2](https://github.com/caffe2/caffe2) - Lightweight, modular, and scalable deep learning framework.
 
 ## Maps
 * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
@@ -2711,5 +2712,3 @@ Other amazingly awesome lists can be found in the
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
-
-
