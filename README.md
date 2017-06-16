@@ -1555,7 +1555,7 @@ Most of these are paid services, some have free tiers.
 * [GDCheckbox](https://github.com/SaeidBsn/GDCheckbox) - An easy to use custom checkbox/radio button component for iOS, with support of IBDesign Inspector. 🔶
 * [HamsterUIKit](https://github.com/ChromieIsDangerous/HamsterUIKit) - A simple and elegant UIKit(Chart) for iOS.  🔶
 * [AZEmptyState](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states. 🔶
-* [ViewComposer](https://github.com/Sajjon/ViewComposer) - `let lbl: UILabel = [.text("Hello"), .textColor(.red)]` - Create views using array literal of enum expressing view attributes.
+* [ViewComposer](https://github.com/Sajjon/ViewComposer) - `let lbl: UILabel = [.text("Hello"), .textColor(.red)]` - Create views using array literal of enum expressing view attributes. 🔶
 
 #### Activity Indicator
 
