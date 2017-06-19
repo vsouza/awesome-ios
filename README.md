@@ -2529,6 +2529,7 @@ Most of these are paid services, some have free tiers.
 * [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet) - A quick reference cheat sheet for common, high level topics in Objective-C.
 * [SwiftSnippets](https://github.com/hyperoslo/SwiftSnippets) - A collection of Swift snippets to be used in Xcode
 * [App Store Checklist](https://github.com/whitef0x0/app-store-checklist) - A checklist of what to look for before submitting your app to the App Store.
+* [Kotlin for Swift Developers](https://github.com/aashishtamsya/Kotlin-for-Swift-Developers) - A project focused on learning Kotlin basics and building a strong Kotlin foundation before jumping into Android Development with Kotlin language.
 
 # Style Guides
 * [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
