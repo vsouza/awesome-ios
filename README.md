@@ -1250,7 +1250,7 @@ Most of these are paid services, some have free tiers.
 * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X :large_orange_diamond:
-* [Keychain](https://github.com/hyperoslo/Keychain) - Because you should care... about the security... of your shit. :large_orange_diamond:
+* [Keychain](https://github.com/hyperoslo/Keychains) - Because you should care... about the security... of your shit. :large_orange_diamond:
 * [Lockbox](https://github.com/granoff/Lockbox) - Objective-C utility class for storing data securely in the key chain.
 * [SAMKeychain](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults. Written in Swift. :large_orange_diamond:
@@ -2580,7 +2580,7 @@ Most of these are paid services, some have free tiers.
 * [Tutorials Point](http://www.tutorialspoint.com/ios/)
 * [Code with Chris](http://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
+* [Code School - Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
