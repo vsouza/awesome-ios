@@ -604,6 +604,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Anchors](https://github.com/onmyway133/Anchors) - Declarative, extensible, powerful Auto Layout for iOS 8+ and macOS 10.10+ :large_orange_diamond:
 * [PinLayout](https://github.com/mirego/PinLayout) - Extremely Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. 🔶
 * [SnapLayout](https://github.com/sp71/SnapLayout) - Concise Auto Layout API to chain programmatic constraints while easily updating existing constraints. 🔶[e]
+* [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS. :large_orange_diamond:
 
 #### Location
 * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
@@ -863,6 +864,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [swift-360-videos](https://github.com/team-pie/DDDKit) - Pure swift (no SceneKit) 3D library with focus on video and 360.
 * [ABMediaView](https://github.com/andrewboryk/ABMediaView) - UIImageView subclass for drop-in image, video, GIF, and audio display, with functionality for fullscreen and minimization to the bottom-right corner.
 * [PryntTrimmerView](https://github.com/prynt/PryntTrimmerView) - A set of UI elements to trim, crop and select frames inside a video. :large_orange_diamond:
+* [VGPlayer](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player in Swift,Support play local and network,Background playback mode. :large_orange_diamond:
 
 ## Messaging
 
@@ -1250,7 +1252,7 @@ Most of these are paid services, some have free tiers.
 * [Valet](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X :large_orange_diamond:
-* [Keychain](https://github.com/hyperoslo/Keychain) - Because you should care... about the security... of your shit. :large_orange_diamond:
+* [Keychains](https://github.com/hyperoslo/Keychains) - Because you should care... about the security... of your shit. :large_orange_diamond:
 * [Lockbox](https://github.com/granoff/Lockbox) - Objective-C utility class for storing data securely in the key chain.
 * [SAMKeychain](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults. Written in Swift. :large_orange_diamond:
@@ -2581,7 +2583,7 @@ Most of these are paid services, some have free tiers.
 * [Tutorials Point](http://www.tutorialspoint.com/ios/)
 * [Code with Chris](http://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
+* [Code School - Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
@@ -2702,3 +2704,5 @@ Other amazingly awesome lists can be found in the
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
+
+
