@@ -14,6 +14,6 @@
 - [ ] Only one project/change is in this pull request
 - [ ] Addition in chronological order (bottom of category)
 - [ ] Supports iOS 9 / tvOS 10 or later
-- [ ] Supports Swift 3
+- [ ] Supports Swift 3 or later
 - [ ] Has a commit from less than 2 years ago
 - [ ] Has a **clear** README in English
