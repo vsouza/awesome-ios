@@ -24,11 +24,11 @@ Typical reasons for deleting project:
 - Lacks license
 
 #### Projects are ineligible if:
-- Doesn't have commit for more than two years.
-- Doesn't support iOS 9 or later.
-- Doesn't support Swift 3.
-- Only have README in another language (Chinese, Japanese, Portuguese and etc)
-- We cannot clearly understand the objective.
-- Without clear README
+
+- Lack recent commit
+- Don't support iOS 9 or later
+- Don't support Swift 3 or later
+- Not written in English
+- README is not clear
 
 Your contributions are always welcome!  Thank you for your suggestions! :smiley:
