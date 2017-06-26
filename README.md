@@ -1679,6 +1679,7 @@ Most of these are paid services, some have free tiers.
 * [Water](https://github.com/KrisYu/Water) - Simple calculation to render cheap water effects. 🔶
 * [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh. 🔶
 * [Pastel](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram. 🔶
+* [YapAnimator](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system. :large_orange_diamond:
 
 ##### Transition
 * [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
