@@ -2408,6 +2408,7 @@ Most of these are paid services, some have free tiers.
 * [Attabench](https://github.com/lorentey/Attabench) - Microbenchmarking app for Swift with nice log-log plots :large_orange_diamond:
 * [Gluten](https://github.com/wilbertliu/Gluten) - Nano library to unify XIB and it's code. :large_orange_diamond:
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications. :large_orange_diamond:
+* [Swizzlean](https://github.com/rbaumbach/Swizzlean) - An Objective-C Swizzle Helper Class
 
 # Rapid Development
 * [Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) - Playgrounds for Objective-C for extremely fast prototyping / learning.
