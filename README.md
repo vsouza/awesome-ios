@@ -1580,6 +1580,7 @@ Most of these are paid services, some have free tiers.
 * [URWeatherView](https://github.com/jegumhon/URWeatherView) - Show the weather effects onto view written in Swift3. 🔶
 * [LCUIComponents](https://github.com/linhcn/LCUIComponents) - A framework supports creating transient views on top of other content onscreen such as popover with a data list. 🔶
 * [ViewComposer](https://github.com/Sajjon/ViewComposer) - `let lbl: UILabel = [.text("Hello"), .textColor(.red)]` - Create views using array literal of enum expressing view attributes.
+* [BatteryView](https://github.com/yonat/BatteryView) - Simple battery shaped UIView. 🔶
 
 #### Activity Indicator
 
