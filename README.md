@@ -75,6 +75,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Push Notifications](#push-notifications)
             - [Push Notification Providers](#push-notification-providers)
         - [Local Notifications](#local-notifications)
+    - [Optimization](#optimization)
     - [Parsing](#parsing)
         - [CSV](#csv)
         - [JSON](#json)
@@ -997,6 +998,9 @@ Most of these are paid services, some have free tiers.
 
 #### Local Notifications
 * [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework. :large_orange_diamond:
+
+## Optimization
+* [Unreachable](https://github.com/nvzqz/Unreachable) - Unreachable code path optimization hint for Swift. :large_orange_diamond:
 
 ## Parsing
 
