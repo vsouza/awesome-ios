@@ -2681,7 +2681,6 @@ Most of these are paid services, some have free tiers.
 
 #### Twitter
 * [@objcio](https://twitter.com/objcio)
-* [@nshipster](https://twitter.com/NSHipster)
 * [@CocoaPods](https://twitter.com/CocoaPods)
 * [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
 * [@RubyMotion](https://twitter.com/RubyMotion)
