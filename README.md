@@ -835,6 +835,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [YapImageManager](https://github.com/yapstudios/YapImageManager) - A high-performance image downloader written in Swift, powered by YapDatabase. :large_orange_diamond:
 * [PhotoEditorSDK](https://www.photoeditorsdk.com) - A fully customizable photo editor for your app. :large_orange_diamond:
 * [SimpleImageViewer](https://github.com/aFrogleap/SimpleImageViewer) - A snappy image viewer with zoom and interactive dismissal transition. :large_orange_diamond:
+* [ExhibitionSwift](https://github.com/eligreg/ExhibitionSwift) - A mutable asynchronous image gallery that makes no assumptions.
 
 #### Media Processing
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
