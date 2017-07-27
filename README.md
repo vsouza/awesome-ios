@@ -1740,6 +1740,7 @@ Most of these are paid services, some have free tiers.
 * [PresenterKit](https://github.com/jessesquires/PresenterKit) - Swifty view controller presentation for iOS :large_orange_diamond:
 * [Transition](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions. :large_orange_diamond:
 * [Gagat](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications. :large_orange_diamond:
+* [FAPanels](https://github.com/fahidattique55/FAPanels) - FAPanels for transition :large_orange_diamond:
 
 #### Alert & Action Sheet
 
