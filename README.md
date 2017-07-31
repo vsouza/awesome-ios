@@ -360,6 +360,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Kommander](https://github.com/intelygenz/Kommander-iOS) - Kommander is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand. :large_orange_diamond:
 * [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift :large_orange_diamond:
 * [Flow-iOS](https://github.com/roytornado/Flow-iOS) - Make your logic flow and data flow clean and human readable :large_orange_diamond:
+* [Queuer](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD). :large_orange_diamond:
 
 ## Core Data
 * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
