@@ -1579,6 +1579,7 @@ Most of these are paid services, some have free tiers.
 * [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) - An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 * [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews :large_orange_diamond:
 * [Dwifft](https://github.com/jflinter/Dwifft) - Automatic updates of UITableView with animations in Swift :large_orange_diamond:
+* [CollapsibleTableSectionViewController](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A swift library to support collapsible sections in a table view. :large_orange_diamond:
 * [CollapsableTableKit](https://github.com/rob-nash/CollapsableTableKit) - A kit for building tableviews with a collapsable animation, for each section.
 * [InfiniteScrollKit](https://github.com/rob-nash/InfiniteScrollKit) - A kit for building tableviews with a paging animation.
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells). :large_orange_diamond:
