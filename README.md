@@ -1733,7 +1733,6 @@ Most of these are paid services, some have free tiers.
 
 #### Alert & Action Sheet
 
-* [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert) - A cool AlertView.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift. :large_orange_diamond:
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController) - Highly configurable iOS Alert Views with custom content views.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View, written in Swift. :large_orange_diamond:
