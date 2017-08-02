@@ -1579,6 +1579,7 @@ Most of these are paid services, some have free tiers.
 * [LCUIComponents](https://github.com/linhcn/LCUIComponents) - A framework supports creating transient views on top of other content onscreen such as popover with a data list. 🔶
 * [ViewComposer](https://github.com/Sajjon/ViewComposer) - `let lbl: UILabel = [.text("Hello"), .textColor(.red)]` - Create views using array literal of enum expressing view attributes.
 * [BatteryView](https://github.com/yonat/BatteryView) - Simple battery shaped UIView. 🔶
+* [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView :large_orange_diamond:
 
 #### Activity Indicator
 
