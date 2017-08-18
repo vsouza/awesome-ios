@@ -2705,7 +2705,6 @@ Most of these are paid services, some have free tiers.
 # Podcasts
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
 * [Debug](https://www.imore.com/debug)
-* [iDeveloper](http://blog.ideveloper.co/)
 * [App Story](http://www.appstorypodcast.com)
 * [Mobile Couch](http://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks)
