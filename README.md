@@ -1585,6 +1585,7 @@ Most of these are paid services, some have free tiers.
 * [ViewComposer](https://github.com/Sajjon/ViewComposer) - `let lbl: UILabel = [.text("Hello"), .textColor(.red)]` - Create views using array literal of enum expressing view attributes.
 * [BatteryView](https://github.com/yonat/BatteryView) - Simple battery shaped UIView. 🔶
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView :large_orange_diamond:
+* [Pulley](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI :large_orange_diamond:
 
 #### Activity Indicator
 
