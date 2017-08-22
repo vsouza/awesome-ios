@@ -1369,6 +1369,7 @@ Most of these are paid services, some have free tiers.
 * [Down](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark. 🔶
 * [Marky Mark](https://github.com/m2mobi/Marky-Mark) - Highly customizable Markdown parsing and native rendering in Swift. 🔶
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS. 🔶
+* [Highlighter](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class. :large_orange_diamond:
 
 ## Testing
 
