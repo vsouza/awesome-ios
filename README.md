@@ -1112,6 +1112,7 @@ Most of these are paid services, some have free tiers.
 * [RMStore](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
 * [MFCard](https://github.com/mobilefirstinc/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
 * [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Store Receipt :large_orange_diamond:
+* [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL :large_orange_diamond:
 
 ## Permissions
 * [Proposer](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). :large_orange_diamond:
