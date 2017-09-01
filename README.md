@@ -1194,6 +1194,7 @@ Most of these are paid services, some have free tiers.
 #### Official
 
 * [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
+* [SpotifyLogin](https://github.com/spotify/SpotifyLogin) Spotify SDK Login in Swift. :large_orange_diamond:
 * [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK.
 * [Facebook Swift](https://github.com/facebook/facebook-sdk-swift) Integrate your iOS apps in Swift with Facebook Platform.
 * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
