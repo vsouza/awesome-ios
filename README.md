@@ -2648,7 +2648,7 @@ Most of these are paid services, some have free tiers.
 #### Tutorials and Keynotes
 * [AppCoda](http://www.appcoda.com)
 * [Tutorials Point](http://www.tutorialspoint.com/ios/)
-* [Code with Chris](http://codewithchris.com/)
+* [Code with Chris](https://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
 * [Code School - Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
