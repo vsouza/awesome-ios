@@ -147,7 +147,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Official](#official)
     - [Unofficial](#unofficial)
 - [Xcode](#xcode)
-    - [Extensions (Xcode 8+)](#extensions)
+    - [Extensions (Xcode 8+)](#extensions-xcode-8)
     - [Plugins](#plugins)
     - [Themes](#themes)
     - [Other Xcode](#other-xcode)
