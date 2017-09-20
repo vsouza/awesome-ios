@@ -9,3 +9,5 @@ script:
   - allowed_redirects=growthpush,awesomelinkcounter,eepurl,bluemix,amazon
   - awesome_bot README.md --allow-ssl --white-list $allowed_dupes,$allowed_redirects
   - danger
+notifications:
+  email: false
