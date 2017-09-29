@@ -762,6 +762,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - Super simple library that lets you play sounds with a single line of code (and much more). Written in Swift 3, supports iOS, macOS and tvOS. Cocoapods and Carthage compatible. :large_orange_diamond:
 * [BPMAnalyser](https://github.com/Luccifer/BPM-Analyser) - Fast and simple instrument to get the BPM rate from your audio-files. :large_orange_diamond:
 * [PandoraPlayer](https://github.com/AppliKeySolutions/PandoraPlayer) - A lightweight music player for iOS, based on AudioKit and completely written in Swift :large_orange_diamond:
+* [BPMAnalyser](https://github.com/Luccifer/SonogramView) - Fast and simple instrument to get the BPM rate from your audio-files. :large_orange_diamond:
 
 #### GIF
 * [YLGIFImage](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
