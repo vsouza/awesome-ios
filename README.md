@@ -214,7 +214,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## ARKit
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) -Combines the high accuracy of AR with the scale of GPS data. :large_orange_diamond:
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
-* [ARKit Navigation](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation With ARKit and MapKit
+* [ARKit Navigation](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation With ARKit and MapKit :large_orange_diamond:
 
 
 ## Authentication
