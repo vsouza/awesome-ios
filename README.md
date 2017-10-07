@@ -214,6 +214,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## ARKit
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) -Combines the high accuracy of AR with the scale of GPS data. :large_orange_diamond:
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+* [ARKit Navigation](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation With ARKit and MapKit :large_orange_diamond:
+
 
 ## Authentication
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift. :large_orange_diamond:
@@ -517,7 +519,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift. :large_orange_diamond:
 * [ShogibanKit](https://github.com/codelynx/ShogibanKit) - ShogibanKit is a framework for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI. :large_orange_diamond:
 * [SKTiled](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit :large_orange_diamond:
-* [BWCollectionView](https://github.com/bwide/BWCollectionView) - A swift framework for a collectionView in SpriteKit :large_orange_diamond:
+* [BWCollectionView](https://github.com/bwide/CollectionNode) - A swift framework for a collectionView in SpriteKit :large_orange_diamond:
 
 ## Gesture
 * [Tactile](https://github.com/delba/Tactile) - A better way to handle gestures on iOS :large_orange_diamond:
