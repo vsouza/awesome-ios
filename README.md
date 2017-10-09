@@ -452,6 +452,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Pencil](https://github.com/naru-jpn/pencil) - Write values to file and read it more easily. :large_orange_diamond:
 * [HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library. :large_orange_diamond:
 * [Dekoter](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs. :large_orange_diamond:
+* [Dijkstra's Algorithm](https://github.com/theindiandev1065/Djikastra-s-Algorithm) - A Playground showing how to implement Dijkstra's Algorithm in Swift! :large_orange_diamond:
 
 ## Date & Time
 
