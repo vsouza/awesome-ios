@@ -1266,6 +1266,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftyVK](https://github.com/west0r/SwiftyVK) Library for easy interact with VK social network API written in Swift 🔶
 * [ARKKit](https://github.com/sleepdefic1t/ARKKit) - [ARK Ecosystem](https://ark.io) Cryptocurrency API Framework for iOS & macOS, written purely in Swift 4.0. :large_orange_diamond:
 * [SwiftInstagram](https://github.com/AnderGoig/SwiftInstagram) - Swift Client for Instagram API. :large_orange_diamond:
+* [SwiftyArk](https://github.com/Awalz/SwiftyArk) - A simple, lightweight framework for the [ARK Ecosystem](https://ark.io). SwiftyArk provides a simple wrapper for accessing Ark accounts, delegates, block, and transaction information. It's networking components are fully asynchronous and have extensive error handling. Data structures are type-safe and favor immutability. :large_orange_diamond:
 
 ## Security
 * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
