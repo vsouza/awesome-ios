@@ -2768,7 +2768,7 @@ Most of these are paid services, some have free tiers.
 * [Mobile Couch](http://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks)
 * [Under the Radar](https://www.relay.fm/radar)
-* [Core Intuition](http://www.coreint.org/)
+* [Core Intuition](http://coreint.org/)
 * [Swift Playhouse](http://www.swiftplayhouse.com/)
 * [Release Notes](https://releasenotes.tv/)
 * [More Than Just Code](http://mtjc.fm/)
