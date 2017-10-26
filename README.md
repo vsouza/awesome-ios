@@ -2716,6 +2716,7 @@ Most of these are paid services, some have free tiers.
 * [Treehouse's iOS Courses and Workshops](https://teamtreehouse.com/library/topic:ios) - Topics for beginner and advanced developers in both Objective-C and Swift.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds. :large_orange_diamond:
 * [Hacking With Swift](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials. :large_orange_diamond:
+* [Realm Academy](https://academy.realm.io/)
 
 #### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
