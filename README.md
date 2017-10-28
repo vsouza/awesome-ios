@@ -2679,6 +2679,7 @@ Most of these are paid services, some have free tiers.
 * [Little Bites of Cocoa](https://littlebitesofcocoa.com/) :large_orange_diamond:
 * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
 * [This Week in Swift](https://swiftnews.curated.co/) :large_orange_diamond:
+* [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - A curated guide to refresh your iOS knowledge and pass interview successfully
 * [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day) :large_orange_diamond:
 * [Code Facebook](https://code.facebook.com/ios/)
