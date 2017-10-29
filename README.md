@@ -431,6 +431,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [WCDB](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 * [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
 * [UserDefaults](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS :large_orange_diamond:
+* [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support :large_orange_diamond:
 
 
 ## Data Structures / Algorithms
@@ -632,6 +633,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlexLayout](https://github.com/lucdion/FlexLayout) - FlexLayout gently wraps the highly optimized [facebook/yoga](https://github.com/facebook/yoga) flexbox implementation in a concise, intuitive & chainable syntax. 🔶
 * [Layout](https://github.com/schibsted/layout) - A declarative UI framework for iOS :large_orange_diamond:
 * [CGLayout](https://github.com/k-o-d-e-n/CGLayout) - Powerful autolayout framework based on constraints, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper. 🔶
+* [YogaKit](https://github.com/facebook/yoga/tree/master/YogaKit) - Powerful layout engine which implements Flexbox. Developed and maintained by Facebook.
 
 #### Location
 * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
@@ -1828,6 +1830,7 @@ Most of these are paid services, some have free tiers.
 * [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) - Swift AlertController with UIVisualEffectView. :large_orange_diamond:
 * [JDropDownAlert](https://github.com/trilliwon/JDropDownAlert) - Multi dirction dropdown alert view. 🔶
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS :large_orange_diamond:
+* [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views. :large_orange_diamond:
 
 #### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
@@ -2714,6 +2717,7 @@ Most of these are paid services, some have free tiers.
 * [Treehouse's iOS Courses and Workshops](https://teamtreehouse.com/library/topic:ios) - Topics for beginner and advanced developers in both Objective-C and Swift.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds. :large_orange_diamond:
 * [Hacking With Swift](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials. :large_orange_diamond:
+* [Realm Academy](https://academy.realm.io/)
 
 #### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
@@ -2769,7 +2773,7 @@ Most of these are paid services, some have free tiers.
 * [Mobile Couch](http://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks)
 * [Under the Radar](https://www.relay.fm/radar)
-* [Core Intuition](http://www.coreint.org/)
+* [Core Intuition](http://coreint.org/)
 * [Swift Playhouse](http://www.swiftplayhouse.com/)
 * [Release Notes](https://releasenotes.tv/)
 * [More Than Just Code](http://mtjc.fm/)
