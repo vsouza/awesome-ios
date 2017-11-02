@@ -992,6 +992,7 @@ Also see [push notifications](#push-notifications)
 * [WANetworkRouting](https://github.com/Wasappli/WANetworkRouting) - An iOS library to route API paths to objects on client side with request, mapping, routing and auth layers
 * [Reactor](https://github.com/MailOnline/Reactor) - Powering your RAC architecture :large_orange_diamond:
 * [SWNetworking](https://github.com/isamankumara/skywite) - Powerful high-level iOS, macOS and tvOS networking library. from the creator of SWNetworking 🔶
+* [StatusBarOverlay](https://github.com/IdleHandsApps/StatusBarOverlay) - Automatically show/hide a "No Internet Connection" bar when your app loses/gains connection. It supports apps which hide the status bar and "The Notch" 🔶
 
 #### Email
 
