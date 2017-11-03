@@ -1848,6 +1848,7 @@ Most of these are paid services, some have free tiers.
 * [CalendarKit](https://github.com/richardtop/CalendarKit) - Fully customizable calendar day view. :large_orange_diamond:
 * [GDPersianCalendar](https://github.com/saeid/GDPersianCalendar) - Customizable and easy to use Persian Calendar component. 🔶
 * [MBCalendarKit](https://github.com/MosheBerman/MBCalendarKit) - A calendar framework for iOS built with customization, and localization in mind.
+* [KDCalendar](https://github.com/mmick66/CalendarView) - An easy to use Calendar UIView for iOS, customizable with support for native events.
 
 #### Form & Settings
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
