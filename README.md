@@ -2075,7 +2075,7 @@ Most of these are paid services, some have free tiers.
 *  [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf :large_orange_diamond:
 
 #### Slider
-* [VSVerticalSlider](https://github.com/vsmithers1087/VSVerticalSlider) - An animatable and customizable vertical slider written in Swift4.
+* [VSVerticalSlider](https://github.com/vsmithers1087/VSVerticalSlider) - An animatable and customizable vertical slider written in Swift4.🔶
 * [VolumeControl](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
 * [IntervalSlider](https://github.com/shushutochako/IntervalSlider) - IntervalSlider is a slider library like ReutersTV app. written in pure swift. :large_orange_diamond:
