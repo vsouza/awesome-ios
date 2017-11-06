@@ -993,6 +993,8 @@ Also see [push notifications](#push-notifications)
 * [WANetworkRouting](https://github.com/Wasappli/WANetworkRouting) - An iOS library to route API paths to objects on client side with request, mapping, routing and auth layers
 * [Reactor](https://github.com/MailOnline/Reactor) - Powering your RAC architecture :large_orange_diamond:
 * [SWNetworking](https://github.com/isamankumara/skywite) - Powerful high-level iOS, macOS and tvOS networking library. from the creator of SWNetworking 🔶
+* [Digger](https://github.com/cornerAnt/Digger) - Digger is a lightweight download framework that requires only one line of code to complete the file download task
+. :large_orange_diamond:
 
 #### Email
 
