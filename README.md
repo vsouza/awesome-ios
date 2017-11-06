@@ -716,6 +716,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Revolver](https://github.com/petrmanek/Revolver) - A framework for building fast genetic algorithms in Swift. Comes with modular architecture, pre-implemented operators and loads of examples. :large_orange_diamond:
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [Serrano](https://github.com/pcpLiu/Serrano) - A deep learning library for iOS and macOS. :large_orange_diamond:
+
 ## Maps
 * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
 * [NAMapKit](https://github.com/neilang/NAMapKit) - Allows you to use custom maps in iPhone applications and attempts to mimics some of the behaviour of the MapKit framework.
