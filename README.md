@@ -1663,6 +1663,7 @@ Most of these are paid services, some have free tiers.
 * [StepProgressView](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView. :large_orange_diamond:
 * [BPBlockActivityIndicator](https://github.com/ppth0608/BPBlockActivityIndicator) - A simple and awesome Loading Activity Indicator(with funny block animation) for your iOS app. :large_orange_diamond:
 * [JustHUD](https://github.com/shubh10/JustHUD) - JustHUD is an iOS drop-in class written in Swift that displays a translucent HUD. :large_orange_diamond:
+* [SkeletonView](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting. :large_orange_diamond:
 
 #### Animation
 * [Pop](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
