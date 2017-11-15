@@ -1490,6 +1490,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftIcons](https://github.com/ranesr/SwiftIcons) - A library for using different font icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather. It supports UIImage, UIImageView, UILabel, UIButton, UISegmentedControl, UITabBarItem, UISlider, UIBarButtonItem, UIViewController, UITextfield, UIStepper. :large_orange_diamond:
 
 ## UI
+* [SimpleAlerts](https://github.com/lukecrum/SimpleAlerts) - A lightweight alert framework written in swift
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
 * [BetweenKit](https://github.com/ice3-software/between-kit) - A robust drag-and-drop framework for iOS.
 * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
