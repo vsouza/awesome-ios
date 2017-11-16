@@ -2795,12 +2795,12 @@ Most of these are paid services, some have free tiers.
 
 
 #### Facebook Groups
-* [HH iOS](https://www.facebook.com/groups/hhios/)
-* [Sketch - Official group](https://www.facebook.com/groups/sketchformac/)
-* [Design-Code](https://www.facebook.com/groups/designcode/)
-* [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio)
-* [Origami Community](https://www.facebook.com/groups/origami.community/)
-* [Framer JS](https://www.facebook.com/groups/framerjs/)
+* [HH iOS](https://www.facebook.com/groups/hhios/about/)
+* [Sketch - Official group](https://www.facebook.com/groups/sketchformac/about/)
+* [Design-Code](https://www.facebook.com/groups/designcode/about/)
+* [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio/about/)
+* [Origami Community](https://www.facebook.com/groups/origami.community/about/)
+* [Framer JS](https://www.facebook.com/groups/framerjs/about/)
 
 # Podcasts
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
