@@ -1034,7 +1034,7 @@ Most of these are paid services, some have free tiers.
 
 * [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement )
 * [Growth Push](https://growthpush.com) - Popular in Japan.
-* [Appboy](https://www.appboy.com)
+* [Braze](https://www.braze.com/)
 * [Batch](https://batch.com)
 * [Boxcar](https://boxcar.io)
 * [Carnival](http://www.carnival.io)
