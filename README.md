@@ -468,7 +468,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [HeckelDiff](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library. :large_orange_diamond:
 * [Dekoter](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs. :large_orange_diamond:
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
-
+* [Impeller](https://github.com/mentalfaculty/impeller) - A Distributed Value Store in Swift
 ## Date & Time
 
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift :large_orange_diamond:
