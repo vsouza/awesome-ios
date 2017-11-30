@@ -332,6 +332,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [DecouplingKit](https://github.com/coderyi/DecouplingKit) - decoupling between modules in your iOS Project.
 * [Clue](https://github.com/Geek-1001/Clue) - Flexible bug report framework for iOS with screencast, networking, interactions and view structure.
 * [Viperit](https://github.com/ferranabello/Viperit) - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift. :large_orange_diamond:
+* [PluggableApplicationDelegate](https://github.com/fmo91/PluggableApplicationDelegate) - Smallest AppDelegate ever by using a decoupled-services based architecture. 🛠 🔶
 
 #### Linter
 * [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
