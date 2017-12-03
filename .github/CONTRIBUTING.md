@@ -26,7 +26,7 @@ Typical reasons for deleting project:
 
 - Lack recent commit
 - Don't support iOS 9 or later
-- Don't support Swift 3 or later
+- Don't support Swift 4 or later
 - Not written in English
 - README is not clear
 
