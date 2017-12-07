@@ -1034,6 +1034,7 @@ Also see [push notifications](#push-notifications)
 * [Digger](https://github.com/cornerAnt/Digger) - Digger is a lightweight download framework that requires only one line of code to complete the file download task
 . :large_orange_diamond:
 * [Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf). :large_orange_diamond:
+* [PerfectAPIClient](https://github.com/SvenTiigi/PerfectAPIClient) - An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework 🔶
 
 #### Email
 
