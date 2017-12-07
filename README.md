@@ -570,7 +570,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SVGKit](https://github.com/SVGKit/SVGKit) - Display and interact with SVG Images on iOS / macOS, using native rendering (CoreAnimation) (currently only supported for iOS - macOS code needs updating).
 * [Snowflake](https://github.com/onmyway133/Snowflake) - ❄️ SVG in Swift. :large_orange_diamond:
 * [HxSTLParser](https://github.com/victorgama/HxSTLParser) - Basic STL loader for SceneKit
-* [OverlayComposite](https://github.com/aaronjsutton/OverlayComposite) - An asynchronous, multithreaded, image compositing framework written in Swift. :large_orange_diamond:
 
 ## Hardware
 #### Bluetooth
@@ -898,6 +897,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos :large_orange_diamond:
 * [TJProfileImage](https://github.com/tejas-ardeshna/TJProfileImage) - Live rendering of componet’s properties in Interface Builder. :large_orange_diamond:
 * [Viewer](https://github.com/bakkenbaeck/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images :large_orange_diamond:
+* [OverlayComposite](https://github.com/aaronjsutton/OverlayComposite) - An asynchronous, multithreaded, image compositing framework written in Swift. :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
