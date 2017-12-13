@@ -215,6 +215,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 3 :large_orange_diamond:
 * [Router](https://github.com/freshOS/Router) - 🛣 Simple Navigation for iOS. :large_orange_diamond:
 * [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
+* [Weavy](https://github.com/twittemb/Weavy) - Reactive navigation framework based on a weaving pattern (fits well with RxSwift) :large_orange_diamond:
 
 ## Apple TV
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
