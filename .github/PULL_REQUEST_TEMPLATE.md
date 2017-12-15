@@ -3,6 +3,9 @@
 ## Project URL
 <!--- The project URL -->
 
+## Category
+<!--- Category in AwesomeiOS where the project will be added -->
+
 ## Description
 <!--- Describe your changes in detail -->
  
