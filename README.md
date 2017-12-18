@@ -1297,6 +1297,7 @@ Most of these are paid services, some have free tiers.
 * [Pinterest](https://github.com/pinterest/ios-pdk) - Pinterest iOS SDK
 * [playkit-ios](https://github.com/kaltura/playkit-ios) - PlayKit: Kaltura Player SDK for iOS.
 * [algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) - Algolia Search API Client for Swift :large_orange_diamond:
+* [twitter-kit-ios](https://github.com/twitter/twitter-kit-ios) - Twitter Kit is a native SDK to include Twitter content inside mobile apps.
 
 #### Unofficial
 
