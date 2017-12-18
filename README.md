@@ -976,6 +976,7 @@ Also see [push notifications](#push-notifications)
 * [Atlas](https://github.com/layerhq/Atlas-iOS) - A library of native iOS messaging user interface components for Layer.
 * [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [OTTextChatAccelerator](https://github.com/opentok/accelerator-textchat-ios) - OpenTok Text Chat Accelerator Pack enables text messages between mobile or browser-based devices.
+* [chat-sdk-ios](https://github.com/chat-sdk/chat-sdk-ios) - Chat SDK iOS - Open Source Mobile Messenger.
 
 ## Networking
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
