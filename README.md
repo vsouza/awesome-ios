@@ -188,6 +188,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Udacity: Start A Career Developing iOS Apps](https://www.udacity.com/course/ios-developer-nanodegree--nd003?v=ios1) - Udacity's intro course on writing iOS apps [Paid Resource] :large_orange_diamond:
 
 # Architecture Patterns
+* [YARCH](https://github.com/alfa-laboratory/YARCH-Examples) - More clean alternative to VIPER with unidirectional data flow (flux-like). :large_orange_diamond:
 
 # Libraries And Frameworks
 
