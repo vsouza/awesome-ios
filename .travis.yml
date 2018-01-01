@@ -3,5 +3,11 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
+  - gem install danger
 script:
-  - awesome_bot README.md --white-list CONTRIBUTING.md,facebook.com/groups,growthpush.com,mocaplatform.com/features,XCDYouTubeKit,useyourloaf,appicontemplate.com,littlebitesofcocoa,sensiblecocoa,Awesome-Swift-,natasha,pushbots,count.ly,travis,rypress,tapglue 
+  - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit,SRGMediaPlayer,PayPal-iOS-SDK,PerfectlySoft
+  - allowed_redirects=growthpush,awesomelinkcounter,eepurl,bluemix,amazon,facebook.com/groups
+  - awesome_bot README.md --allow-ssl --white-list $allowed_dupes,$allowed_redirects
+  - danger
+notifications:
+  email: false
