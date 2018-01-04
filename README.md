@@ -478,6 +478,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
 * [Impeller](https://github.com/mentalfaculty/impeller) - A Distributed Value Store in Swift :large_orange_diamond:
 * [Dispatch](https://github.com/alexdrone/Dispatch) - Multi-store Flux implementation in Swift :large_orange_diamond:
+* [DeepDiff](https://github.com/onmyway133/DeepDiff) - Diff in Swift :large_orange_diamond:
 
 ## Date & Time
 
