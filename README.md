@@ -28,7 +28,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
     - [Analytics](#analytics)
-    - [App Routing](#app--routing)
+    - [App Routing](#app-routing)
     - [Apple TV](#apple-tv)
     - [Architecture Patterns](#architecture-patterns)
     - [ARKit](#arkit)
