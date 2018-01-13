@@ -605,6 +605,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SVGKit](https://github.com/SVGKit/SVGKit) - Display and interact with SVG Images on iOS / macOS, using native rendering (CoreAnimation) (currently only supported for iOS - macOS code needs updating).
 * [Snowflake](https://github.com/onmyway133/Snowflake) - ❄️ SVG in Swift. :large_orange_diamond:
 * [HxSTLParser](https://github.com/victorgama/HxSTLParser) - Basic STL loader for SceneKit
+* [ProcessingKit](https://github.com/natmark/ProcessingKit) - Visual designing library for iOS & OSX :large_orange_diamond:
 
 ## Hardware
 #### Bluetooth
