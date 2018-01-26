@@ -487,6 +487,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Impeller](https://github.com/mentalfaculty/impeller) - A Distributed Value Store in Swift :large_orange_diamond:
 * [Dispatch](https://github.com/alexdrone/Dispatch) - Multi-store Flux implementation in Swift :large_orange_diamond:
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Diff in Swift :large_orange_diamond:
+* [BinaryKit](https://github.com/Cosmo/BinaryKit) - Access bits and bytes directly in Swift. :large_orange_diamond:
 
 ## Date & Time
 
