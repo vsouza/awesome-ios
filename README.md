@@ -1,20 +1,26 @@
 <img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Join the chat at https://gitter.im/norio-nomura/SwiftTalkInJapanese](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vsouza/awesome-ios?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master)](https://travis-ci.org/vsouza/awesome-ios)
-[![Language](https://awesomelinkcounter.herokuapp.com/swift)]()
-[![Language](https://awesomelinkcounter.herokuapp.com/objc)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<p align="center">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  <a href="https://gitter.im/vsouza/awesome-ios"><img alt="Join the chat at https://gitter.im/vsouza/awesome-ios" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
+  <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
+  <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/swift" />
+  <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/objc" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
 
-## We've launched our Newsletter!! ✅🚀📰
-* [Check out our new website 🗞](http://weekly.awesomeios.com/)
+[Subscribe on Awesome-iOS Weekly!! 🗞](http://weekly.awesomeios.com/)
 
 # About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
 
 Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
+
+# Supported with :heart: by [Instabug](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
+[![ios](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
+> Instabug SDK allows iOS developers to receive detailed bug reports from users and testers directly from inside the app. It attaches screenshots, screen recordings, network requests, and reproduce steps with each bug report. This  minimizes debugging time and helps developers in tracing weird bugs. [Learn more.](https://instabug.com/?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 # How to Use
 Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
