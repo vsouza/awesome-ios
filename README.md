@@ -2715,7 +2715,7 @@ Most of these are paid services, some have free tiers.
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension. 
 
 #### Themes
-* [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
+* [Dracula Theme](https://draculatheme.com/xcode/) - A dark theme for Xcode.
 * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
 * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 * [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
