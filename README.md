@@ -830,6 +830,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Expression](https://github.com/nicklockwood/Expression) - A Mac and iOS library for evaluating numeric expressions at runtime :large_orange_diamond:
 * [Metron](https://github.com/toineheuvelmans/Metron) - Metron is a comprehensive collection of geometric functions and types that extend the 2D geometric primitives provided by CoreGraphics. :large_orange_diamond:
 * [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex supplements the numeric facilities provided in the Swift standard library with generic integer algorithms, complex numbers, rational numbers, and pseudorandom number generators (written in, and for, Swift 4) :large_orange_diamond:
+* [EasyRoot](https://github.com/aaronjsutton/EasyRoot) - A framework to simplify radical expressions :large_orange_diamond:
 
 ## Media
 #### Audio
