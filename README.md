@@ -1389,6 +1389,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftInstagram](https://github.com/AnderGoig/SwiftInstagram) - Swift Client for Instagram API. :large_orange_diamond:
 * [SwiftyArk](https://github.com/Awalz/SwiftyArk) - A simple, lightweight, fully-asynchronous cryptocurrency framework for the ARK Ecosystem. :large_orange_diamond:
 * [PerfectSlackAPIClient](https://github.com/SvenTiigi/PerfectSlackAPIClient) - A Slack API Client for the Perfect Server-Side Swift Framework 🔶
+* [Mothership](https://github.com/thecb4/MotherShip) - Tunes Connect Library inspired by FastLane. 
 
 
 ## Security
