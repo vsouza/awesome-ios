@@ -362,8 +362,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 #### Linter
 * [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
-* [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. 
-* [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. 
+* [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. :large_orange_diamond:
+* [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. :large_orange_diamond:
+* [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder :large_orange_diamond:
 
 ## Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). 
