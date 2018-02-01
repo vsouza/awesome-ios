@@ -11,7 +11,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure that your suggestion is positioned as the last item category.
 - Make sure your text editor is set to remove trailing whitespace.
-- If project has been made in Swift, add :large_orange_diamond: in the end of description.
 
 #### Deleting 
 
