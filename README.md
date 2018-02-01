@@ -1198,6 +1198,7 @@ Most of these are paid services, some have free tiers.
 * [WAMapping](https://github.com/Wasappli/WAMapping) - A library to turn dictionary into object and vice versa for iOS. Designed for speed!
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift. :large_orange_diamond:
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift. :large_orange_diamond:
+* [HandyJSON](https://github.com/alibaba/HandyJSON) - A handy swift json-object serialization/deserialization library. 
 
 #### XML & HTML
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. :large_orange_diamond:
