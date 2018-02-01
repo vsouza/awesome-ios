@@ -369,6 +369,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
 * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. :large_orange_diamond:
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. :large_orange_diamond:
+* [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder :large_orange_diamond:
 
 ## Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
@@ -2666,7 +2667,6 @@ Most of these are paid services, some have free tiers.
 * [XcodeGen](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a spec file and your folder structure. :large_orange_diamond:
 * [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 * [Natalie](https://github.com/krzyzanowskim/Natalie) - Storyboard Code Generator. :large_orange_diamond:
-* [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder :large_orange_diamond:
 
 # Rapid Development
 * [Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) - Playgrounds for Objective-C for extremely fast prototyping / learning.
