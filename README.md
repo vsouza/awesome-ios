@@ -505,6 +505,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Dispatch](https://github.com/alexdrone/Dispatch) - Multi-store Flux implementation in Swift 
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Diff in Swift 
 * [BinaryKit](https://github.com/Cosmo/BinaryKit) - Access bits and bytes directly in Swift. 
+* [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 
 ## Date & Time
 
