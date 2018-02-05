@@ -557,6 +557,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code in Swift 
 * [Promis](https://github.com/albertodebortoli/Promis) - The easiest Future and Promises framework in Swift. No magic. No boilerplate. 
 * [Bluebird.swift](https://github.com/AndrewBarba/Bluebird.swift) - Promise/A+, Bluebird inspired, implementation in Swift 4. 
+* [Promise](https://github.com/khanlou/Promise) - A Promise library for Swift, based partially on Javascript's A+ spec. 
 
 ## Files
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift. 
