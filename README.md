@@ -1890,6 +1890,7 @@ Most of these are paid services, some have free tiers.
 * [Kinieta](https://github.com/mmick66/kinieta) - An Animation Engine with Custom Bezier Easing, an Intuitive API and perfect Color Intepolation. 
 * [LSAnimator](https://github.com/Lision/LSAnimator) - Easy to Read and Write Multi-chain Animations Kit in Objective-C and Swift.
 * [YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary) - Designed for gesture-driven animations. Fast, simple, & extensible!. 
+* [Anima](https://github.com/satoshin21/Anima) - Anima is chainable Layer-Based Animation library for Swift4.
 
 
 ##### Transition
