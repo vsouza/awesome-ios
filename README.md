@@ -1924,6 +1924,7 @@ Most of these are paid services, some have free tiers.
 * [Gagat](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications. 
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition 
 * [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab 
+* [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) - A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
 
 #### Alert & Action Sheet
 
