@@ -1208,6 +1208,7 @@ Most of these are paid services, some have free tiers.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift. 
 * [PMHTTP](https://github.com/postmates/PMHTTP) - Swift/Obj-C HTTP framework with a focus on REST and JSON. 
 * [NativeJSONMapper](https://github.com/DimaMishchenko/NativeJSONMapper) - Simple Swift 4 encoding & decoding. 
+* [PMJSON](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library. 
 
 #### XML & HTML
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. 
