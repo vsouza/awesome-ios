@@ -1357,7 +1357,7 @@ Most of these are paid services, some have free tiers.
 * [Fabric by Twitter](https://docs.fabric.io/apple/fabric/overview.html) Fabric Twitter Kit for iOS.
 * [Liquid Analytics](https://github.com/lqd-io/liquid-sdk-ios) Identify behaviours through Analytics and react with real-time Personalization.
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
-* [PacketZoom](https://packetzoom.com) PacketZoom SDK for iOS.
+* [PacketZoom](https://www.packetzoom.com/) PacketZoom SDK for iOS.
 * [Primer](https://www.goprimer.com) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
 * [Azure](https://github.com/Azure/azure-storage-ios) - Client library for accessing Azure Storage on an iOS device
 * [1Password](https://github.com/AgileBits/onepassword-app-extension) - 1Password Extension for iOS Apps
