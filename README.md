@@ -591,7 +591,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift. It's inspired by LoDash, Underscore project. 
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift 
 * [Runes](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift. 
-* [ifAction](https://github.com/trilliwon/ifAction) - Custom if for Optional and Boolean  [e]
 
 ## Games
 * [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift. 
