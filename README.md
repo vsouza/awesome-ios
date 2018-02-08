@@ -301,6 +301,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Johnny](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift 
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data. 
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift 
+* [Cache](https://github.com/soffes/Cache) - Swift caching library. 
 
 ## Charts
 * [Charts](https://github.com/danielgindi/Charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). 
