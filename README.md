@@ -507,6 +507,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Diff in Swift 
 * [BinaryKit](https://github.com/Cosmo/BinaryKit) - Access bits and bytes directly in Swift. 
 * [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
+* [Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library. 
 
 ## Date & Time
 
