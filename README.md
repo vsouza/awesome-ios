@@ -1368,6 +1368,7 @@ Most of these are paid services, some have free tiers.
 * [algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) - Algolia Search API Client for Swift 
 * [twitter-kit-ios](https://github.com/twitter/twitter-kit-ios) - Twitter Kit is a native SDK to include Twitter content inside mobile apps.
 * [rides-ios-sdk](https://github.com/uber/rides-ios-sdk) - Uber Rides iOS SDK (beta). 
+* [mixpanel-swift](https://github.com/mixpanel/mixpanel-swift) - Mixpanel tracking library for iOS (Swift). 
 
 #### Unofficial
 
