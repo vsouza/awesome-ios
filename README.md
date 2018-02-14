@@ -845,6 +845,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Metron](https://github.com/toineheuvelmans/Metron) - Metron is a comprehensive collection of geometric functions and types that extend the 2D geometric primitives provided by CoreGraphics. 
 * [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex supplements the numeric facilities provided in the Swift standard library with generic integer algorithms, complex numbers, rational numbers, and pseudorandom number generators (written in, and for, Swift 4) 
 * [EasyRoot](https://github.com/aaronjsutton/EasyRoot) - A framework to simplify radical expressions 
+* [SwiftSimplify](https://github.com/malcommac/SwiftSimplify) - Tiny high-performance Swift Polyline Simplification Library.
 
 ## Media
 #### Audio
