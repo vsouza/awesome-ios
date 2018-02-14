@@ -757,6 +757,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [YogaKit](https://github.com/facebook/yoga/tree/master/YogaKit) - Powerful layout engine which implements Flexbox. Developed and maintained by Facebook.
 * [FlightLayout](https://github.com/AntonTheDev/FlightLayout) -  Balanced medium between manual layout and auto-layout. Great for calculating frames for complex animations.
 * [QLayout](https://github.com/josejuanqm/QLayout) - AutoLayout Utility for iOS. 
+* [Yalta](https://github.com/kean/Yalta) - An intuitive and powerful Auto Layout library.
 
 ## Localization
 * [Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
