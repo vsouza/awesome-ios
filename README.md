@@ -1447,6 +1447,7 @@ Most of these are paid services, some have free tiers.
 * [SipHash](https://github.com/attaswift/SipHash) - Simple and secure hashing in Swift with the SipHash algorithm. 
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. -- For ObjC, see RNCryptor/RNCryptor-objc. 
 * [CatCrypto](https://github.com/ImKcat/CatCrypto) - An easy way for hashing and encryption. 
+* [SecureEnclaveCrypto](https://github.com/trailofbits/SecureEnclaveCrypto) - Demonstration library for using the Secure Enclave on iOS.
 
 #### Keychain
 * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
