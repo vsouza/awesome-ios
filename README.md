@@ -296,7 +296,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - Everyone tries to implement a cache at some point in their iOS app’s lifecycle, and this is ours. By Spotify
 * [Track](https://github.com/maquannene/Track) - Track is a thread safe cache write by Swift. Composed of DiskCache and MemoryCache which support LRU. 
 * [UITableView Cache](https://github.com/Kilograpp/UITableView-Cache) - UITableView cell cache that cures scroll-lags on a cell instantiating.
-* [RocketData](https://github.com/linkedin/RocketData) - A caching and consistency solution for immutable models. 
+* [RocketData](https://github.com/plivesey/RocketData) - A caching and consistency solution for immutable models. 
 * [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS
 * [Johnny](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift 
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data. 
@@ -1643,7 +1643,7 @@ Most of these are paid services, some have free tiers.
 * [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 * [tapkulibrary](https://github.com/devinross/tapkulibrary) - tap + haiku = tapku, a well crafted open source iOS framework.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) - A horizontal scroll dial like Instagram. 
-* [ComponentKit](http://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
+* [ComponentKit](https://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
 * [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
 * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - Make any UIView a full fledged notification center.
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit 
@@ -2914,7 +2914,7 @@ Most of these are paid services, some have free tiers.
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
 * [Debug](https://www.imore.com/debug)
 * [App Story](http://www.appstorypodcast.com)
-* [Mobile Couch](http://mobilecouch.co/)
+* [Mobile Couch](https://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks)
 * [Under the Radar](https://www.relay.fm/radar)
 * [Core Intuition](http://coreint.org/)
