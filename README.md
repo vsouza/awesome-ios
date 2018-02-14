@@ -597,6 +597,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ShogibanKit](https://github.com/codelynx/ShogibanKit) - ShogibanKit is a framework for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI. 
 * [SKTiled](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit 
 * [CollectionNode](https://github.com/bwide/CollectionNode) - A swift framework for a collectionView in SpriteKit 
+* [AssetImportKit](https://github.com/eugenebokhan/Asset-Import-Kit) - Swifty cross platform library (macOS, iOS) that converts Assimp supported models to SceneKit scenes.
 
 ## GCD
  * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. 
