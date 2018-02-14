@@ -529,6 +529,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app. 
 * [Time](https://github.com/dreymonde/Time) - Type-safe time calculations in Swift, powered by generics. [e]
 * [Chronology](https://github.com/davedelong/Chronology) - Building a better date/time library 
+* [Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times. 
 
 ## Debugging
 * [Xniffer](https://github.com/vsouza/awesome-ios/issues/1841) - A swift network profiler built on top of URLSession. 
