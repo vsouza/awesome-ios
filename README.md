@@ -581,6 +581,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FileExplorer](https://github.com/Augustyniak/FileExplorer) - Powerful file browser for iOS that allows its users to choose and remove files and/or directories. 
 * [ZIPFoundation](https://github.com/weichsel/ZIPFoundation) - Effortless ZIP Handling in Swift 
 * [AppFolder](https://github.com/dreymonde/AppFolder) - AppFolder is a lightweight framework that lets you design a friendly, strongly-typed representation of a directories inside your app's container. 
+* [ZipZap](https://github.com/pixelglow/ZipZap) - zip file I/O library for iOS, macOS and tvOS.
 
 ## Functional Programming
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift. 
