@@ -715,6 +715,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces. 
 * [NFCNDEFParse](https://github.com/jvk75/NFCNDEFParse) - NFC Forum Well Known Type Data Parser for iOS11 and Core NFC. 
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
+* [SDVersion](https://github.com/sebyddd/SDVersion) - :iphone: Lightweight Cocoa library for detecting the running device's model and screen size. 
 
 ## Layout
 * [FlexboxLayout](https://github.com/alexdrone/FlexboxLayout) - Port of Facebook's css-layout to Swift 
