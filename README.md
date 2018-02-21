@@ -1669,7 +1669,6 @@ Most of these are paid services, some have free tiers.
 * [Splitflap](https://github.com/yannickl/Splitflap) - A simple split-flap display for your Swift applications 
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) - :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages 
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. 
-* [StackPageView](https://github.com/noppefoxwolf/StackPageView) - Vertical page view with UIViewControllers stacked on the top of each other 
 * [Curry](https://github.com/devinross/curry) - Curry is a framework built to enhance and compliment Foundation and UIKit.
 * [Pages](https://github.com/hyperoslo/Pages) - :page_facing_up: UIPageViewController made simple 
 * [BothamUI](https://github.com/Karumi/BothamUI) - Model View Presenter Framework written in Swift. 
