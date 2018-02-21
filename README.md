@@ -2780,6 +2780,7 @@ Most of these are paid services, some have free tiers.
 * [Swiftify](https://objectivec2swift.com/) - Objective-C to Swift online code converter and Xcode extension. 
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension. 
 * [Snowonder](https://github.com/Karetski/Snowonder) - 🔮 Magical import declarations formatter for Xcode.
+* [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9. 
 
 #### Themes
 * [Dracula Theme](https://draculatheme.com/xcode/) - A dark theme for Xcode.
