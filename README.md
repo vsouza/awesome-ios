@@ -335,7 +335,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SMDiagramViewSwift](https://github.com/VRGsoftUA/SMDiagramView) - Meet cute and very flexibility library for iOS application for different data view in one circle diagram.
 * [Swift LineChart](https://github.com/zemirco/swift-linechart) - Line Chart library for iOS written in Swift. 
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS. 
-
+* [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit
 
 ## Code Quality
 * [Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
@@ -640,6 +640,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Snowflake](https://github.com/onmyway133/Snowflake) - ❄️ SVG in Swift. 
 * [HxSTLParser](https://github.com/victorgama/HxSTLParser) - Basic STL loader for SceneKit
 * [ProcessingKit](https://github.com/natmark/ProcessingKit) - Visual designing library for iOS & OSX 
+* [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. 
 
 ## Hardware
 #### Bluetooth
@@ -1649,41 +1650,29 @@ Most of these are paid services, some have free tiers.
 
 ## UI
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
-* [BetweenKit](https://github.com/ice3-software/between-kit) - A robust drag-and-drop framework for iOS.
 * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
 * [Motif](https://github.com/erichoracek/Motif) - A lightweight and customizable JSON stylesheet framework for iOS.
 * [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges. 
-* [MVMaterialView](https://github.com/TheMrugraj/MVMaterialView) - Subclass of UIControls and UIButton to mimic Ripple effect of Material Design concept.
 * [TisprCardStack](https://github.com/tispr/tispr-card-stack) - Library that allows to have cards UI. 
 * [SAHistoryNavigationViewController](https://github.com/marty-suzuki/SAHistoryNavigationViewController) - SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller,3D Touch Compatible. 
-* [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning. 
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS.
-* [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 * [tapkulibrary](https://github.com/devinross/tapkulibrary) - tap + haiku = tapku, a well crafted open source iOS framework.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) - A horizontal scroll dial like Instagram. 
 * [ComponentKit](https://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
-* [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
 * [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) - Make any UIView a full fledged notification center.
-* [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit 
 * [phone-number-picker](https://github.com/hughbe/phone-number-picker) - A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift 
 * [EXTView](https://github.com/recruit-mtl/EXTView) - Extended UIView for Interface Builder by using IB_DESIGNABLE and IBInspectable.
-* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content.
 * [CardAnimation](https://github.com/seedante/CardAnimation) - Card flip animation by pan gesture. 
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox#sample-app) - Tasteful Checkbox for iOS. (Check box)
-* [HorizontalProgress](https://github.com/AliThink/HorizontalProgress) - Simple horizontal progress bar with animation
-* [JRSplitVC](https://github.com/tommypeps/JRSplitVC) - UISplitViewController with adaptative layouts
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect in Swift. 
 * [Splitflap](https://github.com/yannickl/Splitflap) - A simple split-flap display for your Swift applications 
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController) - :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages 
 * [Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. 
-* [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift. 
-* [StackPageView](https://github.com/noppefoxwolf/StackPageView) - Vertical page view with UIViewControllers stacked on the top of each other 
 * [Curry](https://github.com/devinross/curry) - Curry is a framework built to enhance and compliment Foundation and UIKit.
 * [Pages](https://github.com/hyperoslo/Pages) - :page_facing_up: UIPageViewController made simple 
 * [BothamUI](https://github.com/Karumi/BothamUI) - Model View Presenter Framework written in Swift. 
 * [ALTextInputBar](https://github.com/AlexLittlejohn/ALTextInputBar) - An auto growing text input bar for messaging apps. 
-* [APCustomBlurView](https://github.com/collinhundley/APCustomBlurView) - A subclass of UIVisualEffectView with customizable blur radius. 
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - UIView that simulates a 2D view of a fluid in motion
 * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
 * [MICountryPicker](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option. 
@@ -1749,7 +1738,6 @@ Most of these are paid services, some have free tiers.
 * [VENTokenField](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementing a video background 
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app. 
-* [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. 
 * [HubFramework](https://github.com/spotify/HubFramework) - Spotify’s component-driven UI framework for iOS.
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app 
 * [BouncyPageViewController](https://github.com/BohdanOrlov/BouncyPageViewController) - Page view controller with bounce effect 
@@ -1937,7 +1925,7 @@ Most of these are paid services, some have free tiers.
 * [Anima](https://github.com/satoshin21/Anima) - Anima is chainable Layer-Based Animation library for Swift4.
 * [MotionAnimation](https://github.com/lkzhao/MotionAnimation) - Lightweight animation library for UIKit.
 * [AGInterfaceInteraction](https://github.com/agilie/AGInterfaceInteraction) - library performs interaction with UI interface.
-
+* [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
 
 ##### Transition
 * [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
@@ -2029,6 +2017,7 @@ Most of these are paid services, some have free tiers.
 * [RMessage](https://github.com/donileo/RMessage) - A crisp in-app notification/message banner built in ObjC.
 * [InAppNotify](https://github.com/lucabecchetti/InAppNotify) - Swift library to manage in-app notification in swift language, like WhatsApp, Telegram, Frind, etc.
 * [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) - FloatingActionSheetController is a cool design ActionSheetController library written in Swift.
+* [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift. 
 
 #### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. 
@@ -2066,6 +2055,7 @@ Most of these are paid services, some have free tiers.
 * [ButtonProgressBar-iOS](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation. 
 * [SpicyButton](https://github.com/lukecrum/SpicyButton) - Full-featured IBDesignable UIButton class 
 * [DesignableButton](https://github.com/IdleHandsApps/DesignableButton) - UIButton subclass with centralised and reusable styles. View styles and customise in InterfaceBuilder in real time! 
+* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Tasteful Checkbox for iOS. (Check box)
 
 #### Calendar
 * [CVCalendar](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). 
@@ -2215,6 +2205,7 @@ Most of these are paid services, some have free tiers.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView 
 * [NavKit](https://github.com/wilbertliu/NavKit) - Simple and integrated way to customize navigation bar experience on iOS app. 
 * [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - An easy way to change backgroundColor of UINavigationBar when Push & Pop 
+* [TONavigationBar](https://github.com/TimOliver/TONavigationBar) - A simple subclass that adds the ability to set the navigation bar background to 'clear' and gradually transition it visibly back in, similar to the effect in the iOS Music app.
 
 #### PickerView
 * [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
@@ -2461,6 +2452,7 @@ Most of these are paid services, some have free tiers.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components. 
 * [AZTableViewController](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with dummy views. 
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes. 
+* [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning. 
 
 #### Tag
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
@@ -2472,6 +2464,7 @@ Most of these are paid services, some have free tiers.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags 
 * [AKMaskField](https://github.com/artemkrachulov/AKMaskField) - AKMaskField is UITextField subclass which allows enter data in the fixed quantity and in the certain format. 
 * [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest written in Swift 3 
+* [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content.
 
 #### TextField & TextView
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
@@ -2854,6 +2847,7 @@ Most of these are paid services, some have free tiers.
 * [iOS Cookies](http://www.ioscookies.com/) - A hand curated collection of iOS libraries written in Swift 
 * [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 * [iOS10 day-by-day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index) 
+* [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 
 #### UIKit references
 * [iOS Fonts](http://iosfonts.com/)
