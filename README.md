@@ -640,6 +640,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Snowflake](https://github.com/onmyway133/Snowflake) - ❄️ SVG in Swift. 
 * [HxSTLParser](https://github.com/victorgama/HxSTLParser) - Basic STL loader for SceneKit
 * [ProcessingKit](https://github.com/natmark/ProcessingKit) - Visual designing library for iOS & OSX 
+* [EPShapes](https://github.com/ipraba/EPShapes) - Design shapes in Interface Builder. 
 * [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. 
 
 ## Hardware
@@ -1677,7 +1678,6 @@ Most of these are paid services, some have free tiers.
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - UIView that simulates a 2D view of a fluid in motion
 * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
 * [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - :clipboard: An iOS native implementation of a Trello Animated Navagation.
-* [EPShapes](https://github.com/ipraba/EPShapes) - Design shapes in Interface Builder. 
 * [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - A CocoaPod that simplifies creation of the particle effects.
 * [Spots](https://github.com/hyperoslo/Spots) - Spots is a view controller framework that makes your setup and future development blazingly fast. 
 * [APAddressBook](https://github.com/Alterplay/APAddressBook) - Easy access to iOS address book
