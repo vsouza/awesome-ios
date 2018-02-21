@@ -2779,7 +2779,6 @@ Most of these are paid services, some have free tiers.
 # Xcode
 
 #### Extensions (Xcode 8+)
-* [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9. 
 * [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax. 
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension Toolset (Plugins for Xcode 8) 
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers. 
@@ -2791,6 +2790,7 @@ Most of these are paid services, some have free tiers.
 * [Swiftify](https://objectivec2swift.com/) - Objective-C to Swift online code converter and Xcode extension. 
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension. 
 * [Snowonder](https://github.com/Karetski/Snowonder) - 🔮 Magical import declarations formatter for Xcode.
+* [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9. 
 
 #### Themes
 * [Dracula Theme](https://draculatheme.com/xcode/) - A dark theme for Xcode.
