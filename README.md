@@ -640,6 +640,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Snowflake](https://github.com/onmyway133/Snowflake) - ❄️ SVG in Swift. 
 * [HxSTLParser](https://github.com/victorgama/HxSTLParser) - Basic STL loader for SceneKit
 * [ProcessingKit](https://github.com/natmark/ProcessingKit) - Visual designing library for iOS & OSX 
+* [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. 
 
 ## Hardware
 #### Bluetooth
@@ -1750,7 +1751,6 @@ Most of these are paid services, some have free tiers.
 * [VENTokenField](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementing a video background 
 * [MRArticleViewController](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app. 
-* [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. 
 * [HubFramework](https://github.com/spotify/HubFramework) - Spotify’s component-driven UI framework for iOS.
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app 
 * [BouncyPageViewController](https://github.com/BohdanOrlov/BouncyPageViewController) - Page view controller with bounce effect 
