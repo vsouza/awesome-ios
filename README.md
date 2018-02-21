@@ -640,10 +640,10 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Snowflake](https://github.com/onmyway133/Snowflake) - ❄️ SVG in Swift. 
 * [HxSTLParser](https://github.com/victorgama/HxSTLParser) - Basic STL loader for SceneKit
 * [ProcessingKit](https://github.com/natmark/ProcessingKit) - Visual designing library for iOS & OSX 
+* [AEConicalGradient](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient layer written in Swift. 
 * [MKGradientView](https://github.com/maxkonovalov/MKGradientView) - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift. 
 * [EPShapes](https://github.com/ipraba/EPShapes) - Design shapes in Interface Builder. 
 * [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. 
-
 
 ## Hardware
 #### Bluetooth
@@ -1692,7 +1692,6 @@ Most of these are paid services, some have free tiers.
 * [PeekPop](https://github.com/marmelroy/PeekPop) - Backwards-compatible Peek and Pop.
 * [EPSignature](https://github.com/ipraba/EPSignature) - Signature component for iOS in Swift 
 * [CoreDragon](https://github.com/nevyn/CoreDragon)  - [iOS] Stop using context menus. Drag and drop instead, even between apps!
-* [AEConicalGradient](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient layer written in Swift. 
 * [EVFaceTracker](https://github.com/evermeer/EVFaceTracker) - Calculate the distance and angle of your device with regards to your face.
 * [Fashion](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way. 
 * [LeeGo](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks. 
