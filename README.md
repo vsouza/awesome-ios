@@ -1699,7 +1699,6 @@ Most of these are paid services, some have free tiers.
 * [Ripple](https://github.com/RamonGilabert/Ripple) - Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end. 
 * [ScalePicker](https://github.com/kronik/ScalePicker) - Generic scale and a handy float-value picker for any iOS app.
 * [VisualEffectView](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color. 
-* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller 
 * [Cacao](https://github.com/PureSwift/Cacao) - Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux) 
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift 
 * [StateView](https://github.com/sahandnayebaziz/StateView) - Views that automatically update themselves. 
@@ -2450,6 +2449,7 @@ Most of these are paid services, some have free tiers.
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components. 
 * [AZTableViewController](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with dummy views. 
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes. 
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller 
 * [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning. 
 
 #### Tag
