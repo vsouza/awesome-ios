@@ -533,6 +533,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Chronology](https://github.com/davedelong/Chronology) - Building a better date/time library 
 * [Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times. 
 * [TimePicker](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
+* [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift 
 
 ## Debugging
 * [Xniffer](https://github.com/vsouza/awesome-ios/issues/1841) - A swift network profiler built on top of URLSession. 
@@ -1717,7 +1718,6 @@ Most of these are paid services, some have free tiers.
 * [NumPad](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design). 
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller 
 * [Cacao](https://github.com/PureSwift/Cacao) - Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux) 
-* [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift 
 * [StateView](https://github.com/sahandnayebaziz/StateView) - Views that automatically update themselves. 
 * [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) - Representing analog flip numbers like airport/trainstation displays.
 * [JQSwiftIcon](https://github.com/josejuanqm/JQSwiftIcon) - Icon Fonts on iOS using string interpolation written in Swift. 
