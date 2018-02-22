@@ -846,6 +846,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Cluster](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering. 
 * [JDSwiftHeatMap](https://github.com/jamesdouble/JDSwiftHeatMap) - JDSwiftMap is an IOS Native MapKit Library. You can easily make a highly customized HeatMap. 
 * [ClusterKit](https://github.com/hulab/ClusterKit) - An iOS map clustering framework targeting MapKit, Google Maps and Mapbox.
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - Perform a 360° flyover on an MKMapView
 
 ## Math
 * [Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation 
