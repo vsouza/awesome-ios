@@ -1682,7 +1682,6 @@ Most of these are paid services, some have free tiers.
 * [Curry](https://github.com/devinross/curry) - Curry is a framework built to enhance and compliment Foundation and UIKit.
 * [Pages](https://github.com/hyperoslo/Pages) - :page_facing_up: UIPageViewController made simple 
 * [BothamUI](https://github.com/Karumi/BothamUI) - Model View Presenter Framework written in Swift. 
-* [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - An easy way to change backgroundColor of UINavigationBar when Push & Pop 
 * [APCustomBlurView](https://github.com/collinhundley/APCustomBlurView) - A subclass of UIVisualEffectView with customizable blur radius. 
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - UIView that simulates a 2D view of a fluid in motion
 * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
