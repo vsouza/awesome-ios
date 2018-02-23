@@ -339,7 +339,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Code Quality
 
-> <p> Quality always matters. Code checkers, memory vigilants, syntastic sugars and more. </p>
+ *Quality always matters. Code checkers, memory vigilants, syntastic sugars and more.*
 
 * [Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
 * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beautiful DSL.
