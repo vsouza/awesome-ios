@@ -2867,7 +2867,6 @@ Most of these are paid services, some have free tiers.
 * [Mike Ash](https://www.mikeash.com/pyblog/)
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/) 
 * [Tuts+](https://code.tutsplus.com/categories/ios-sdk) 
-* [iOS-Blog](http://www.ios-blog.co.uk/) 
 * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift) 
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development. 
 * [Cocoa Dev Central](http://cocoadevcentral.com)
