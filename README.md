@@ -775,6 +775,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Layoutless](https://github.com/AbsurdAbstractions/Layoutless) - Minimalistic declarative layout and styling framework built on top of Auto Layout.
 * [Yalta](https://github.com/kean/Yalta) - An intuitive and powerful Auto Layout library.
 * [GranadaLayout](https://github.com/gskbyte/GranadaLayout) - Alternative layout system for iOS, inspired on the Android layout system, that includes linear and relative layouts, as well as an extensible JSON-based layout inflater.
+* [SuperLayout](https://github.com/lionheart/SuperLayout) - Simplify Auto Layout with super syntactic sugar.
 
 ## Localization
 * [Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
