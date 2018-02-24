@@ -287,6 +287,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and macOS
 
 ## Cache
+
+*Thread safe, offline and high performance cache libs and frameworks.*
+
 * [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift) 
 * [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content 
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache 
