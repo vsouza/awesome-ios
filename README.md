@@ -253,6 +253,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS 
 * [YARCH](https://github.com/alfa-laboratory/YARCH-Examples) - More clean alternative to VIPER with unidirectional data flow (flux-like). 
 * [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
+* [Tempura](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 
 ## ARKit
