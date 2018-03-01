@@ -494,6 +494,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support 
 * [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit 
 * [FirebaseHelper](https://github.com/quanvo87/FirebaseHelper) - Safe and easy wrappers for common Firebase Realtime Database functions.
+* [Shallows](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 
 ## Data Structures / Algorithms
 * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift 
