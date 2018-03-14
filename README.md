@@ -2076,6 +2076,8 @@ Most of these are paid services, some have free tiers.
 * [Daysquare](https://github.com/unixzii/Daysquare) - An elegant calendar control for iOS.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern 
 * [Calendar](https://github.com/jumartin/Calendar) - A set of views and controllers for displaying and scheduling events on iOS
+* [ios_calendar](https://github.com/maximbilan/ios_calendar) - It's lightweight and simple control with supporting Locale and CalendarIdentifier. There're samples for iPhone and iPad, and also with using a popover. With supporting Persian calendar
+* [FSCalendar+Persian](https://github.com/Husseinhj/FSCalendar) - Persian version of the FSCalendar. A fully customizable iOS calendar library, compatible with Objective-C and Swift
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Simple customizable calendar component in Swift 
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time 
 * [RCalendarPicker](https://github.com/roycms/RCalendarPicker) - RCalendarPicker A date picker control.
@@ -2636,7 +2638,8 @@ CollectionView, make Instagram Discover within minutes.
 * [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding) - A simple and handsome AlertView for onboard your users in your amazing world. 
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift. 
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider 
-* [InfoView](https://github.com/anatoliyv/InfoView) - Swift based simple information view with pointed arrow. 
+* [Material Showcase iOS](https://github.com/aromajoin/material-showcase-ios) - An elegant and beautiful showcase for iOS apps.
+* [InfoView](https://github.com/anatoliyv/InfoView) - Swift based simple information view with pointed arrow.
 * [Intro](https://github.com/nbolatov/Intro) - An iOS framework to easily create simple animated walkthrough, written in Swift. 
 * [AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Tool to create awesome tutorials or educate user to use application. Or just highlight something on screen. Written in Swift. 
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - A simple way to add onboarding to your project. 
