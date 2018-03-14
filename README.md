@@ -2076,6 +2076,7 @@ Most of these are paid services, some have free tiers.
 * [ASCalendar](https://github.com/scamps88/ASCalendar) - A calendar control for iOS written in swift with mvvm pattern 
 * [Calendar](https://github.com/jumartin/Calendar) - A set of views and controllers for displaying and scheduling events on iOS
 * [ios_calendar](https://github.com/maximbilan/ios_calendar) - It's lightweight and simple control with supporting Locale and CalendarIdentifier. There're samples for iPhone and iPad, and also with using a popover. With supporting Persian calendar
+* [FSCalendar+Persian](https://github.com/Husseinhj/FSCalendar) - Persian version of the FSCalendar. A fully customizable iOS calendar library, compatible with Objective-C and Swift
 * [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - Simple customizable calendar component in Swift 
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time 
 * [RCalendarPicker](https://github.com/roycms/RCalendarPicker) - RCalendarPicker A date picker control.
