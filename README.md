@@ -2882,6 +2882,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 * [iOS10 day-by-day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index) 
 * [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
+* [iOS Dev Directory](https://iosdevdirectory.com/) - a comprehensive list of blogs & sites covering iOS development. 
 
 #### UIKit references
 * [iOS Fonts](http://iosfonts.com/)
@@ -2943,7 +2944,7 @@ CollectionView, make Instagram Discover within minutes.
 #### Medium
 * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 * [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language
-* [Flawless App](https://medium.com/flawless-app-stories) - Development & design & marketing tips for iOS developers.
+* [Flawless App Stories](https://medium.com/flawless-app-stories) - Development & design & marketing tips for iOS developers.
 
 # Social Media
 
@@ -2961,6 +2962,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio/about/)
 * [Origami Community](https://www.facebook.com/groups/origami.community/about/)
 * [Framer JS](https://www.facebook.com/groups/framerjs/about/)
+* [Swift iOS Development](https://www.facebook.com/groups/swiftiosdev/)
 
 # Podcasts
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
