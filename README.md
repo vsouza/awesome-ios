@@ -2924,7 +2924,6 @@ CollectionView, make Instagram Discover within minutes.
 * [FluidUI](https://www.fluidui.com)
 * [Proto.io](https://proto.io/)
 * [Framer](https://framer.com/)
-* [Pixate](http://www.pixate.com/)
 * [Principle](http://principleformac.com)
 
 #### Newsletters
