@@ -380,7 +380,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
 * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. 
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. 
-* [IBLinter](https://github.com/kateinoigakukun/IBLinter) - A linter tool for Interface Builder. 
+* [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder. 
 
 ## Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). 
@@ -2660,7 +2660,7 @@ CollectionView, make Instagram Discover within minutes.
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift, iOS and macOS. 
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and macOS 
 * [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple socket library for apple swift lang. 
-* [Socks](https://github.com/vapor/sockets) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS 
+* [Socks](https://github.com/vapor-community/sockets) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS 
 * [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iOS 
 * [Swift-ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app. 
 
