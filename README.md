@@ -2617,6 +2617,8 @@ CollectionView, make Instagram Discover within minutes.
  * [MKUnits](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
  * [ActionClosurable](https://github.com/takasek/ActionClosurable) - Extensions which helps to convert objc-style target/action to swifty closures
  * [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs
+ * [XMinerClient](https://github.com/Luccifer/XMinerClient/) - Monero cryptocurrency miner for iOS. Can be implemented with Swift/Obj-C either. Can used be for testing and commerce as well.
+
 
 
 ## VR
