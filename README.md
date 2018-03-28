@@ -4,6 +4,7 @@
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://gitter.im/vsouza/awesome-ios"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
   <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
+  <img alt="pr-closed" src="https://img.shields.io/github/issues-pr-closed/vsouza/awesome-ios.svg" />
   <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/swift" />
   <img alt="Language" src="https://awesomelinkcounter.herokuapp.com/objc" />
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
