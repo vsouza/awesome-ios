@@ -563,7 +563,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NetworkEye](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
 * [Dotzu](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect measurements, attributes, and animations.
-* [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API. 
+* [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API.
+* [Droar](https://github.com/myriadmobile/Droar) - Droar is a modular, single-line installation debugging window
 
 ## EventBus
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. 
