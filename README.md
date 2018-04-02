@@ -1156,6 +1156,7 @@ Also see [push notifications](#push-notifications)
 * [Bamboots](https://github.com/mmoaay/Bamboots) - Bamboots is a network request framework based on Alamofire, aiming at making network request easier for business development 
 * [MultiPeer](https://github.com/dingwilson/MultiPeer) - An easy-to-use wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
 * [SolarNetwork](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer in Swift.
+* [FGRoute](https://github.com/Feghal/FGRoute) - An easy-to-use library that helps developers to get wifi ssid, router and device ip addresses.
 * [RxRestClient] (https://github.com/stdevteam/RxRestClient) - Simple REST Client based on RxSwift and Alamofire. 
 
 #### Email
