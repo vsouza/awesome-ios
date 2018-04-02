@@ -851,7 +851,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [Serrano](https://github.com/pcpLiu/Serrano) - A deep learning library for iOS and macOS. 
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library. 
-* [TensorSwift](https://github.com/qoncept/TensorSwift) - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's. 
+* [TensorSwift](https://github.com/qoncept/TensorSwift) - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's.
+* [Awesome ML](https://github.com/eugenebokhan/Awesome-ML) - Discover, download, compile & launch different image processing CoreML models on iOS.
 
 ## Maps
 * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
