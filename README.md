@@ -1647,7 +1647,6 @@ Most of these are paid services, some have free tiers.
 * [ABKit](https://github.com/recruit-mp/ABKit) - AB testing framework for iOS 
 
 #### UI Testing
-* [CrashMonkey](https://github.com/mokemokechicken/CrashMonkey) - Monkey Test Tool For iOS.
 * [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
 * [robotframework-appiumlibrary](https://github.com/serhatbolsu/robotframework-appiumlibrary) - AppiumLibrary is an appium testing library for RobotFramework.
 * [Cucumber](https://cucumber.io/) - Behavior driver development for iOS.
