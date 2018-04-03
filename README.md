@@ -406,6 +406,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Gestalt](https://github.com/regexident/Gestalt) - An unintrusive & light-weight iOS app-theming library with support for animated theme switching. 
 
 ## Command Line
+
+*Smart, beauftil and elegant tools to help you create command line applications.*
+
 * [Swiftline](https://github.com/nsomar/Swiftline) - Swiftline is a set of tools to help you create command line applications. 
 * [CommandLine](https://github.com/jatoben/CommandLine) - A pure Swift library for creating command-line interfaces 
 * [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift 
