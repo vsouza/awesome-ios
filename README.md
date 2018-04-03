@@ -800,6 +800,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SuperLayout](https://github.com/lionheart/SuperLayout) - Simplify Auto Layout with super syntactic sugar.
 
 ## Localization
+
+*Tools to manage strings files, translate and enable localization in your apps.*
+
 * [Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize iOS apps in a smarter way using JSON files. Swift framework. 
 * [Rubustrings](https://github.com/dcordero/Rubustrings) - Check the format and consistency of Localizable.strings files
