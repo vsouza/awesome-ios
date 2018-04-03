@@ -1476,7 +1476,6 @@ Most of these are paid services, some have free tiers.
 * [JamfKit](https://github.com/ethenyl/JamfKit) - A JSS communication framework written in Swift.
 
 ## Security
-* [🗄 Vault](https://github.com/umbri/Vault) - Simple and Secure container for passwords and other sensitive data
 * [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
 * [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
 * [SwiftPasscodeLock](https://github.com/yankodimitrov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift. 
@@ -1491,7 +1490,7 @@ Most of these are paid services, some have free tiers.
 * [TOPasscodeViewController](https://github.com/timoliver/TOPasscodeViewController) - A modal passcode input and validation view controller for iOS
 * [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication 
 * [KKPinCodeTextField](https://github.com/kolesa-team/ios_pinCodeTextField) - A customizable verification code textField for phone verification codes, passwords etc.
-
+* [🗄 Vault](https://github.com/umbri/Vault) - Simple and Secure container for passwords and other sensitive data
 
 #### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
