@@ -418,6 +418,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CommandCougar](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications. 
 
 ## Concurrency
+
+*Job schedulers, Coroutines, Asynchronous and Type safe threads libs and frameworks written in Swift*
+
 * [Venice](https://github.com/Zewo/Venice) - CSP (Coroutines, Channels, Select) for Swift 
 * [Concurrent](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives 
 * [Flow](https://github.com/JohnSundell/Flow) - Operation Oriented Programming in Swift 
