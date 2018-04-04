@@ -1366,6 +1366,7 @@ Most of these are paid services, some have free tiers.
 * [VueFlux](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture for Swift - Inspired by Vuex and Flux 
 * [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) - Animated RxCocoa bindings
 * [BindKit](https://github.com/electricbolt/bindkit) - Two-way data binding framework for iOS. Only one API to learn.
+* [STDevRxExt](https://github.com/stdevteam/STDevRxExt) - STDevRxExt contains some extension functions for RxSwift and RxCocoa which makes our live easy.
 
 #### React-Like
 * [Render](https://github.com/alexdrone/Render) - Swift and UIKit a la React. 
@@ -2619,7 +2620,6 @@ CollectionView, make Instagram Discover within minutes.
  * [MKUnits](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
  * [ActionClosurable](https://github.com/takasek/ActionClosurable) - Extensions which helps to convert objc-style target/action to swifty closures
  * [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs
- * [STDevRxExt](https://github.com/stdevteam/STDevRxExt) - STDevRxExt contains some extension functions for RxSwift and RxCocoa which makes our live easy.
 
 ## VR
 * [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS 
