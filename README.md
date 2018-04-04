@@ -2770,6 +2770,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Natalie](https://github.com/krzyzanowskim/Natalie) - Storyboard Code Generator. 
 * [Transformer](https://github.com/andresinaka/transformer) - Easy Online Attributed String Creator. This tool lets you format a string directly in the browser and then copy/paste the attributed string code into your app.
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files.
+* [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - A tool to convert Xcode .xib to .storyboard files.
 
 # Rapid Development
 * [Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) - Playgrounds for Objective-C for extremely fast prototyping / learning.
