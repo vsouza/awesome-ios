@@ -671,6 +671,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MKGradientView](https://github.com/maxkonovalov/MKGradientView) - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift. 
 * [EPShapes](https://github.com/ipraba/EPShapes) - Design shapes in Interface Builder. 
 * [Macaw](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. 
+* [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator. 
 
 ## Hardware
 #### Bluetooth
