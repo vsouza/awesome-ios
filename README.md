@@ -1777,7 +1777,7 @@ Most of these are paid services, some have free tiers.
 * [HoverConversion](https://github.com/marty-suzuki/HoverConversion) - HoverConversion realized vertical paging with UITableView. UIViewController will be paging when reaching top or bottom of UITableView contentOffset. :large_orange_diamond:
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) - A cells of UITableView can be rearranged by drag and drop. :large_orange_diamond:
 * [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
-* [AUPickerCell](https://github.com/azizuysal/AUPickerCell.git) - Embedded date and string picker view for table cells with animation, , written in Swift 🔶
+* [AUPickerCell](https://github.com/azizuysal/AUPickerCell.git) - Embedded date and string picker for table cells with animation, written in Swift 🔶.
 
 #### Tag
 * [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
