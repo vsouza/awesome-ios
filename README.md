@@ -427,7 +427,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Brisk](https://github.com/jmfieldman/Brisk) - A Swift DSL that allows concise and effective concurrency manipulation. 
 * [Aojet](https://github.com/aojet/Aojet) - An actor model library for swift.
 * [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based Swift framework with focus on type safety, concurrency and multi threading. 
-* [NSLock+Synchronized](https://github.com/Jon-Schneider/NSLock-Synchronized) - Do you miss @synchronized in Swift? NSLock+Synchronized gives you back @synchronized in Swift via a global function and NSLock class and instance methods, conveniently usable via CocoaPods and Carthage Framework. [e]
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives. 
 * [Kommander](https://github.com/intelygenz/Kommander-iOS) - Kommander is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand. 
 * [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift 
@@ -620,7 +619,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project. 
 * [Swiftz](https://github.com/typelift/Swiftz) -  Functional programming in Swift. 
 * [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the  Optional Type. [e]
-* [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift. It's inspired by LoDash, Underscore project. 
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift 
 * [Runes](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift. 
 
@@ -1593,7 +1591,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by [validator.js](https://www.npmjs.com/package/validator).
 * [StringStylizer](https://github.com/kazuhiro4949/StringStylizer) - Type strict builder class for NSAttributedString. 
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swift extensions that make it a breeze to work with attributed strings. 
-* [MarkdownKit](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser for Swift. 
+* [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser for Swift. 
 * [CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown) - Markdown parsing and rendering for iOS and macOS. 
 * [Apodimark](https://github.com/loiclec/Apodimark) - Fast, flexible markdown parser written in Swift. 
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting. 
