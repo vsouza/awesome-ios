@@ -1493,6 +1493,7 @@ Most of these are paid services, some have free tiers.
 * [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication 
 * [KKPinCodeTextField](https://github.com/kolesa-team/ios_pinCodeTextField) - A customizable verification code textField for phone verification codes, passwords etc.
 * [🗄 Vault](https://github.com/umbri/Vault) - Simple and Secure container for passwords and other sensitive data
+* [Virgil Security Objective-C/Swift SDK](https://github.com/VirgilSecurity/virgil-sdk-x) -  An SDK which allows developers to add full end-to-end security to their existing digital solutions to become HIPAA and GDPR compliant and more using Virgil API. 
 
 #### Encryption
 * [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
