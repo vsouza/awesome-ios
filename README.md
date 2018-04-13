@@ -537,6 +537,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library. 
 * [RandMyMod](https://github.com/jamesdouble/RandMyMod) - RandMyMod base on your own struct or class create one or a set of randomized instance.
 * [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+* [ClassicProblemSolvingAndDataStructuresInSwift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) - Collection of popular algorithms, data structure and problem solving in Swift 4. 
 
 ## Date & Time
 
