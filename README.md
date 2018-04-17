@@ -2055,6 +2055,7 @@ Most of these are paid services, some have free tiers.
 * [InAppNotify](https://github.com/lucabecchetti/InAppNotify) - Swift library to manage in-app notification in swift language, like WhatsApp, Telegram, Frind, etc.
 * [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) - FloatingActionSheetController is a cool design ActionSheetController library written in Swift.
 * [TOActionSheet](https://github.com/TimOliver/TOActionSheet) - A custom-designed reimplementation of the UIActionSheet control for iOS
+* [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet 😎
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift. 
 
 #### Badge
