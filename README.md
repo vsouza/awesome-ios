@@ -39,6 +39,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Architecture Patterns](#architecture-patterns)
     - [ARKit](#arkit)
     - [Authentication](#authentication)
+    - [Blockchain](#blockchain)
     - [Bridging](#bridging)
     - [Cache](#cache)
     - [Charts](#charts)
@@ -282,6 +283,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - A simple way to authenticate Instagram accounts on iOS. 
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS. 
 * [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to login and retrieve access token from LinkedIn. 
+
+## Blockchain
+* [Web3.swift](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
 
 ## Bridging
 * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
