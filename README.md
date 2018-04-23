@@ -646,7 +646,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift. 
  * [Chronos-Swift](https://github.com/comyar/Chronos-Swift) - :hourglass: Grand Central Dispatch Utilities 
  * [Me](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations. 
- * [SwiftyTask](https://github.com/CR-Creations/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure. 
+ * [SwiftyTask](https://github.com/Albinzr/swiftytask/) 🌸  - An extreme queuing system with high performance for managing all task in app with closure (Swift 4.1+). 
 
 ## Gesture
 * [Tactile](https://github.com/delba/Tactile) - A better way to handle gestures on iOS 
