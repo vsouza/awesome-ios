@@ -635,6 +635,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AssetImportKit](https://github.com/eugenebokhan/AssetImportKit) - Swifty cross platform library (macOS, iOS) that converts Assimp supported models to SceneKit scenes.
 
 ## GCD
+ * [SwiftyTask](https://github.com/Albinzr/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure. 
  * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift. 
  * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch 
  * [SwiftSafe](https://github.com/nodes-ios/SwiftSafe) - Thread synchronization made easy 
@@ -646,7 +647,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift. 
  * [Chronos-Swift](https://github.com/comyar/Chronos-Swift) - :hourglass: Grand Central Dispatch Utilities 
  * [Me](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations. 
- * [SwiftyTask](https://github.com/CR-Creations/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure. 
+ 
 
 ## Gesture
 * [Tactile](https://github.com/delba/Tactile) - A better way to handle gestures on iOS 
