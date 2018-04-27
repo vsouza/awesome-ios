@@ -178,8 +178,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing-and-license)
 
-***
-
 
 ## Courses
 
