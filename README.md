@@ -1244,7 +1244,7 @@ Most of these are paid services, some have free tiers.
 * [PushBots](https://pushbots.com/)
 * [Pushwoosh](https://www.pushwoosh.com)
 * [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
-* [Pusher](https://pusher.com/push-notifications) - Free and unlimited.
+* [Pusher](https://pusher.com/beams) - Free and unlimited.
 * [Swrve](https://www.swrve.com)
 
 ### Local Notifications
@@ -2343,7 +2343,7 @@ Most of these are paid services, some have free tiers.
 * [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS inspired by [concept](https://dribbble.com/shots/2242263--1-Pull-to-refresh-Freebie-Weather-Concept).
 * [ESPullToRefresh](https://github.com/eggswift/pull-to-refresh) - Customisable pull-to-refresh, including nice animation on the top
 * [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh.
-* [KafkaRefresh](https://github.com/xorshine/KafkaRefresh) - Highly scalable, custom, multi-style refresh framework.
+* [KafkaRefresh](https://github.com/OpenFeyn/KafkaRefresh) - Highly scalable, custom, multi-style refresh framework.
 
 ### Rating Stars
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - Whole, half or floating point ratings control written in Swift
