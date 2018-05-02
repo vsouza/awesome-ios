@@ -2991,6 +2991,7 @@ CollectionView, make Instagram Discover within minutes.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials.
 * [Realm Academy](https://academy.realm.io/)
+* [LearnAppMaking](https://learnappmaking.com) - LearnAppMaking helps app developers to build, launch and market iOS apps.
 
 ### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
