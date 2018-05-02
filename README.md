@@ -231,6 +231,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - Navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [Linker](https://github.com/MaksimKurpa/Linker) - Lightweight way to handle internal and external deeplinks for iOS, written in Swift 4.
+* [CoreNavigation](https://github.com/aronbalog/CoreNavigation) - 📱📲 Navigate between view controllers with ease. 💫
 
 ## Apple TV
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
