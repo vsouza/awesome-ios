@@ -889,6 +889,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Serrano](https://github.com/pcpLiu/Serrano) - A deep learning library for iOS and macOS.
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
 * [TensorSwift](https://github.com/qoncept/TensorSwift) - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's.
+* [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
 
 ## Maps
 
@@ -3111,4 +3112,3 @@ CollectionView, make Instagram Discover within minutes.
 ## Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
-
