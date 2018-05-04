@@ -889,7 +889,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Serrano](https://github.com/pcpLiu/Serrano) - A deep learning library for iOS and macOS.
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
 * [TensorSwift](https://github.com/qoncept/TensorSwift) - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's.
-* [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
 
 ## Maps
 
@@ -953,6 +952,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PandoraPlayer](https://github.com/AppliKeySolutions/PandoraPlayer) - A lightweight music player for iOS, based on AudioKit and completely written in Swift
 * [SonogramView](https://github.com/Luccifer/SonogramView) - Audio visualisation of song
 * [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars) - AIB indicates for your app users which audio is playing. Just like the Podcasts app.
+* [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
 
 ### GIF
 
