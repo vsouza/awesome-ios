@@ -952,6 +952,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PandoraPlayer](https://github.com/AppliKeySolutions/PandoraPlayer) - A lightweight music player for iOS, based on AudioKit and completely written in Swift
 * [SonogramView](https://github.com/Luccifer/SonogramView) - Audio visualisation of song
 * [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars) - AIB indicates for your app users which audio is playing. Just like the Podcasts app.
+* [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
 
 ### GIF
 
@@ -3111,4 +3112,3 @@ CollectionView, make Instagram Discover within minutes.
 ## Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
-
