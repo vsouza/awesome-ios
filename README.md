@@ -2094,7 +2094,6 @@ Most of these are paid services, some have free tiers.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet 😎
 * [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts.
-* [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Highly customizable popups, alerts and banners presenter for iOS. It offers various presets and is written in pure Swift.
 
 ### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
