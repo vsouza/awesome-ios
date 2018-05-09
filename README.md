@@ -548,6 +548,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library.
 * [RandMyMod](https://github.com/jamesdouble/RandMyMod) - RandMyMod base on your own struct or class create one or a set of randomized instance.
 * [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
+* [Differific](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
 ## Date & Time
 
