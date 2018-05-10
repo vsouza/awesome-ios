@@ -1314,6 +1314,7 @@ Most of these are paid services, some have free tiers.
 * [PMHTTP](https://github.com/postmates/PMHTTP) - Swift/Obj-C HTTP framework with a focus on REST and JSON.
 * [NativeJSONMapper](https://github.com/DimaMishchenko/NativeJSONMapper) - Simple Swift 4 encoding & decoding.
 * [PMJSON](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library.
+* [jsoncafe.com](http://www.jsoncafe.com/) - Online Template driven Model Class Generator from JSON.
 
 ### XML & HTML
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift.
