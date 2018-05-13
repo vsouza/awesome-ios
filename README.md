@@ -760,6 +760,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [LocationPicker](https://github.com/JeromeTan1997/LocationPicker) - A ready for use and fully customizable location picker for your app
 * [BBLocationManager](https://github.com/benzamin/BBLocationManager) - A Location Manager for easily implementing location services & geofencing in iOS.
 * [set-simulator-location](https://github.com/lyft/set-simulator-location) - CLI for setting location in the iOS simulator.
+* [NominatimKit](https://github.com/caloon/NominatimKit) - A Swift wrapper for (reverse) geocoding of OpenStreetMap data.
 
 ### Other Hardware
 
@@ -1216,6 +1217,7 @@ Also see [push notifications](#push-notifications)
 
 * [Mail Core 2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
 * [Postal](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers.
+* [EmailOctopusKit](https://github.com/caloon/EmailOctopusKit) - Email Campaigns and Marketing Automation on iOS powered by EmailOctopus.
 
 ## Representations
 
