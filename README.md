@@ -2859,6 +2859,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Perform](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues.
 * [Alchemic](https://github.com/drekka/Alchemic) - Advanced, yet simple to use DI framework for Objective-C.
 * [Guise](https://github.com/prosumma/Guise) - An elegant, flexible, type-safe dependency resolution framework for Swift
+* [Weaver](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift
 
 
 ## Deployment / Distribution
