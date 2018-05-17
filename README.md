@@ -2018,6 +2018,7 @@ Most of these are paid services, some have free tiers.
 * [PMTween](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
 * [VariousViewsEffects](https://github.com/artrmz/VariousViewsEffects) - Animates views nicely with easy to use extensions.
 * [TheAnimation](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
+* [Poi](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
 
 ### Transition
 * [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
