@@ -1724,7 +1724,7 @@ Most of these are paid services, some have free tiers.
 * [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
 * [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
 * [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any iOS native, hybrid, or mobile web application using Selenium / WebDriver.
-* [Zucchini](https://github.com/zucchini-src/zucchini) - A visual iOS testing framework that loves your apps.
+* [Zucchini](https://github.com/lxmx/zucchini) - A visual iOS testing framework that loves your apps.
 * [Remote](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing.
 * [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) - Write unit tests which test the layout of a view in multiple configurations.
 * [EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework.
