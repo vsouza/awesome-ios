@@ -120,6 +120,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Badge](#badge)
     - [Button](#button)
     - [Calendar](#calendar)
+    - [Cards](#cards)
     - [Form & Settings](#form--settings)
     - [Keyboard](#keyboard)
     - [Label](#label)
@@ -2184,6 +2185,9 @@ Most of these are paid services, some have free tiers.
 * [KDCalendarView](https://github.com/mmick66/CalendarView) - A calendar component for iOS written in Swift 4.0. It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 * [CalendarPopUp](https://github.com/orazz/CalendarPopUp) - CalendarPopUp - JTAppleCalendar library.
 * [ios_calendar](https://github.com/maximbilan/ios_calendar) - It's lightweight and simple control with supporting Locale and CalendarIdentifier. There're samples for iPhone and iPad, and also with using a popover. With supporting Persian calendar
+
+### Cards
+* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit. 
 
 ### Form & Settings
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
