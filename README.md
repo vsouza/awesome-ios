@@ -271,6 +271,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 
 ## ARKit
+
+*Library and tools to help you build unparalleled augmented reality experiences*
+
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) -Combines the high accuracy of AR with the scale of GPS data.
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
@@ -302,6 +305,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Web3.swift](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
 
 ## Bridging
+
+*Sharing code between Objective-C and Swift, iOS and macOS, Javascript and Objective-C.*
 
 * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
 * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
