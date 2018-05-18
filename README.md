@@ -241,6 +241,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 
 ## Apple TV
+
+*tvOS view controllers, wrappers, template managers and video players.*
+
 * [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
 * [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and macOS
 * [TVMLKitchen](https://github.com/toshi0383/TVMLKitchen) - Swifty TVML template manager with or without client-server
