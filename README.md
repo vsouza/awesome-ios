@@ -522,12 +522,11 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [OHMySQL](https://github.com/oleghnidets/OHMySQL) - An Objective-C wrapper of MySQL C API.
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB
 * [OneStore](https://github.com/muukii/OneStore) - A single value proxy for NSUserDefaults, with clean API.
-* [MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB) - A Swift wrapper around the mongo-c client library, enabling access to MongoDB servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
-* [SQLite](https://github.com/PerfectlySoft/Perfect-SQLite) - A Swift wrapper around the SQLite 3 client library, enabling access to SQLite servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
-* [MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) - A Swift wrapper around the MySQL client library, enabling access to MySQL servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
-* [Redis](https://github.com/PerfectlySoft/Perfect-Redis) - A Swift wrapper around the Redis client library, enabling access to Redis. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
-* [PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) - A Swift wrapper around the libpq client library, enabling access to PostgreSQL servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
-* [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers. Part of the [Perfect](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
+* [MongoDB](https://github.com/PerfectlySoft/Perfect-MongoDB) - A Swift wrapper around the mongo-c client library, enabling access to MongoDB servers.
+* [MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) - A Swift wrapper around the MySQL client library, enabling access to MySQL servers.
+* [Redis](https://github.com/PerfectlySoft/Perfect-Redis) - A Swift wrapper around the Redis client library, enabling access to Redis.
+* [PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) - A Swift wrapper around the libpq client library, enabling access to PostgreSQL servers.
+* [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers.
 * [Nora](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for working with FirebaseDatabase and FirebaseStorage.
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk.
 * [WCDB](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
@@ -573,8 +572,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## Date & Time
 
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions in Swift
-* [SwiftDate](https://github.com/malcommac/SwiftDate) - Easy NSDate Management in Swift 2.0
-* [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library written in Swift 2
+* [SwiftDate](https://github.com/malcommac/SwiftDate) - The best way to manage Dates and Timezones in Swift.
+* [SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
 * [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
 * [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift
@@ -648,7 +647,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift.
 * [Funky](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
-* [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions. [e]
+* [Oriole](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift protocol extensions. [e]
 * [Prelude](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools.
 * [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 * [Swiftz](https://github.com/typelift/Swiftz) -  Functional programming in Swift.
