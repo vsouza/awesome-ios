@@ -466,6 +466,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Core Data
 
+*Core data Frameworks, wrappers, generators and boilerplates.*
+
 * [CWCoreData](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
 * [ObjectiveRecord](https://github.com/supermarin/ObjectiveRecord) - ActiveRecord for Objective-C.
 * [SSDataKit](https://github.com/soffes/SSDataKit) - Eliminate your Core Data boilerplate code.
