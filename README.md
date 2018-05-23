@@ -304,6 +304,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## Blockchain
 
 * [Web3.swift](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
+* [web3swift](https://github.com/BANKEX/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 
 ## Bridging
 
