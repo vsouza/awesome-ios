@@ -590,7 +590,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TrueTime](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes. (NTP library for Swift) .
 * [10Clock](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
 * [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
-* [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library
 * [AnyDate](https://github.com/Kawoou/AnyDate) - Swifty Date & Time API inspired from Java 8 DateTime API.
 * [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app.
 * [Time](https://github.com/dreymonde/Time) - Type-safe time calculations in Swift, powered by generics. [e]
@@ -598,6 +597,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
 * [TimePicker](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift
+* [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library
 
 ## Debugging
 
