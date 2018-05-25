@@ -597,6 +597,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
 * [TimePicker](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift
+* [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library
 
 ## Debugging
 
