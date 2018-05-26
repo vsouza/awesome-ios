@@ -1237,6 +1237,7 @@ Also see [push notifications](#push-notifications)
 * [TermiNetwork](https://github.com/billp/TermiNetwork) - A networking library written with Swift 4.0 that supports multi-environment configuration, routing and automatic deserialization
 * [Dots](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
 * [Gem](https://github.com/Albinzr/Gem) - An extreme light weight system with high performance for managing all http request with automated parser with modal.
+* [RMHttp](https://github.com/rogermolas/RMHttp) - Lightweight REST library for iOS and watchOS.
 
 ### Email
 
