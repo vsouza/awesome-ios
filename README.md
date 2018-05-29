@@ -1164,7 +1164,7 @@ Also see [push notifications](#push-notifications)
 * [chat-sdk-ios](https://github.com/chat-sdk/chat-sdk-ios) - Chat SDK iOS - Open Source Mobile Messenger.
 * [AsyncMessagesViewController](https://github.com/nguyenhuy/AsyncMessagesViewController) - A smooth, responsive and flexible messages UI library for iOS.
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
-* [ApplozicChat](https://github.com/AppLozic/Applozic-iOS-SDK) - Open source iOS Chat and Messaging SDK that lets you add real time messaging in your mobile apps and website.
+* [ApplozicChat](https://github.com/AppLozic/ApplozicSwift) - Open source iOS Chat and Messaging SDK that lets you add real time messaging in your mobile apps and website.
 
 ## Networking
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
