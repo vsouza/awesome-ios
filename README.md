@@ -284,6 +284,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Google Poly SDK – search and display 3D models
 
 ## Authentication
+
+*Oauth and Oauth2 libraries, social logins and captcha tools.*
+
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift.
 * [OhMyAuth](https://github.com/hyperoslo/OhMyAuth) - Simple OAuth2 library with a support of multiple services.
 * [AuthenticationViewController](https://github.com/raulriera/AuthenticationViewController) - A simple to use, standard interface for authenticating to oauth 2.0 protected endpoints via SFSafariViewController.
@@ -302,6 +305,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to login and retrieve access token from LinkedIn.
 
 ## Blockchain
+
+*Tool for smart contract interactions. Bitcoin protocol implementations and Frameworks for interacting with cryptocurrencies.*
 
 * [Web3.swift](https://github.com/Boilertalk/Web3.swift) - Web3 library for interacting with the Ethereum blockchain.
 * [web3swift](https://github.com/BANKEX/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
