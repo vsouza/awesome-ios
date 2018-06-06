@@ -556,6 +556,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Data Structures / Algorithms
 
+*Diffs, keypaths, sorted lists and other amazing data structures wrappers and libraries.*
+
 * [SwiftSortedList](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift
 * [Changeset](https://github.com/osteslag/Changeset) - Minimal edits from one collection to another
 * [BTree](https://github.com/attaswift/BTree) - Fast ordered collections for Swift using in-memory B-trees
