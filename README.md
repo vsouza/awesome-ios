@@ -139,7 +139,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Switch](#switch)
     - [Tab Bar](#tab-bar)
     - [Table View / Collection View](#table-view--collection-view)
-      - [ExpandableCell](#expandablecell)
+      - [Expandable Cell](#expandable-cell)
       - [Header](#header)
       - [Placeholder](#placeholder)
     - [Tag](#tag)
@@ -2523,8 +2523,8 @@ Most of these are paid services, some have free tiers.
 * [SmoothTab](https://github.com/yervandsar/SmoothTab) - Smooth customizable tabs for iOS apps.
 * [ExpandedTabBar](https://github.com/yervandsar/ExpandedTabBar) - Very creative designed solution for "more" items in UITabBarController
 
-### Table View / Collection View
 
+### Table View / Collection View
 
 * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 * [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
@@ -2597,7 +2597,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Stefan](https://github.com/appunite/Stefan) - A guy that helps you manage collections and placeholders in easy way.
 * [Parade](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
 
-#### ExpandableCell
+#### Expandable Cell
 
 * [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
 * [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells).
