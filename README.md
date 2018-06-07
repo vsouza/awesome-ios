@@ -140,7 +140,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Tab Bar](#tab-bar)
     - [Table View / Collection View](#table-view--collection-view)
       - [Header](#header)
-      - [PlaceHolder](#placeholder)
+      - [Placeholder](#placeholder)
     - [Tag](#tag)
     - [TextField & TextView](#textfield--textview)
     - [UIPageControl](#uipagecontrol)
