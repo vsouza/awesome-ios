@@ -1361,6 +1361,7 @@ Most of these are paid services, some have free tiers.
 * [NativeJSONMapper](https://github.com/DimaMishchenko/NativeJSONMapper) - Simple Swift 4 encoding & decoding.
 * [PMJSON](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library.
 * [jsoncafe.com](http://www.jsoncafe.com/) - Online Template driven Model Class Generator from JSON.
+* [Mappable](https://github.com/leavez/Mappable) - lightweight and powerful JSON object mapping library, specially optimized for immutable properties.
 
 ### XML & HTML
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift.
