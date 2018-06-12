@@ -145,7 +145,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Tag](#tag)
     - [TextField & TextView](#textfield--textview)
     - [UIPageControl](#uipagecontrol)
-    - [Web View](#web--view)
+    - [Web View](#web-view)
 - [Utility](#utility)
 - [VR](#vr)
 - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
