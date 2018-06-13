@@ -633,7 +633,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Droar](https://github.com/myriadmobile/Droar) - Droar is a modular, single-line installation debugging window
 
 ## EventBus
-* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8.
+* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and macOS.
 * [Bolts](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier, including tasks (promises) and app links (deep links).
 * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.
