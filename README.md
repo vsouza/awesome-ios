@@ -188,7 +188,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 * [Apple- Start Developing with iOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide.
 * [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
-* [Apple - Programming with Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+* [Apple - Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 * [CodeProject](https://www.codeproject.com/articles/88929/getting-started-with-iphone-and-ios-development) - Getting Started with iPhone and iOS Development.
 * [Lifehacker](https://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
 * [Ray Wenderlich](https://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
@@ -201,7 +201,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Other free courses
 
- * [Codeschool - Exploring Google Maps for iOS](https://www.codeschool.com/courses/exploring-google-maps-for-ios)
+ * [Codeschool - Exploring Google Maps for iOS](https://www.pluralsight.com/courses/exploring-google-maps-for-ios)
 
 ## Analytics
 
@@ -331,7 +331,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 * [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift)
 * [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content
-* [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache
+* [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [YYCache](https://github.com/ibireme/YYCache) - High performance cache framework for iOS.
 * [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
@@ -2814,7 +2814,7 @@ CollectionView, make Instagram Discover within minutes.
 * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
 * [xclint](https://github.com/xcodeswift/xclint) - Validate the state of your Xcode projects.
-* [xcproj](https://github.com/xcodeswift/xcproj) - Read and update Xcode projects.
+* [xcproj](https://github.com/xcode-project-manager/xcproj) - Read and update Xcode projects.
 
 
 ## Dependency / Package Manager
@@ -3057,7 +3057,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Tutorials Point](https://www.tutorialspoint.com/ios/index.htm)
 * [Code with Chris](https://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Code School - Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+* [Code School - Try Objective-C](https://www.pluralsight.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
@@ -3142,7 +3142,6 @@ CollectionView, make Instagram Discover within minutes.
 
 ## Books
 * [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
-* [Using Swift with Cocoa and Objective C by Apple](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/books/ios-programming/)
 * [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
 * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
