@@ -1910,6 +1910,7 @@ Most of these are paid services, some have free tiers.
 * [SwViewCapture](https://github.com/startry/SwViewCapture) - A nice iOS View Capture Swift Library which can capture all content.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable
 * [GDGauge](https://github.com/saeid/GDGauge) - Full Customizable, Beautiful, Easy to use gauge view Edit. 🔶
+* [EEStackLayout](https://github.com/efekanegeli/EEStackLayout) - A structured vertical stack layout.
 
 
 ### Activity Indicator
