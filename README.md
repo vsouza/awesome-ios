@@ -2219,6 +2219,7 @@ Most of these are paid services, some have free tiers.
 * [MMCardView](https://github.com/MillmanY/MMCardView) - Custom CollectionView like Wallet App
 * [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom collection view layout.
 * [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit.
+* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 
 ### Form & Settings
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
