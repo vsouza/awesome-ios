@@ -199,10 +199,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 * [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=CREATORS)
 
-### Other free courses
-
- * [Codeschool - Exploring Google Maps for iOS](https://www.pluralsight.com/courses/exploring-google-maps-for-ios)
-
 ## Analytics
 
  *Analytics platforms, SDK's, error tracking and real-time answers about your app*
@@ -1065,7 +1061,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [APKenBurnsView](https://github.com/Alterplay/APKenBurnsView) - Ken Burns effect with face recognition!
 * [Moa](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS. [e]
 * [JMCMarchingAnts](https://github.com/izotx/JMCMarchingAnts) - Library that lets you add marching ants (animated) selection to the edges of the images.
-* [ImageViewer](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter
+* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - An image viewer à la Twitter
 * [FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill.
 * [SwiftyAvatar](https://github.com/dkalaitzidis/SwiftyAvatar) - A UiimageView class for creating circular avatar images, IBDesignable to make all changes via storyboard
 * [ShinpuruImage](https://github.com/FlexMonkey/ShinpuruImage) - Syntactic Sugar for Accelerate/vImage and Core Image Filters
@@ -2816,7 +2812,7 @@ CollectionView, make Instagram Discover within minutes.
 * [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
 * [xclint](https://github.com/xcodeswift/xclint) - Validate the state of your Xcode projects.
-* [xcproj](https://github.com/xcode-project-manager/xcproj) - Read and update Xcode projects.
+* [xcproj](https://github.com/xcode-project-manager/xcodeproj) - Read and update Xcode projects.
 
 
 ## Dependency / Package Manager
@@ -3029,7 +3025,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Lifehacker](https://lifehacker.com/tag/ios)
 * [NSHipster](http://nshipster.com)
 * [Objc.io](https://www.objc.io/)
-* [ASCIIwwdc](http://asciiwwdc.com)
+* [ASCIIwwdc](https://asciiwwdc.com/)
 * [Natasha The Robot](https://www.natashatherobot.com/)
 * [Apple's Swift Blog](https://developer.apple.com/swift/blog/)
 * [iOS Programming Subreddit](https://www.reddit.com/r/iOSProgramming/)
@@ -3059,7 +3055,6 @@ CollectionView, make Instagram Discover within minutes.
 * [Tutorials Point](https://www.tutorialspoint.com/ios/index.htm)
 * [Code with Chris](https://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Code School - Try Objective-C](https://www.pluralsight.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
