@@ -2073,6 +2073,7 @@ Most of these are paid services, some have free tiers.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition
 * [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab
 * [AlertTransition](https://github.com/loopeer/AlertTransition) - AlertTransition is a extensible library for making view controller transitions, especially for alert transitions.
+* [SemiModalViewController](https://github.com/muyexi/SemiModalViewController) - Present view / view controller as bottom-half modal.
 
 ### Alert & Action Sheet
 
