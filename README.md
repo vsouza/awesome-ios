@@ -134,6 +134,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Segmented Control](#segmented-control)
     - [Slider](#slider)
     - [Splash View](#splash-view)
+    - [Status Bar](#status-bar)
     - [Stepper](#stepper)
     - [Switch](#switch)
     - [Tab Bar](#tab-bar)
@@ -2475,6 +2476,9 @@ Most of these are paid services, some have free tiers.
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
 * [SKSplashView](https://github.com/sachinkesiraju/SKSplashView) - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
 * [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash
+
+### Status Bar
+* [Bartinter](https://github.com/MaximKotliar/Bartinter) - Status bar tint depending on content behind, updates dynamically.
 
 ### Stepper
 * [PFStepper](https://github.com/PerfectFreeze/PFStepper) - May be the most elegant stepper you have ever had!
