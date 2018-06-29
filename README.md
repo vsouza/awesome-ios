@@ -3033,7 +3033,7 @@ CollectionView, make Instagram Discover within minutes.
 * [BGR](https://bgr.com/ios-7/)
 * [iMore](https://www.imore.com/)
 * [Lifehacker](https://lifehacker.com/tag/ios)
-* [NSHipster](http://nshipster.com)
+* [NSHipster](https://nshipster.com)
 * [Objc.io](https://www.objc.io/)
 * [ASCIIwwdc](https://asciiwwdc.com/)
 * [Natasha The Robot](https://www.natashatherobot.com/)
@@ -3046,7 +3046,7 @@ CollectionView, make Instagram Discover within minutes.
 * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
 * [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day)
-* [Code Facebook](https://code.facebook.com/ios/)
+* [Code Facebook](https://code.fb.com/category/ios/)
 * [iOS Cookies](https://ioscookies.com/) - A hand curated collection of iOS libraries written in Swift
 * [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 * [iOS10 day-by-day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index)
