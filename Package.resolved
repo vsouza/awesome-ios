@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "2fb881a1702cb1976c36192aceb54dcedab6fdc2",
+          "version": "4.7.2"
+        }
+      },
+      {
+        "package": "PerfectMarkdown",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Markdown.git",
+        "state": {
+          "branch": null,
+          "revision": "1820443a6a877d94694f55867e793103f6dca1dc",
+          "version": "3.0.0"
+        }
+      },
+      {
+        "package": "SwiftSoup",
+        "repositoryURL": "https://github.com/scinfu/SwiftSoup.git",
+        "state": {
+          "branch": null,
+          "revision": "52a9a9e2ae73669111e3f74c7ce833b195e942a3",
+          "version": "1.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
