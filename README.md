@@ -551,6 +551,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FirebaseHelper](https://github.com/quanvo87/FirebaseHelper) - Safe and easy wrappers for common Firebase Realtime Database functions.
 * [Shallows](https://github.com/dreymonde/Shallows) - Your lightweight persistence toolbox.
 * [StorageManager](https://github.com/iAmrSalman/StorageManager) - Safe and easy way to use FileManager as Database.
+* [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
 
 ## Data Structures / Algorithms
 
