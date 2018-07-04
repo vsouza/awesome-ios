@@ -633,7 +633,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## EventBus
 
-*Async code in an easy way. Promises and Futures libraries to help you write better async code in Swift.*
+*Promises and Futures libraries to help you write better async code in Swift.*
 
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for iOS and macOS.
