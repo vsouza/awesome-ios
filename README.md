@@ -659,6 +659,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Files
 
+*File management, file browser, zip handling and file observers.*
+
 * [FileKit](https://github.com/nvzqz/FileKit) - Simple and expressive file management in Swift.
 * [Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
 * [FileBrowser](https://github.com/marmelroy/FileBrowser) - Powerful Swift file browser for iOS.
