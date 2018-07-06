@@ -697,6 +697,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## GCD
 
+*Grand Central Dispatch syntax sugars, tools and timers.*
+
  * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
  * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch
  * [SwiftSafe](https://github.com/nodes-ios/SwiftSafe) - Thread synchronization made easy
