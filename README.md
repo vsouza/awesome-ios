@@ -674,6 +674,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ZipZap](https://github.com/pixelglow/ZipZap) - zip file I/O library for iOS, macOS and tvOS.
 
 ## Functional Programming
+
+*Collection of Swift functional programming tools.*
+
 * [Forbind](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift.
 * [Funky](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
@@ -693,6 +696,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AssetImportKit](https://github.com/eugenebokhan/AssetImportKit) - Swifty cross platform library (macOS, iOS) that converts Assimp supported models to SceneKit scenes.
 
 ## GCD
+
  * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
  * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch
  * [SwiftSafe](https://github.com/nodes-ios/SwiftSafe) - Thread synchronization made easy
