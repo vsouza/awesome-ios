@@ -714,6 +714,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  * [SwiftyTask](https://github.com/Albinzr/SwiftyTask) - An extreme queuing system with high performance for managing all task in app with closure.
 
 ## Gesture
+
+*Libraries and tools to handle gestures.*
+
 * [Tactile](https://github.com/delba/Tactile) - A better way to handle gestures on iOS
 * [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - Aids with prototyping UIGestureRecognizers in Xcode Playgrounds
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - Gesture recognizer tool [Swift / iOS]
