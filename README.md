@@ -3220,7 +3220,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Curated-Resources-for-Learning-Swift](https://hackr.io/tutorials/learn-ios-swift) - A curated list of resources recommended by the developers.
 * [ClassicProblemSolvingAndDataStructuresInSwift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) - Collection of popular algorithms, data structure and problem solving in Swift 4.
 * [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) - List of awesome open source applications for macOS.
-* [Awesome iOS Interview question list](https://github.com/serhii-londar/open-source-mac-os-apps) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
+* [Awesome iOS Interview question list](https://github.com/dashvlas/awesome-ios-interview) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
 
 
 ## Contributing and License
