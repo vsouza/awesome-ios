@@ -3223,7 +3223,6 @@ CollectionView, make Instagram Discover within minutes.
 * [Awesome iOS Interview question list](https://github.com/serhii-londar/open-source-mac-os-apps) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
 
 
-
 ## Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
