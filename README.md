@@ -2940,6 +2940,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Transformer](https://github.com/andresinaka/transformer) - Easy Online Attributed String Creator. This tool lets you format a string directly in the browser and then copy/paste the attributed string code into your app.
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files.
 * [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - A tool to convert Xcode .xib to .storyboard files.
+* [csv-localizer](https://github.com/rogermolas/csv-localizer) - Command line tool that convert strings from CSV file to iOS localizable strings.
 
 
 ## Rapid Development
