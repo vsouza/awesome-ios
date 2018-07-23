@@ -241,6 +241,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CoreNavigation](https://github.com/aronbalog/CoreNavigation) - 📱📲 Navigate between view controllers with ease.
 * [DZURLRoute](https://github.com/yishuiliunian/DZURLRoute) - Universal route engine for iOS app, it can handle URLScheme between applications and page route between UIViewController.
 * [Crossroad](https://github.com/giginet/Crossroad) - Crossroad is an URL router focused on handling Custom URL Schemes. Using this, you can route multiple URL schemes and fetch arguments and parameters easily.
+* [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) - An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way.
 
 
 ## Apple TV
