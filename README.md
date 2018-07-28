@@ -2732,6 +2732,7 @@ CollectionView, make Instagram Discover within minutes.
 * [MeasurementTextField](https://github.com/SiarheiFedartsou/MeasurementTextField) - UITextField-based control for (NS)Measurement values input.
 * [VENTokenField](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
 * [ALTextInputBar](https://github.com/AlexLittlejohn/ALTextInputBar) - An auto growing text input bar for messaging apps.
+* [Tagging](https://github.com/k-lpmg/Tagging) - ✍️ TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### UIPageControl
 * [PageControl](https://github.com/kasper-lahti/PageControl) - ● ○ ○ ○ A nice, animated UIPageControl alternative.
