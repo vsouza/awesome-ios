@@ -2571,6 +2571,7 @@ Most of these are paid services, some have free tiers.
 * [SSCustomTabMenu](https://github.com/simformsolutions/SSCustomTabMenu) Simple customizable iOS bottom menu with Tabbar.
 * [SmoothTab](https://github.com/yervandsar/SmoothTab) - Smooth customizable tabs for iOS apps.
 * [ExpandedTabBar](https://github.com/yervandsar/ExpandedTabBar) - Very creative designed solution for "more" items in UITabBarController
+* [VBRRollingPit](https://github.com/v-braun/VBRRollingPit) - Simple, beatiful and interactive UITabBar
 
 
 ### Table View / Collection View
