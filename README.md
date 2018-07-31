@@ -145,7 +145,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
       - [Expandable Cell](#expandable-cell)
       - [Header](#header)
       - [Placeholder](#placeholder)
-      - [Layout](#layout)
+      - [Collection View Layout](#collection-view-layout)
     - [Tag](#tag)
     - [TextField & TextView](#textfield--textview)
     - [UIPageControl](#uipagecontrol)
@@ -2675,7 +2675,7 @@ Most of these are paid services, some have free tiers.
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project
 * [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views
 
-#### Layout
+#### Collection View Layout
 
 * [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) - The waterfall (i.e., Pinterest-like) layout for UICollectionView.
 * [FMMosaicLayout](https://github.com/fmitech/FMMosaicLayout) - A drop-in mosaic collection view layout with a focus on simple customizations.
