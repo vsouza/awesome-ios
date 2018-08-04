@@ -668,6 +668,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Continuum](https://github.com/marty-suzuki/Continuum) - NotificationCenter based Lightweight UI / AnyObject binder.
 * [Futures](https://github.com/formbound/Futures) - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side Swift.
 * [EasyFutures](https://github.com/DimaMishchenko/EasyFutures) - 🔗 Swift Futures & Promises. Easy to use. Highly combinable.
+* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - Publish–subscribe design pattern implementation framework, with ability to publish events by topic. (NotificationCenter extended alternative)
 
 ## Files
 
