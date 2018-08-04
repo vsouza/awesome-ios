@@ -641,6 +641,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Httper-iOS](https://github.com/MuShare/Httper-iOS) - App for developers to test REST API.
 * [Droar](https://github.com/myriadmobile/Droar) - Droar is a modular, single-line installation debugging window
 * [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard
+* [AppSpector](https://appspector.com) - Ultimate Remote iOS and Android debugging and data collection. Networking, Logs, CoreData, SQLite, NSNotifcationCenter, location mocking and even more.
 
 ## EventBus
 
