@@ -3161,6 +3161,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Principle](http://principleformac.com)
 
 ### Newsletters
+* [AwesomeiOS Weekly](http://weekly.awesomeios.com) - AwesomeiOS Weekly
 * [iOS Goodies](https://ios-goodies.com) - Weekly iOS newsletter
 * [raywenderlich.com Weekly](https://www.raywenderlich.com/newsletter) - sign up to receive the latest tutorials from raywenderlich.com each week
 * [iOS Dev Tools Weekly](https://iosdev.tools) - The greatest iOS development tools, including websites, desktop and mobile apps, and back-end services.
