@@ -3196,7 +3196,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Framer JS](https://www.facebook.com/groups/framerjs/about/)
 
 ## Podcasts
-* [The Ray Wenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
+* [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
 * [Debug](https://www.imore.com/debug)
 * [App Story](http://www.appstorypodcast.com)
 * [Mobile Couch](https://mobilecouch.co/)
