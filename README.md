@@ -622,6 +622,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TimePicker](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift
 * [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library
+* [Schedule](https://github.com/jianstm/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
 
 ## Debugging
 
