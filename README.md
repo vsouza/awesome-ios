@@ -207,8 +207,10 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Accessibility
 
- *Frameworks that help to support accessibility features and enable people with disabilities to use your apps*
- 
+ *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
+
+* [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities. 
+
 ## Analytics
 
  *Analytics platforms, SDK's, error tracking and real-time answers about your app*
