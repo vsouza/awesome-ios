@@ -29,6 +29,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [About](#about)
 - [How to Use](#how-to-use)
 - [Courses](#courses)
+- [Accessibility](#accessibility)
 - [Analytics](#analytics)
 - [App Routing](#app-routing)
 - [Apple TV](#apple-tv)
@@ -203,6 +204,12 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 * [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=CREATORS)
 * [ARStarter](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners
+
+## Accessibility
+
+ *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
+
+* [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities. 
 
 ## Analytics
 
