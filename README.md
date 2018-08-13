@@ -1528,6 +1528,7 @@ Most of these are paid services, some have free tiers.
 * [STDevRxExt](https://github.com/stdevteam/STDevRxExt) - STDevRxExt contains some extension functions for RxSwift and RxCocoa which makes our live easy.
 * [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) - Lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.
 * [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) - Reactive navigation library for iOS based on the coordinator pattern
+* [RxAlamoRecord](https://github.com/Daltron/RxAlamoRecord) Combines the power of the AlamoRecord and RxSwift libraries to create a networking layer that makes interacting with API's easier than ever reactively.
 
 ### React-Like
 * [Render](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
