@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "awesome-ios",
+    name: "AwesomeiOS",
     dependencies: [
 				.package(url: "https://github.com/Alamofire/Alamofire.git", from: "4.0.0"),
 				.package(url: "https://github.com/PerfectlySoft/Perfect-Markdown.git", from: "3.0.0"),
@@ -12,7 +12,10 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "awesome-ios",
+            name: "AwesomeiOS",
             dependencies: ["Alamofire", "PerfectMarkdown", "SwiftSoup"]),
+        .testTarget(
+        	name: "AwesomeiOSTests",
+        	dependencies: ["AwesomeiOS"]),
     ]
 )
