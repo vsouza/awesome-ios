@@ -939,6 +939,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Logging
 
+*Debugging lives here. Logging tools, frameworks, integrations and more.*
+
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible Swift-based logging API that is simple, lightweight and performant.
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
 * [NSLogger](https://github.com/fpillet/NSLogger) - a high performance logging utility which displays traces emitted by client applications running on macOS, iOS and Android.
