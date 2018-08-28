@@ -797,6 +797,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Camera
 
+*Mocks, ImagePickers, and multiple options of customizable camera implementation*
+
 * [TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
 * [PBJVision](https://github.com/piemonte/PBJVision) - iOS camera engine, features touch-to-record video, slow motion video, and photo capture.
 * [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) - A fully customisable and modern camera implementation for iOS made with AVFoundation.
