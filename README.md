@@ -2151,7 +2151,6 @@ Most of these are paid services, some have free tiers.
 
 ### Alert & Action Sheet
 
-* [Sheet](https://github.com/rob-nash/Sheet) - Show a workflow of view controllers as an action sheet. Very light weight. No configuration needed.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift.
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController) - Highly configurable iOS Alert Views with custom content views.
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View, written in Swift.
@@ -2216,6 +2215,7 @@ Most of these are paid services, some have free tiers.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - A cool and customizable popup style action sheet 😎
 * [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts.
+* [Sheet](https://github.com/rob-nash/Sheet) - Show a workflow of view controllers as an action sheet. Very light weight. No configuration needed.
 
 ### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
