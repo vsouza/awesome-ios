@@ -1364,6 +1364,7 @@ Most of these are paid services, some have free tiers.
 
 * [Lumos](https://github.com/sushinoya/lumos) - A light Swift wrapper around Objective-C Runtime.
 * [Swizzlean](https://github.com/rbaumbach/Swizzlean) - An Objective-C Swizzle Helper Class.
+* [ControllerFactory](https://github.com/worldline/ControllerFactory) - Generates a debug view that lets you instantiate and display any ViewController in your app.
 
 ## Optimization
 
