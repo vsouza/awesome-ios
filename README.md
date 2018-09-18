@@ -3073,6 +3073,7 @@ CollectionView, make Instagram Discover within minutes.
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 * [Snowonder](https://github.com/Karetski/Snowonder) - 🔮 Magical import declarations formatter for Xcode.
 * [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
+* [xcodeproj](https://github.com/tuist/xcodeproj) - A library to read, update and write Xcode projects and workspaces.
 
 ### Themes
 
