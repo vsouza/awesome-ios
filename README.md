@@ -1310,6 +1310,7 @@ Also see [push notifications](#push-notifications)
 * [Gem](https://github.com/Albinzr/Gem) - An extreme light weight system with high performance for managing all http request with automated parser with modal.
 * [RMHttp](https://github.com/rogermolas/RMHttp) - Lightweight REST library for iOS and watchOS.
 * [AlamoRecord](https://github.com/tunespeak/AlamoRecord) - An elegant yet powerful iOS networking layer inspired by ActiveRecord.
+* [MHNetwork](https://github.com/emadhegab/MHNetwork) - Protocol Oriented Network Layer Aim to avoid having bloated singleton NetworkManager
 
 ### Email
 
