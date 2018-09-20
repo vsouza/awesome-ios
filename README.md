@@ -869,6 +869,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [GranadaLayout](https://github.com/gskbyte/GranadaLayout) - Alternative layout system for iOS, inspired on the Android layout system, that includes linear and relative layouts, as well as an extensible JSON-based layout inflater.
 * [SuperLayout](https://github.com/lionheart/SuperLayout) - Simplify Auto Layout with super syntactic sugar.
 * [QuickLayout](https://github.com/huri000/QuickLayout) - QuickLayout offers a simple way, to easily manage Auto Layout in code.
+* [EEStackLayout](https://github.com/efekanegeli/EEStackLayout) - A structured vertical stack layout.
 
 ## Localization
 
@@ -1910,7 +1911,6 @@ Most of these are paid services, some have free tiers.
 * [SwViewCapture](https://github.com/startry/SwViewCapture) - A nice iOS View Capture Swift Library which can capture all content.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable
 * [GDGauge](https://github.com/saeid/GDGauge) - Full Customizable, Beautiful, Easy to use gauge view Edit. 🔶
-* [EEStackLayout](https://github.com/efekanegeli/EEStackLayout) - A structured vertical stack layout.
 
 
 ### Activity Indicator
