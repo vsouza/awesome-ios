@@ -297,6 +297,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
 * [Placenote](https://github.com/Placenote/PlacenoteSDK-iOS) - A library that makes ARKit sessions persistent to a location using advanced computer vision
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Google Poly SDK – search and display 3D models
+* [ARKit Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - The Emperor give you the most practical ARKit samples ever.
 
 ## Authentication
 
