@@ -1171,6 +1171,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [QR Code Scanner](https://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation.
 * [QRCode](https://github.com/aschuch/QRCode) - A QRCode generator written in Swift.
 * [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate two-dimensional code in Swift.
+* [NSFWDetector](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML
 
 ### PDF
 * [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
