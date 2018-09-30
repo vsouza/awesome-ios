@@ -920,6 +920,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SuperLayout](https://github.com/lionheart/SuperLayout) - Simplify Auto Layout with super syntactic sugar.
 * [QuickLayout](https://github.com/huri000/QuickLayout) - QuickLayout offers a simple way, to easily manage Auto Layout in code.
 * [EEStackLayout](https://github.com/efekanegeli/EEStackLayout) - A structured vertical stack layout.
+* [RKAutoLayout](https://github.com/daskioff/RKAutoLayout) - Simple wrapper over AutoLayout. [iOS] 🔶
 
 ## Localization
 
