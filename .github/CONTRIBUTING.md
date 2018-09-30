@@ -7,12 +7,14 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `[PACKAGE](LINK) - DESCRIPTION.`
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
+- don't include ios versions or swift versions in the description.
+- Emojis should be used with care in descriptions, we already had some problems with emoji render in Github.
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
 - Make sure that your suggestion is positioned as the last item category.
 - Make sure your text editor is set to remove trailing whitespace.
 
-#### Deleting 
+#### Deleting
 
 Typical reasons for deleting project:
 
@@ -28,5 +30,7 @@ Typical reasons for deleting project:
 - Don't support Swift 4 or later
 - Not written in English
 - README is not clear
+- Projects without tests can be rejected.
+- Does not support the most commom package managers (spm, cocoapods, carthage...)
 
 Your contributions are always welcome!  Thank you for your suggestions! :smiley:
