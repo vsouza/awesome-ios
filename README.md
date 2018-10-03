@@ -150,7 +150,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Tag](#tag)
     - [TextField & TextView](#textfield--textview)
     - [UIPageControl](#uipagecontrol)
-    - [Voice](#voice)
     - [Web View](#web-view)
 - [Utility](#utility)
 - [VR](#vr)
@@ -1055,6 +1054,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SonogramView](https://github.com/Luccifer/SonogramView) - Audio visualisation of song
 * [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars) - AIB indicates for your app users which audio is playing. Just like the Podcasts app.
 * [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
+* [Voice Overlay](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### GIF
 
@@ -2789,9 +2789,6 @@ CollectionView, make Instagram Discover within minutes.
 * [PageControl](https://github.com/kasper-lahti/PageControl) - ● ○ ○ ○ A nice, animated UIPageControl alternative.
 * [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl.
-
-### Voice
-* [Voice Overlay](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Web View
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Otafuku provides utility classes to use WKWebView in Swift.
