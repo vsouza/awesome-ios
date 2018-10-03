@@ -128,6 +128,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Table View / Collection View](#table-view--collection-view)
         - [Tag](#tag)
         - [TextField & TextView](#textfield--textview)
+        - [Voice](#voice)
         - [Web View](#web--view)
     - [URL Scheme](#url-scheme)
     - [Utility](#utility)
@@ -2238,6 +2239,10 @@ Most of these are paid services, some have free tiers.
 * [TaniwhaTextField](https://github.com/iceman201/TaniwhaTextField) - TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it. it's written with Swift. 🔶
 * [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search applications on iOS. 🔶
 * [SearchTextField](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions list  :large_orange_diamond:
+
+#### Voice
+
+* [Voice Overlay](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI. 🔶
 
 #### Web View
 * [Otafuku](https://github.com/tasanobu/Otafuku) - Otafuku provides utility classes to use WKWebView in Swift. :large_orange_diamond:
