@@ -252,6 +252,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Crossroad](https://github.com/giginet/Crossroad) - Crossroad is an URL router focused on handling Custom URL Schemes. Using this, you can route multiple URL schemes and fetch arguments and parameters easily.
 * [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) - An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way.
 * [RouteComposer](https://github.com/saksdirect/route-composer) - Library that helps to handle view controllers composition, routing and deeplinking tasks.
+* [LightRoute](https://github.com/SpectralDragon/LightRoute) - Easy transition between VIPER modules, implemented on pure Swift.
 
 
 ## Apple TV
