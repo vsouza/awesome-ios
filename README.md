@@ -1990,6 +1990,7 @@ Most of these are paid services, some have free tiers.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable
 * [GDGauge](https://github.com/saeid/GDGauge) - Full Customizable, Beautiful, Easy to use gauge view Edit. 🔶
 * [STAControls](https://github.com/Stunner/STAControls) - Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.) Written in Objective-C.
+* [ZISetting](https://github.com/fauzisho/ZISetting) - Simple Setting UI based on UIKit TableView. Written in Swift.
 
 
 ### Activity Indicator
