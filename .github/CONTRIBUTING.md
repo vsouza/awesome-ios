@@ -30,7 +30,12 @@ Typical reasons for deleting project:
 - Don't support Swift 4 or later
 - Not written in English
 - README is not clear
-- Projects without tests can be rejected.
 - Does not support the most commom package managers (spm, cocoapods, carthage...)
+
+#### Projects that can be rejected:
+
+- Projects without tests.
+- Very young projects.
+- Missing LICENSE.
 
 Your contributions are always welcome!  Thank you for your suggestions! :smiley:
