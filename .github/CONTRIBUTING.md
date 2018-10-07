@@ -32,10 +32,10 @@ Typical reasons for deleting project:
 - README is not clear
 - Does not support the most commom package managers (spm, cocoapods, carthage...)
 
-#### Projects that can be rejected:
+### Projects that can be rejected:
 
 - Projects without tests.
-- Very young projects.
-- Missing LICENSE.
+- Projects with exact same functionalities as other projects that are already in AwesomeiOS
+- Projects with few functionalities
 
 Your contributions are always welcome!  Thank you for your suggestions! :smiley:
