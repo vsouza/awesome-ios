@@ -1991,7 +1991,7 @@ Most of these are paid services, some have free tiers.
 * [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView) - A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable
 * [GDGauge](https://github.com/saeid/GDGauge) - Full Customizable, Beautiful, Easy to use gauge view Edit. 🔶
 * [STAControls](https://github.com/Stunner/STAControls) - Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.) Written in Objective-C.
-
+* [FastOnBoarding](https://github.com/barankaraoguzzz/FastOnBoarding) - FastOnBoarding framework helps you make your onboard page.You write just a line code and finished onboard page. It has 11 different animation
 
 ### Activity Indicator
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
