@@ -30,6 +30,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [How to Use](#how-to-use)
 - [Courses](#courses)
 - [Accessibility](#accessibility)
+- [Alexa](#alexa)
 - [Analytics](#analytics)
 - [App Routing](#app-routing)
 - [Apple TV](#apple-tv)
@@ -210,6 +211,12 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
  *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
 
 * [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities.
+
+## Alexa
+
+*Frameworks that help to support writing custom alexa skills in swift*
+
+* [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills.
 
 ## Analytics
 
