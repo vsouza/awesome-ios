@@ -41,6 +41,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Bridging](#bridging)
 - [Cache](#cache)
 - [Charts](#charts)
+- [Cocoa Touch Framework](#Cocoa-Touch-Framework)
 - [Code Quality](#code-quality)
     - [Linter](#linter)
 - [Color](#color)
@@ -327,6 +328,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - A simple way to authenticate Instagram accounts on iOS.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS.
 * [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to login and retrieve access token from LinkedIn.
+* [AR Drawing](https://github.com/Rageeni/AR-Drawing) - Draw 3D drawing in the real world.
 
 ## Blockchain
 
@@ -405,6 +407,13 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS.
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit
 * [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerful yet Charts library for apple products
+
+## Cocoa Touch Framework
+
+ * Learn how to create and distribute Cocoa Touch Framework without sharing the source code.
+ 
+* [Cocoa Touch Framework](https://github.com/Rageeni/demoTouchFrameworkExample) (https://github.com/Rageeni/demoTouchFramework)
+    (https://medium.com/@Rageeni16/create-cocoa-touch-framework-and-publish-it-be9ad6535f33)
 
 ## Code Quality
 
