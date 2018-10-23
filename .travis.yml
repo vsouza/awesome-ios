@@ -5,8 +5,8 @@ before_script:
   - gem install awesome_bot
   - gem install danger
 script:
-  - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit,SRGMediaPlayer,PayPal-iOS-SDK,PerfectlySoft
-  - allowed_redirects=growthpush,awesomelinkcounter,eepurl,bluemix,amazon
+  - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit,SRGMediaPlayer,PayPal-iOS-SDK,PerfectlySoft,gitter,instabug,weekly.awesomeios.com
+  - allowed_redirects=growthpush,awesomelinkcounter,eepurl,bluemix,amazon,facebook.com/groups,goo.gl
   - awesome_bot README.md --allow-ssl --white-list $allowed_dupes,$allowed_redirects
   - danger
 notifications:
