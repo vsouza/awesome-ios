@@ -985,6 +985,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Twitter Logging Service](https://github.com/twitter/ios-twitter-logging-service) - Twitter Logging Service is a robust and performant logging framework for iOS clients.
 * [Reqres](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support
 * [TraceLog](https://github.com/tonystone/tracelog) - Dead Simple: logging the way it's meant to be! Runs on ios, osx, and Linux.
+* [OkLog](https://github.com/diegotl/OkLog-Swift) - A network logger for Swift projects.
 
 ## Machine Learning
 
