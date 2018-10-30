@@ -1328,6 +1328,7 @@ Also see [push notifications](#push-notifications)
 * [RMHttp](https://github.com/rogermolas/RMHttp) - Lightweight REST library for iOS and watchOS.
 * [AlamoRecord](https://github.com/tunespeak/AlamoRecord) - An elegant yet powerful iOS networking layer inspired by ActiveRecord.
 * [MHNetwork](https://github.com/emadhegab/MHNetwork) - Protocol Oriented Network Layer Aim to avoid having bloated singleton NetworkManager
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 
 ### Email
 
