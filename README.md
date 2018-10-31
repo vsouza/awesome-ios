@@ -1178,6 +1178,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [GPUImage3](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
 * [Gallery](https://github.com/hyperoslo/Gallery) - Your next favorite image and video picker.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and ability to create new transitions with ease.
+* [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 
 ### Media Processing
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift
