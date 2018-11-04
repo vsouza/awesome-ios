@@ -483,6 +483,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift
 * [Marathon](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts
 * [CommandCougar](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
+* [Crayon](https://github.com/jianstm/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
 
 ## Concurrency
 
