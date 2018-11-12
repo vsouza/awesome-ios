@@ -1186,7 +1186,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift
 * [QR Code Scanner](https://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation.
 * [QRCode](https://github.com/aschuch/QRCode) - A QRCode generator written in Swift.
-* [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate two-dimensional code in Swift.
+* [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate two-dimensional code in Swift.
 * [NSFWDetector](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML
 
 ### PDF
@@ -1322,7 +1322,6 @@ Also see [push notifications](#push-notifications)
 * [Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf).
 * [PerfectAPIClient](https://github.com/SvenTiigi/PerfectAPIClient) - An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework
 * [Bamboots](https://github.com/mmoaay/Bamboots) - Bamboots is a network request framework based on Alamofire, aiming at making network request easier for business development
-* [MultiPeer](https://github.com/dingwilson/MultiPeer) - An easy-to-use wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
 * [SolarNetwork](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer in Swift.
 * [FGRoute](https://github.com/Feghal/FGRoute) - An easy-to-use library that helps developers to get wifi ssid, router and device ip addresses.
 * [RxRestClient](https://github.com/stdevteam/RxRestClient) - Simple REST Client based on RxSwift and Alamofire.
@@ -1592,7 +1591,7 @@ Most of these are paid services, some have free tiers.
 * [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) Spotify SDK Login in Swift.
 * [Facebook](https://github.com/facebook/facebook-objc-sdk) Facebook iOS SDK.
-* [Facebook Swift](https://github.com/facebook/facebook-sdk-swift) Integrate your iOS apps in Swift with Facebook Platform.
+* [Facebook Swift](https://github.com/facebook/facebook-swift-sdk) Integrate your iOS apps in Swift with Facebook Platform.
 * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
 * [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
 * [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket.
@@ -1602,7 +1601,7 @@ Most of these are paid services, some have free tiers.
 * [OneDrive](https://github.com/OneDrive/onedrive-sdk-ios) Live SDK for iOS.
 * [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and macOS.
 * [Venmo](#payments)
-* [AWS](https://github.com/aws/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS.
+* [AWS](https://github.com/aws-amplify/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS.
 * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
 * [Adobe Creative SDK](https://www.adobe.io/apis/creativecloud/creativesdk.html) Adobe creative tools and Creative Cloud SDK.
 * [Dropbox](https://www.dropbox.com/lp/developers) SDKs for Drop-ins and Dropbox Core API.
@@ -1804,7 +1803,7 @@ Most of these are paid services, some have free tiers.
 * [Sprinter](https://github.com/nicklockwood/Sprinter) - A library for formatting strings on iOS and macOS
 * [Highlightr](https://github.com/raspu/Highlightr) - An iOS & macOS syntax highlighter, supports 176 languages and comes with 79 styles.
 * [fuse-swift](https://github.com/krisk/fuse-swift) - A lightweight fuzzy-search library, with zero dependencies.
-* [EFMarkdown](https://github.com/EyreFree/EFMarkdown) - A lightweight Markdown library for iOS.
+* [EFMarkdown](https://github.com/EFPrefix/EFMarkdown) - A lightweight Markdown library for iOS.
 * [Croc](https://github.com/jkalash/croc) - A lightweight Swift library for Emoji parsing and querying.
 
 ### Font
@@ -3208,7 +3207,7 @@ CollectionView, make Instagram Discover within minutes.
 * [LearnAppMaking](https://learnappmaking.com) - LearnAppMaking helps app developers to build, launch and market iOS apps.
 * [iOS Development with Swift in Motion ](https://www.manning.com/livevideo/ios-development-with-swift-lv) -  This live video course locks in the language fundamentals and then offers interesting examples and exercises to build and practice your knowledge and skills.
 ### iOS UI Template
-* [iOS UI Design Kit](https://www.invisionapp.com/tethr)
+* [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
 * [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 * [iOS GUI by Facebook Design Resources](https://facebook.design/)
 
