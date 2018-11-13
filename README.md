@@ -808,7 +808,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ExtendaBLE](https://github.com/AntonTheDev/ExtendaBLE) - Simple Blocks-Based BLE Client for iOS/tvOS/watchOS/OSX/Android. Quickly configuration for centrals/peripherals, perform packet based read/write operations, and callbacks for characteristic updates.
 * [PeerConnectivity](https://github.com/rchatham/PeerConnectivity) - Functional wrapper for Apple's MultipeerConnectivity framework.
 * [AZPeerToPeerConnection](https://github.com/AfrozZaheer/AZPeerToPeerConnection) - AZPeerToPeerConnectivity is a wrapper on top of Apple iOS Multipeer Connectivity framework. It provides an easier way to create and manage sessions. Easy to integrate.
-* [MultiPeer] (https://github.com/dingwilson/MultiPeer) - Multipeer is a wrapper for Apple's MultipeerConnectivity framework for offline data transmission between Apple devices. It makes easy to automatically connect to multiple nearby devices and share information using either bluetooth or wifi.
+* [MultiPeer](https://github.com/dingwilson/MultiPeer) - Multipeer is a wrapper for Apple's MultipeerConnectivity framework for offline data transmission between Apple devices. It makes easy to automatically connect to multiple nearby devices and share information using either bluetooth or wifi.
 
 ### Camera
 
