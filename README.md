@@ -880,6 +880,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NFCNDEFParse](https://github.com/jvk75/NFCNDEFParse) - NFC Forum Well Known Type Data Parser for iOS11 and Core NFC.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 * [SDVersion](https://github.com/sebyddd/SDVersion) - :iphone: Lightweight Cocoa library for detecting the running device's model and screen size.
+* [Haptico](https://github.com/iSapozhnik/Haptico) - 📳 Easy to use haptic feedback generator with pattern-play support.
 
 ## Layout
 
@@ -1977,7 +1978,6 @@ Most of these are paid services, some have free tiers.
 * [Magnetic](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (inspired by Apple Music).
 * [AmazingBubbles](https://github.com/GlebRadchenko/AmazingBubbles) - Apple Music like Bubble Picker using Dynamic Animation.
 * [Haptica](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator.
-* [Haptico](https://github.com/iSapozhnik/Haptico) - 📳 Easy to use haptic feedback generator with pattern-play support.
 * [GDCheckbox](https://github.com/saeid/GDCheckbox) - An easy to use custom checkbox/radio button component for iOS, with support of IBDesign Inspector.
 * [HamsterUIKit](https://github.com/Howardw3/HamsterUIKit) - A simple and elegant UIKit(Chart) for iOS.
 * [AZEmptyState](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states.
