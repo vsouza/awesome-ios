@@ -2539,7 +2539,7 @@ Most of these are paid services, some have free tiers.
 *  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9
 *  [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf
 *  [SlideController](https://github.com/touchlane/SlideController) - SlideController is simple and flexible UI component completely written in Swift. It is a nice alternative for UIPageViewController built using power of generic types.
-* [CrownControl](https://github.com/huri000/CrownControl) - Inspired by Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content possible without lifting your thumb.
+* [CrownControl](https://github.com/huri000/CrownControl) - Inspired by Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
 
 ### Segmented Control
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
