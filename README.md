@@ -1497,7 +1497,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftLuhn](https://github.com/MaxKramer/SwiftLuhn) - Debit/Credit card validation port of the Luhn Algorithm in Swift
 * [ObjectiveLuhn](https://github.com/MaxKramer/ObjectiveLuhn) - Luhn Credit Card Validation Algorithm
 * [RMStore](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
-* [MFCard](https://github.com/mobilefirstinc/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
+* [MFCard](https://github.com/RC7770/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
 * [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Store Receipt
 * [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL
 * [CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) - CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.
