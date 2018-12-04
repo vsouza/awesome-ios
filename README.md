@@ -13,11 +13,11 @@
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
 
-## Recommended SDK for bug and crash reporting [Instabug](https://goo.gl/qoc5F8)
-[![instabug-github](https://user-images.githubusercontent.com/9888943/44792036-517d8680-aba3-11e8-99f5-02578d763fe8.png)](https://goo.gl/qoc5F8)
-> Get super detailed bug reports directly into your GitHub project with Instabug. The level of details Instabug’s SDK grabs with each bug report attracted tens of thousands of companies like Lyft, T-Mobile and eBay. They rely on them enhancing their app quality and iterating faster. We highly recommend integrated Instabug’s framework as they compiled a lot of great features that provides mobile developers with all the details needed in one organized dashboard to fix bugs in minutes, instead of wasting time debugging. [Install from GitHub Marketplace](https://goo.gl/qoc5F8)
-[![](https://goo.gl/A74z8Q)](https://instabug.com)
-
+## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
+[![instabug-github](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
+> We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
+They removed the hassle of debugging as the SDK automatically attach screenshots, screen recordings, device details, network logs and repro-steps with each bug report which speeds up the development process. Instabug is offering awesome-ios community an exclusive **15% discount** on all paid plans. [**Go to 5-minute installation guide.**](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 ## How to Use
 Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
@@ -292,8 +292,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 * [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) - A Clean VIPER Modules Generator with comments and predfined functions.
-* [VIPER Module Template](https://github.com/EvsenevDev/VIPERModuleTemplate) - Xcode Template of VIPER Module which generates all layers of VIPER.
-
+* [MMVMi](https://github.com/Maryom/MMVMi) - A Validation Model for MVC and MVVM Design Patterns in iOS Applications.
 
 ## ARKit
 
@@ -667,6 +666,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Droar](https://github.com/myriadmobile/Droar) - Droar is a modular, single-line installation debugging window
 * [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard
 * [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
+* [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
 
 ## EventBus
 
@@ -839,6 +839,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MockImagePicker](https://github.com/yonat/MockImagePicker) - Mock UIImagePickerController for testing camera based UI in simulator.
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - A collection of code examples for Depth APIs.
 * [TakeASelfie](https://github.com/abdullahselek/TakeASelfie) - An iOS framework that uses the front camera, detects your face and takes a selfie.
+* [HybridCamera](https://github.com/eonist/HybridCamera) - Video and photo camera for iOS, similar to the SnapChat camera.
 
 ### Force Touch
 
@@ -881,6 +882,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NFCNDEFParse](https://github.com/jvk75/NFCNDEFParse) - NFC Forum Well Known Type Data Parser for iOS11 and Core NFC.
 * [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 * [SDVersion](https://github.com/sebyddd/SDVersion) - :iphone: Lightweight Cocoa library for detecting the running device's model and screen size.
+* [Haptico](https://github.com/iSapozhnik/Haptico) - 📳 Easy to use haptic feedback generator with pattern-play support.
 
 ## Layout
 
@@ -1495,7 +1497,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftLuhn](https://github.com/MaxKramer/SwiftLuhn) - Debit/Credit card validation port of the Luhn Algorithm in Swift
 * [ObjectiveLuhn](https://github.com/MaxKramer/ObjectiveLuhn) - Luhn Credit Card Validation Algorithm
 * [RMStore](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
-* [MFCard](https://github.com/mobilefirstinc/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
+* [MFCard](https://github.com/RC7770/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
 * [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Store Receipt
 * [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL
 * [CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) - CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.
@@ -1514,7 +1516,7 @@ Most of these are paid services, some have free tiers.
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - A simple and elegant 3D-Flyover location request screen written Swift.
 * [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS
 * [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
-* [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - simple permission request with beautiful UI
+* [RequestPermission](https://github.com/IvanVorobei/SPPermission) - simple permission request with beautiful UI
 
 ## Products
 * [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
@@ -1913,7 +1915,6 @@ Most of these are paid services, some have free tiers.
 * [BAFluidView](https://github.com/antiguab/BAFluidView) - UIView that simulates a 2D view of a fluid in motion
 * [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
 * [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - :clipboard: An iOS native implementation of a Trello Animated Navagation.
-* [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - A CocoaPod that simplifies creation of the particle effects.
 * [Spots](https://github.com/hyperoslo/Spots) - Spots is a view controller framework that makes your setup and future development blazingly fast.
 * [APAddressBook](https://github.com/Alterplay/APAddressBook) - Easy access to iOS address book
 * [AZExpandableIconListView](https://github.com/Azuritul/AZExpandableIconListView) - An expandable/collapsible view component written in Swift.
@@ -1957,7 +1958,6 @@ Most of these are paid services, some have free tiers.
 * [ConfettiView](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app
 * [BouncyPageViewController](https://github.com/BohdanOrlov/BouncyPageViewController) - Page view controller with bounce effect
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty fill animation.
-* [CRRulerControl](https://github.com/Cleveroad/CRRulerControl) - Customizable component is aimed at turning a simple ruler into a handy and smart instrument.
 * [Macaw-Examples](https://github.com/exyte/Macaw-Examples) - Various usages of the Macaw library.
 * [Reactions](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control
 * [Newly](https://github.com/dhirajjadhao/Newly) - Newly is a drop in solution to add Twitter/Facebook/Linkedin-style new updates/tweets/posts available button
@@ -1965,7 +1965,6 @@ Most of these are paid services, some have free tiers.
 * [Material Components](https://github.com/material-components/material-components-ios) - Google developed UI components that help developers execute Material Design.
 * [RKMultiUnitRuler](https://github.com/farshidce/RKMultiUnitRuler/) - Simple customizable ruler control that supports multiple units.
 * [FAQView](https://github.com/mukeshthawani/FAQView) - An easy to use FAQ view for iOS written in Swift.
-* [CRPageViewController](https://github.com/Cleveroad/CRPageViewController) - While a standard page view allows you to navigate between pages by using simple gestures, our component goes further.
 * [OXPatternLock](https://github.com/oxozle/OXPatternLock) - An iOS pattern lock like Android authentication written in Swift.
 * [LMArticleViewController](https://github.com/lucamozza/LMArticleViewController) - UIViewController subclass to beautifully present news articles and blog posts
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
@@ -2246,6 +2245,7 @@ Most of these are paid services, some have free tiers.
 * [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - Use the iPhone X notch space to display creative alerts.
 * [Sheet](https://github.com/rob-nash/Sheet) - Show a workflow of view controllers as an action sheet. Very light weight. No configuration needed.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) - SHEET helps you easily create a wide variety of action sheets with navigation features used in the Flipboard App
+* [ALRT](https://github.com/mshrwtnb/alrt) - An easier constructor for UIAlertController. Present an alert from anywhere.
 
 ### Badge
 * [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
@@ -2271,7 +2271,6 @@ Most of these are paid services, some have free tiers.
 * [WYMaterialButton](https://github.com/Yu-w/WYMaterialButton) - Interactive and fully animated Material Design button for iOS developers.
 * [DynamicButton](https://github.com/yannickl/DynamicButton) - Yet another animated flat buttons in Swift
 * [OnOffButton](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift. By Creativedash
-* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS
 * [WCLShineButton](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining.
 * [EasySocialButton](https://github.com/Minitour/EasySocialButton) - An easy way to create beautiful social authentication buttons.
 * [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button.
@@ -2306,6 +2305,7 @@ Most of these are paid services, some have free tiers.
 * [KDCalendarView](https://github.com/mmick66/CalendarView) - A calendar component for iOS written in Swift 4.0. It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 * [CalendarPopUp](https://github.com/orazz/CalendarPopUp) - CalendarPopUp - JTAppleCalendar library.
 * [ios_calendar](https://github.com/maximbilan/Calendar-iOS)  - It's lightweight and simple control with supporting Locale and CalendarIdentifier. There're samples for iPhone and iPad, and also with using a popover. With supporting Persian calendar
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift.
 
 ### Cards
 
@@ -2446,6 +2446,7 @@ Most of these are paid services, some have free tiers.
 * [Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources.
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - An iOS context menu UI inspired by Things 3.
 * [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
+* [UIMenuScroll](https://github.com/AlekseyPleshkov/UIMenuScroll) - Creating the horizontal swiping navigation how on Facebook Messenger.
 
 ### Navigation Bar
 * [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls
@@ -2539,6 +2540,7 @@ Most of these are paid services, some have free tiers.
 *  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9
 *  [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf
 *  [SlideController](https://github.com/touchlane/SlideController) - SlideController is simple and flexible UI component completely written in Swift. It is a nice alternative for UIPageViewController built using power of generic types.
+* [CrownControl](https://github.com/huri000/CrownControl) - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
 
 ### Segmented Control
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
@@ -2792,7 +2794,7 @@ CollectionView, make Instagram Discover within minutes.
 * [AwesomeTextField](https://github.com/aleksandrshoshiashvili/AwesomeTextFieldSwift) - Awesome TextField is a nice and simple library for iOS. It's highly customisable and easy-to-use tool. Works perfectly for any registration or login forms in your app.
 * [ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar) - The famous iOS search bar with auto completion feature implemented.
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion
-* [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView) - A customisable view written in Swift 3.0 for any numerical pin or code entry.
+* [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView) - A customisable view written in Swift 4.2 for any pin, code or password entry. Supports one time codes in iOS 12.
 * [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - An UITextView in Swift3 and Swift2.3. Support auto growing, placeholder and length limit.
 * [DTTextField](https://github.com/iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label in Swift3.0.
 * [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField character counter with lovable UX.
@@ -3039,10 +3041,15 @@ CollectionView, make Instagram Discover within minutes.
 * [swiftmon](https://github.com/dimpiax/swiftmon) - swiftmon restarts your swift application in case of any file change.
 
 
-## Injection
+## Code Injection
 
 * [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
 * [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
+* [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease.
+
+
+## Dependency Injection
+
 * [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
 * [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 * [Kraken](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
@@ -3053,7 +3060,6 @@ CollectionView, make Instagram Discover within minutes.
 * [Guise](https://github.com/prosumma/Guise) - An elegant, flexible, type-safe dependency resolution framework for Swift
 * [Weaver](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift
 * [StoryboardBuilder](https://github.com/hiro-nagami/StoryboardBuilder) - Simple dependency injection for generating views from storyboard.
-* [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease.
 * [ViperServices](https://github.com/ladeiko/ViperServices) - Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
 
@@ -3108,6 +3114,7 @@ CollectionView, make Instagram Discover within minutes.
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 * [Snowonder](https://github.com/Karetski/Snowonder) - 🔮 Magical import declarations formatter for Xcode.
 * [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
+* [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
 
 ### Themes
 
@@ -3131,6 +3138,7 @@ CollectionView, make Instagram Discover within minutes.
 * [XcodeCodeSnippets](https://github.com/ismetanin/XcodeCodeSnippets) - A set of code snippets for iOS development, includes code and comments snippets.
 * [Xcode Keymap for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings) - This extension ports popular Xcode keyboard shortcuts to Visual Studio Code.
 * [Xcode Template Manager](https://github.com/Camji55/xtm) - Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.
+* [VIPER Module Template](https://github.com/EvsenevDev/VIPERModuleTemplate) - Xcode Template of VIPER Module which generates all layers of VIPER.
 
 ## Reference
 * [Swift Cheat Sheet](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift.
