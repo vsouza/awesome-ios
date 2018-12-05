@@ -1339,6 +1339,7 @@ Also see [push notifications](#push-notifications)
 
 * [Mail Core 2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
 * [Postal](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers.
+* [MailController](https://github.com/Kulich-ua/MailController) - Lightweight Swift wrapper around MFMailComposeViewController.
 
 ## Representations
 
