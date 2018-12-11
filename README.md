@@ -446,6 +446,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms.
 * [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 * [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
+* [SwiftLinter](https://github.com/muyexi/SwiftLinter) - Share lint rules between projects and lint changed files with SwiftLint.
 
 ## Color
 
