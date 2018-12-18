@@ -1746,6 +1746,9 @@ Most of these are paid services, some have free tiers.
 * [Embassy](https://github.com/envoy/Embassy) - Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux.
 * [smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
 
+## Syncing
+* [Synaction](https://github.com/Ge0rges/Synaction) - An Objective-C library that improves upon the Precision-Time-Protocol to allow pseudo-simulateneous (50ns accuracy) execution of code blocks on bonjour connected devices.
+
 ## Text
 * [Twitter Text Obj](https://github.com/twitter/twitter-text) - An Objective-C implementation of Twitter's text processing library.
 * [Nimbus](https://github.com/jverkoey/nimbus) - Nimbus is a toolkit for experienced iOS software designers.
