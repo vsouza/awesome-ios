@@ -1074,6 +1074,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars) - AIB indicates for your app users which audio is playing. Just like the Podcasts app.
 * [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
 * [Voice Overlay](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+* [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence player to resume playback after bad network connection even in background mode, manage headphone interactions, system interruptions, now playing informations and remote commands.
 
 ### GIF
 
