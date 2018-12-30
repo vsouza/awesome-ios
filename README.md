@@ -3101,6 +3101,7 @@ CollectionView, make Instagram Discover within minutes.
 * [appirater](https://github.com/arashpayan/appirater) - A utility that reminds your iPhone app's users to review the app.
 * [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 * [Appstore Review Guidelines](https://github.com/aashishtamsya/Appstore-Review-Guidelines) - A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review.
+* [AppVersion](https://github.com/amebalabs/AppVersion) - Keep users on the up-to date version of your App.
 
 
 ## Xcode
