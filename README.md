@@ -2007,6 +2007,7 @@ Most of these are paid services, some have free tiers.
 * [GDGauge](https://github.com/saeid/GDGauge) - Full Customizable, Beautiful, Easy to use gauge view Edit. 🔶
 * [STAControls](https://github.com/Stunner/STAControls) - Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.) Written in Objective-C.
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) - Elegant apply style, using Swift Method Chain.
+* [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.
 
 
 ### Activity Indicator
