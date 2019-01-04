@@ -14,7 +14,10 @@
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+- [ ] Has 50 Github stargazers or more
 - [ ] Only one project/change is in this pull request
+- [ ] Isn't an archived project
+- [ ] Has more than one contributor
 - [ ] Has unit tests, integration tests or UI tests
 - [ ] Addition in chronological order (bottom of category)
 - [ ] Supports iOS 9 / tvOS 10 or later
