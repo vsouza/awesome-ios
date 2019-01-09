@@ -620,6 +620,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Differific](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 * [OneWaySynchronizer](https://github.com/ladeiko/OneWaySynchronizer) - The simplest abstraction to synchronize local data with remote source.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
+* [SwiftRecursiveAlgorithms](https://github.com/matthewreagan/SwiftRecursiveAlgorithms) - Recursive solutions & explanations for solving problems like Fibonacci or N-Queens in Swift.
 
 ## Date & Time
 
