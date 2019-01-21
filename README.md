@@ -586,6 +586,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PersistenceKit](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
 * [ModelAssistant](https://github.com/ssamadgh/ModelAssistant) - Elegant library to manage the interactions between view and model in Swift.
 * [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
+* [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults
 
 ## Data Structures / Algorithms
 
