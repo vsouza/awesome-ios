@@ -1263,6 +1263,7 @@ Also see [push notifications](#push-notifications)
 * [AsyncMessagesViewController](https://github.com/nguyenhuy/AsyncMessagesViewController) - A smooth, responsive and flexible messages UI library for iOS.
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
 * [SwiftyMessenger](https://github.com/abdullahselek/SwiftyMessenger) - Swift toolkit for passing messages between iOS apps and extensions.
+* [Messenger Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Swift messaging chat app with Firebase Firestore integration.
 
 ## Networking
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
