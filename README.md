@@ -1896,6 +1896,7 @@ Most of these are paid services, some have free tiers.
 * [OCMock](http://ocmock.org) - Mock objects for Objective-C.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease in Swift.
 * [PinpointKit](https://github.com/Lickability/PinpointKit) - Let your testers and users send feedback with annotated screenshots and logs using a simple gesture.
+* [iOS Snapshot Test Case](https://github.com/uber/ios-snapshot-test-case) — Snapshot test your UIViews and CALayers on iOS and tvOS.
 
 ## UI
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
