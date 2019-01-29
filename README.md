@@ -670,6 +670,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard
 * [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
 * [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
+* [LayoutInspector](https://github.com/isavynskyi/LayoutInspector) - Debug app layouts directly on iOS device: inspect layers in 3D and debug each visible view attributes
 
 ## EventBus
 
