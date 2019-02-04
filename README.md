@@ -453,7 +453,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 *Hex color extensions, theming, color pickers and other awesome color tools.*
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift).
-* [ColorArt](https://github.com/vinhnx/ColorArt) - extract dominant colors from image like iTunes 11.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift. [e]
 * [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor. [e]
 * [Colours](https://github.com/bennyguitar/Colours) - A beautiful set of predefined colors and a set of color methods to make your iOS/macOS development life easier.
