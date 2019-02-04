@@ -2401,6 +2401,7 @@ Most of these are paid services, some have free tiers.
 * [LFLoginController](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 * [Cely](https://github.com/chaione/Cely) - Plug-n-Play login framework written in Swift.
+* [AppContainerKit](https://github.com/palozinski/AppContainerKit) - Separated storyboards configuration for support two state of Application like Authorization flow and Main.
 
 ### Menu
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift.
