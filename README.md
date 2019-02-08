@@ -1712,6 +1712,7 @@ Most of these are paid services, some have free tiers.
 * [RSASwiftGenerator](https://github.com/4taras4/RSASwiftGenerator) - Util for generation RSA keys on your client and save to keychain or cover into Data 🔑 🔐
 * [Virgil Security Objective-C/Swift Crypto Library](https://github.com/VirgilSecurity/virgil-crypto-x) - A high-level cryptographic library that allows to perform all necessary operations for securely storing and transferring data.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) - A framework for the JOSE standards JWS, JWE, and JWK written in Swift.
+* [MurmurHash-Swift](https://github.com/daisuke-t-jp/MurmurHash-Swift) - MurmurHash framework in Swift.
 
 ### Keychain
 * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS.
