@@ -865,6 +865,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ### Location
 
+*Location monitoring, detect motion and geofencing libraries*
+
 * [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
 * [LocationManager](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
 * [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Location & Beacon Monitoring in Swift
