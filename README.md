@@ -920,7 +920,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Auto Layout Magic](http://akordadev.github.io/AutoLayoutMagic/) - Build 1 scene, let Auto Layout Magic generate the  constraints for you!  Scenes look great across all devices!
 * [Anchorman](https://github.com/mergesort/Anchorman) - An autolayout library for the damn fine citizens of San Diego.
 * [LayoutKit](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS.
-* [MarkupKit](https://github.com/gk-brown/MarkupKit) - Declarative UI for iOS applications
 * [Relayout](https://github.com/stevestreza/Relayout) - Swift microframework for declaring Auto Layout constraints functionally
 * [Anchorage](https://github.com/Raizlabs/Anchorage) - A collection of operators and utilities that simplify iOS layout code.
 * [Compose](https://github.com/grupozap/Compose) - Compose is a library that helps you compose complex and dynamic views.
@@ -3255,7 +3254,7 @@ CollectionView, make Instagram Discover within minutes.
 ### Prototyping
 * [FluidUI](https://www.fluidui.com)
 * [Proto.io](https://proto.io/)
-* [Framer](https://framer.com/)
+* [Framer](https://www.framer.com/)
 * [Principle](https://principleformac.com/)
 
 ### Newsletters
