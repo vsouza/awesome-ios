@@ -2023,6 +2023,7 @@ Most of these are paid services, some have free tiers.
 * [STAControls](https://github.com/Stunner/STAControls) - Handy UIControl subclasses. (Think Three20/NimbusKit of UIControls.) Written in Objective-C.
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) - Elegant apply style, using Swift Method Chain.
 * [OverlayContainer](https://github.com/applidium/ADOverlayContainer) - A library to develop overlay based interfaces, such as the one presented in the iOS 12 Apple Maps or Stocks apps.
+* [ClassicKit](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components for iOS.
 
 
 ### Activity Indicator
