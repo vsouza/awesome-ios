@@ -353,6 +353,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 *Thread safe, offline and high performance cache libs and frameworks.*
 
+* [MemoryCache](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache. 
 * [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift)
 * [mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content
 * [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache
