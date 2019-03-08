@@ -153,6 +153,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [UIPageControl](#uipagecontrol)
     - [Web View](#web-view)
 - [Utility](#utility)
+- [User Consent](#user-consent)
 - [VR](#vr)
 - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
 - [Websocket](#websocket)
@@ -2919,6 +2920,9 @@ CollectionView, make Instagram Discover within minutes.
  * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
  * [Once](https://github.com/jianstm/Once) - Minimalist library to manage one-off operations.
  * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+ 
+## User Consent
+* [SmarltookConsentSDK](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
 
 ## VR
 * [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS
