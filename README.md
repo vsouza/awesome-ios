@@ -1591,6 +1591,7 @@ Most of these are paid services, some have free tiers.
 * [TemplateKit](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift.
 * [Komponents 📦](https://github.com/freshOS/Komponents) - React-inspired UIKit Components.
 * [CoreEvents](https://github.com/surfstudio/CoreEvents) - Simple library with C#-like events.
+* [Tokamak](https://github.com/MaxDesiatov/Tokamak) - React-like framework providing a declarative API for building native UI components with easy to use one-way data binding.
 
 ## Reflection
 * [Reflection](https://github.com/Zewo/Reflection) - Reflection provides an API for advanced reflection at runtime including dynamic construction of types.
