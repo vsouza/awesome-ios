@@ -2585,7 +2585,6 @@ Most of these are paid services, some have free tiers.
 * [Rotary](https://github.com/rob-nash/Rotary) - A customisable rotary wheel composed of selectable segments.
 
 ### Slider
-* [RangeControl](https://github.com/AlexeyIS/RangeControl) - Custom range control, similar is used to trim video or audio tracks. It allows setting a custom background and to pick a minimum and maximum range.
 * [VolumeControl](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
 * [IntervalSlider](https://github.com/shushutochako/IntervalSlider) - IntervalSlider is a slider library like ReutersTV app. written in pure swift.
@@ -2608,7 +2607,7 @@ Most of these are paid services, some have free tiers.
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
 * [VSVerticalSlider](https://github.com/vsmithers1087/VerticalSlider) - An animatable and customizable vertical slider written in Swift4.
 * [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
-
+* [RangeControl](https://github.com/AlexeyIS/RangeControl) - Custom range control, similar is used to trim video or audio tracks. It allows setting a custom background and to pick a minimum and maximum range.
 ### Splash View
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
 * [SKSplashView](https://github.com/sachinkesiraju/SKSplashView) - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
