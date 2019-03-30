@@ -2585,6 +2585,7 @@ Most of these are paid services, some have free tiers.
 * [Rotary](https://github.com/rob-nash/Rotary) - A customisable rotary wheel composed of selectable segments.
 
 ### Slider
+* [RangeControl](https://github.com/AlexeyIS/RangeControl) - Custom range control, similar is used to trim video or audio tracks. It allows setting a custom background and pick a minimum and maximum range.
 * [VolumeControl](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
 * [IntervalSlider](https://github.com/shushutochako/IntervalSlider) - IntervalSlider is a slider library like ReutersTV app. written in pure swift.
