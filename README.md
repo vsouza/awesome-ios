@@ -2092,7 +2092,6 @@ Most of these are paid services, some have free tiers.
 * [IHProgressHUD](https://github.com/Swiftify-Corp/IHProgressHUD) - Simple HUD, thread safe, supports iOS, tvOS and App Extensions.
 * [Pinwheel](https://github.com/Astranno/Pinwheel) - Alternative to UIActivityIndicatorView with the MacOS pinwheel spinner
 
-
 ### Animation
 * [Pop](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
 * [AnimationEngine](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
