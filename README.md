@@ -2992,6 +2992,7 @@ CollectionView, make Instagram Discover within minutes.
 * [punic](https://github.com/schwa/punic) - Clean room reimplementation of Carthage tool
 * [Rome](https://github.com/blender/Rome) - A cache tool for Carthage built frameworks
 * [Athena](https://github.com/yunarta/works-athena-gradle-plugin) - Gradle Plugin to enhance Carthage by uploading the archived frameworks into Maven repository, currently support only Bintray, Artifactory and Mavel local.
+* [Accio](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
 ## Tools
 
