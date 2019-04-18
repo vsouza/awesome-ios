@@ -2278,6 +2278,7 @@ Most of these are paid services, some have free tiers.
 * [EasyNotificationBadge](https://github.com/Minitour/EasyNotificationBadge) - UIView extension that adds a notification badge. [e]
 * [Sheriff](https://github.com/gemr/Sheriff) - Add badges to anything.
 * [swift-badge](https://github.com/evgenyneu/swift-badge) - Badge view for iOS written in swift
+* [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 
 ### Button
 * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
