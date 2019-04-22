@@ -1164,7 +1164,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority in Swift.
 * [FacebookImagePicker](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker written in Swift.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
-* [AvatarImageView](https://github.com/ayushn21/AvatarImageView) - AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable.
 * [Ebblink](https://github.com/ebbapp/ebblinkSDK) - An iOS SDK for sharing photos that automatically expire and can be deleted at any time.
 * [Sharaku](https://github.com/makomori/Sharaku) - Instagram-like image filter ViewController.
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - Displays spherical or cylindrical panoramas or 360-photos with touch or motion based control options.
