@@ -234,7 +234,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 * [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
 * [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
-* [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting/) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
+* [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 * [Inapptics](https://inapptics.com) - Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays.
 * [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
 
@@ -303,7 +303,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) -Combines the high accuracy of AR with the scale of GPS data.
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
-* [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) - A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.
+* [ARKitEnvironmentMapper](https://github.com/svhawks/ARKitEnvironmentMapper) - A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) - This library uses ARKit Face Tracking in order to catch a user's smile.
 * [Placenote](https://github.com/Placenote/PlacenoteSDK-iOS) - A library that makes ARKit sessions persistent to a location using advanced computer vision
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Google Poly SDK – search and display 3D models
@@ -370,7 +370,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift
 * [Cache](https://github.com/soffes/Cache) - Swift caching library.
-* [MemoryCache](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache. 
+* [MemoryCache](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
 
 ## Charts
 
@@ -485,7 +485,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift
 * [Marathon](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts
 * [CommandCougar](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
-* [Crayon](https://github.com/jianstm/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
+* [Crayon](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
 * [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
 
 ## Concurrency
@@ -651,7 +651,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TimePicker](https://github.com/Endore8/TimePicker) - Configurable time picker component based on a pan gesture and its velocity.
 * [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) - Custom Time Picker ViewController with Selection of start and end times in Swift
 * [NVDate](https://github.com/novalagung/nvdate) - Swift4 Date extension library
-* [Schedule](https://github.com/jianstm/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
+* [Schedule](https://github.com/luoxiu/Schedule) - ⏳ A missing lightweight task scheduler for Swift with an incredibly human-friendly syntax.
 
 ## Debugging
 
@@ -1380,12 +1380,12 @@ Also see [push notifications](#push-notifications)
 
 Most of these are paid services, some have free tiers.
 
-* [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement )
+* [Urban Airship](https://airship.com/products/mobile-app-engagement)
 * [Growth Push](https://growthpush.com) - Popular in Japan.
 * [Braze](https://www.braze.com/)
 * [Batch](https://batch.com)
 * [Boxcar](https://boxcar.io)
-* [Carnival](http://www.carnival.io)
+* [Carnival](https://www.sailthru.com)
 * [Catapush](http://www.catapush.com/)
 * [Netmera](https://www.netmera.com/)
 * [OneSignal](https://onesignal.com) - Free.
@@ -1435,7 +1435,7 @@ Most of these are paid services, some have free tiers.
 * [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift.
 * [mapper](https://github.com/lyft/mapper) - A JSON deserialization library for Swift
 * [AlamofireJsonToObjects](https://github.com/evermeer/AlamofireJsonToObjects) - An Alamofire extension which converts JSON response data into swift objects using EVReflection
-* [Jay](https://github.com/DanToml/Jay) - Pure-Swift JSON parser & formatter. Linux & macOS ready.
+* [Jay](https://github.com/endocrimes/Jay) - Pure-Swift JSON parser & formatter. Linux & macOS ready.
 * [YYModel](https://github.com/ibireme/YYModel) - High performance model framework for iOS/macOS.
 * [Alembic](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON
 * [Wrap](https://github.com/JohnSundell/Wrap) - The easy to use Swift JSON encoder
@@ -1454,7 +1454,7 @@ Most of these are paid services, some have free tiers.
 * [HandyJSON](https://github.com/alibaba/handyjson) - A handy swift JSON-object serialization/deserialization library for swift 2.x/3.x.
 * [Marshal](https://github.com/utahiosmac/Marshal) - Marshaling the typeless wild west of [String: Any] (Protocol based).
 * [Motis](https://github.com/mobilejazz/Motis) - Easy JSON to NSObject mapping using Cocoa's key value coding (KVC).
-* [NSTEasyJSON](https://github.com/bernikowich/NSTEasyJSON) - The easiest way to deal with JSON data in Objective-C (similar to SwiftyJSON).
+* [NSTEasyJSON](https://github.com/bernikovich/NSTEasyJSON) - The easiest way to deal with JSON data in Objective-C (similar to SwiftyJSON).
 * [Serpent](https://github.com/nodes-ios/Serpent) - A protocol to serialize Swift structs and classes for encoding and decoding.
 * [MagicMapper](https://github.com/adrianmateoaea24/magic-mapper-swift) - :star2: Super light and easy automatic JSON to model mapper.
 * [FlatBuffersSwift](https://github.com/mzaks/FlatBuffersSwift) - This project brings FlatBuffers (an efficient cross platform serialization library) to Swift.
@@ -2922,9 +2922,9 @@ CollectionView, make Instagram Discover within minutes.
  * [ActionClosurable](https://github.com/takasek/ActionClosurable) - Extensions which helps to convert objc-style target/action to swifty closures
  * [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs
  * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
- * [Once](https://github.com/jianstm/Once) - Minimalist library to manage one-off operations.
+ * [Once](https://github.com/luoxiu/Once) - Minimalist library to manage one-off operations.
  * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
- 
+
 ## User Consent
 * [SmartlookConsentSDK](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
 
@@ -2946,7 +2946,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Instructions](https://github.com/ephread/Instructions) - Easily add customizable coach marks into you iOS project.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
 * [Gecco](https://github.com/yukiasai/Gecco) - Spotlight view for iOS.
-* [VideoSplashKit](https://github.com/svtek/VideoSplashKit) - VideoSplashKit - UIViewController library for creating easy intro pages with background videos
+* [VideoSplashKit](https://github.com/svhawks/VideoSplashKit) - VideoSplashKit - UIViewController library for creating easy intro pages with background videos
 * [Presentation](https://github.com/hyperoslo/Presentation) - Presentation helps you to make tutorials, release notes and animated pages.
 * [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding) - A simple and handsome AlertView for onboard your users in your amazing world.
@@ -3045,7 +3045,7 @@ CollectionView, make Instagram Discover within minutes.
 * [ipanema](https://github.com/toshi0383/ipanema) - ipanema analyzes and prints useful information from `.ipa` file.
 * [pxctest](https://github.com/plu/pxctest) - Parallel XCTest - Execute XCTest suites in parallel on multiple iOS Simulators.
 * [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - The IBM Swift Sandbox is an interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
-* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl) - A macOS library for managing and manipulating iOS Simulators
+* [FBSimulatorControl](https://github.com/facebook/idb) - A macOS library for managing and manipulating iOS Simulators
 * [Nomad](https://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute `.ipa`, verify In-App-Purchase receipt and more.
 * [Cookiecutter](https://github.com/RahulKatariya/SwiftFrameworkTemplate) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code.
@@ -3309,7 +3309,7 @@ CollectionView, make Instagram Discover within minutes.
 
 ## Podcasts
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
-* [Debug](https://www.imore.com/node/24121)
+* [Debug](https://www.imore.com/debug)
 * [App Story](http://www.appstorypodcast.com)
 * [Mobile Couch](https://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks/)
@@ -3319,7 +3319,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Release Notes](https://releasenotes.tv/)
 * [More Than Just Code](https://mtjc.fireside.fm/)
 * [Runtime](https://spec.fm/podcasts/runtime)
-* [Consult](http://consultpodcast.com/)
+* [Consult](http://consultpodcast.com/#_=_)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
