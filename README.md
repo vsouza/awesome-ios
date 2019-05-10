@@ -1380,7 +1380,7 @@ Also see [push notifications](#push-notifications)
 
 Most of these are paid services, some have free tiers.
 
-* [Urban Airship](https://airship.com/products/mobile-app-engagement)
+* [Urban Airship](https://www.airship.com/products/mobile-app-engagement)
 * [Growth Push](https://growthpush.com) - Popular in Japan.
 * [Braze](https://www.braze.com/)
 * [Batch](https://batch.com)
@@ -1656,7 +1656,6 @@ Most of these are paid services, some have free tiers.
 * [SocialLib](https://github.com/darkcl/SocialLib) - SocialLib handles sharing message to multiple social media.
 * [PokemonKit](https://github.com/ContinuousLearning/PokemonKit) - Pokeapi wrapper, written in Swift
 * [TJDropbox](https://github.com/timonus/TJDropbox) - A Dropbox v2 client library written in Objective-C
-* [Lyft](https://github.com/genadyo/Lyft) - Some pink mustache company forgot to build that SDK.
 * [GitHub.swift](https://github.com/onmyway133/github.swift) - :octocat: Unofficial GitHub API client in Swift
 * [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk) - Abstraction layer / unified API for multiple API providers. Interfaces eg for Cloud Storage (Dropbox, Google, ...), Social Networks (Facebook, Twitter, ...) and more.
 * [Medium SDK - Swift](https://github.com/96-problems/medium-sdk-swift) - Unofficial Medium API SDK in Swift with sample project.
@@ -1803,7 +1802,6 @@ Most of these are paid services, some have free tiers.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swift extensions that make it a breeze to work with attributed strings.
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser for Swift.
 * [CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown) - Markdown parsing and rendering for iOS and macOS.
-* [Apodimark](https://github.com/loiclec/Apodimark) - Fast, flexible markdown parser written in Swift.
 * [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [KKStringValidator](https://github.com/krizhanovskii/KKStringValidator) - Fast and simple string validation for iOS. With UITextField extension.
 * [ISO8859](https://github.com/Cosmo/ISO8859) - 📄⚙ Convert ISO8859 1-16 Encoded Text to String in Swift. Supports iOS, tvOS, watchOS and macOS.
@@ -3320,7 +3318,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Release Notes](https://releasenotes.tv/)
 * [More Than Just Code](https://mtjc.fireside.fm/)
 * [Runtime](https://spec.fm/podcasts/runtime)
-* [Consult](http://consultpodcast.com/#_=_)
+* [Consult](https://consultpodcast.com/#_=_)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
