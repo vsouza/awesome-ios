@@ -2090,7 +2090,7 @@ Most of these are paid services, some have free tiers.
 * [MKProgress](https://github.com/kamirana4/MKProgress) - A lightweight ProgressHUD written in Swift. Looks similar to /MBProgressHUD/SVProgressHUD/KVNProgressHUD.
 * [RHPlaceholder](https://github.com/robertherdzik/RHPlaceholder) - Simple library which give you possibility to add Facebook like loading state for your views.
 * [IHProgressHUD](https://github.com/Swiftify-Corp/IHProgressHUD) - Simple HUD, thread safe, supports iOS, tvOS and App Extensions.
-* [AWLoader](https://github.com/Aymenworks/AWLoader) - AWLoader is a UI Component that allows you to integrate loader that fits your needs within your app.
+* [AWStepBar](https://github.com/Aymenworks/AWStepBar) - AWStepBar is a UI Component that allows you to integrate a step progress UI within your app.
 
 ### Animation
 * [Pop](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
