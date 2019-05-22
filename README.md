@@ -742,7 +742,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SKTiled](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit
 * [CollectionNode](https://github.com/bwide/CollectionNode) - A swift framework for a collectionView in SpriteKit
 * [AssetImportKit](https://github.com/eugenebokhan/AssetImportKit) - Swifty cross platform library (macOS, iOS) that converts Assimp supported models to SceneKit scenes.
-* [glide engine](http://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
+* [glide engine](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
 
 ## GCD
 
