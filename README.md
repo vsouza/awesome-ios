@@ -1353,6 +1353,7 @@ Also see [push notifications](#push-notifications)
 * [RMHttp](https://github.com/rogermolas/RMHttp) - Lightweight REST library for iOS and watchOS.
 * [AlamoRecord](https://github.com/tunespeak/AlamoRecord) - An elegant yet powerful iOS networking layer inspired by ActiveRecord.
 * [MHNetwork](https://github.com/emadhegab/MHNetwork) - Protocol Oriented Network Layer Aim to avoid having bloated singleton NetworkManager
+* [ThunderRequest](https://github.com/3sidedcube/ThunderRequest) - A simple URLSession wrapper with a generic protocol based request body approach and easy deserialisation of responses.
 
 ### Email
 
@@ -2710,6 +2711,7 @@ Most of these are paid services, some have free tiers.
 * [SAInboxViewController](https://github.com/marty-suzuki/SAInboxViewController) - UIViewController subclass inspired by "Inbox by google" animated transitioning.
 * [StaticTableViewController](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
 * [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
+* [ThunderTable](https://github.com/3sidedcube/ThunderTable) - A simple declarative approach to UITableViewController management using a protocol-based approach. 
 
 #### Collection View
 
@@ -2742,6 +2744,7 @@ Most of these are paid services, some have free tiers.
 * [SimpleSource](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views in Swift.
 * [Conv](https://github.com/bannzai/conv) - Conv smart represent UICollectionView data structure more than UIKit.
 * [Carbon](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
+* [ThunderCollection](https://github.com/3sidedcube/ThunderCollection) - A simple declarative approach to UICollectionViewController management using a protocol-based approach. 
 
 #### Expandable Cell
 
