@@ -230,7 +230,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [GTrack](https://github.com/gemr/GTrack) - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
 * [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
 * [Segment](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
-* [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
+* [MOCA Analytics](http://www.mocaplatform.com/features) - Paid cross-platform analytics backend.
 * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 * [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
 * [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
@@ -368,7 +368,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS
 * [Johnny](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
-* [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift
+* [Cachyr](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift
 * [Cache](https://github.com/soffes/Cache) - Swift caching library.
 * [MemoryCache](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
 
@@ -1142,7 +1142,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Agrume](https://github.com/JanGorman/Agrume) - A lemony fresh iOS image viewer written in Swift.
 * [PASImageView](https://github.com/abiaad/PASImageView) - Rounded async imageview downloader lightly cached and written in Swift
 * [Navi](https://github.com/nixzhu/Navi) - Focus on avatar caching.
-* [SwiftPhotoGallery](https://github.com/Inspirato/SwiftPhotoGallery) - Simple, fullscreen image gallery with tap, swipe, and pinch gestures.
+* [SwiftPhotoGallery](https://github.com/justinvallely/SwiftPhotoGallery) - Simple, fullscreen image gallery with tap, swipe, and pinch gestures.
 * [MetalAcc](https://github.com/wangjwchn/MetalAcc) - GPU-based Media processing library using Metal written in Swift.
 * [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - A simple iOS photo and video browser with grid view, captions and selections.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage. [e]
@@ -1176,7 +1176,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with image!
 * [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) - Multiple phassets picker for iOS lib. like a facebook.
 * [YapImageManager](https://github.com/yapstudios/YapImageManager) - A high-performance image downloader written in Swift, powered by YapDatabase.
-* [PhotoEditorSDK](https://www.photoeditorsdk.com) - A fully customizable photo editor for your app.
+* [PhotoEditorSDK](https://photoeditorsdk.com/) - A fully customizable photo editor for your app.
 * [SimpleImageViewer](https://github.com/aFrogleap/SimpleImageViewer) - A snappy image viewer with zoom and interactive dismissal transition.
 * [AZImagePreview](https://github.com/Minitour/AZImagePreview) - A framework that makes image viewing easy.
 * [FaceCropper](https://github.com/KimDarren/FaceCropper) - Crop faces, inside of your image, with iOS 11 Vision api
@@ -1384,7 +1384,7 @@ Also see [push notifications](#push-notifications)
 
 Most of these are paid services, some have free tiers.
 
-* [Urban Airship](https://www.airship.com/products/mobile-app-engagement)
+* [Urban Airship](https://www.airship.com/platform/channels/mobile-app/)
 * [Growth Push](https://growthpush.com) - Popular in Japan.
 * [Braze](https://www.braze.com/)
 * [Batch](https://batch.com)
@@ -1513,7 +1513,7 @@ Most of these are paid services, some have free tiers.
 * [PatronKit](https://github.com/MosheBerman/PatronKit) - A framework to add patronage to your apps.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+ and macOS 9.0+
 * [InAppFramework](https://github.com/sandorgyulai/InAppFramework) - In App Purchase Manager framework for iOS
-* [SwiftInAppPurchase](https://github.com/rpzzzzzz/SwiftInAppPurchase) - Simply code In App Purchases with this Swift Framework
+* [SwiftInAppPurchase](https://github.com/suraphanL/SwiftInAppPurchase) - Simply code In App Purchases with this Swift Framework
 * [monza](https://github.com/gabrielgarza/monza) - Ruby Gem for Rails - Easy iTunes In-App Purchase Receipt validation, including auto-renewable subscriptions
 * [PayPal](https://github.com/paypal/PayPal-iOS-SDK) - Accept payments in your iOS app via PayPal.
 * [card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
@@ -1643,7 +1643,7 @@ Most of these are paid services, some have free tiers.
 * [Pinterest](https://github.com/pinterest/ios-pdk) - Pinterest iOS SDK
 * [playkit-ios](https://github.com/kaltura/playkit-ios) - PlayKit: Kaltura Player SDK for iOS.
 * [algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) - Algolia Search API Client for Swift
-* [twitter-kit-ios](https://github.com/twitter/twitter-kit-ios) - Twitter Kit is a native SDK to include Twitter content inside mobile apps.
+* [twitter-kit-ios](https://github.com/twitter-archive/twitter-kit-ios) - Twitter Kit is a native SDK to include Twitter content inside mobile apps.
 * [rides-ios-sdk](https://github.com/uber/rides-ios-sdk) - Uber Rides iOS SDK (beta).
 
 ### Unofficial
@@ -1838,7 +1838,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftFontName](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported
 * [SwiftIconFont](https://github.com/0x73/SwiftIconFont) - Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon)
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
-* [Iconic](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS, watchOS and tvOS
+* [Iconic](https://github.com/home-assistant/Iconic) - Auto-generated icon font library for iOS, watchOS and tvOS
 * [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - Google Material Design Icons Font for iOS.
 * [OcticonsKit](https://github.com/keitaoouchi/OcticonsKit) - Use Octicons as UIImage / UIFont in your projects with Swifty manners.
 * [IoniconsKit](https://github.com/keitaoouchi/IoniconsKit) - Use Ionicons as UIImage / UIFont in your projects with Swifty manners.
@@ -2282,7 +2282,7 @@ Most of these are paid services, some have free tiers.
 * [EasyNotificationBadge](https://github.com/Minitour/EasyNotificationBadge) - UIView extension that adds a notification badge. [e]
 * [Sheriff](https://github.com/gemr/Sheriff) - Add badges to anything.
 * [swift-badge](https://github.com/evgenyneu/swift-badge) - Badge view for iOS written in swift
-* [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+* [BadgeHub](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 
 ### Button
 * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) - iOS7-style bouncy button UI component.
@@ -3333,7 +3333,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 
 ## Books
-* [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+* [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
 * [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/books/ios-programming/)
 * [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
 * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
