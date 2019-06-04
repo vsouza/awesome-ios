@@ -13,6 +13,8 @@
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
 The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
 
+<a href="https://ko-fi.com/M4M3WPRD"><img alt="ko-fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" /></a>
+
 ## Recommended SDK for bug and crash reporting [Instabug](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=header)
 [![instabug-github](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
 > We highly recommend integrating Instabug’s framework as they compiled a lot of great features in their SDK that provides useful and rich data with each bug/crash report.
