@@ -583,6 +583,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults
 * [MongoKitten](https://github.com/OpenKitten/MongoKitten) - A pure Swift MongoDB client implementation with support for embedded databases.
 * [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults/NSUserDefaults with an extra AES-256 encryption layer.
+* [Unrealm](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm
 
 ## Data Structures / Algorithms
 
