@@ -2344,6 +2344,9 @@ Most of these are paid services, some have free tiers.
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 
 ### Form & Settings
+
+*Input validators, form helpers and form builders.*
+
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
 * [XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in pure Swift.
