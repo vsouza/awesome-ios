@@ -648,7 +648,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 *Debugging tools, crash reports, logs and console UI's.*
 
-* [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS, include tools: UITimeProfiler, Memory Allocations, Living ObjC Objects Sniffer, Network Transaction Waterfall, etc.
 * [Xniffer](https://github.com/xmartlabs/Xniffer) - A swift network profiler built on top of URLSession.
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / macOS network debugging library!
 * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
@@ -667,6 +666,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
 * [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
 * [LayoutInspector](https://github.com/isavynskyi/LayoutInspector) - Debug app layouts directly on iOS device: inspect layers in 3D and debug each visible view attributes
+* [MTHawkeye](https://github.com/meitu/MTHawkeye) - Profiling / Debugging assist tools for iOS, include tools: UITimeProfiler, Memory Allocations, Living ObjC Objects Sniffer, Network Transaction Waterfall, etc.
 
 ## EventBus
 
