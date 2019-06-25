@@ -1486,6 +1486,7 @@ Most of these are paid services, some have free tiers.
 * [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
 
 ## Payments
+* [Square In-App Payments SDK](https://squareup.com/us/en/developers/in-app-payments) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
 * [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
 * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowledge on Backend.
 * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
