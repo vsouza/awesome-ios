@@ -1811,6 +1811,7 @@ Most of these are paid services, some have free tiers.
 * [fuse-swift](https://github.com/krisk/fuse-swift) - A lightweight fuzzy-search library, with zero dependencies.
 * [EFMarkdown](https://github.com/EFPrefix/EFMarkdown) - A lightweight Markdown library for iOS.
 * [Croc](https://github.com/jkalash/croc) - A lightweight Swift library for Emoji parsing and querying.
+* [ColoredLabel](https://github.com/Luccifer/ColoredLabel) - Simple automated text coloring of UILabel depending on the UIImage behind it
 
 ### Font
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app.
