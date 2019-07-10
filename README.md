@@ -726,6 +726,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the  Optional Type. [e]
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 * [Runes](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift.
+* [Bow](https://github.com/bow-swift/bow) - Typed Functional Programming companion library for Swift.
 
 ## Games
 * [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift.
