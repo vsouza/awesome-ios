@@ -1571,6 +1571,7 @@ Most of these are paid services, some have free tiers.
 * [RxAlamoRecord](https://github.com/Daltron/RxAlamoRecord) Combines the power of the AlamoRecord and RxSwift libraries to create a networking layer that makes interacting with API's easier than ever reactively.
 * [CwlSignal](https://github.com/mattgallagher/CwlSignal) A Swift framework for reactive programming.
 * [LightweightObservable](https://github.com/fxm90/LightweightObservable) - A lightweight implementation of an observable sequence that you can subscribe to.
+[Bindy](https://github.com/MaximKotliar/Bindy) - Simple, lightweight swift bindings with KVO support and easy to read syntax.
 
 ### React-Like
 * [Render](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
