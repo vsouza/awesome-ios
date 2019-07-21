@@ -486,6 +486,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CommandCougar](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
 * [Crayon](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
 * [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
+* [SourceDocs](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
 
 ## Concurrency
 
