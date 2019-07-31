@@ -2771,6 +2771,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 * [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 * [Swinflate](https://github.com/VladIacobIonut/Swinflate) -  A bunch of layouts providing light and seamless experiences in your CollectionView.
+* [PushpaCollectionViewLayout](https://github.com/satishVekariya/PushpaCollectionViewLayout) -  Custom card-designed push/pop style CollectionView layout.
 
 
 ### Tag
