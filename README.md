@@ -2016,6 +2016,7 @@ Most of these are paid services, some have free tiers.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components for iOS.
 * [Sejima](https://github.com/MoveUpwards/Sejima) - A collection of User Interface components for iOS.
 * [UI Fabric by Microsoft](https://github.com/OfficeDev/ui-fabric-ios) - UI framework based on [Fluent Design System](https://www.microsoft.com/design/fluent/#/ios) by Microsoft.
+* [AwesomeContactPicker](https://github.com/MichaelGuoXY/AwesomeContactPicker) - A customizable & configurable Contacts Picker UI
 
 ### Activity Indicator
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
