@@ -342,10 +342,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 * [CoinpaprikaAPI](https://github.com/coinpaprika/coinpaprika-api-swift-client) - Coinpaprika API client with free & frequently updated market data from the world of crypto: coin prices, volumes, market caps, ATHs, return rates and more.
 * [Bitcoin-Swift-Kit](https://github.com/horizontalsystems/bitcoin-kit-ios) - Full Bitcoin library written on Swift. Complete SPV wallet implementation for Bitcoin, Bitcoin Cash and Dash blockchains.
-* [EOSio-Kit](https://github.com/horizontalsystems/eos-kit-ios) - General purpose iOS library (SDK) for the EOS blockchain and EOSIO protocol, written on Swift.
-* [Binance-Chain-DEX-Kit](https://github.com/horizontalsystems/binance-chain-kit-ios) - All purpose iOS Swift library for the Binance blockchain (aka Binance DEX).
-* [Atomic-Swaps-DEX-Kit](https://github.com/horizontalsystems/atomic-swap-kit-ios) - Atomic Swap iOS library for Bitcoin (BTC) and Bitcoin Cash (BCH) swaps in decentralized manner. Implemented on Swift.
-* [Ethereum-Kit-iOS](https://github.com/horizontalsystems/ethereum-kit-ios) - Fully functional wallet implementation for Ethereum protocol.
 
 ## Bridging
 
