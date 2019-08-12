@@ -2192,6 +2192,7 @@ Most of these are paid services, some have free tiers.
 * [LiquidTransition](https://github.com/AlexandrGraschenkov/LiquidTransition) - removes boilerplate code to perform transition, allows backward animations, custom properties animation and much more!
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Very similar to the controllers displayed in Apple Music, Podcasts and Mail Apple's applications.
 * [AppstoreTransition](https://github.com/appssemble/appstore-card-transition) - Simulates the appstore card animation transition.
+* [HWPanModal](https://github.com/HeathWang/HWPanModal) - HWPanModal presents controller from bottom and drag to dismiss, high customize.
 
 ### Alert & Action Sheet
 
