@@ -1416,7 +1416,7 @@ Most of these are paid services, some have free tiers.
 * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
 * [Gloss](https://github.com/hkellaway/Gloss) - A shiny JSON parsing library in Swift.
 * [Cereal](https://github.com/Weebly/Cereal) - Swift object serialization
-* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - Generate Swift model files from JSON using either SwiftyJSON or ObjectMapper. Supports NSCoding and provides method for JSON string representation of the model.
+* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - Generate Swift 5 model files from JSON with Codeable support.
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) - Hassle-free JSON encoding and decoding in Swift
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [alexander](https://github.com/hodinkee/alexander) - An extremely simple JSON helper written in Swift.
