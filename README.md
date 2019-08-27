@@ -408,7 +408,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swift LineChart](https://github.com/zemirco/swift-linechart) - Line Chart library for iOS written in Swift.
 * [SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS.
 * [EatFit](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit.
-* [CoreCharts](https://github.com/CoreCharts/CoreCharts) - CoreCharts is a simple powerful yet Charts library for apple products.
+* [CoreCharts](https://github.com/cagricolak/CoreCharts) - CoreCharts is a simple powerful yet Charts library for apple products.
 
 ## Code Quality
 
@@ -498,7 +498,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Flow](https://github.com/JohnSundell/Flow) - Operation Oriented Programming in Swift.
 * [Brisk](https://github.com/jmfieldman/Brisk) - A Swift DSL that allows concise and effective concurrency manipulation.
 * [Aojet](https://github.com/aojet/Aojet) - An actor model library for swift.
-* [Overdrive](https://github.com/arikis/Overdrive) - Fast async task based Swift framework with focus on type safety, concurrency and multi threading.
+* [Overdrive](https://github.com/saidsikira/Overdrive) - Fast async task based Swift framework with focus on type safety, concurrency and multi threading.
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 * [Kommander](https://github.com/intelygenz/Kommander-iOS) - Kommander is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.
 * [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift
@@ -609,7 +609,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Dekoter](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs.
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 * [Impeller](https://github.com/david-coyle-sjc/impeller) - A Distributed Value Store in Swift
-* [Dispatch](https://github.com/alexdrone/Dispatch) - Multi-store Flux implementation in Swift
+* [Dispatch](https://github.com/alexdrone/Store) - Multi-store Flux implementation in Swift
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Diff in Swift
 * [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
 * [Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library.
@@ -943,7 +943,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlightLayout](https://github.com/AntonTheDev/FlightLayout) -  Balanced medium between manual layout and auto-layout. Great for calculating frames for complex animations.
 * [QLayout](https://github.com/josejuanqm/QLayout) - AutoLayout Utility for iOS.
 * [Layoutless](https://github.com/DeclarativeHub/Layoutless) - Minimalistic declarative layout and styling framework built on top of Auto Layout.
-* [Yalta](https://github.com/kean/Yalta) - An intuitive and powerful Auto Layout library.
+* [Yalta](https://github.com/kean/Align) - An intuitive and powerful Auto Layout library.
 * [SuperLayout](https://github.com/lionheart/SuperLayout) - Simplify Auto Layout with super syntactic sugar.
 * [QuickLayout](https://github.com/huri000/QuickLayout) - QuickLayout offers a simple way, to easily manage Auto Layout in code.
 * [EEStackLayout](https://github.com/efekanegeli/EEStackLayout) - A structured vertical stack layout.
@@ -1289,7 +1289,7 @@ Also see [push notifications](#push-notifications)
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - a NSURLCache subclass for handling all web requests that use NSURLRequest
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) - Sherlock Holmes of the networking layer.
 * [Pitaya](https://github.com/johnlui/Pitaya) - A Swift HTTP / HTTPS networking library just incidentally execute on machines
-* [Just](https://github.com/JustHTTP/Just) - Swift HTTP for Humans
+* [Just](https://github.com/dduan/Just) - Swift HTTP for Humans
 * [agent](https://github.com/hallas/agent) - Minimalistic Swift HTTP request agent for iOS and macOS
 * [Reach](https://github.com/Isuru-Nanayakkara/Reach) - A simple class to check for internet connection availability in Swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
@@ -1618,11 +1618,10 @@ Most of these are paid services, some have free tiers.
 * [Venmo](#payments)
 * [AWS](https://github.com/aws-amplify/aws-sdk-ios) Amazon Web Services Mobile SDK for iOS.
 * [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) Zendesk Mobile SDK for iOS.
-* [Adobe Creative SDK](https://www.adobe.io/apis/creativecloud/creativesdk.html) Adobe creative tools and Creative Cloud SDK.
 * [Dropbox](https://www.dropbox.com/lp/developers) SDKs for Drop-ins and Dropbox Core API.
 * [Fabric by Twitter](https://docs.fabric.io/apple/fabric/overview.html) Fabric Twitter Kit for iOS.
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
-* [Primer](https://www.goprimer.com) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
+* [Primer](https://www.goprimer.com/) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
 * [Azure](https://github.com/Azure/azure-storage-ios) - Client library for accessing Azure Storage on an iOS device
 * [1Password](https://github.com/AgileBits/onepassword-app-extension) - 1Password Extension for iOS Apps
 * [CareKit](https://github.com/carekit-apple/CareKit) - CareKit is an open source software framework for creating apps that help people better understand and manage their health. By Apple
@@ -1949,7 +1948,7 @@ Most of these are paid services, some have free tiers.
 * [NightNight](https://github.com/Draveness/NightNight) - Elegant way to integrate night mode to swift projects
 * [SwiftTheme](https://github.com/wxxsw/SwiftTheme) - Powerful theme/skin manager for iOS 7+
 * [FDStackView](https://github.com/forkingdog/FDStackView) - Use UIStackView directly in iOS6+
-* [YangMingShan](https://github.com/yahoo/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
+* [YangMingShan](https://github.com/YahooArchive/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
 * [nui](https://github.com/tombenner/nui) - Style iOS apps with a stylesheet, similar to CSS
 * [RedBeard](https://www.redbeard.io/) - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
 * [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that allows developers to easily create beautiful applications.
@@ -2056,7 +2055,7 @@ Most of these are paid services, some have free tiers.
 * [VHUD](https://github.com/xxxAIRINxxx/VHUD) Simple HUD.
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert written in Swift using blur effects, translucency, flat and bold design
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
-* [LLSpinner](https://github.com/alaphao/LLSpinner) - An easy way to create a full screen activity indicator.
+* [LLSpinner](https://github.com/alephao/LLSpinner) - An easy way to create a full screen activity indicator.
 * [SVUploader](https://github.com/kirankunigiri/SVUploader) - A beautiful uploader progress view that makes things simple and easy.
 * [YLProgressBar](https://github.com/yannickl/YLProgressBar) - UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics.
 * [FlexibleSteppedProgressBar](https://github.com/amratab/FlexibleSteppedProgressBar) - A beautiful easily customisable stepped progress bar.
@@ -2448,7 +2447,7 @@ Most of these are paid services, some have free tiers.
 * [DropDownMenuKit](https://github.com/qmathe/DropDownMenuKit) - A simple, modular and highly customizable UIKit menu, that can be attached to the navigation bar or toolbar, written in Swift.
 * [RevealMenuController](https://github.com/anatoliyv/RevealMenuController) - Expandable item groups, custom position and appearance animation. Similar to ActionSheet style.
 * [RHSideButtons](https://github.com/robertherdzik/RHSideButtons) - Library provides easy to implement variation of Android (Material Design) Floating Action Button for iOS. You can use it as your app small side menu.
-* [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) - Rotating circle menu written in Swift 3.
+* [Swift-CircleMenu](https://github.com/hu55a1n1/Swift-CircleMenu) - Rotating circle menu written in Swift 3.
 * [AKSideMenu](https://github.com/dogo/AKSideMenu) - Beautiful iOS side menu library with parallax effect.
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu written in Swift 3.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - Adorable iOS drop down menu with Swift3.
@@ -2983,7 +2982,7 @@ CollectionView, make Instagram Discover within minutes.
 * [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) - Git Submodule Alternative for Cocoa.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
 * [punic](https://github.com/schwa/punic) - Clean room reimplementation of Carthage tool
-* [Rome](https://github.com/blender/Rome) - A cache tool for Carthage built frameworks
+* [Rome](https://github.com/tmspzz/Rome) - A cache tool for Carthage built frameworks
 * [Athena](https://github.com/yunarta/works-athena-gradle-plugin) - Gradle Plugin to enhance Carthage by uploading the archived frameworks into Maven repository, currently support only Bintray, Artifactory and Mavel local.
 * [Accio](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
@@ -3018,7 +3017,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Localizations](https://github.com/athiercelin/localizations) - macOS app that manages localizations of Xcode projects.
 * [xcbuild](https://github.com/facebook/xcbuild) - Xcode-compatible build tool.
 * [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - An executable that can be placed in a Run Script Build Phase that marks comments like // TODO: or // SERIOUS: as warnings or errors so they display in the Xcode Issue Navigator.
-* [SwiftCompilationPerformanceReporter](https://github.com/tumblr/SwiftCompilationPerformanceReporter) - Generate automated reports for slow Swift compilation paths in specific targets
+* [SwiftCompilationPerformanceReporter](https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter) - Generate automated reports for slow Swift compilation paths in specific targets
 * [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift
 * [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations
 * [Benchmark](https://github.com/WorldDownTown/Benchmark) - The Benchmark⏲ module provides methods to measure and report the time used to execute Swift code.
@@ -3106,7 +3105,7 @@ CollectionView, make Instagram Discover within minutes.
 * [buddybuild](https://www.buddybuild.com/) - A mobile iteration platform - build, deploy, and collaborate.
 * [Bitrise](https://www.bitrise.io) Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate.
 * [watchbuild](https://github.com/fastlane/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
-* [Crashlytics](https://try.crashlytics.com/) - A crash reporting and beta testing service.
+* [Crashlytics](https://firebase.google.com/products/crashlytics/) - A crash reporting and beta testing service.
 * [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
 * [HockeyApp](https://www.hockeyapp.net) - With HockeyApp, you can distribute beta versions of your app, collect live crash reports, get feedback from users, and analyze test coverage.
 * [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
@@ -3214,7 +3213,7 @@ CollectionView, make Instagram Discover within minutes.
 * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
 * [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 * [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day)
-* [Code Facebook](https://code.fb.com/category/ios/)
+* [Code Facebook](https://engineering.fb.com/category/ios/)
 * [iOS Cookies](https://ioscookies.com/) - A hand curated collection of iOS libraries written in Swift
 * [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 * [iOS10 day-by-day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index/)
@@ -3235,7 +3234,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 * [raywenderlich.com](https://www.raywenderlich.com/ios) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
-* [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios/)
+* [Big Nerd Ranch](https://www.bignerdranch.com/wp-content/uploads/2019/05/ios.jpg)
 * [Tuts+](https://code.tutsplus.com/categories/ios-sdk)
 * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift)
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
@@ -3252,7 +3251,7 @@ CollectionView, make Instagram Discover within minutes.
 * [LearnAppMaking](https://learnappmaking.com) - LearnAppMaking helps app developers to build, launch and market iOS apps.
 * [iOS Development with Swift in Motion ](https://www.manning.com/livevideo/ios-development-with-swift-lv) -  This live video course locks in the language fundamentals and then offers interesting examples and exercises to build and practice your knowledge and skills.
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 👨‍💻 Watch conference videos in a native macOS app.
-* [DaddyCoding](https://www.daddycoding.com) - iOS Tutorials ranging from beginners to advance
+* [DaddyCoding](https://daddycoding.com/) - iOS Tutorials ranging from beginners to advance
 
 ### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
@@ -3319,7 +3318,7 @@ CollectionView, make Instagram Discover within minutes.
 
 ## Books
 * [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
-* [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/books/ios-programming/)
+* [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-sixth-edition/)
 * [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
 * [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
 * [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
