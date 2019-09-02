@@ -3234,7 +3234,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
 * [raywenderlich.com](https://www.raywenderlich.com/ios) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
-* [Big Nerd Ranch](https://www.bignerdranch.com/wp-content/uploads/2019/05/ios.jpg)
+* [Big Nerd Ranch](https://www.bignerdranch.com/blog/category/ios/)
 * [Tuts+](https://code.tutsplus.com/categories/ios-sdk)
 * [Thinkster](https://thinkster.io/a-better-way-to-learn-swift)
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
