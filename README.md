@@ -1251,6 +1251,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 Also see [push notifications](#push-notifications)
 
+* [Stream Chat for iOS](https://getstream.io/tutorials/ios-chat/) - iOS Chat With The Stream Swift SDK (giphy, file attachments, emoji support, direct & group chat, and more)
 * [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
