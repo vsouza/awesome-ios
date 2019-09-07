@@ -2493,7 +2493,7 @@ Most of these are paid services, some have free tiers.
 * [CountryPickerView](https://github.com/kizitonwose/CountryPickerView)- A simple, customizable view for efficiently collecting country information in iOS apps
 * [planet](https://github.com/kwallet/planet) - A country picker
 * [MICountryPicker](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option.
-* [SKCountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) A simple, customizable Country picker for picking country or dialing code. 
+* [SKCountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) - A simple, customizable Country picker for picking country or dialing code. 
 * [ADDatePicker](https://github.com/abhiperry/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift.
 
 ### Popup
