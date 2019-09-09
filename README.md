@@ -373,6 +373,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Cachyr](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift
 * [Cache](https://github.com/soffes/Cache) - Swift caching library.
 * [MemoryCache](https://github.com/yysskk/MemoryCache) - MemoryCache is type-safe memory cache.
+* [CachyKit](https://github.com/Sadmansamee/CachyKit) - Able to cache AnyObject after fetching from server or internally with expiry date for individual objects.
 
 ## Charts
 
