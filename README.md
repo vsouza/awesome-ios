@@ -545,7 +545,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 * [Prephirences](https://github.com/phimage/Prephirences) - Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state.
 * [Storez](https://github.com/SwiftKitz/Storez) - Safe, statically-typed, store-agnostic key-value storage (with namespace support).
-* [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - Statically-typed NSUserDefaults.
+* [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Statically-typed NSUserDefaults.
 * [SugarRecord](https://github.com/modo-studio/SugarRecord)  - Data persistence management library.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit for Swift, with WAL mode support
@@ -2085,7 +2085,6 @@ Most of these are paid services, some have free tiers.
 * [RZTransitions](https://github.com/Rightpoint/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
 * [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
 * [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
-* [Canvas](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift animation made easy
 * [Cheetah](https://github.com/suguru/Cheetah) - Easy animation library on iOS with Swift2.
 * [RadialLayer](https://github.com/soheil/RadialLayer) - Animation for clickable elements (similar to Youtube Music).
@@ -3024,7 +3023,7 @@ CollectionView, make Instagram Discover within minutes.
 * [MBAssetsImporter](https://github.com/MatiBot/MBAssetsImporter) - Import assets from Panoramio or from your macOS file system with their metadata to your iOS simulator (Swift 2.0)
 * [Realm Browser](https://github.com/realm/realm-browser-osx) - Realm Browser is a macOS utility to open and modify realm database files.
 * [SuperDelegate](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
-* [fastlane-plugin-appicon](https://github.com/KrauseFx/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.
+* [fastlane-plugin-appicon](https://github.com/fastlane-community/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.
 * [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
 * [PlayNow](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode.
 * [Xtrace](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance
@@ -3216,7 +3215,6 @@ CollectionView, make Instagram Discover within minutes.
 * [Code Facebook](https://engineering.fb.com/category/ios/)
 * [iOS Cookies](https://ioscookies.com/) - A hand curated collection of iOS libraries written in Swift
 * [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
-* [iOS10 day-by-day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index/)
 * [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 
 ### UIKit references
