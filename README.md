@@ -3303,7 +3303,6 @@ CollectionView, make Instagram Discover within minutes.
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
 * [Debug](https://www.imore.com/debug)
 * [App Story](http://www.appstorypodcast.com)
-* [Mobile Couch](https://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks/)
 * [Under the Radar](https://www.relay.fm/radar)
 * [Core Intuition](http://coreint.org/)
