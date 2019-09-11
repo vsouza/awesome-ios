@@ -1247,6 +1247,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications!
 * [JDVideoKit](https://github.com/jamesdouble/JDVideoKit) - You can easily transfer your video into Three common video type via this framework.
 * [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile AVPlayer implementation for iOS, macOS, and tvOS
+* [VideoEditorSDK](https://videoeditorsdk.com/) - A fully customizable video editor for your app.
 
 ## Messaging
 
