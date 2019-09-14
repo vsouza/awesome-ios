@@ -2576,6 +2576,7 @@ Most of these are paid services, some have free tiers.
 ### Slider
 * [VolumeControl](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
 * [WESlider](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
+* [RxJellySlider](https://github.com/behrad-kzm/JellySlider) - A Jelly slider integrated with RxSwift.
 * [IntervalSlider](https://github.com/shushutochako/IntervalSlider) - IntervalSlider is a slider library like ReutersTV app. written in pure swift.
 * [RangeSlider](https://github.com/warchimede/RangeSlider) - A simple range slider made in Swift
 * [CircleSlider](https://github.com/shushutochako/CircleSlider) - CircleSlider is a Circular slider library. written in pure Swift.
