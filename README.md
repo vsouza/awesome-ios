@@ -296,6 +296,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) - A Clean VIPER Modules Generator with comments and predfined functions.
 * [MMVMi](https://github.com/Maryom/MMVMi) - A Validation Model for MVC and MVVM Design Patterns in iOS Applications.
 * [ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
+* [MVVM Boilerplate Generator](https://github.com/Kaakati/MVVM-Template-Generator) - A Clean MVVM Boilerplate generator, it will help you create the View, ViewModel, Model, in addition to ViewUI if you build your UI programmatically.
 
 ## ARKit
 
