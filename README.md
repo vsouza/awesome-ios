@@ -21,12 +21,6 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering awesome-ios community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
-## How to Use
-Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use it are:
-- Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
-- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
-- Go through our *Content Menu*
-
 ### Content
 - [About](#about)
 - [How to Use](#how-to-use)
@@ -2495,7 +2489,7 @@ Most of these are paid services, some have free tiers.
 * [planet](https://github.com/kwallet/planet) - A country picker
 * [MICountryPicker](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option.
 * [ADDatePicker](https://github.com/abhiperry/ADDatePicker) - A fully customizable iOS Horizontal PickerView library, written in pure swift.
-* [SKCountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) - A simple, customizable Country picker for picking country or dialing code. 
+* [SKCountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) - A simple, customizable Country picker for picking country or dialing code.
 
 ### Popup
 * [PopupKit](https://github.com/rynecheow/PopupKit) - A simple and flexible class for presenting custom views as a popup in iOS and tvOS, maintained from [KLCPopup](https://github.com/jmascia/KLCPopup).
