@@ -4,16 +4,9 @@
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://gitter.im/vsouza/awesome-ios"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
   <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
+  <a href="https://ko-fi.com/M4M3WPRD"><img alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
-
-<a href="http://weekly.awesomeios.com"><img src="https://github.com/vsouza/awesome-ios/blob/master/newsletter.png"></a>
-
-## About
-A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
-The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
-
-<a href="https://ko-fi.com/M4M3WPRD"><img alt="ko-fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" /></a>
 
 ## Meet the New Instabug: Understand How Your iOS App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_ios_instabug.png)](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=photo)
