@@ -1,10 +1,28 @@
-<img src="https://github.com/vsouza/awesome-ios/blob/master/header.png">
+<div align="center">
+    <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png" alt="Awesome">
+    <p align="center">
+        <a href="https://triplebyte.com/a/azelHFa/d">
+        <b>Reduce your job search from O(N) to O(1)</b>
+        <br />
+        One coding quiz. <b>Multiple offers from top companies</b>
+        <br />
+        <p align="center">
+			<img align="center" src="triplebyte_logo.png" width="260"  alt="Tripblebyte">
+	    </p>
+        </a>
+    </p>
+    <br>
+	<br>
+	<br>
+</div>    
 
 <p align="center">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
   <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
 </p>
+
+
 
 ## Meet the New Instabug: Understand How Your iOS App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_ios_instabug.png)](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=photo)
@@ -13,8 +31,6 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 ### Content
-- [About](#about)
-- [How to Use](#how-to-use)
 - [Courses](#courses)
 - [Accessibility](#accessibility)
 - [Alexa](#alexa)
