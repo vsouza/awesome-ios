@@ -489,6 +489,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [Crayon](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
 - [SourceDocs](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
+- [ModuleInterface](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
 
 ## Concurrency
 
