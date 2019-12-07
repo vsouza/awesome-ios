@@ -1842,6 +1842,9 @@ Most of these are paid services, some have free tiers.
 - [Font-Awesome-Swift](https://github.com/Vaberer/Font-Awesome-Swift) - Font Awesome swift library for iOS.
 - [JQSwiftIcon](https://github.com/josejuanqm/JQSwiftIcon) - Icon Fonts on iOS using string interpolation written in Swift.
 - [Money](https://github.com/Flight-School/Money) - A precise, type-safe representation of a monetary amount in a given currency.
+- [MBSegmentControll](https://github.com/Arashk-A/MBSegmentControll) - A fully customizable SegmentControll with right to left support
+
+
 
 ## Testing
 
