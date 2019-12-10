@@ -1203,6 +1203,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [QRCode](https://github.com/aschuch/QRCode) - A QRCode generator written in Swift.
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate two-dimensional code in Swift.
 - [NSFWDetector](https://github.com/lovoo/NSFWDetector) - A NSFW (aka porn) detector with CoreML.
+- [Anyline](https://github.com/Anyline/anyline-ocr-examples-ios) - A fast and comprehensive OCR engine for mobile devices.
 
 ### PDF
 - [Reader](https://github.com/vfr/Reader) - PDF Reader Core for iOS.
