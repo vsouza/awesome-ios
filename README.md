@@ -273,7 +273,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and macOS.
 - [TVMLKitchen](https://github.com/toshi0383/TVMLKitchen) - Swifty TVML template manager with or without client-server.
 - [BrowserTV](https://github.com/zats/BrowserTV) - Turn your Apple TV into a dashboard displaying any webpage!
-- [Swift-GA-Tracker-for-Apple-tvOS](https://github.com/analytics-pros/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
+- [Swift-GA-Tracker-for-Apple-tvOS](https://github.com/adswerve/Swift-GA-Tracker-for-Apple-tvOS) - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
 - [ParallaxView](https://github.com/PGSSoft/ParallaxView) - iOS controls and extensions that add parallax effect to your application.
 - [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer) - Light and scrollable view controller for tvOS to present blocks of text
 - [FocusTvButton](https://github.com/dcordero/FocusTvButton) - Light wrapper of UIButton that allows extra customization for tvOS
@@ -471,7 +471,6 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [TFTColor](https://github.com/burhanuddin353/TFTColor) - Simple Extension for RGB and CMKY Hex Strings and Hex Values (ObjC & Swift).
 - [CostumeKit](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
 - [CSS3ColorsSwift](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
-- [Colorify](https://github.com/czater/Colorify) - Simple, yet powerful color library that includes latest and most trendy colors from 2017.
 - [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - An intuitive iOS color picker built in Swift.
 - [Lorikeet](https://github.com/valdirunars/Lorikeet) - A lightweight Swift framework for aesthetically pleasing color-scheme generation and CIE color-difference calculation.
 - [Gestalt](https://github.com/regexident/Gestalt) - An unintrusive & light-weight iOS app-theming library with support for animated theme switching.
@@ -932,7 +931,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [TinyConstraints](https://github.com/roberthein/TinyConstraints) -  The syntactic sugar that makes Auto Layout sweeter for human use.
 - [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap.
 - [SugarAnchor](https://github.com/ashikahmad/SugarAnchor) - Same native NSLayoutAnchor & NSLayoutConstraints; but with more natural and easy to read syntactic sugar. Typesafe, concise & readable.
-- [Anchors](https://github.com/onmyway133/Anchors) - Declarative, extensible, powerful Auto Layout.
+- [EasyAnchor](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
 - [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable.
 - [SnapLayout](https://github.com/sp71/SnapLayout) - Concise Auto Layout API to chain programmatic constraints while easily updating existing constraints.
 - [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
@@ -1330,7 +1329,6 @@ Also see [push notifications](#push-notifications)
 - [SWNetworking](https://github.com/isamankumara/skywite) - Powerful high-level iOS, macOS and tvOS networking library. from the creator of SWNetworking.
 - [Digger](https://github.com/cornerAnt/Digger) - Digger is a lightweight download framework that requires only one line of code to complete the file download task.
 - [Ciao](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf).
-- [PerfectAPIClient](https://github.com/jorik041/PerfectAPIClient) - An API Client based on a network abstraction layer for the Perfect Server-Side Swift Framework.
 - [Bamboots](https://github.com/mmoaay/Bamboots) - Bamboots is a network request framework based on Alamofire, aiming at making network request easier for business development.
 - [SolarNetwork](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer in Swift.
 - [FGRoute](https://github.com/Feghal/FGRoute) - An easy-to-use library that helps developers to get wifi ssid, router and device ip addresses.
@@ -1379,7 +1377,7 @@ Most of these are paid services, some have free tiers.
 - [Batch](https://batch.com)
 - [Boxcar](https://boxcar.io)
 - [Carnival](https://www.sailthru.com)
-- [Catapush](http://www.catapush.com/)
+- [Catapush](https://www.catapush.com/)
 - [Netmera](https://www.netmera.com/)
 - [OneSignal](https://onesignal.com) - Free.
 - [PushBots](https://pushbots.com/)
@@ -1449,7 +1447,6 @@ Most of these are paid services, some have free tiers.
 - [Motis](https://github.com/mobilejazz/Motis) - Easy JSON to NSObject mapping using Cocoa's key value coding (KVC).
 - [NSTEasyJSON](https://github.com/bernikovich/NSTEasyJSON) - The easiest way to deal with JSON data in Objective-C (similar to SwiftyJSON).
 - [Serpent](https://github.com/nodes-ios/Serpent) - A protocol to serialize Swift structs and classes for encoding and decoding.
-- [MagicMapper](https://github.com/adrianmateoaea24/magic-mapper-swift) - :star2: Super light and easy automatic JSON to model mapper.
 - [FlatBuffersSwift](https://github.com/mzaks/FlatBuffersSwift) - This project brings FlatBuffers (an efficient cross platform serialization library) to Swift.
 - [CodableAlamofire](https://github.com/Otbivnoe/CodableAlamofire) - An extension for Alamofire that converts JSON data into Decodable objects (Swift 4).
 - [WAMapping](https://github.com/Wasappli/WAMapping) - A library to turn dictionary into object and vice versa for iOS. Designed for speed!
@@ -1529,7 +1526,7 @@ Most of these are paid services, some have free tiers.
 - [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - A simple and elegant 3D-Flyover location request screen written Swift.
 - [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
 - [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
-- [SPPermission](https://github.com/IvanVorobei/SPPermission) - Request permissions with dialog. Check state any permissions.
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ## Products
 - [Import.io](https://www.import.io/) - Instantly Turn Web Pages into Data.
@@ -1612,7 +1609,7 @@ Most of these are paid services, some have free tiers.
 - [Spotify](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
 - [SpotifyLogin](https://github.com/spotify/SpotifyLogin) Spotify SDK Login in Swift.
 - [Facebook](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK.
-- [Facebook Swift](https://github.com/facebook/facebook-swift-sdk) Integrate your iOS apps in Swift with Facebook Platform.
+- [Facebook Swift](https://github.com/facebook/facebook-ios-sdk) Used to integrate the Facebook Platform with your iOS & tvOS apps.
 - [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS.
 - [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
 - [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) SDK for saving stuff to Pocket.
@@ -2006,7 +2003,7 @@ Most of these are paid services, some have free tiers.
 - [SwiftyUI](https://github.com/haoking/SwiftyUI) - High performance and lightweight(one class each UI) UIView, UIImage, UIImageView, UIlabel, UIButton, Promise and more.
 - [NotchToolkit](https://github.com/AFathi/NotchToolkit) - A framework for iOS that allow developers use the iPhone X notch in creative ways.
 - [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
-- [DrawerKit](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+- [DrawerKit](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 - [Shades](https://github.com/aaronjsutton/Shades) - Easily add drop shadows, borders, and round corners to a UIView.
 - [ISPageControl](https://github.com/Interactive-Studio/ISPageControl) - A page control similar to that used in Instagram.
 - [Mixin](https://github.com/oney/Mixin) - React.js like Mixin. More powerful Protocol-Oriented Programming.
@@ -2093,7 +2090,6 @@ Most of these are paid services, some have free tiers.
 - [Spring](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift.
 - [Fluent](https://github.com/matthewcheok/Fluent) - Swift animation made easy.
 - [Cheetah](https://github.com/suguru/Cheetah) - Easy animation library on iOS.
-- [RadialLayer](https://github.com/soheil/RadialLayer) - Animation for clickable elements (similar to Youtube Music).
 - [Pop By Example](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - A project tutorial in how to use Pop animation framework by example.
 - [AppAnimations](http://www.appanimations.com) - Collection of iOS animations to inspire your next project.
 - [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together.
@@ -2134,7 +2130,6 @@ Most of these are paid services, some have free tiers.
 - [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) - Composable animations in Swift.
 - [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat “cutting” animations.
 - [Lottie](https://github.com/airbnb/lottie-ios) - An iOS library for a real time rendering of native vector animations from Adobe After Effects.
-- [Overlap](https://github.com/ML-Works/Overlap) - Tiny iOS library to achieve overlap visual effect.
 - [anim](https://github.com/onurersel/anim) - An animation library for iOS with custom easings and easy to follow API.
 - [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView.
 - [Dance](https://github.com/saoudrizwan/Dance) - A radical & elegant animation library built for iOS.
@@ -2544,7 +2539,7 @@ Most of these are paid services, some have free tiers.
 - [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS inspired by [concept](https://dribbble.com/shots/2242263--1-Pull-to-refresh-Freebie-Weather-Concept).
 - [ESPullToRefresh](https://github.com/eggswift/pull-to-refresh) - Customisable pull-to-refresh, including nice animation on the top
 - [CRRefresh](https://github.com/CRAnimation/CRRefresh) - An easy way to use pull-to-refresh.
-- [KafkaRefresh](https://github.com/OpenFeyn/KafkaRefresh) - Highly scalable, custom, multi-style refresh framework.
+- [KafkaRefresh](https://github.com/HsiaohuiHsiang/KafkaRefresh) - Animated, customizable, and flexible pull-to-refresh framework for faster and easier iOS development.
 
 ### Rating Stars
 - [FloatRatingView](https://github.com/glenyi/FloatRatingView) - Whole, half or floating point ratings control written in Swift
@@ -3247,7 +3242,7 @@ Most of these are paid services, some have free tiers.
 - [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 - [Cocoa Dev Central](http://cocoadevcentral.com)
 - [Use Your Loaf](https://useyourloaf.com/)
-- [Swift Tutorials by Jameson Quave](http://jamesonquave.com/blog/tutorials/)
+- [Swift Tutorials by Jameson Quave](https://jamesonquave.com/blog/tutorials/)
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
 - [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) - A List of Awesome Swift Playgrounds!
 - [learn-swift](https://github.com/nettlep/learn-swift) - Learn Apple's Swift programming language interactively through these playgrounds.
