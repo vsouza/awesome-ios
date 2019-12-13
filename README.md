@@ -2568,6 +2568,7 @@ Most of these are paid services, some have free tiers.
 -  [SlideController](https://github.com/touchlane/SlideController) - SlideController is simple and flexible UI component completely written in Swift. It is a nice alternative for UIPageViewController built using power of generic types.
 - [CrownControl](https://github.com/huri000/CrownControl) - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
 - [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
+- [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS ScrollView UI library, designed primarily for SwiftUI, written in Swift that provides a grid style scroll view containing all your images array with the possibility to zoom, like the Apple Photos app, providing interoperability for UIKit.
 
 ### Segmented Control
 - [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
