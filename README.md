@@ -1196,6 +1196,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
 - [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - A simple and flexible way to add source of overlapping circular pictures.
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing.
+- [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS customizable grid style scrollView UI library to display your UIImage array input, designed primarily for SwiftUI as well as to interoperate with UIKit.
 
 ### Media Processing
 - [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift.
@@ -2568,7 +2569,6 @@ Most of these are paid services, some have free tiers.
 -  [SlideController](https://github.com/touchlane/SlideController) - SlideController is simple and flexible UI component completely written in Swift. It is a nice alternative for UIPageViewController built using power of generic types.
 - [CrownControl](https://github.com/huri000/CrownControl) - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
 - [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution.
-- [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - iOS ScrollView UI library, designed primarily for SwiftUI, written in Swift that provides a grid style scroll view containing all your images array with the possibility to zoom, like the Apple Photos app, providing interoperability for UIKit.
 
 ### Segmented Control
 - [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch.
