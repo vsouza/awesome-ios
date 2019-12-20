@@ -509,6 +509,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more.
 - [GroupWork](https://github.com/quanvo87/GroupWork) - Easy concurrent, asynchronous tasks in Swift.
 - [StickyLocking](https://github.com/stickytools/sticky-locking) - A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types.
+- [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
 
 ## Core Data
 
