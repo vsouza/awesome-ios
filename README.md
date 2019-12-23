@@ -895,6 +895,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [Device.swift](https://github.com/schickling/Device.swift) - Super-lightweight library to detect used device.
 - [SDVersion](https://github.com/sebyddd/SDVersion) - Lightweight Cocoa library for detecting the running device's model and screen size.
 - [Haptico](https://github.com/iSapozhnik/Haptico) - Easy to use haptic feedback generator with pattern-play support.
+- [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## Layout
 
