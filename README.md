@@ -2635,7 +2635,6 @@ Most of these are paid services, some have free tiers.
 - [Switch](https://github.com/T-Pham/Switch) - An iOS switch control implemented in Swift with full Interface Builder support.
 
 ### Tab Bar
-- [BEKCurveTabbar](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 - [ESTabBarController](https://github.com/ezescaruli/ESTabBarController) - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
 - [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar
 - [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
@@ -2662,7 +2661,7 @@ Most of these are paid services, some have free tiers.
 - [SSCustomTabMenu](https://github.com/simformsolutions/SSCustomTabMenu) Simple customizable iOS bottom menu with Tabbar.
 - [SmoothTab](https://github.com/yervandsar/SmoothTab) - Smooth customizable tabs for iOS apps.
 - [ExpandedTabBar](https://github.com/yervandsar/ExpandedTabBar) - Very creative designed solution for "more" items in UITabBarController
-
+- [BEKCurveTabbar](https://github.com/behrad-kzm/BEKCurveTabbar) - compatible with XCode +10 and fully customizable via Interface_Builder panel. BEKCurveTabBar derived UITabBar class and compatible with every iOS devices.
 
 ### Table View / Collection View
 
@@ -2671,7 +2670,6 @@ Most of these are paid services, some have free tiers.
 - [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 - [YXTPageView](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
 - [ConfigurableTableViewController](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller https://holko.pl/2016/01/05/typed-table-view-controller/
-- [BEKMultiCellTable](https://github.com/behrad-kzm/BEKMultiCellTable) - A generic table view based on MVVM that allows you to add multiple cell types at runtime in a single line of code. 
 - [Lightning-Table](https://github.com/electrickangaroo/Lightning-Table) - A declarative api for working with UITableView.
 - [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift.
 - [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews.
