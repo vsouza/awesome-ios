@@ -1004,6 +1004,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [Reqres](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support.
 - [TraceLog](https://github.com/tonystone/tracelog) - Dead Simple: logging the way it's meant to be! Runs on ios, osx, and Linux.
 - [OkLog](https://github.com/diegotl/OkLog-Swift) - A network logger for iOS and macOS projects.
+- [Spy](https://github.com/appunite/Spy) - Lightweight, flexible, multiplatform (iOS, macOS, tvOS, watchOS, Linux) logging utility written in pure Swift that allows you to log on different levels and channels which you can define on your own depending on your needs.
 
 ## Machine Learning
 
