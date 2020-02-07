@@ -2658,6 +2658,7 @@ Most of these are paid services, some have free tiers.
 - [StaticTableViewController](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
 - [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
 - [ThunderTable](https://github.com/3sidedcube/ThunderTable) - A simple declarative approach to UITableViewController management using a protocol-based approach.
+- [BEKMultiCellTable](https://github.com/behrad-kzm/BEKMultiCellTable) - Create a multi cell type table view in a single line of code with BEKMultiCellTable, SUPER EASY and NO CHANGES IN YOUR CODE! .
 
 #### Collection View
 
