@@ -1259,6 +1259,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 
 Also see [push notifications](#push-notifications)
 
+- [CometChat SDK + Open Source UI Library](https://github.com/cometchat-pro/ios-chat-ui-kit) - iOS SDK & UI library to quickly add voice, video & text chat to your mobile & web apps.
 - [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
 - [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
 - [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift.
