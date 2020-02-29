@@ -299,6 +299,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [MMVMi](https://github.com/Maryom/MMVMi) - A Validation Model for MVC and MVVM Design Patterns in iOS Applications.
 - [ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others.
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
+- [Plug](https://github.com/lewandowskit93/Plug) - Multiplatform (iOS, macOS, tvOS, watchOS, Linux) plugin architecture micro-framework and plugin manager written in pure Swift.
 
 ## ARKit
 
