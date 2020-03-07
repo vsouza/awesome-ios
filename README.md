@@ -2569,6 +2569,7 @@ Most of these are paid services, some have free tiers.
 - [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, optional snap intervals, optional value labels.
 - [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
 - [Fluid Slider](https://github.com/Ramotion/fluid-slider) - A slider widget with a popup bubble displaying the precise value selected.
+- [GaugeSlider](https://github.com/edgar-zigis/GaugeSlider) - A highly customizable GaugeSlider designed for a Smart Home application.
 
 ### Splash View
 - [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
