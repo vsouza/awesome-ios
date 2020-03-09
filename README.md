@@ -1039,6 +1039,7 @@ Mobile teams accelerate their workflows by seamlessly integrating with third-par
 - [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 - [MapViewPlus](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view of your MKMapView with cool animations. Also, easily use any image as annotation view.
 - [MSFlightMapView](https://github.com/mabdulsubhan/MSFlightMapView) - Add and animate geodesic flights on Google map.
+- [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ## Math
 
