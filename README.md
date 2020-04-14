@@ -3040,6 +3040,7 @@ Most of these are paid services, some have free tiers.
 - [nef](https://github.com/bow-swift/nef) - A set of command line tools for Xcode Playground: lets you have compile-time verification of your documentation written as Xcode Playgrounds, generates markdown files, integration with Jekyll for building microsites and Carbon to export code snippets.
 - [Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused code.
 - [Speculid](https://speculid.com) - generate Image Sets and App Icons from SVG, PNG, and JPEG files
+- [SkrybaMD](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team need easy way to maintain and create documentation, this generator is for you.
 
 ## Rapid Development
 
