@@ -1402,6 +1402,7 @@ Most of these are paid services, some have free tiers.
 ### Local Notifications
 
 - [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework.
+- [SwiftLocalNotification](https://github.com/Salarsoleimani/SwiftLocalNotification) - Super easy to push local notifications in different simple useful ways.
 
 ## Objective-C Runtime
 
