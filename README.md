@@ -24,10 +24,9 @@
 
 
 
-## Meet the New Instabug: Understand How Your iOS App is Doing with Real-Time Contextual Insights From Your Users
+## Understand How Your iOS App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_ios_instabug.png)](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=photo)
-> Instabug helps development and product teams easily collect bugs and feedback from beta testers and customers to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs.
-Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering awesome-ios community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)
+> The SDK that gives development and product teams all the logs they need to fix bugs, crashes, and other issues in minutes instead of days. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. It only takes a line of code to integrate and accelerate your workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. Instabug is offering exclusively to awesome-ios community a 3 months free trial. Get Started Now!" [try.instabug.com/awesome-ios](https://try.instabug.com/awesome-ios)
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 ### Content
