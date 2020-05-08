@@ -2476,6 +2476,7 @@ Most of these are paid services, some have free tiers.
 - [Popover](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - A highly customizable popups, alerts and banners presenter for iOS. It offers various presets and is written in pure Swift.
 - [FFPopup](https://github.com/JonyFang/FFPopup) - ⛩FFPopup is a lightweight library for presenting custom views as a popup.
+- [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ### ProgressView
 - [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift
