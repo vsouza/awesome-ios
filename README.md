@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png" alt="Awesome">
-    
+​    
 
 </div>
 
@@ -1986,6 +1986,7 @@ Most of these are paid services, some have free tiers.
 - [ClassicKit](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components for iOS.
 - [Sejima](https://github.com/MoveUpwards/Sejima) - A collection of User Interface components for iOS.
 - [UI Fabric by Microsoft](https://github.com/OfficeDev/ui-fabric-ios) - UI framework based on [Fluent Design System](https://www.microsoft.com/design/fluent/#/ios) by Microsoft.
+- [Style Injection](https://github.com/Animaxx/A-StyleInjection) - A library provide the way to customize whole iOS App base on the single configuration setting without coding.
 
 ### Activity Indicator
 - [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
