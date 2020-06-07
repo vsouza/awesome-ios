@@ -197,7 +197,7 @@
 - [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/course/arkit-beginner-to-professional/)
 - [ARStarter](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners.
 - [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-
+- [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
 ## Accessibility
 
  *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
