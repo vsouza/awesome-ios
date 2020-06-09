@@ -2667,6 +2667,7 @@ Most of these are paid services, some have free tiers.
 - [StaticTableViewController](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
 - [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
 - [ThunderTable](https://github.com/3sidedcube/ThunderTable) - A simple declarative approach to UITableViewController management using a protocol-based approach.
+- [SwiftyListKit](https://github.com/aleksandrshoshiashvili/SwiftyListKit) - Powerful framework for building flexible, reusable and fast lists with a declarative approach
 
 #### Collection View
 
