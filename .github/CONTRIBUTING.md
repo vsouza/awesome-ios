@@ -22,19 +22,22 @@ Typical reasons for deleting project:
 - No updates / no longer works
 - Deprecated
 - Lacks license
+- Archived projects
 
 #### Projects are ineligible if:
 
 - Lack recent commit
+- Have lower than 50 stargazers in Github
 - Don't support iOS 9 or later
 - Don't support Swift 4 or later
-- Not written in English
+- README or code comments aren't written in English
 - README is not clear
 - Does not support the most common package managers (spm, cocoapods, carthage...)
 
 ### Projects that can be rejected:
 
 - Projects without tests.
+- Have only one contributor
 - Projects with exact same functionalities as other projects that are already in AwesomeiOS
 - Projects with few functionalities
 
