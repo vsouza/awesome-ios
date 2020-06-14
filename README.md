@@ -368,6 +368,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift
 * [Cache](https://github.com/soffes/Cache) - Swift caching library.
+* [SwifteeCache](https://github.com/nikksindia/SwifteeCache) - Thread safe on disk persistence manager with Codable and backed by NSCache.
 
 ## Charts
 
