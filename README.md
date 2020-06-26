@@ -3083,7 +3083,6 @@ Most of these are paid services, some have free tiers.
 
 ## Deployment / Distribution
 
-- [Appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS with online device simulators
 - [fastlane](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 - [deliver](https://github.com/fastlane/fastlane/tree/master/deliver) - Upload screenshots, metadata and your app to the App Store using a single command.
 - [snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot) - Automate taking localized screenshots of your iOS app on every device.
@@ -3102,6 +3101,7 @@ Most of these are paid services, some have free tiers.
 - [Appfigurate](https://github.com/electricbolt/appfiguratesdk) - Secure runtime configuration for iOS and watchOS, apps and app extensions.
 - [ScreenshotFramer](https://github.com/IdeasOnCanvas/ScreenshotFramer) - With Screenshot Framer you can easily create nice-looking and localized App Store Images.
 - [Semaphore](https://semaphoreci.com/product/ios) - CI/CD service which makes it easy to build, test and deploy applications for any Apple device. iOS support is fully integrated in Semaphore 2.0, so you can use the same powerful CI/CD pipeline features for iOS as you do for Linux-based development.
+- [Appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS with online device simulators
 
 
 ## App Store
