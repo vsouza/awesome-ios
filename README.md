@@ -8,7 +8,7 @@
   <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
 </p>
 
-## Sponsored 
+## Sponsored by
 <p align="center">
     <a href="https://bit.ly/gitadsawesomeios"><img width="900" src="https://images.gitads.io/awesome-ios" /></a>
 </p>
