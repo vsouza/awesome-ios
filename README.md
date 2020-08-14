@@ -466,7 +466,7 @@
 
 ## Command Line
 
-*Smart, beauftil and elegant tools to help you create command line applications.*
+*Smart, beautiful and elegant tools to help you create command line applications.*
 
 - [Swiftline](https://github.com/nsomar/Swiftline) - Swiftline is a set of tools to help you create command line applications.
 - [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
