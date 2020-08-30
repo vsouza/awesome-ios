@@ -8,6 +8,11 @@
   <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
 </p>
 
+## Understand How Your iOS App is Doing with Real-Time Contextual Insights From Your Users
+ [![instabug-github](https://raw.githubusercontent.com/vsouza/awesome-ios/master/sponsor_banner.gif)](https://instabug.com/ios/sdk?utm_source=awesomeios&utm_medium=spon&utm_content=photo)
+ > The SDK that gives development and product teams all the logs they need to fix bugs, crashes, and other issues in minutes instead of days. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. It only takes a line of code to integrate and accelerate your workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk, and much more. Instabug is offering exclusively to the awesome-ios community a 3 months free trial. [Get Started Now!](https://try.instabug.com/awesome-ios?utm_source=awesomeios&utm_medium=repo&utm_campaign=awesomeios-repo-Q320-Sept)
+ [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
+
 ### Content
 - [Courses](#courses)
 - [Accessibility](#accessibility)
