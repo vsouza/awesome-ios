@@ -79,6 +79,7 @@
     - [XML & HTML](#xml--html)
     - [Other Parsing](#other-parsing)
 - [Passbook](#passbook)
+- [Pasteboard](#pasteboard)
 - [Payments](#payments)
 - [Permissions](#permissions)
 - [Products](#products)
@@ -1477,6 +1478,9 @@ Most of these are paid services, some have free tiers.
 - [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
 - [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
 - [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
+
+## Pasteboard
+- [Pasteboard](https://github.com/jacobjiangwei/Pasteboard) - Read/Write complicated UIPasteboard data structure including web archive, images, pdf and share image/texts.
 
 ## Payments
 - [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
