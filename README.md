@@ -248,6 +248,7 @@
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) - An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way.
 - [RouteComposer](https://github.com/ekazaev/route-composer) - Library that helps to handle view controllers composition, routing and deeplinking tasks.
 - [LiteRoute](https://github.com/SpectralDragon/LiteRoute) - Easy transition between VIPER modules, implemented on pure Swift.
+- [MonarchRouter](https://github.com/nikans/MonarchRouter) — To rule your app. Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions, decoupling them. Time-tested server-side conventions implemented for iOS.
 
 ## Apple TV
 
