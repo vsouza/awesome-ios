@@ -1615,6 +1615,7 @@ Most of these are paid services, some have free tiers.
 - [twitter-kit-ios](https://github.com/twitter-archive/twitter-kit-ios) - Twitter Kit is a native SDK to include Twitter content inside mobile apps.
 - [rides-ios-sdk](https://github.com/uber/rides-ios-sdk) - Uber Rides iOS SDK (beta).
 - [Apphud](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
+- [Adapty](https://github.com/adaptyteam/AdaptySDK-iOS) — Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ### Unofficial
 
