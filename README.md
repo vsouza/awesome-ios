@@ -962,6 +962,7 @@
 - [LocalizedView](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
 - [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 - [Strsync](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
+- [attranslate](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 - [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - Localize your views directly in Interface Builder with IBLocalizable.
 - [nslocalizer](https://github.com/samdmarshall/nslocalizer) - A tool for finding missing and unused NSLocalizedStrings.
 - [L10n-swift](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
