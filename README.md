@@ -733,6 +733,7 @@
 - [CollectionNode](https://github.com/bwide/CollectionNode) - A swift framework for a collectionView in SpriteKit.
 - [AssetImportKit](https://github.com/eugenebokhan/AssetImportKit) - Swifty cross platform library (macOS, iOS) that converts Assimp supported models to SceneKit scenes.
 - [glide engine](https://github.com/cocoatoucher/Glide) - SpriteKit and GameplayKit based engine for making 2d games, with practical examples and tutorials.
+- [SwiftFortuneWheel](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
 
 ## GCD
 
