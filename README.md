@@ -1111,6 +1111,7 @@
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category.
 - [DFImageManager](https://github.com/kean/DFImageManager) - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
 - [MapleBacon](https://github.com/JanGorman/MapleBacon) - An image download and caching library for iOS written in Swift.
+- [SwiftMediaGallery](https://github.com/nathan-hh/SwiftyMediaGallery) - a very convenient library to display images/videos like iOS Gallary/WhatsApp style
 - [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - Slideshow and image viewer.
 - [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) - Photo Browser / Viewer.
 - [Concorde](https://github.com/contentful-labs/Concorde/) - Download and decode progressive JPEGs.
