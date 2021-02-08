@@ -1511,6 +1511,7 @@ Most of these are paid services, some have free tiers.
 - [PAPermissions](https://github.com/pascalbros/PAPermissions) - A unified API to ask for permissions on iOS.
 - [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 - [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+- [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - SPPermissions in SwiftUI, beautifully display and handle permissions.
 
 ## Reactive Programming
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift.
