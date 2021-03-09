@@ -1019,6 +1019,7 @@
 - [Serrano](https://github.com/pcpLiu/Serrano) - A deep learning library for iOS and macOS.
 - [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
 - [TensorSwift](https://github.com/qoncept/TensorSwift) - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's.
+- [DL4S](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift
 
 ## Maps
 
