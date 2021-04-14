@@ -2492,6 +2492,7 @@ Most of these are paid services, some have free tiers.
 ### ProgressView
 - [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift
 - [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) - Customizable progress indicator library in Swift.
+- [TZSignalBarStrength](https://github.com/TrianglZ/TZSignalBarStrength) - Displays signal bars indicating the input signal strength with a customizable animation for iOS applications, written in Swift.
 
 ### Pull to Refresh
 - [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift
