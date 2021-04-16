@@ -2494,6 +2494,7 @@ Most of these are paid services, some have free tiers.
 - [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) - Customizable progress indicator library in Swift.
 
 ### Pull to Refresh
+- [SSCustomPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSCustomPullToRefresh) - SSCustomPullToRefresh adds animation to the pull to refresh view in a UITableView and UICollectionView.
 - [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift
 - [PullToBounce](https://github.com/entotsu/PullToBounce) - Animated "Pull To Refresh" Library for UIScrollView.
 - [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
