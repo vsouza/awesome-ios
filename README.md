@@ -2151,6 +2151,7 @@ Most of these are paid services, some have free tiers.
 * [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift :large_orange_diamond:
 
 #### Pull to Refresh
+- [SSCustomPullToRefresh](https://github.com/SimformSolutionsPvtLtd/SSCustomPullToRefresh) - SSCustomPullToRefresh adds animation to the pull to refresh view in a UITableView and UICollectionView.
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift :large_orange_diamond:
 * [PullToBounce](https://github.com/entotsu/PullToBounce) - Animated "Pull To Refresh" Library for UIScrollView. :large_orange_diamond:
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
