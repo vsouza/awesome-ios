@@ -219,6 +219,7 @@
 - [Inapptics](https://inapptics.com) - Helps analyze and visualize user behavior in mobile apps. Provides visual user journeys, heatmaps and crash replays.
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
 - [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+- [Shake](https://www.shakebugs.com/) - In-app feedback and bug reporting tool. Fix app bugs up to 50x faster with detailed device data, repro steps, video recordings, black box data, network requests and custom logging.
 
 ## App Routing
 
