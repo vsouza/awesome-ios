@@ -1828,6 +1828,7 @@ Most of these are paid services, some have free tiers.
 - [Font-Awesome-Swift](https://github.com/Vaberer/Font-Awesome-Swift) - Font Awesome swift library for iOS.
 - [JQSwiftIcon](https://github.com/josejuanqm/JQSwiftIcon) - Icon Fonts on iOS using string interpolation written in Swift.
 - [Money](https://github.com/Flight-School/Money) - A precise, type-safe representation of a monetary amount in a given currency.
+- [AdaptiveFonts](https://github.com/adaptiveplus/AdaptiveFonts) - Import 1052 Free fonts on the go and decrease your app size, using Google Fonts API key.
 
 ## Testing
 
