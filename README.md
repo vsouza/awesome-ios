@@ -2296,6 +2296,7 @@ Most of these are paid services, some have free tiers.
 - [ios_calendar](https://github.com/maximbilan/Calendar-iOS)  - It's lightweight and simple control with supporting Locale and CalendarIdentifier. There're samples for iPhone and iPad, and also with using a popover. With supporting Persian calendar
 - [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift.
 - [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full-screen calendar missed in SwiftUI.
+- [CalendarApp](https://github.com/richardtop/CalendarApp) - A sample app similar to iOS Calendar, built with CalendarKit and EventKit.
 
 ### Cards
 
