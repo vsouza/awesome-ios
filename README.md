@@ -966,6 +966,7 @@
 - [Localize](https://github.com/andresilvagomez/Localize) - Easy tool to localize apps using JSON or Strings and of course IBDesignables with extensions for UI components.
 - [CrowdinSDK](https://github.com/crowdin/mobile-sdk-ios) - Crowdin iOS SDK delivers all new translations from Crowdin project to the application immediately.
 - [attranslate](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
+- [Respresso Localization Converter](https://respresso.io/localization-converter) - Multiplatform localization converter for iOS (.strings + Objective-C getters), Android (strings.xml) and Web (.json).
 
 ## Logging
 
