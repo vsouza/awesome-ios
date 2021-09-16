@@ -1401,6 +1401,7 @@ Most of these are paid services, some have free tiers.
 ### Local Notifications
 
 - [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework.
+- [LocPush](https://github.com/glennposadas/locpush-ios) -  A super simple local push notification helper.
 
 ## Objective-C Runtime
 
@@ -2200,6 +2201,7 @@ Most of these are paid services, some have free tiers.
 - [AlertViewLoveNotification](https://github.com/PhilippeBoisney/AlertViewLoveNotification) - A simple and attractive AlertView to ask permission to your users for Push Notification.
 - [CRToast](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs.
 - [JLToast](https://github.com/devxoul/Toaster) - Toast for iOS with very simple interface.
+- [SimpleToast](https://github.com/glennposadas/simple-toast-ios) - Your open-source, super simple toast view for iOS. Rename and use it however you want.
 - [CuckooAlert](https://github.com/rollmind/CuckooAlert) - Multiple use of presentViewController for UIAlertController.
 - [KRAlertController](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS.
 - [Dodo](https://github.com/evgenyneu/Dodo) - A message bar for iOS written in Swift.
