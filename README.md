@@ -190,7 +190,7 @@
 - [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
 - [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
-- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Extensive tutorials on a high-level framework for experimenting with AR.
+- [ARHeadsetKit Tutorials](https://github.com/philipturner/ARHeadsetKit) - Extensive tutorials on a high-level framework for experimenting with AR.
 
 ## Accessibility
 
