@@ -1686,6 +1686,7 @@ Most of these are paid services, some have free tiers.
 - [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library written in Swift.
 - [Arcane](https://github.com/onmyway133/Arcane) - Lightweight wrapper around CommonCrypto in Swift.
 - [SwiftMD5](https://github.com/mpurland/SwiftMD5) - A pure Swift implementation of MD5.
+- [Swift-CryptoSHA](https://github.com/devzhr/Swift-CryptoSHA) - Swift Crypto SHA256, SHA512, SHA224 and SHA384.
 - [SwiftHash](https://github.com/onmyway133/SwiftHash) - Hash in Swift.
 - [SweetHMAC](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 - [SwCrypt](https://github.com/soyersoyer/SwCrypt) - RSA public/private key generation, RSA, AES encryption/decryption, RSA sign/verify in Swift with CommonCrypto in iOS and macOS.
