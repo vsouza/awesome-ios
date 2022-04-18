@@ -1589,6 +1589,7 @@ Most of these are paid services, some have free tiers.
 - [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
 - [Regex](https://github.com/crossroadlabs/Regex) - Regular expressions for swift.
 - [Regex](https://github.com/brynbellomy/Regex) - Regex class for Swift. Wraps NSRegularExpression.
+- [sindresorhus/Regex](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## SDK
 
