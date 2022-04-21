@@ -954,6 +954,7 @@
 - [RKAutoLayout](https://github.com/daskioff/RKAutoLayout) - Simple wrapper over AutoLayout.
 - [Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 - [MondrianLayout](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
+- [ScalingHeaderScrollView](https://github.com/exyte/ScalingHeaderScrollView.git) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## Localization
 
