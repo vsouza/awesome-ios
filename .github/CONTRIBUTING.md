@@ -13,6 +13,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure that your suggestion is positioned as the last item category.
 - Make sure your text editor is set to remove trailing whitespace.
+- Make sure your project is elegible before open a pull request.
 
 #### Deleting
 
@@ -26,6 +27,7 @@ Typical reasons for deleting project:
 
 #### Projects are ineligible if:
 
+- Projects without tests.
 - Lack recent commit
 - Have lower than 50 stargazers in Github
 - Don't support iOS 9 or later
@@ -36,7 +38,7 @@ Typical reasons for deleting project:
 
 ### Projects that can be rejected:
 
-- Projects without tests.
+- Paid products
 - Have only one contributor
 - Projects with exact same functionalities as other projects that are already in AwesomeiOS
 - Projects with few functionalities
