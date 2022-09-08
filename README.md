@@ -3102,6 +3102,7 @@ Most of these are paid services, some have free tiers.
 - [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
 - [Needle](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
 - [Locatable](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+- [Macaroni](https://github.com/bealex/Macaroni) — A small, easy to use, pure Swift, dependency injection framework for all of us.
 
 ## Deployment / Distribution
 
