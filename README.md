@@ -1490,6 +1490,7 @@ Most of these are paid services, some have free tiers.
 - [AcknowledgementsPlist](https://github.com/cats-oss/AcknowledgementsPlist) - AcknowledgementsPlist manages the licenses of libraries that depend on your iOS app.
 - [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX) - Excel spreadsheet (XLSX) format support in pure Swift.
 - [SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+- [CreateAPI](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 
 
 ## Passbook
