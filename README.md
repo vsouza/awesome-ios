@@ -3277,7 +3277,7 @@ Most of these are paid services, some have free tiers.
 ### iOS UI Template
 - [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
 - [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
-- [iOS GUI by Facebook Design Resources](https://facebook.design/)
+- [iOS 11 iPhone GUI from Design at Meta](https://design.facebook.com/toolsandresources/ios-11-iphone-gui/)
 
 ### Prototyping
 - [FluidUI](https://www.fluidui.com)
