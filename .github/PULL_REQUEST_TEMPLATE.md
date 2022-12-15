@@ -19,8 +19,8 @@
 - [ ] Isn't an archived project
 - [ ] Has more than one contributor
 - [ ] Has unit tests, integration tests or UI tests
-- [ ] Addition in chronological order (bottom of category)
-- [ ] Supports iOS 9 / tvOS 10 or later
+- [ ] Addition in alphabetical order (bottom of category)
+- [ ] Supports iOS 12 / tvOS 10 or later
 - [ ] Supports Swift 4 or later
 - [ ] Has a commit from less than 2 years ago
 - [ ] Has a **clear** README in English
