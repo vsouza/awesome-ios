@@ -8,8 +8,8 @@
   <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
 </p>
 
-### Content
-- [Courses](#courses)
+## Contents
+
 - [Accessibility](#accessibility)
 - [Alexa](#alexa)
 - [Analytics](#analytics)
@@ -28,6 +28,7 @@
 - [Command Line](#command-line)
 - [Concurrency](#concurrency)
 - [Core Data](#core-data)
+- [Courses](#courses)
 - [Database](#database)
 - [Data Structures / Algorithms](#data-structures--algorithms)
 - [Date & Time](#date--time)
@@ -166,31 +167,6 @@
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing-and-license)
-
-## Courses
-
-### Getting Started
-
-*Courses, tutorials and guides*
-
-- [Apple- Start Developing with iOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide.
-- [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
-- [Apple - Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-- [CodeProject](https://www.codeproject.com/articles/88929/getting-started-with-iphone-and-ios-development) - Getting Started with iPhone and iOS Development.
-- [Lifehacker](https://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
-- [Ray Wenderlich](https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
-- [Stanford - Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for-iphone-and-ipad/id733644550)
-- [Stanford - Developing iOS 10 Apps with Swift](https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120) - Stanford's 2017 iTunes U course.
-- [Stanford - Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) - Stanford's 2017 iTunes U course updated for iOS 11 and Swift.
-- [Swifteducation - Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
-- [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
-- [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/course/arkit-beginner-to-professional/)
-- [ARStarter](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners.
-- [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-- [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
-- [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
-- [ARHeadsetKit Tutorials](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
-- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Free collection of videos and tutorials updated for iOS 15 and Swift 5.5.
 
 ## Accessibility
 
@@ -524,6 +500,24 @@
 - [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS, macOS, tvOS, & watchOS. Inspired by SnapKit and lovingly written in Swift.
 - [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) - Write amazing, strong-typed and easy-to-read NSPredicate, allowing you to write flowable NSPredicate, without guessing attribution names, predicate operation or writing wrong arguments type.
 - [CloudCore](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+
+## Courses
+
+### Getting Started
+
+*Courses, tutorials, guides and bootcamps*
+
+- [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
+- [ARHeadsetKit Tutorials](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
+- [ARStarter](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners.
+- [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
+- [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [Ray Wenderlich](https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
+- [Stanford - Developing apps for iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774) - Stanford's iTunes U course.
+- [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Udacity free course. Make Your First iPhone App.
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Free collection of videos and tutorials updated for iOS 15 and Swift 5.5.
+
+**[back to top](#contents)**
 
 ## Database
 
