@@ -337,6 +337,7 @@
 ## Browsers
 
 - [Brave](https://brave.com/) - Brave is a free and open-source web browser based on the Chromium web browser.
+- [DuckDuckGo](https://duckduckgo.com/) - DuckDuckGo is a search engine client for iOS.
 
 **[back to top](#contents)**
 
