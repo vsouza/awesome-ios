@@ -20,6 +20,7 @@
 - [Authentication](#authentication)
 - [Blockchain](#blockchain)
 - [Bridging](#bridging)
+- [Browsers](#Browsers)
 - [Cache](#cache)
 - [Charts](#charts)
 - [Code Quality](#code-quality)
@@ -330,6 +331,12 @@
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 - [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and macOS.
 - [Xamarin](https://xamarin.com/) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
+
+**[back to top](#contents)**
+
+## Browsers
+
+- [Brave](https://brave.com/) - Brave is a free and open-source web browser based on the Chromium web browser.
 
 **[back to top](#contents)**
 
