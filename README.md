@@ -333,6 +333,13 @@
 
 **[back to top](#contents)**
 
+## Browsers
+
+- [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) - Firefox Focus is a free and open-source privacy-focused mobile browser from Mozilla.
+- [Firefox for iOS](https://www.mozilla.org/en-US/firefox/browsers/mobile/ios/) - Firefox for iOS is a free and open-source web browser from Mozilla.
+
+**[back to top](#contents)**
+
 ## Cache
 
 *Thread safe, offline and high performance cache libs and frameworks.*
