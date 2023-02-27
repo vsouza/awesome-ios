@@ -1496,6 +1496,7 @@ Most of these are paid services, some have free tiers.
 - [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX) - Excel spreadsheet (XLSX) format support in pure Swift.
 - [SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 - [CreateAPI](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - It’s a free and open-source feed reader for macOS and iOS.
 
 
 ## Passbook
