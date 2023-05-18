@@ -1901,7 +1901,7 @@ Most of these are paid services, some have free tiers.
 - [UITestHelper](https://github.com/evermeer/UITestHelper) - UITest helper library for creating readable and maintainable tests.
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 - [AutoMate](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
-- [Marathon runner](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
+- [Marathon Runner](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
 - [Marathon Cloud](https://marathonlabs.io) - Cloud version of Marathon runner that promises to execute any number of tests in 15 minutes.
 
 ### Other Testing
