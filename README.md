@@ -3350,6 +3350,7 @@ Most of these are paid services, some have free tiers.
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 - [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
+- [Stacktrace](https://stacktracepodcast.fm)
 
 ## Books
 - [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
