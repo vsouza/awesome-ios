@@ -1435,6 +1435,7 @@ Most of these are paid services, some have free tiers.
 ## Optimization
 
 - [Unreachable](https://github.com/nvzqz/Unreachable) - Unreachable code path optimization hint for Swift.
+- [SmallStrings](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
 
 ## Parsing
 
