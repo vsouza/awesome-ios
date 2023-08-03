@@ -89,6 +89,8 @@
     - [React-Like](#react-like)
 - [Reflection](#reflection)
 - [Regex](#regex)
+- [Safari](#safari)
+    - [Extensions](#extensions-safari)
 - [SDK](#sdk)
     - [Official](#official)
     - [Unofficial](#unofficial)
@@ -1619,6 +1621,13 @@ Most of these are paid services, some have free tiers.
 - [Regex](https://github.com/crossroadlabs/Regex) - Regular expressions for swift.
 - [Regex](https://github.com/brynbellomy/Regex) - Regex class for Swift. Wraps NSRegularExpression.
 - [sindresorhus/Regex](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+
+## Safari
+
+### Extensions
+
+- [AdGuard](https://github.com/AdguardTeam/AdGuardForSafari) - Free and open source, highly customizable and lightning fast ad blocking extension.
+- [Parrotflow](https://github.com/jsj/parrotflow) - An open source extension that enhances search engines with ChatGPT
 
 ## SDK
 
