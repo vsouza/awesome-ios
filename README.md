@@ -1282,6 +1282,7 @@
 - [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) - Swift library for embedding and controlling YouTube videos in your iOS applications!
 - [JDVideoKit](https://github.com/jamesdouble/JDVideoKit) - You can easily transfer your video into Three common video type via this framework.
 - [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Versatile AVPlayer implementation for iOS, macOS, and tvOS.
+- [Video Editor SDK](https://github.com/Banuba/ve-sdk-ios-integration-sample) - [Video Editor SDK](https://www.banuba.com/video-editor-sdk-best-for-developers) (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones.
 
 ## Messaging
 
