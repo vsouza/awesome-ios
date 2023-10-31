@@ -1,0 +1,3 @@
+- run: npm i markdown-to-html-cli -g
+- run: markdown-to-html --output coverage/index.html
+- run: markdown-to-html --source README.md --output out/index.html
