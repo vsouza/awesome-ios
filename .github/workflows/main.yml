@@ -1,3 +1,16 @@
-- run: npm i markdown-to-html-cli -g
-- run: markdown-to-html --output coverage/index.html
-- run: markdown-to-html --source README.md --output out/index.html
+name: website-deploy
+on:
+  push:
+    branches:
+      - 'master'
+permissions:
+  contents: read  #  to fetch code (actions/checkout)
+jobs:
+  Job:
+    runs-on: windows-latest
+    steps:
+      - name: Convert Markdown to HTML
+        uses: natescherer/markdown-to-html-with-github-style-action@v1
+        with:
+          path: README.md
+          outputpath: out
