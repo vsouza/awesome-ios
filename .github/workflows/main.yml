@@ -5,12 +5,14 @@ on:
       - 'master'
 permissions:
   contents: read  #  to fetch code (actions/checkout)
+
 jobs:
   Job:
     runs-on: windows-latest
     steps:
       - name: Convert Markdown to HTML
-        uses: natescherer/markdown-to-html-with-github-style-action@v1
+        uses: jaywcjlove/markdown-to-html-cli@main
         with:
-          path: README.md
-          outputpath: out
+          source: README.md
+          output: html/index.html
+          github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
