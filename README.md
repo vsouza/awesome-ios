@@ -1516,6 +1516,7 @@ Most of these are paid services, some have free tiers.
 - [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
 
 ## Payments
+- [Superwall](https://github.com/superwall-me/Superwall-iOS) - Remotely update your paywalls and optimize your conversions; all without pushing an app update
 - [Caishen](https://github.com/prolificinteractive/Caishen) - A Payment Card UI & Validator for iOS.
 - [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowledge on Backend.
 - [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
