@@ -15,6 +15,10 @@
 
 </p>
 
+## Contributing and Collaborating
+
+Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/vsouza/awesome-ios/blob/master/CODE_OF_CONDUCT.md) for details.
+
 ## Accessibility
 
  *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
@@ -3166,12 +3170,6 @@ Most of these are paid services, some have free tiers.
 - [Flawless App](https://medium.com/flawless-app-stories) - Development & design & marketing tips for iOS developers.
 
 ## Social Media
-
-### Twitter
-- [@objcio](https://twitter.com/objcio)
-- [@CocoaPods](https://twitter.com/CocoaPods)
-- [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
-- [@RubyMotion](https://twitter.com/RubyMotion)
 
 ## Podcasts
 - [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
