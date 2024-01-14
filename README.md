@@ -3337,6 +3337,7 @@ Most of these are paid services, some have free tiers.
 - [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 - [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 - [Ohmyswift](https://www.ohmyswift.com/blog/)
+- [Point Free](https://www.pointfree.co/) - A video series exploring functional programming and Swift.
 
 **[back to top](#contributing-and-collaborating)**
 
