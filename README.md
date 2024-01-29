@@ -3414,6 +3414,7 @@ Most of these are paid services, some have free tiers.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, WatchOS and AppleTV apps using Swift.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
 - [Indie Watch](https://indie.watch/) - A weekly newsletter featuring the best apps made by indie iOS developers.
+- [SwiftLee](https://www.avanderlee.com/) - A weekly blog about Swift, iOS and Xcode Tips and Tricks.
 
 **[back to top](#contributing-and-collaborating)**
 
