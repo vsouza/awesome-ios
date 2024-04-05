@@ -1,4 +1,4 @@
-name: website-deploy
+name: build html from md
 on:
   push:
     branches:
@@ -10,29 +10,10 @@ jobs:
   Job1:
     runs-on: windows-latest
     steps:
-      - name: Convert Markdown to HTML
-        uses: jaywcjlove/markdown-to-html-cli@main
-        if: success() || failure()
-        with:
-          source: README.md
-          output: html/index.html
-          github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
-
-   
-      - name: Markdown-HTML
-        # You may pin to the exact commit or the version.
-        # uses: ZacJW/markdown-html-action@581e6df07c787a1eb980cb2fd6c0c82ace9c9c82
-        uses: ZacJW/markdown-html-action@1.2.0
-        if: success() || failure()
-        with:
-          input_files: "README.md"
-          output_files: true
-    
       - name: Converts Markdown to HTML
         uses: jaywcjlove/markdown-to-html-cli@main
-        if: success() || failure()
         with:
-          source: README-zh.md
-          output: coverage/action.html
-          github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
+          source: README.md
+          output: index.html
+          github-corners: https://github.com/vsouza/awesome-ios
           favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
