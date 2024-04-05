@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png" alt="Awesome">
+    <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png?raw=true" alt="Awesome">
 </div>
 
 <p align="center">
