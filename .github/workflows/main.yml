@@ -1,6 +1,5 @@
-name: render readme
+name: Convert README.md to HTML and Publish
 
-# Controls when the action will run
 on:
   push:
     branches: master
@@ -12,17 +11,20 @@ jobs:
       contents: write
       id-token: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          registry-url: 'https://registry.npmjs.org'
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      
+      - name: Setup NodeJS
+        uses: actions/setup-node@v3
+          with:
+            node-version: 18
+            registry-url: 'https://registry.npmjs.org'
 
       - name: Test Converts markdown text to HTML
         uses: ./
-        with:
-          source: README-zh.md
-          output: index.html
-          style: 'body { margin: 0; }'
-          github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
-          favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
+          with:
+            source: README-zh.md
+            output: index.html
+            style: 'body { margin: 0; }'
+            github-corners: https://github.com/vsouza/awesome-ios
+            favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
