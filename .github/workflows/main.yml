@@ -21,9 +21,9 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
 
       - name: Test Converts markdown text to HTML
-        uses: ${{ env.WORK_DIR }}/README.md
+        uses: README.md
         with:
-          source: ${{ env.WORK_DIR }}/README.md
+          source: README.md
           output: index.html
           style: 'body { margin: 0; }'
           github-corners: https://github.com/vsouza/awesome-ios
