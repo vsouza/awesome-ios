@@ -176,7 +176,6 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
  *Analytics platforms, SDK's, error tracking and real-time answers about your app*
 
-- [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
 - [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 - [Answers by Fabric](https://get.fabric.io) - Answers gives you real-time insight into people’s experience in your app.
 - [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
@@ -184,7 +183,6 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
 - [Emerge Tools](https://www.emergetools.com) - Prevent app size & performance regressions on every pull request, get automated insights on how to improve.
 - [Instabug](https://instabug.com) - In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging.
-- [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
 - [Mixpanel](https://mixpanel.com/) - Advanced analytics platform.
 - [MOCA Analytics](https://www.mocaplatform.com/features) - Paid cross-platform analytics backend.
@@ -3576,4 +3574,3 @@ Most of these are paid services, some have free tiers.
 - [Swift Macros 🚀](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
 
 **[back to top](#contributing-and-collaborating)**
-
