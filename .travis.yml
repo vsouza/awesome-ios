@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+  - 2.4.1
+before_script:
+  - gem install awesome_bot
+  - gem install danger
+script:
+  - allowed_dupes=CONTRIBUTING,mocaplatform,Awesome-Swift-Education,XCDYouTubeKit,SRGMediaPlayer,PayPal-iOS-SDK,PerfectlySoft,gitter,instabug,weekly.awesomeios.com,goprimer
+  - allowed_redirects=growthpush,awesomelinkcounter,eepurl,bluemix,amazon,facebook.com/groups,goo.gl,https://www.udemy.com
+  - awesome_bot README.md -a 429 --allow-ssl --white-list $allowed_dupes,$allowed_redirects
+  - danger
+notifications:
+  email: false
