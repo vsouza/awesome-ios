@@ -21,8 +21,6 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
 ## Contents
 
-- [Accessibility](#accessibility)
-- [Alexa](#alexa)
 - [Analytics](#analytics)
 - [App Routing](#app-routing)
 - [Apple TV](#apple-tv)
@@ -173,17 +171,6 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
     - [Other Xcode](#other-xcode)
 
 
-## Accessibility
-
- *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
-
-- [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities.
-
-## Alexa
-
-*Frameworks that help to support writing custom alexa skills in swift*
-
-- [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - Swift library to develop custom Alexa Skills.
 
 ## Analytics
 
@@ -3589,3 +3576,4 @@ Most of these are paid services, some have free tiers.
 - [Swift Macros 🚀](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
 
 **[back to top](#contributing-and-collaborating)**
+
