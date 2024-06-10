@@ -3366,6 +3366,7 @@ Most of these are paid services, some have free tiers.
 - [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 - [Ohmyswift](https://www.ohmyswift.com/blog/)
 - [Point Free](https://www.pointfree.co/) - A video series exploring functional programming and Swift.
+- [Roadmap.sh iOS Roadmap](https://roadmap.sh/ios) - A community created iOS Developer roadmap.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -3498,7 +3499,6 @@ Most of these are paid services, some have free tiers.
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 - [DaddyCoding](https://daddycoding.com/) - iOS Tutorials ranging from beginners to advance.
 - [Learn Swift](https://blog.coursesity.com/best-swift-tutorials/) - Learn Swift - curated list of the top online Swift tutorials and courses.
-- [Roadmap.sh/ios](https://roadmap.sh/ios) - A community created iOS Developer roadmap.
 
 **[back to top](#contributing-and-collaborating)**
 
