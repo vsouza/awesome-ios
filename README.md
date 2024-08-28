@@ -3052,6 +3052,7 @@ Most of these are paid services, some have free tiers.
 - [StaticTableViewController](https://github.com/muyexi/StaticTableViewController) - Dynamically hide / show cells of static UITableViewController.
 - [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableView configuration.
 - [ThunderTable](https://github.com/3sidedcube/ThunderTable) - A simple declarative approach to UITableViewController management using a protocol-based approach.
+- [Pagination](https://github.com/grighakobian/swift-pagination) - An easy-to-use API for implementing infinite scrolling in your table view.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -3090,6 +3091,7 @@ Most of these are paid services, some have free tiers.
 - [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - A library for backporting UITableView/UICollectionViewDiffableDataSource.
 - [StableCollectionViewLayout](https://github.com/aimalygin/StableCollectionViewLayout) - This layout adjusts a content offset if the collection view is updated. You can insert, delete or reload items and StableCollectionViewLayout will take care of the content offset.
 - [IQListKit](https://github.com/hackiftekhar/IQListKit) - Model driven UITableView/UICollectionView.
+- [Pagination](https://github.com/grighakobian/swift-pagination) - An easy-to-use API for implementing infinite scrolling in your collection view.
 
 **[back to top](#contributing-and-collaborating)**
 
