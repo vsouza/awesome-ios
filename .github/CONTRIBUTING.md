@@ -11,8 +11,9 @@ Please ensure your pull request adheres to the following guidelines:
 - Emojis should be used with care in descriptions, we already had some problems with emoji render in GitHub.
 - End all descriptions with a full stop/period.
 - Check your spelling and grammar.
-- Make sure that your suggestion is positioned as the last item category.
+- Make sure that your suggestion is positioned is **alphabetical** order
 - Make sure your text editor is set to remove trailing whitespace.
+- Make sure your project is elegible before open a pull request.
 
 #### Deleting
 
@@ -22,19 +23,21 @@ Typical reasons for deleting project:
 - No updates / no longer works
 - Deprecated
 - Lacks license
+- Archived projects
 
 #### Projects are ineligible if:
 
+- Projects without tests.
 - Lack recent commit
-- Don't support iOS 9 or later
-- Don't support Swift 4 or later
-- Not written in English
+- Have lower than 50 stargazers in Github
+- README or code comments aren't written in English
 - README is not clear
 - Does not support the most common package managers (spm, cocoapods, carthage...)
 
 ### Projects that can be rejected:
 
-- Projects without tests.
+- Paid products
+- Have only one contributor
 - Projects with exact same functionalities as other projects that are already in AwesomeiOS
 - Projects with few functionalities
 

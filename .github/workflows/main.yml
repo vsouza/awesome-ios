@@ -1,0 +1,38 @@
+name: Convert README.md to HTML and Publish
+
+on:
+  push:
+    branches: master
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      
+      - name: Setup NodeJS
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Test Converts markdown text to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: ./README.md
+          output: index.html
+          style: 'body { margin: 0; }'
+          github-corners: https://github.com/vsouza/awesome-ios
+          title: "Awesome iOS"
+          markdown-style-theme: light
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          commit_message: ${{steps.tag_version.outputs.tag}} ${{ github.event.head_commit.message }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
