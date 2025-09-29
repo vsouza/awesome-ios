@@ -1705,6 +1705,7 @@ Most of these are paid services, some have free tiers.
 - [FramesIos](https://github.com/checkout/frames-ios) - Payment Form UI and Utilities in Swift.
 - [YRPayment](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift.
 - [AnimatedCardInput](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
+- [Flare](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
 
 **[back to top](#contributing-and-collaborating)**
 
