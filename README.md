@@ -2819,6 +2819,7 @@ Most of these are paid services, some have free tiers.
 ### ProgressView
 - [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift
 - [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) - Customizable progress indicator library in Swift.
+- [ProgressUI](https://github.com/PierreJanineh-com/ProgressUI) - A highly customizable and animated circular/linear progress indicator for SwiftUI. Supports dynamic coloring, spinner mode, multiple sizes, and easy appearance customization.
 
 **[back to top](#contributing-and-collaborating)**
 
