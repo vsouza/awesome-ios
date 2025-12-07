@@ -323,7 +323,6 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 *Thread safe, offline and high performance cache libs and frameworks.*
 
 - [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift).
-- [AssetCacheKit](https://github.com/Mohsenkhodadadzadeh/AssetCacheKit) - A Swift package that provides a generic and efficient way to asynchronously load and cache assets in SwiftUI applications.
 - [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
 - [Cache](https://github.com/soffes/Cache) - Swift caching library.
 - [Cachyr](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
