@@ -1606,7 +1606,6 @@ Most of these are paid services, some have free tiers.
 ### JSON
 
 * [SmartCodable](https://github.com/iAmMccc/SmartCodable) - SmartCodable is a data parsing library based on Codable. It is simple to use, with robust compatibility being one of its main features.
-
 - [SBJson](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C.
 - [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch.
 - [Groot](https://github.com/gonzalezreal/Groot) - Convert JSON dictionaries and arrays to and from Core Data managed objects.
