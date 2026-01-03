@@ -1495,6 +1495,7 @@ Also see [push notifications](#push-notifications)
 - [TWRDownloadManager](https://github.com/chasseurmic/TWRDownloadManager) - A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.
 - [UnboxedAlamofire](https://github.com/serejahh/UnboxedAlamofire) - Alamofire + Unbox: the easiest way to download and decode JSON into swift objects.
 - [WANetworkRouting](https://github.com/Wasappli/WANetworkRouting) - An iOS library to route API paths to objects on client side with request, mapping, routing and auth layers.
+- [Vedika API](https://vedika.io) - REST API for Vedic astrology, horoscope, kundali, and AI chatbot for Swift/iOS apps. 108+ endpoints, 22 languages, 97% accuracy.
 - [ws ☁️](https://github.com/freshOS/ws) - Elegant JSON WebService in Swift.
 - [XMNetworking](https://github.com/kangzubin/XMNetworking) - A lightweight but powerful network library with simplified and expressive syntax based on AFNetworking.
 - [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - YTKNetwork is a high level request util based on AFNetworking.
