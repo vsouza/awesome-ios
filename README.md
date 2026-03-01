@@ -629,6 +629,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift.
 - [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C.
 - [EmojiTimeFormatter](https://github.com/thomaspaulmann/EmojiTimeFormatter) - Format your dates/times as emojis.
+- [ExtendedDatePicker](https://github.com/abdullah-original/ExtendedDatePicker) - SwiftUI date picker with advanced modes and options.
 - [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
 - [Kronos](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift.
 - [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
