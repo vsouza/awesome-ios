@@ -1422,6 +1422,7 @@ Also see [push notifications](#push-notifications)
 **[back to top](#contributing-and-collaborating)**
 
 ## Networking
+- [A2A](https://github.com/Victory-Apps/a2a-swift) - Swift SDK for the Agent-to-Agent (A2A) protocol with JSON-RPC, SSE streaming, and Vapor integration.
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
 - [AFNetworking+RetryPolicy](https://github.com/kubatruhlar/AFNetworking-RetryPolicy) - An objective-c category that adds the ability to set the retry logic for requests made with AFNetworking.
 - [AFNetworking-Synchronous](https://github.com/paulmelnikow/AFNetworking-Synchronous) - Synchronous requests for AFNetworking 1.x, 2.x, and 3.x.
