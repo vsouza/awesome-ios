@@ -1158,6 +1158,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [MapViewPlus](https://github.com/okhanokbay/MapViewPlus) - Use any custom view as custom callout view of your MKMapView with cool animations. Also, easily use any image as annotation view.
 - [MSFlightMapView](https://github.com/mabdulsubhan/MSFlightMapView) - Add and animate geodesic flights on Google map.
 - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+- [MapMetrics iOS](https://github.com/MapMetrics/MapMetrics-iOS) - A Mapbox GL-compatible SDK for iOS with map tiles, geocoding, routing, and search from MapAtlas.
 
 **[back to top](#contributing-and-collaborating)**
 
