@@ -3537,3 +3537,5 @@ Most of these are paid services, some have free tiers.
 - [Swift Macros 🚀](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of community-created Macros and associated learning resources.
 
 **[back to top](#contributing-and-collaborating)**
+
+- [DailyVox](https://getdailyvox.com) - AI voice diary with on-device mood tracking using NaturalLanguage framework. `Swift` ([App Store](https://apps.apple.com/app/id6760454642))
