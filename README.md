@@ -45,6 +45,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [Data Structures / Algorithms](#data-structures--algorithms)
 - [Date & Time](#date--time)
 - [Debugging](#debugging)
+- [Glitch](https://github.com/Ankitajainkuniya/glitch-widget) - AI-powered bug reporting widget for web views
 - [Dependency Injection](#dependency-injection)
 - [Dependency / Package Manager](#dependency--package-manager)
 - [Deployment / Distribution](#deployment--distribution)
