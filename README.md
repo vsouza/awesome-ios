@@ -1216,7 +1216,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence player to resume playback after bad network connection even in background mode, manage headphone interactions, system interruptions, now playing informations and remote commands.
 - [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app, including animation.
 - [FDSoundActivatedRecorder](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
-
+- [FluidAudio](https://github.com/FluidInference/FluidAudio) - Swift framework for local speech recognition, speaker diarization, voice activity detection, and text-to-speech using Core ML.
 **[back to top](#contributing-and-collaborating)**
 
 ### GIF
