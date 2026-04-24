@@ -10,7 +10,7 @@ If your project does not meet every **hard rule**, please do not open a PR. We w
 
 A project is only accepted if it meets **every** item in this list:
 
-1. **More than 100 GitHub stargazers.**
+1. **At least 100 GitHub stargazers.**
 2. **More than one contributor**, excluding bots (Dependabot, Renovate, etc.).
 3. **Not archived.** The repository must load on GitHub (no 404, no 451).
 4. **Has an OSI-approved open-source license** — MIT, Apache-2.0, BSD-2/3-Clause, MPL-2.0, ISC, or similar. Source-available licenses (BSL, SSPL, Elastic, Commons Clause) are **not** accepted.
@@ -38,7 +38,7 @@ These aren't hard rejections, but a project that fails several of them is unlike
 
 ## Hidden-gem exception
 
-Projects with **75–100 stars** can still be accepted if the PR body explains why the project is exceptional (novel approach, solves a real ecosystem gap, notable adoption by known apps). This exception still requires:
+Projects with **75–99 stars** can still be accepted if the PR body explains why the project is exceptional (novel approach, solves a real ecosystem gap, notable adoption by known apps). This exception still requires:
 
 - At least 6 months of repository history.
 - More than one contributor.
