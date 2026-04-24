@@ -599,9 +599,11 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [RandMyMod](https://github.com/jamesdouble/RandMyMod) - RandMyMod base on your own struct or class create one or a set of randomized instance.
 - [Result](https://github.com/antitypical/Result) - Swift type modeling the success/failure of arbitrary operations.
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly-used sequence and collection algorithms for Swift.
 - [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph data structure and utility functions in pure Swift.
 - [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - A priority queue with a classic binary heap implementation in pure Swift.
 - [SwiftStructures](https://github.com/waynewbishop/SwiftStructures) - Examples of commonly used data structures and algorithms in Swift.
+- [UInt256](https://github.com/hyugit/UInt256) - A 256-bit unsigned integer type in pure Swift.
 
 **[back to top](#contributing-and-collaborating)**
 
