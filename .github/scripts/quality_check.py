@@ -113,57 +113,62 @@ def check_repo(owner: str, repo: str) -> dict:
     }
 
 
-def evaluate(status: dict, allow_hidden_gem: bool) -> list[tuple[bool, str]]:
-    """Return list of (passed, message) per rule."""
+def evaluate(status: dict, allow_hidden_gem: bool) -> list[tuple[str, str]]:
+    """Return list of (level, message) per check. level is "pass", "warn", or "fail".
+
+    "fail" is a hard-rule violation and blocks the PR.
+    "warn" is a soft-signal violation — shown as a warning, does not block.
+    """
     results = []
     if not status["ok"]:
-        results.append((False, f"Repository unreachable: {status['reason']}"))
+        results.append(("fail", f"Repository unreachable: {status['reason']}"))
         return results
 
-    # Archived
-    results.append((
-        not status["archived"],
-        "Not archived" if not status["archived"] else "Archived on GitHub",
-    ))
+    # Archived — hard
+    if status["archived"]:
+        results.append(("fail", "Archived on GitHub"))
+    else:
+        results.append(("pass", "Not archived"))
 
-    # Stars
+    # Stars — hard
     stars = status["stars"]
     min_stars = HIDDEN_GEM_MIN_STARS if allow_hidden_gem else MIN_STARS
-    passed = stars > min_stars
-    label = f"More than {min_stars} stars ({stars} stars" + (" — hidden-gem rule in effect)" if allow_hidden_gem else ")")
-    results.append((passed, label))
+    gem_note = " — hidden-gem rule in effect" if allow_hidden_gem else ""
+    if stars > min_stars:
+        results.append(("pass", f"More than {min_stars} stars ({stars} stars{gem_note})"))
+    else:
+        results.append(("fail", f"Only {stars} stars — needs more than {min_stars}{gem_note}"))
 
-    # Recent commit
+    # Recent commit — SOFT signal (warning only, does not block)
     pushed = status.get("pushed_at")
-    passed_commit = False
-    label_commit = "Could not determine last commit date"
     if pushed:
         try:
             dt = datetime.fromisoformat(pushed.replace("Z", "+00:00"))
             cutoff = datetime.now(timezone.utc) - timedelta(days=RECENT_COMMIT_MONTHS * 30)
-            passed_commit = dt >= cutoff
-            label_commit = f"Commit in last {RECENT_COMMIT_MONTHS} months (last pushed {pushed[:10]})"
-            if not passed_commit:
-                label_commit = f"No commit in last {RECENT_COMMIT_MONTHS} months (last pushed {pushed[:10]})"
+            if dt >= cutoff:
+                results.append(("pass", f"Commit in last {RECENT_COMMIT_MONTHS} months (last pushed {pushed[:10]})"))
+            else:
+                results.append(("warn", f"No commit in last {RECENT_COMMIT_MONTHS} months (last pushed {pushed[:10]}) — soft signal, not blocking"))
         except ValueError:
-            pass
-    results.append((passed_commit, label_commit))
+            results.append(("warn", "Could not parse last commit date"))
+    else:
+        results.append(("warn", "No last commit date reported"))
 
-    # Contributors
+    # Contributors — hard
     contribs = status["contributors"]
-    results.append((
-        contribs > 1,
-        f"More than 1 contributor ({contribs} found)" if contribs > 1 else f"Only {contribs} contributor(s) found (need >1)",
-    ))
+    if contribs > 1:
+        results.append(("pass", f"More than 1 contributor ({contribs} found)"))
+    else:
+        results.append(("fail", f"Only {contribs} contributor(s) found — needs more than 1"))
 
-    # License
+    # License — hard
     lic = status["license"]
     if lic and lic in ACCEPTED_LICENSES:
-        results.append((True, f"OSI-approved license ({lic.upper()})"))
+        results.append(("pass", f"OSI-approved license ({lic.upper()})"))
     elif lic:
-        results.append((False, f"License `{lic.upper()}` is not in the accepted list"))
+        results.append(("fail", f"License `{lic.upper()}` is not in the accepted list"))
     else:
-        results.append((False, "No license detected on the repository"))
+        results.append(("fail", "No license detected on the repository"))
 
     return results
 
@@ -182,8 +187,14 @@ def render_report(entries: list[dict]) -> str:
                 "quality check has nothing to verify. A maintainer will still review manually.\n")
 
     any_failed = any(not e["overall_pass"] for e in entries)
+    any_warned = any(any(r[0] == "warn" for r in e["results"]) for e in entries)
     lines = []
-    header = "## ❌ Quality check — failures" if any_failed else "## ✅ Quality check — all added repos pass the hard rules"
+    if any_failed:
+        header = "## ❌ Quality check — failures"
+    elif any_warned:
+        header = "## ✅ Quality check — passed with warnings"
+    else:
+        header = "## ✅ Quality check — all added repos pass the hard rules"
     lines.append(header)
     lines.append("")
     if any_failed:
@@ -192,16 +203,17 @@ def render_report(entries: list[dict]) -> str:
                      "[CONTRIBUTING.md](../blob/master/.github/CONTRIBUTING.md).")
     else:
         lines.append("Every new repository in this PR passes the **automated** hard rules "
-                     "(stars, recent commit, contributors, archived, license). A human maintainer "
+                     "(stars, contributors, archived, license). A human maintainer "
                      "will still review the remaining rules (SPM support, version floors, paid-product "
-                     "check, README quality, alphabetical placement).")
+                     "check, README quality, alphabetical placement)."
+                     + (" ⚠️ warnings below are soft signals and do not block the PR." if any_warned else ""))
     lines.append("")
     for e in entries:
         icon = "✅" if e["overall_pass"] else "❌"
         lines.append(f"### {icon} [{e['name']}]({e['url']})")
         lines.append("")
-        for ok, msg in e["results"]:
-            bullet = "- ✅" if ok else "- ❌"
+        for level, msg in e["results"]:
+            bullet = {"pass": "- ✅", "warn": "- ⚠️", "fail": "- ❌"}[level]
             lines.append(f"{bullet} {msg}")
         lines.append("")
     lines.append("---")
@@ -230,7 +242,8 @@ def main() -> int:
     for name, owner, repo in raw_entries:
         status = check_repo(owner, repo)
         results = evaluate(status, allow_hidden_gem=allow_hidden_gem)
-        passed = all(r[0] for r in results)
+        # "fail" blocks; "warn" does not.
+        passed = not any(level == "fail" for level, _ in results)
         if not passed:
             overall_pass = False
         report_entries.append({
