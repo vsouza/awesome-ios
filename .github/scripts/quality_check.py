@@ -134,10 +134,10 @@ def evaluate(status: dict, allow_hidden_gem: bool) -> list[tuple[str, str]]:
     stars = status["stars"]
     min_stars = HIDDEN_GEM_MIN_STARS if allow_hidden_gem else MIN_STARS
     gem_note = " — hidden-gem rule in effect" if allow_hidden_gem else ""
-    if stars > min_stars:
-        results.append(("pass", f"More than {min_stars} stars ({stars} stars{gem_note})"))
+    if stars >= min_stars:
+        results.append(("pass", f"At least {min_stars} stars ({stars} stars{gem_note})"))
     else:
-        results.append(("fail", f"Only {stars} stars — needs more than {min_stars}{gem_note}"))
+        results.append(("fail", f"Only {stars} stars — needs at least {min_stars}{gem_note}"))
 
     # Recent commit — SOFT signal (warning only, does not block)
     pushed = status.get("pushed_at")
