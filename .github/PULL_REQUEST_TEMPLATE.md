@@ -11,7 +11,7 @@ Thanks for contributing to Awesome iOS! Please fill out this template completely
 
 ## Hard requirements (all must be checked)
 
-- [ ] Repository has **more than 100 GitHub stargazers**.
+- [ ] Repository has **at least 100 GitHub stargazers**.
 - [ ] Has **more than one contributor** (excluding bots).
 - [ ] Is **not archived** and responds on GitHub (no 404 / 451).
 - [ ] Has an **OSI-approved open-source license** (MIT, Apache-2.0, BSD-2/3, MPL-2.0, ISC, …). Source-available (BSL, SSPL, Elastic, Commons Clause) is not accepted.
@@ -41,7 +41,7 @@ Maintainers may ask questions if several of these apply:
 - [ ] No trailing whitespace.
 - [ ] Description ends with a full stop/period.
 
-## Hidden-gem exception (optional — only if 75–100 stars)
+## Hidden-gem exception (optional — only if 75–99 stars)
 
 If your project has fewer than 100 stars but you believe it deserves inclusion, tick this box and add a short justification below (novel approach, ecosystem gap, notable adoption). All other hard rules still apply.
 
