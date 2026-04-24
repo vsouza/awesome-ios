@@ -12,7 +12,6 @@ Thanks for contributing to Awesome iOS! Please fill out this template completely
 ## Hard requirements (all must be checked)
 
 - [ ] Repository has **more than 100 GitHub stargazers**.
-- [ ] Has at least one **commit in the last 24 months**.
 - [ ] Has **more than one contributor** (excluding bots).
 - [ ] Is **not archived** and responds on GitHub (no 404 / 451).
 - [ ] Has an **OSI-approved open-source license** (MIT, Apache-2.0, BSD-2/3, MPL-2.0, ISC, …). Source-available (BSL, SSPL, Elastic, Commons Clause) is not accepted.
@@ -21,6 +20,17 @@ Thanks for contributing to Awesome iOS! Please fill out this template completely
 - [ ] Built with **Swift 5.5+** (or Objective-C compiling on Xcode 15+).
 - [ ] README is in **English** and includes installation instructions and a usage example.
 - [ ] Is **not** a paid library, paid app, or paid course. A functional free tier counts as free.
+
+## Soft signals (noted, not blocking)
+
+Maintainers may ask questions if several of these apply:
+
+- No commit in the last 24 months (stable/complete is OK, but prolonged silence is a warning).
+- No tests of any kind.
+- No SemVer release tag.
+- Repository is less than 30 days old.
+- Still labeled alpha / beta / experimental.
+- Duplicates an already-listed project.
 
 ## Submission
 
