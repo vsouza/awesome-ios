@@ -1,20 +1,46 @@
-Thanks for your contribution! This is a template that can make it easier when submitting your contribution:
+Thanks for contributing to Awesome iOS! Please fill out this template completely.
 
-**Your Project**: _Example_  
-**Project URL**: _http://example.com/_  
-**Category**: _Good Websites_  
-**Description**: _This domain is for use in illustrative examples in documents._
+**Your project**: _Example_
+**Project URL**: _https://github.com/example/example_
+**Category**: _Networking_
+**Description**: _One short sentence describing what the project does._
 
-Inclusion requirements:
-- [ ] Has 50 GitHub stargazers or more
-- [ ] Only one project/change is in this pull request
-- [ ] Isn't an archived project
-- [ ] Has more than one contributor
-- [ ] Has unit tests, integration tests or UI tests
-- [ ] Addition in alphabetical order (bottom of category)
-- [ ] Supports iOS 12 / tvOS 10 or later
-- [ ] Supports Swift 4 or later
-- [ ] Has a commit from less than 2 years ago
-- [ ] Has a **clear** README in English
- 
+> [!IMPORTANT]
+> If any box below cannot be checked, **do not open this PR** — it will be closed.
+> Full rules: [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## Hard requirements (all must be checked)
+
+- [ ] Repository has **more than 100 GitHub stargazers**.
+- [ ] Has at least one **commit in the last 24 months**.
+- [ ] Has **more than one contributor** (excluding bots).
+- [ ] Is **not archived** and responds on GitHub (no 404 / 451).
+- [ ] Has an **OSI-approved open-source license** (MIT, Apache-2.0, BSD-2/3, MPL-2.0, ISC, …). Source-available (BSL, SSPL, Elastic, Commons Clause) is not accepted.
+- [ ] Supports **Swift Package Manager**.
+- [ ] Targets **iOS 14+ / tvOS 14+ / macOS 11+ / watchOS 7+** minimum.
+- [ ] Built with **Swift 5.5+** (or Objective-C compiling on Xcode 15+).
+- [ ] README is in **English** and includes installation instructions and a usage example.
+- [ ] Is **not** a paid library, paid app, or paid course. A functional free tier counts as free.
+
+## Submission
+
+- [ ] Only **one project** is included in this PR.
+- [ ] The entry is placed in **alphabetical order** within its category.
+- [ ] The entry uses the exact format: `- [Name](URL) - Description.`
+- [ ] There is **no iOS / Swift version** in the description.
+- [ ] No trailing whitespace.
+- [ ] Description ends with a full stop/period.
+
+## Hidden-gem exception (optional — only if 75–100 stars)
+
+If your project has fewer than 100 stars but you believe it deserves inclusion, tick this box and add a short justification below (novel approach, ecosystem gap, notable adoption). All other hard rules still apply.
+
+- [ ] Hidden-gem justification provided below.
+
+> _Write your justification here, if applicable._
+
+## Confirmation
+
+- [ ] I have read [CONTRIBUTING.md](./CONTRIBUTING.md) and confirm the project meets **every** hard requirement.
+
 :heart: Awesome iOS Contributors

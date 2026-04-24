@@ -1,44 +1,74 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+Awesome iOS is a curated list that aims to highlight the **iOS projects that genuinely matter to the community** — well-maintained, widely adopted, free for everyone, and actively used. To keep the bar high, we enforce the rules below. Please read them carefully **before** opening a pull request.
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- **Make an individual pull request for each suggestion.**
-- Use the following format: `[PACKAGE](LINK) - DESCRIPTION.`
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- Don't include iOS versions or Swift versions in the description.
-- Emojis should be used with care in descriptions, we already had some problems with emoji render in GitHub.
-- End all descriptions with a full stop/period.
-- Check your spelling and grammar.
-- Make sure that your suggestion is positioned is **alphabetical** order
-- Make sure your text editor is set to remove trailing whitespace.
-- Make sure your project is elegible before open a pull request.
+If your project does not meet every **hard rule**, please do not open a PR. We will close it.
 
-#### Deleting
+---
 
-Typical reasons for deleting project:
+## Hard rules (all of these must be true)
 
-- Doesn't build in the current Xcode
-- No updates / no longer works
-- Deprecated
-- Lacks license
-- Archived projects
+A project is only accepted if it meets **every** item in this list:
 
-#### Projects are ineligible if:
+1. **More than 100 GitHub stargazers.**
+2. **At least one commit in the last 24 months** (we use the repository's `pushed_at` field).
+3. **More than one contributor**, excluding bots (Dependabot, Renovate, etc.).
+4. **Not archived.** The repository must load on GitHub (no 404, no 451).
+5. **Has an OSI-approved open-source license** — MIT, Apache-2.0, BSD-2/3-Clause, MPL-2.0, ISC, or similar. Source-available licenses (BSL, SSPL, Elastic, Commons Clause) are **not** accepted.
+6. **Is not a paid product.** Specifically:
+   - **Not a paid library** — a functional free tier must exist. Freemium SDKs with a free plan are allowed; libraries gated behind a paid license are not.
+   - **Not a paid app.**
+   - **Not a paid course.**
+7. **Supports Swift Package Manager.** CocoaPods is fine as an additional manager, but SPM is required.
+8. **Targets iOS 14+ / tvOS 14+ / macOS 11+ / watchOS 7+** as its declared minimum deployment target.
+9. **Built with Swift 5.5 or later**, or Objective-C that compiles cleanly with the Xcode 15+ toolchain.
+10. **README is in English** and contains at least installation instructions and a usage example.
 
-- Projects without tests.
-- Lack recent commit
-- Have lower than 50 stargazers in Github
-- README or code comments aren't written in English
-- README is not clear
-- Does not support the most common package managers (spm, cocoapods, carthage...)
+## Soft signals (project may be rejected for several of these)
 
-### Projects that can be rejected:
+These aren't hard rejections, but a project that fails several of them is unlikely to be accepted:
 
-- Paid products
-- Have only one contributor
-- Projects with exact same functionalities as other projects that are already in AwesomeiOS
-- Projects with few functionalities
+- **No tests** of any kind (unit, integration, or UI). Tests are strongly preferred, especially for non-trivial networking, persistence, or parsing libraries.
+- **No SemVer release tag** (`vX.Y.Z`).
+- **Repository is less than 30 days old** — we need to see sustained activity.
+- **Still labeled alpha / beta / experimental** in the README or release notes.
+- **Duplicates** an already-listed project's functionality without clear differentiation ("yet another X").
+- **Promotional language** in the description ("best", "ultimate", "blazing-fast", "world-class").
+- **Category minimum** — the category would still contain fewer than 3 entries after your addition.
 
-Your contributions are always welcome! Thank you for your suggestions! :smiley:
+## Hidden-gem exception
+
+Projects with **75–100 stars** can still be accepted if the PR body explains why the project is exceptional (novel approach, solves a real ecosystem gap, notable adoption by known apps). This exception still requires:
+
+- At least 6 months of repository history.
+- More than one contributor.
+- All other hard rules satisfied.
+
+---
+
+## Submission rules
+
+- **One project per pull request.** PRs adding multiple projects will be asked to split.
+- **Entry format:** `- [Name](URL) - Description.` (dash, single space, no em-dash).
+- **Alphabetical placement** within the category (case-insensitive).
+- **No iOS / Swift version numbers** in the description — they date quickly.
+- **No trailing whitespace.** Set your editor to strip it on save.
+- **Emojis in descriptions**: use sparingly — GitHub's renderer has historically had issues.
+- **End descriptions with a full stop/period.**
+- **Check your spelling and grammar** before submitting.
+
+## Deletion criteria
+
+We periodically re-audit the list. An entry is removed when any of these becomes true:
+
+- The repository is **archived** or returns **404 / 451**.
+- **Stars drop below 100**.
+- **No commits for 24 months**.
+- The **license changes** to a non-OSI-approved or source-available license.
+- The project becomes **paid-only** (loses its free tier).
+
+If you notice an entry that no longer meets the rules, please open an issue or a PR to remove it.
+
+---
+
+Your contributions are always welcome! Thank you for helping keep Awesome iOS high-quality. :smiley:
