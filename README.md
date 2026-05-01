@@ -332,6 +332,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [EChart](https://github.com/zhuhuihuihui/EChart) - iOS/iPhone/iPad Chart, Graph. Event handling and animation supported.
 - [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) - A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS.
 - [FSLineChart](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
+- [HeatmapKit](https://github.com/jacklv-coder/HeatmapKit) - A modern SwiftUI calendar heatmap and contribution graph component, supporting iOS / macOS / watchOS / tvOS / visionOS.
 - [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
 - [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - An iOS open source Radar Chart implementation.
 - [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie) - Awesome layer-based pie chart. Fantastically fast and fully customizable. Amazing animations available with MagicPie.
