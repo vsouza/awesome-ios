@@ -1184,6 +1184,7 @@ Also see [push notifications](#push-notifications)
 - [MessageKit](https://github.com/MessageKit/MessageKit) - Eventually, a Swift re-write of JSQMessagesViewController.
 - [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X.
 - [Messenger Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Swift messaging chat app with Firebase Firestore integration.
+- [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) - SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 - [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) - An XMPP Framework in Objective-C for Mac and iOS.
 
 **[back to top](#contributing-and-collaborating)**
