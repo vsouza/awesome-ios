@@ -945,6 +945,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [DL4S](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
 - [iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile) - Run LLMs, vision models, and Stable Diffusion fully on-device. No internet, no data leaves the phone. React Native, supports iOS and Android. MIT license.
+- [PrivateFoundationModels](https://github.com/john-rocky/PrivateFoundationModels) - Drop-in API-compatible mirror of Apple's FoundationModels framework that runs on iOS 18+. Same `LanguageModelSession.respond(...)` call site routes to Apple's native model on iOS 26+, or CoreML / MLX (any `mlx-community/*` model) on older OSes.
 - [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
 - [Swift-Brain](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI.
 - [SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
