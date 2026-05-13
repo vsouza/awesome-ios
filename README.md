@@ -465,7 +465,6 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Free collection of videos and tutorials updated for iOS 15 and Swift 5.5.
 - [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
 - [ARStarter](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners.
-- [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Ray Wenderlich](https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
 - [Stanford - Developing apps for iOS](https://cs193p.stanford.edu/) - Stanford's CS193p - Developing Apps for iOS.
@@ -1464,13 +1463,11 @@ Most of these are paid services, some have free tiers.
 - [Debug](https://www.imore.com/debug)
 - [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 - [iPhreaks](https://devchat.tv/iphreaks/)
-- [More Than Just Code](https://mtjc.fireside.fm/)
 - [Release Notes](https://releasenotes.tv/)
 - [Runtime](https://spec.fm/podcasts/runtime)
 - [Stacktrace](https://stacktracepodcast.fm)
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 - [Swift Playhouse](http://www.swiftplayhouse.com/)
-- [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 - [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
 - [Under the Radar](https://www.relay.fm/radar)
 
@@ -2704,7 +2701,7 @@ Most of these are paid services, some have free tiers.
 - [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 - [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
 - [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields.
-- [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) - UITextField category that adds shake animation. [Also with Swift version](https://github.com/King-Wizard/UITextField-Shake-Swift)
+- [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) - UITextField category that adds shake animation.
 - [VENTokenField](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
 - [VMaskTextField](https://github.com/viniciusmo/VMaskTextField) - VMaskTextField is a library which create an input mask for iOS.
 
@@ -2787,7 +2784,6 @@ Most of these are paid services, some have free tiers.
  * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework written in Swift.
  * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application.
  * [App-Update-Tracker](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
- * [ExtensionalSwift](https://github.com/4taras4/SwiftExtension) - Useful swift extensions in one place.
  * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
  * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
  * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types.
@@ -2860,8 +2856,6 @@ Most of these are paid services, some have free tiers.
 
 - [Apple's Swift Blog](https://developer.apple.com/swift/blog/)
 - [ASCIIwwdc](https://asciiwwdc.com/)
-- [BGR](https://bgr.com/ios-7/)
-- [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 - [Code Facebook](https://engineering.fb.com/category/ios/)
 - [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 - [iMore](https://www.imore.com/)
@@ -2871,7 +2865,6 @@ Most of these are paid services, some have free tiers.
 - [iOS8-day-by-day](https://github.com/ScottLogic/iOS8-day-by-day)
 - [iOS9-day-by-day](https://github.com/ScottLogic/iOS9-day-by-day)
 - [iOScreator](https://www.ioscreator.com/)
-- [Lifehacker](https://lifehacker.com/tag/ios)
 - [Mathew Sanders](http://mathewsanders.com/)
 - [Natasha The Robot](https://www.natashatherobot.com/)
 - [NSHipster](https://nshipster.com)
