@@ -1,0 +1,65 @@
+name: PR Quality Check
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - README.md
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR head
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run quality check
+        id: check
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          set +e
+          python .github/scripts/quality_check.py
+          echo "script_exit=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Comment on PR
+        if: always() && hashFiles('quality-report.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          # Replace any prior quality-check comment to avoid noise on resubmissions.
+          MARKER="<!-- awesome-ios-quality-check -->"
+          { echo "$MARKER"; cat quality-report.md; } > comment.md
+
+          EXISTING_ID=$(gh api "repos/$REPO/issues/$PR_NUMBER/comments" --paginate --jq \
+            "[.[] | select(.body | startswith(\"$MARKER\"))] | .[0].id // empty")
+
+          if [ -n "$EXISTING_ID" ]; then
+            gh api --method PATCH "repos/$REPO/issues/comments/$EXISTING_ID" \
+              -f body="$(cat comment.md)"
+          else
+            gh pr comment "$PR_NUMBER" --repo "$REPO" --body-file comment.md
+          fi
+
+      - name: Fail if any check failed
+        if: steps.check.outputs.script_exit != '0'
+        run: |
+          echo "::error::One or more added repositories failed the automated quality check."
+          exit 1
