@@ -568,6 +568,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
 - [Atlantis](https://github.com/ProxymanApp/atlantis) - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
 - [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
+- [CommentRelay](https://github.com/mikesilvers/commentrelay-sdk-ios) - Drop-in in-app feedback and bug reporting for iOS & macOS. Ready-made SwiftUI feedback UI in one line or a headless API; offline queueing with auto-retry, photo/video attachments, and server-side AI triage. 
 - [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
 - [DebugSwift](https://github.com/DebugSwift/DebugSwift) - A comprehensive toolkit designed to simplify and enhance the debugging process for iOS applications.
 - [DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured iOS App development assistant，30+ tools included. You deserve it.
