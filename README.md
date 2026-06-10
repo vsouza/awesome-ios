@@ -380,6 +380,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 - [AnyLint](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
 - [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 - [OCLint](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
+- [solid-like-a-rock](https://github.com/nenadvulic/solid-like-a-rock) - Architecture linter that enforces Clean Architecture and TCA import rules using SwiftSyntax.
 - [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 
 **[back to top](#contributing-and-collaborating)**
