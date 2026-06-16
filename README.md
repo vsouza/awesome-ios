@@ -221,6 +221,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
 - [Apple Review Guidelines](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
 - [Free App Store Optimization Tool](https://www.mobileaction.co) - Lets you track your App Store visibility in terms of keywords and competitors.
+- [Screenshot Resizer](https://screenshotresizer.com/) - Resize iPhone and iPad screenshots to App Store Connect sizes, add device frames and text, in the browser.
 
 **[back to top](#contributing-and-collaborating)**
 
