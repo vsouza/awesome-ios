@@ -2930,6 +2930,7 @@ Most of these are paid services, some have free tiers.
 - [Misen](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
 - [nef](https://github.com/bow-swift/nef) - A set of command line tools for Xcode Playground: lets you have compile-time verification of your documentation written as Xcode Playgrounds, generates markdown files, integration with Jekyll for building microsites and Carbon to export code snippets.
 - [Nomad](https://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute `.ipa`, verify In-App-Purchase receipt and more.
+- [OrbitKit](https://orbitkit.io/) - Generates and hosts the web URLs App Store Review requires (privacy policy, support page, data deletion, apple-app-site-association file) on your own domain.
 - [Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused code.
 - [Peek](https://github.com/shaps80/Peek) - Take a Peek at your application.
 - [Plank](https://github.com/pinterest/plank) - A tool for generating immutable model objects.
