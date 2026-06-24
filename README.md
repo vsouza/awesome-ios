@@ -1,19 +1,17 @@
 <div align="center">
     <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png?raw=true" alt="Awesome">
+    <br>
+    <p align="center">
+        <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+        <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy  Me a Coffee" src="buy_me_a_coffee.png" /></a>
+    </p>
+    <a href="http://github.com/Doloffer-g/guide">
+        <img src="sponsor_banner.png" alt="Sponsor">
+    </a>
 </div>
 
-<p align="center">
-    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-    <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
-</p>
 
-<p align="center">This project is supported by:
-    <a href="https://www.digitalocean.com/?utm_medium=opensource&utm_source=awesome-ios">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-  </a>
-<p>
 
-</p>
 
 ## Contributing and Collaborating
 
@@ -171,6 +169,14 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
     - [Other Xcode](#other-xcode)
 
 
+## 🔥 Premium Resources | Follow
+
+Check out our premium resources for further learning:
+- [Premium Guide](http://github.com/Doloffer-g/guide)
+
+<a href="http://github.com/Doloffer-g/guide">
+        <img src="sponsor_banner_2.png" alt="Sponsor">
+    </a>
 
 ## Analytics
 
@@ -1328,6 +1334,7 @@ Most of these are paid services, some have free tiers.
 - [awsome-ios-animation](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 - [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
 - [Curated-Resources-for-Learning-Swift](https://hackr.io/tutorials/learn-ios-swift) - A curated list of resources recommended by the developers.
+- [Doloffer Guide](github.com/Doloffer-g/guide) - DolOffer Official Affiliate & Creator Resources
 - [example-ios-apps](https://github.com/jogendra/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
 - [iOS-Learning-Materials](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
 
