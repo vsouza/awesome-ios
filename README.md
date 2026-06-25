@@ -227,6 +227,7 @@ Check out our premium resources for further learning:
 
 - [Apple Review Guidelines](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
 - [Free App Store Optimization Tool](https://www.mobileaction.co) - Lets you track your App Store visibility in terms of keywords and competitors.
+- [App Store Screenshot Sizes 2026](https://shotlingo.com/tools/app-store-screenshot-sizes) - Every iPhone, iPad, Watch, Mac, Apple TV and Vision Pro screenshot dimension in one sortable reference with copy-to-clipboard pixel values, JSON/CSV download, and a `Last verified against App Store Connect` stamp.
 
 **[back to top](#contributing-and-collaborating)**
 
