@@ -587,6 +587,7 @@ Check out our premium resources for further learning:
 - [Playbook](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
 - [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
 - [Scyther](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
+- [podium-mcp](https://github.com/hoainho/podium-mcp) - MCP server for iOS simulator and real device automation. 51 tools including simctl/devicectl lifecycle, native UI inspection, WebView DOM + network capture, and canvas/WebGL automation. Single stdio endpoint for AI agents.
 - [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
 - [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard.
 - [Xniffer](https://github.com/xmartlabs/Xniffer) - A swift network profiler built on top of URLSession.
