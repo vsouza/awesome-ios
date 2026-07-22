@@ -5,7 +5,7 @@
         <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
         <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy  Me a Coffee" src="buy_me_a_coffee.png" /></a>
     </p>
-    <a href="http://github.com/Doloffer-g/guide">
+    <a href="https://github.com/Doloffer-g/guide">
         <img src="sponsor_banner.png" alt="Sponsor">
     </a>
 </div>
@@ -172,9 +172,9 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 ## 🔥 Premium Resources | Follow
 
 Check out our premium resources for further learning:
-- [Premium Guide](http://github.com/Doloffer-g/guide)
+- [Premium Guide](https://github.com/Doloffer-g/guide)
 
-<a href="http://github.com/Doloffer-g/guide">
+<a href="https://github.com/Doloffer-g/guide">
         <img src="sponsor_banner_2.png" alt="Sponsor">
     </a>
 
@@ -187,7 +187,7 @@ Check out our premium resources for further learning:
 - [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 - [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 - [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
-- [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
+- [Embrace](https://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
 - [Emerge Tools](https://www.emergetools.com) - Prevent app size & performance regressions on every pull request, get automated insights on how to improve.
 - [Instabug](https://instabug.com) - In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging.
 - [Matomo](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
@@ -587,7 +587,7 @@ Check out our premium resources for further learning:
 - [Playbook](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
 - [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
 - [Scyther](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
-- [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
+- [Woodpecker](https://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
 - [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard.
 - [Xniffer](https://github.com/xmartlabs/Xniffer) - A swift network profiler built on top of URLSession.
 
@@ -617,7 +617,7 @@ Check out our premium resources for further learning:
 - [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
 - [Rome](https://github.com/tmspzz/Rome) - A cache tool for Carthage built frameworks.
 - [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
-- [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
+- [Xcode Maven](https://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -859,7 +859,7 @@ Check out our premium resources for further learning:
 *Auto Layout, UI frameworks and a gorgeous list of tools to simplify layout constructions*
 
 - [Anchorage](https://github.com/Rightpoint/Anchorage) - A collection of operators and utilities that simplify iOS layout code.
-- [Auto Layout Magic](http://akordadev.github.io/AutoLayoutMagic/) - Build 1 scene, let Auto Layout Magic generate the  constraints for you!  Scenes look great across all devices!
+- [Auto Layout Magic](https://akordadev.github.io/AutoLayoutMagic/) - Build 1 scene, let Auto Layout Magic generate the  constraints for you!  Scenes look great across all devices!
 - [BrickKit](https://github.com/wayfair/brickkit-ios) - With BrickKit, you can create complex and responsive layouts in a simple way. It's easy to use and easy to extend. Create your own reusable bricks and behaviors.
 - [Cartography](https://github.com/robb/Cartography) - A declarative Auto Layout DSL for Swift.
 - [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
@@ -1155,7 +1155,7 @@ Check out our premium resources for further learning:
 
 *Video players, editors and utilities for iOS video workflows.*
 
-- [AVAnimator](http://www.modejong.com/AVAnimator/) - An open source iOS native library that makes it easy to implement non-trivial video/audio enabled apps.
+- [AVAnimator](https://www.modejong.com/AVAnimator/) - An open source iOS native library that makes it easy to implement non-trivial video/audio enabled apps.
 - [AVPlayerViewController-Subtitles](https://github.com/mhergon/AVPlayerViewController-Subtitles) - AVPlayerViewController-Subtitles is a library to display subtitles on iOS. It's built as a Swift extension and it's very easy to integrate.
 - [BMPlayer](https://github.com/BrikerMan/BMPlayer) - Video player in swift3 and swift2 for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide.
 - [ios-360-videos](https://github.com/NYTimes/ios-360-videos) - NYT360Video plays 360-degree video streamed from an AVPlayer.
@@ -1244,8 +1244,8 @@ Also see [push notifications](#push-notifications)
 
 *Curated newsletters to keep up with the latest iOS and Swift news.*
 
-- [AwesomeiOS Weekly](http://weekly.awesomeios.com) - AwesomeiOS Weekly.
-- [Indie iOS Focus Weekly](http://indieiosfocus.com/) - Looking for the best iOS dev links, tutorials, & tips beyond the usual news? Curated by Chris Beshore. Published every Thursday.
+- [AwesomeiOS Weekly](https://weekly.awesomeios.com) - AwesomeiOS Weekly.
+- [Indie iOS Focus Weekly](https://indieiosfocus.com/) - Looking for the best iOS dev links, tutorials, & tips beyond the usual news? Curated by Chris Beshore. Published every Thursday.
 - [Indie Watch](https://indie.watch/) - A weekly newsletter featuring the best apps made by indie iOS developers.
 - [iOS Cookies Newsletter](https://us11.campaign-archive.com/home/?u=cd1f3ed33c6527331d82107ba&id=532dc7fb64) - A weekly digest of new iOS libraries written in Swift.
 - [iOS Dev Tools Weekly](https://iosdev.tools) - The greatest iOS development tools, including websites, desktop and mobile apps, and back-end services.
@@ -1368,7 +1368,7 @@ Most of these are paid services, some have free tiers.
 - [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift.
 - [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
 - [JAYSON](https://github.com/muukii/JAYSON) - Strict and Scalable JSON library.
-- [jsoncafe.com](http://www.jsoncafe.com/) - Online Template driven Model Class Generator from JSON.
+- [jsoncafe.com](https://www.jsoncafe.com/) - Online Template driven Model Class Generator from JSON.
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 - [JSONModel](https://github.com/JSONModel/JSONModel) - Magical Data Modeling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
 - [Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch.
@@ -1465,9 +1465,9 @@ Most of these are paid services, some have free tiers.
 
 *Podcasts worth following to keep learning about iOS and Swift.*
 
-- [App Story](http://www.appstorypodcast.com)
+- [App Story](https://www.appstorypodcast.com)
 - [Consult](https://consultpodcast.com/#_=_)
-- [Core Intuition](http://coreint.org/)
+- [Core Intuition](https://coreint.org/)
 - [Debug](https://www.imore.com/debug)
 - [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 - [iPhreaks](https://devchat.tv/iphreaks/)
@@ -1476,7 +1476,7 @@ Most of these are paid services, some have free tiers.
 - [Runtime](https://spec.fm/podcasts/runtime)
 - [Stacktrace](https://stacktracepodcast.fm)
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
-- [Swift Playhouse](http://www.swiftplayhouse.com/)
+- [Swift Playhouse](https://www.swiftplayhouse.com/)
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 - [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
 - [Under the Radar](https://www.relay.fm/radar)
@@ -1512,7 +1512,7 @@ Most of these are paid services, some have free tiers.
 *Frameworks and tools designed to accelerate day-to-day iOS development.*
 
 - [Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) - Playgrounds for Objective-C for extremely fast prototyping / learning.
-- [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
+- [STV Framework](https://www.sensiblecocoa.com) - Native visual iOS development.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -1705,7 +1705,7 @@ Most of these are paid services, some have free tiers.
 - [Kitura](https://github.com/IBM-Swift/Kitura) - A Swift Web Framework and HTTP Server.
 - [Lightning](https://github.com/skylab-inc/Lightning) - A Swift Multiplatform Web and Networking Framework.
 - [NetworkObjects](https://github.com/colemancda/NetworkObjects) - Swift backend / server framework (Pure Swift, Supports Linux).
-- [Noze.io](http://noze.io) - Evented I/O streams a.k.a. Node.js for Swift.
+- [Noze.io](https://noze.io) - Evented I/O streams a.k.a. Node.js for Swift.
 - [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
 - [Redis](https://github.com/vapor/redis) - Pure-Swift Redis client implemented from the original protocol spec. macOS + Linux compatible.
 - [smoke-framework](https://github.com/amzn/smoke-framework) - A light-weight server-side service framework written in the Swift programming language.
@@ -1768,13 +1768,13 @@ Most of these are paid services, some have free tiers.
 
 *Tools for automating interaction-based tests against iOS user interfaces.*
 
-- [appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
+- [appium](https://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps.
 - [AutoMate](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 - [Bluepill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine.
 - [Cucumber](https://cucumber.io/) - Behavior driver development for iOS.
 - [EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework.
 - [Flawless App](https://flawlessapp.io/) - tool for visual quality check of mobile app in a real-time. It compares initial design with the actual implementation right inside iOS simulator.
-- [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any iOS native, hybrid, or mobile web application using Selenium / WebDriver.
+- [ios-driver](https://ios-driver.github.io/ios-driver/index.html) - Test any iOS native, hybrid, or mobile web application using Selenium / WebDriver.
 - [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
 - [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) - Write unit tests which test the layout of a view in multiple configurations.
 - [Marathon Runner](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
@@ -1991,7 +1991,7 @@ Most of these are paid services, some have free tiers.
 - [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView.
 - [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView.
 - [Animo](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers.
-- [AppAnimations](http://www.appanimations.com) - Collection of iOS animations to inspire your next project.
+- [AppAnimations](https://www.appanimations.com) - Collection of iOS animations to inspire your next project.
 - [Cheetah](https://github.com/suguru/Cheetah) - Easy animation library on iOS.
 - [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView.
 - [CurryFire](https://github.com/devinross/curry-fire) - A framework for creating unique animations.
@@ -2411,7 +2411,7 @@ Most of these are paid services, some have free tiers.
 - [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - iOS Simple Cool PullToRefresh Library. It is written in pure swift.
 - [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl) - Simple refresh control for iOS inspired by [concept](https://dribbble.com/shots/2242263--1-Pull-to-refresh-Freebie-Weather-Concept).
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout, written in Swift
-- [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
+- [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. https://samvermette.com/314
 - [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - Add PullToRefresh using animated GIF to any scrollView with just simple code
 
 **[back to top](#contributing-and-collaborating)**
@@ -2872,14 +2872,14 @@ Most of these are paid services, some have free tiers.
 - [Code Facebook](https://engineering.fb.com/category/ios/)
 - [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
 - [iMore](https://www.imore.com/)
-- [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
+- [iOS Dev Nuggets](https://hboon.com/iosdevnuggets/)
 - [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
 - [iOS Programming Subreddit](https://www.reddit.com/r/iOSProgramming/)
 - [iOS8-day-by-day](https://github.com/ScottLogic/iOS8-day-by-day)
 - [iOS9-day-by-day](https://github.com/ScottLogic/iOS9-day-by-day)
 - [iOScreator](https://www.ioscreator.com/)
 - [Lifehacker](https://lifehacker.com/tag/ios)
-- [Mathew Sanders](http://mathewsanders.com/)
+- [Mathew Sanders](https://mathewsanders.com/)
 - [Natasha The Robot](https://www.natashatherobot.com/)
 - [NSHipster](https://nshipster.com)
 - [Objc.io](https://www.objc.io/)
@@ -2982,8 +2982,8 @@ Most of these are paid services, some have free tiers.
 - [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) - A List of Awesome Swift Playgrounds!
 - [Big Nerd Ranch](https://www.bignerdranch.com/blog/category/ios/)
 - [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel.
-- [Cocoa Dev Central](http://cocoadevcentral.com)
-- [Cocoa with Love](http://www.cocoawithlove.com/)
+- [Cocoa Dev Central](https://cocoadevcentral.com)
+- [Cocoa with Love](https://www.cocoawithlove.com/)
 - [Code with Chris](https://codewithchris.com/)
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 - [DaddyCoding](https://daddycoding.com/) - iOS Tutorials ranging from beginners to advance.
