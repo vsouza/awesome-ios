@@ -2910,6 +2910,7 @@ Most of these are paid services, some have free tiers.
 
 - [abandoned-strings](https://github.com/ijoshsmith/abandoned-strings) - Command line program that detects unused resource strings in an iOS or macOS application.
 - [AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
+- [App Icon Sizes Reference](https://shotlingo.com/tools/app-icon-sizes) - Free, no-signup lookup table for every iOS, watchOS, macOS, and Android icon size and slot, including the Android adaptive-icon safe zone. JSON/CSV export.
 - [appledoc](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
 - [AssetChecker 👮](https://github.com/freshOS/AssetChecker) - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious.
 - [Attabench](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
