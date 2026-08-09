@@ -3066,3 +3066,6 @@ Most of these are paid services, some have free tiers.
 - [Xcode Keymap for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings) - This extension ports popular Xcode keyboard shortcuts to Visual Studio Code.
 
 **[back to top](#contributing-and-collaborating)**
+
+
+* [VoxFlow](https://github.com/ameerhmz/VoxFlow) - Native, 100% on-device AI voice dictation app for macOS built with Apple Speech & FoundationModels.
