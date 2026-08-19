@@ -2425,6 +2425,7 @@ Most of these are paid services, some have free tiers.
 - [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) - Simple star rating view for iOS written in Objective-C
 - [StarryStars](https://github.com/peterprokop/StarryStars) - StarryStars is iOS GUI library for displaying and editing ratings
 - [TTGEmojiRate](https://github.com/zekunyan/TTGEmojiRate) - An emoji-liked rating view for iOS, implemented in Swift.
+- [SwiftUIRatingPopups](https://github.com/aayush-gandhi-ios/SwiftUIRatingPopups) - 30+ plug-and-play rating & review popups in SwiftUI with 15 5-star boosters for iOS & macOS.
 
 **[back to top](#contributing-and-collaborating)**
 
