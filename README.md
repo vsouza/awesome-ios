@@ -1240,6 +1240,7 @@ Also see [push notifications](#push-notifications)
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Subscribe to a hand-picked round up of the best iOS development links every week. Free.
 - [iOS Goodies](https://ios-goodies.com) - Weekly iOS newsletter.
 - [iOS Trivia Weekly](https://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b) - Three challenging questions about iOS development every Wednesday.
+- [The iOS Weekly Brief](https://iosweeklybrief.com) - A weekly newsletter with Must/Quick Read picks, a Toolbox section, the iOS job market, and upcoming conferences, each with commentary on why it matters. Curated by Vlad Khambir.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
 - [raywenderlich.com Weekly](https://www.raywenderlich.com/newsletter) - sign up to receive the latest tutorials from raywenderlich.com each week.
 - [Server-Side Swift Weekly](https://www.serverswift.tech) - A weekly newsletter with the best links related to server-side Swift and cross-platform developer tools. Curated by [@maxdesiatov](https://twitter.com/maxdesiatov)
