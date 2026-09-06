@@ -1760,6 +1760,7 @@ Most of these are paid services, some have free tiers.
 - [AutoMate](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 - [Bluepill](https://github.com/linkedin/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine.
 - [Cucumber](https://cucumber.io/) - Behavior driver development for iOS.
+- [Drengr Runner](https://github.com/SharminSirajudeen/drengr-runner) - Drive an iOS simulator over HTTP from any language. A 479-line XCTest target that hosts a loopback HTTP server inside a UI test bundle, replacing WebDriverAgent on simulators.
 - [EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework.
 - [Flawless App](https://flawlessapp.io/) - tool for visual quality check of mobile app in a real-time. It compares initial design with the actual implementation right inside iOS simulator.
 - [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any iOS native, hybrid, or mobile web application using Selenium / WebDriver.
