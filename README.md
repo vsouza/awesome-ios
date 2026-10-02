@@ -1640,6 +1640,7 @@ Most of these are paid services, some have free tiers.
 - [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication.
 - [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
 - [LTHPasscodeViewController](https://github.com/rolandleth/LTHPasscodeViewController) - An iOS passcode lockscreen replica (from Settings), with TouchID and simple (variable length) / complex support.
+- [SecureBankKit](https://github.com/DeepakPal25/SecureBankKit) - Security toolkit for banking-style iOS apps: biometric auth, keychain, session management, jailbreak detection, and secure logging.
 - [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 - [simple-touch](https://github.com/simple-machines/simple-touch) - Very simple swift wrapper for Biometric Authentication Services (Touch ID) on iOS.
 - [Smile-Lock](https://github.com/recruit-lifestyle/Smile-Lock) - A library for make a beautiful Passcode Lock View.
