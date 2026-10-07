@@ -642,6 +642,7 @@ Check out our premium resources for further learning:
 - [Screenplay](https://screenplay.dev) - Instant rollbacks and canary deployments for iOS.
 - [ScreenshotFramer](https://github.com/IdeasOnCanvas/ScreenshotFramer) - With Screenshot Framer you can easily create nice-looking and localized App Store Images.
 - [Semaphore](https://semaphoreci.com/product/ios) - CI/CD service which makes it easy to build, test and deploy applications for any Apple device. iOS support is fully integrated in Semaphore 2.0, so you can use the same powerful CI/CD pipeline features for iOS as you do for Linux-based development.
+- [Shotlingo](https://shotlingo.com/tools/app-store-screenshot-sizes) - Free App Store and Google Play screenshot size reference, plus a tool to localize and render screenshots in 40+ languages.
 - [snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot) - Automate taking localized screenshots of your iOS app on every device.
 - [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
 - [watchbuild](https://github.com/fastlane/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
