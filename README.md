@@ -1325,6 +1325,7 @@ Most of these are paid services, some have free tiers.
 - [Doloffer Guide](github.com/Doloffer-g/guide) - DolOffer Official Affiliate & Creator Resources
 - [example-ios-apps](https://github.com/jogendra/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
 - [iOS-Learning-Materials](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
+- [MotionBook](https://github.com/younatics/MotionBook) - Catalog of open-source iOS motion, transition and UI libraries with live demos in a free App Store app, a machine-readable catalog.json and llms.txt, refreshed weekly.
 
 **[back to top](#contributing-and-collaborating)**
 
