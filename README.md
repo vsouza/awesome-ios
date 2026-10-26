@@ -1609,6 +1609,7 @@ Most of these are paid services, some have free tiers.
 - [Stripe](https://github.com/stripe/stripe-ios) Stripe bindings for iOS and macOS.
 - [Tumblr](https://github.com/tumblr/TMTumblrSDK) Library for easily integrating Tumblr data into your iOS or macOS application.
 - [Venmo](#payments)
+- [WishKit](https://github.com/wishkit/wishkit-ios) - In-app feature request and feedback board where users submit and vote on features.
 
 **[back to top](#contributing-and-collaborating)**
 
