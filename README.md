@@ -1766,6 +1766,7 @@ Most of these are paid services, some have free tiers.
 - [Kif](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
 - [LayoutTest-iOS](https://github.com/linkedin/LayoutTest-iOS) - Write unit tests which test the layout of a view in multiple configurations.
 - [Marathon Runner](https://github.com/MarathonLabs/marathon) - Fast, platform-independent test runner focused on performance and stability execute tests.
+- [mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - MCP server and CLI that drives a real iPhone through macOS iPhone Mirroring to run AI-authored, replayable UI tests without Developer Mode, Xcode or WebDriverAgent.
 - [robotframework-appiumlibrary](https://github.com/serhatbolsu/robotframework-appiumlibrary) - AppiumLibrary is an appium testing library for RobotFramework.
 - [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
 - [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - How do I test this with UI Testing?
