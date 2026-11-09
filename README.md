@@ -1479,7 +1479,7 @@ Most of these are paid services, some have free tiers.
 - [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
 - [swift5-module-template](https://github.com/fulldecent/swift5-module-template) - A starting point for any Swift 5 module that you want other people to include in their projects.
 - [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
-- [Tuist](https://github.com/tuist/tuist) - A tool to create, maintain and interact with Xcode projects at scale.
+- [Tuist](https://github.com/tuist/tuist) - Build infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents.
 - [xcproj](https://github.com/tuist/xcodeproj) - Read and update Xcode projects.
 
 **[back to top](#contributing-and-collaborating)**
