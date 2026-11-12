@@ -215,6 +215,7 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
 - [Apple Review Guidelines](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
 - [Free App Store Optimization Tool](https://www.mobileaction.co) - Lets you track your App Store visibility in terms of keywords and competitors.
+- [App Store Localizer](https://asolocalization.com) - Paste a public App Store URL to get translated screenshots plus localized metadata per locale.
 
 **[back to top](#contributing-and-collaborating)**
 
